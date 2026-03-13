@@ -148,6 +148,24 @@ El riesgo #1 es que un gobierno futuro diga "la emergencia justifica gastar el f
 
 ## Resumen Visual
 
+```mermaid
+xychart-beta
+    title "Transición Fiscal: % de ingreso petrolero al fondo vs. presupuesto"
+    x-axis ["Año 1", "Año 3", "Año 5", "Año 7", "Año 10", "Año 15"]
+    y-axis "Porcentaje" 0 --> 100
+    bar [0, 20, 40, 40, 65, 100]
+    line [100, 80, 60, 60, 35, 0]
+```
+
+```mermaid
+xychart-beta
+    title "Fondo acumulado vs. presupuesto petrolero (USD miles de M)"
+    x-axis ["Año 1", "Año 3", "Año 5", "Año 7", "Año 10", "Año 15"]
+    y-axis "USD miles de millones" 0 --> 310
+    bar [0, 7, 30, 65, 130, 300]
+    line [14, 14.4, 13.2, 15.6, 10.5, 0]
+```
+
 | Año | Ingreso petrolero | → Presupuesto | → Fondo | Fondo acumulado |
 |-----|-------------------|---------------|---------|-----------------|
 | 1 | USD 14.000 M | USD 14.000 M | USD 0 | USD 0 |

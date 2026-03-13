@@ -7,6 +7,14 @@ title: Pensiones y Seguridad Social
 
 > Un país que no cuida a sus jubilados no merece un fondo soberano.
 
+```mermaid
+xychart-beta
+    title "Pensión mensual: Venezuela vs. región (USD)"
+    x-axis ["Venezuela actual", "Colombia", "Perú", "Chile (PGU)", "Uruguay", "Venezuela meta Año 8"]
+    y-axis "USD/mes" 0 --> 360
+    bar [35, 110, 85, 200, 350, 200]
+```
+
 ## Diagnóstico: El Colapso
 
 El salario mínimo de Venezuela está congelado en 130 bolívares desde marzo 2022. Los pensionados reciben el equivalente a [USD 3,50–7/mes](https://misionverdad.com/english/venezuelas-minimum-comprehensive-income-announcements-thorough-reading) en pensión base más bonos de "guerra económica" de ~USD 25–70/mes. Total: **~USD 30–75/mes** para un jubilado.
@@ -42,6 +50,14 @@ En mayo 2024, el gobierno promulgó la ["Ley para la Protección de las Pensione
 | 5 M jubilados × USD 200/mes | USD 12.000 M/año | Rendimientos del fondo soberano (año 10+) |
 
 ### Transición
+
+```mermaid
+xychart-beta
+    title "Pensión básica universal — Transición (USD/mes)"
+    x-axis ["Hoy", "Mes 1", "Año 1-3", "Año 4-7", "Año 8+"]
+    y-axis "USD/mes" 0 --> 220
+    bar [35, 50, 100, 150, 200]
+```
 
 | Fase | Pensión básica | Fuente | Plazo |
 |------|---------------|--------|-------|

@@ -5,6 +5,23 @@ title: Proyecciones
 
 # Proyecciones Consolidadas (Base USD 60/barril)
 
+```mermaid
+xychart-beta
+    title "Crecimiento del PIB (USD miles de M)"
+    x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
+    y-axis "USD miles de millones" 0 --> 500
+    bar [83, 140, 250, 425]
+```
+
+```mermaid
+xychart-beta
+    title "Fondo Soberano vs. Dividendo/persona"
+    x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
+    y-axis "USD miles de millones (fondo)" 0 --> 400
+    bar [0, 30, 115, 325]
+    line [0, 20, 50, 162]
+```
+
 | Indicador | Hoy | Año 5 | Año 10 | Año 15 |
 |-----------|-----|--------|---------|---------|
 | Producción | ~1 M bpd | 1,5–2 M | 2–2,5 M | 2,5–3 M |
@@ -55,6 +72,14 @@ Aporte al fondo = 30% × USD 14.372 M = USD 4.312 M/año
 | **Base** | **USD 60** | **USD 22,50** | **USD 14.372 M** | **USD 18.484 M** | **USD 160.000–220.000 M** | **USD 22–30** |
 | **Favorable** | USD 70 | USD 32,50 | USD 20.759 M | USD 26.699 M | USD 250.000–340.000 M | USD 34–47 |
 | **Boom** | USD 80 | USD 42,50 | USD 27.147 M | USD 34.914 M | USD 350.000–470.000 M | USD 48–65 |
+
+```mermaid
+xychart-beta
+    title "Fondo Soberano Año 15 por escenario de precio (USD miles de M)"
+    x-axis ["$40 Crisis", "$50 Bajo", "$60 Base", "$70 Favorable", "$80 Boom"]
+    y-axis "USD miles de millones" 0 --> 500
+    bar [17, 95, 190, 295, 410]
+```
 
 :::danger Escenarios < USD 50: Zona de Riesgo
 A **USD 40/barril**, el margen neto colapsa a USD 2,50/barril — apenas cubre costos operativos. El fondo soberano crece mínimamente y los dividendos ciudadanos son simbólicos. A este precio:

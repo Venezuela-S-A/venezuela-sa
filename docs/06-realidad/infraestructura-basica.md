@@ -98,6 +98,24 @@ Venezuela importa >70% de sus alimentos pese a tener los Llanos — una de las l
 
 ## Resumen de Inversión en Infraestructura
 
+```mermaid
+xychart-beta
+    title "Inversión en infraestructura por sector (USD miles de M — rango inferior vs. superior)"
+    x-axis ["Vivienda", "Transporte", "Agua", "Telecom", "Agricultura"]
+    y-axis "USD miles de millones" 0 --> 32
+    bar [15, 15, 5, 3, 3.5]
+    bar [30, 30, 9, 5, 7]
+```
+
+```mermaid
+pie title Distribución de inversión en infraestructura (rango inferior)
+    "Vivienda" : 15
+    "Transporte" : 15
+    "Agua y saneamiento" : 5
+    "Telecomunicaciones" : 3
+    "Agricultura" : 3.5
+```
+
 | Sector | Inversión | Plazo |
 |--------|-----------|-------|
 | Telecomunicaciones | USD 3.000–5.000 M | 5 años |

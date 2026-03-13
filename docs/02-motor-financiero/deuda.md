@@ -9,6 +9,16 @@ title: Deuda
 
 ## Composición de la Deuda
 
+```mermaid
+pie title Composición de la Deuda (USD miles de M)
+    "Bonos soberanos" : 30
+    "Bonos PDVSA" : 30
+    "Intereses acumulados" : 40
+    "Reclamos ICSID" : 19
+    "China bilateral" : 11
+    "Rusia bilateral" : 4
+```
+
 [Default desde noviembre 2017](https://www.cnbc.com/2026/01/04/venezuelas-billions-in-distressed-debt-who-is-in-line-to-collect.html). Deuda total: **USD 150–170.000 M**. Ratio deuda/PIB: ~200% ([FMI](https://www.imf.org)).
 
 | Tipo | Monto Estimado | Tenedor | Estado |
@@ -36,6 +46,14 @@ Un bono PDVSA 2020 está garantizado con la participación mayoritaria en [Citgo
 A bonos cotizando a 27–32 centavos, un haircut del 50% con cupón del 4,4% representa un upside significativo para los tenedores actuales — incentivo para participar.
 
 ## Lecciones de Reestructuraciones Anteriores
+
+```mermaid
+xychart-beta
+    title "Haircut en reestructuraciones históricas (% NPV)"
+    x-axis ["Argentina 2005", "Grecia 2012", "Venezuela (prop.)", "Argentina 2020", "Ecuador 2020"]
+    y-axis "% Haircut NPV" 0 --> 80
+    bar [75, 62, 50, 45, 9]
+```
 
 | País | Año | Deuda | Haircut (NPV) | Instrumento clave | Resultado |
 |------|-----|-------|---------------|-------------------|-----------|

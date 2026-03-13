@@ -17,6 +17,23 @@ El fondo noruego: [USD 2,2 T a fines de 2025](https://www.nbim.no/en/investments
 
 ## Proyección a 15 Años (USD 60/barril)
 
+```mermaid
+xychart-beta
+    title "Crecimiento del Fondo Soberano (USD miles de M)"
+    x-axis ["Año 1", "Año 3", "Año 5", "Año 7", "Año 10", "Año 12", "Año 15"]
+    y-axis "USD miles de millones" 0 --> 400
+    bar [0, 12, 30, 55, 115, 180, 325]
+    line [0, 12, 30, 55, 115, 180, 325]
+```
+
+```mermaid
+xychart-beta
+    title "Comparación Fondos Soberanos (USD miles de M, 2025)"
+    x-axis ["Noruega", "Abu Dhabi", "Kuwait", "Arabia Saudí", "Singapur GIC", "Venezuela Año 15"]
+    y-axis "USD miles de millones" 0 --> 2300
+    bar [2200, 1100, 900, 925, 800, 325]
+```
+
 | Fase | Producción | Aporte Anual | Valor Acumulado |
 |------|-----------|-------------|----------------|
 | Años 1–3 | 1,1–1,4 M bpd | USD 3–5.000 M | USD 10–15.000 M |

@@ -5,6 +5,34 @@ title: Inversión y Fuentes
 
 # Inversión Total: USD 550.000–750.000 M en 15 Años
 
+## Distribución de la Inversión
+
+```mermaid
+pie title Inversión por Componente (USD miles de millones — rango inferior)
+    "Petróleo (3M bpd)" : 183
+    "Deuda reestructurada" : 75
+    "Fondo soberano" : 50
+    "Infraestructura básica" : 41.5
+    "Electricidad" : 15
+    "Educación" : 15
+    "Salud" : 10
+    "Data centers" : 5
+    "Seguridad y justicia" : 5
+    "Sistema financiero" : 4
+    "Programa retorno" : 0.5
+```
+
+```mermaid
+xychart-beta
+    title "Inversión por componente (USD miles de M — rango inferior vs. superior)"
+    x-axis ["Petróleo", "Deuda", "Fondo Sob.", "Infraestr.", "Electric.", "Educación", "Salud", "Seguridad", "Financiero", "Data Ctr."]
+    y-axis "USD miles de millones" 0 --> 200
+    bar [183, 75, 50, 41.5, 15, 15, 10, 5, 4, 5]
+    bar [183, 85, 100, 81, 25, 25, 20, 8, 10, 10]
+```
+
+## Detalle por Componente
+
 | Componente | Inversión | Fuente | Prioridad |
 |-----------|-----------|--------|-----------|
 | Petróleo (3M bpd) | USD 183.000 M | [Rystad, ene. 2026](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/) | CRÍTICA |
@@ -26,6 +54,26 @@ El rango inferior asume ejecución eficiente con participación privada signific
 
 ## Fuentes de Capital
 
+```mermaid
+pie title Fuentes de Financiamiento (USD miles de M — rango inferior)
+    "Forward (adelantos)" : 150
+    "Majors petroleras (JVs)" : 30
+    "Multilaterales (FMI/BM)" : 20
+    "BigTech" : 5
+    "Diáspora directa" : 3
+    "Bonos ciudadanos" : 1.5
+    "Remesas redirigidas" : 1
+```
+
+```mermaid
+xychart-beta
+    title "Fuentes de capital (USD miles de M — rango inferior vs. superior)"
+    x-axis ["Forwards", "Majors", "Multilat.", "BigTech", "Diáspora", "Bonos Ciud.", "Remesas"]
+    y-axis "USD miles de millones" 0 --> 320
+    bar [150, 30, 20, 5, 3, 1.5, 1]
+    bar [300, 50, 40, 10, 8, 3, 2]
+```
+
 | Fuente | Monto | Mecanismo |
 |--------|-------|-----------|
 | Forward (adelantos) | USD 150–300.000 M | 20% reservas a USD 60, adelanto 20–25% |
@@ -35,3 +83,20 @@ El rango inferior asume ejecución eficiente con participación privada signific
 | Diáspora directa | USD 3.000–8.000 M | 5% de 8M × USD 2–5K |
 | Remesas redirigidas | USD 1–2.000 M/año | Plataforma modelo M-Pesa |
 | BigTech | USD 5–10.000 M | AWS, Google, Microsoft |
+
+## Comparación: Venezuela vs. Reconstrucciones Históricas
+
+```mermaid
+xychart-beta
+    title "Inversión total en reconstrucciones nacionales (USD miles de M, ajustado a 2025)"
+    x-axis ["Plan Marshall (Europa)", "Reunif. Alemana", "Corea del Sur (60-90)", "Venezuela S.A."]
+    y-axis "USD miles de millones" 0 --> 800
+    bar [180, 750, 350, 550]
+```
+
+| Programa | Inversión | Plazo | Resultado |
+|----------|-----------|-------|-----------|
+| Plan Marshall (Europa) | ~USD 180.000 M (ajustado) | 4 años | Reconstrucción post-guerra |
+| Reunificación Alemana | ~USD 750.000 M | 20 años | PIB Este creció 250% |
+| Corea del Sur (1960–90) | ~USD 350.000 M | 30 años | De USD 79 a USD 6.500 PIB/cápita |
+| **Venezuela S.A.** | **USD 550–750.000 M** | **15 años** | **Meta: PIB/cápita USD 5.000→15.000** |

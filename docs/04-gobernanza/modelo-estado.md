@@ -156,6 +156,23 @@ Chile ISAPRE cubre solo al [~17% de la población](https://www.supersalud.gob.cl
 
 ### ¿Cuánto Recauda Este Modelo?
 
+```mermaid
+xychart-beta
+    title "Recaudación tributaria proyectada (USD miles de M)"
+    x-axis ["Año 3", "Año 7", "Año 15"]
+    y-axis "USD miles de millones" 0 --> 45
+    bar [10, 20, 41]
+    line [15, 25, 45]
+```
+
+```mermaid
+xychart-beta
+    title "Composición tributaria — Año 15 (USD miles de M)"
+    x-axis ["IVA 12%", "Renta Personas 15%", "Renta Empresas 15%", "Propiedad + otros"]
+    y-axis "USD miles de millones" 0 --> 15
+    bar [14, 12, 10, 5]
+```
+
 | Fuente tributaria | Año 3 | Año 7 | Año 15 |
 |-------------------|-------|-------|--------|
 | Renta personas (15% flat) | USD 3.000 M | USD 5.500 M | USD 12.000 M |
@@ -174,6 +191,22 @@ Venezuela bajo Maduro cobra [15% de impuesto sobre nómina](https://central-law.
 ---
 
 ## Comparación: Modelos de Estado Eficiente
+
+```mermaid
+xychart-beta
+    title "Gasto público como % del PIB — Comparación"
+    x-axis ["Singapur", "Venezuela meta", "Georgia", "Chile", "Estonia", "OECD prom."]
+    y-axis "% del PIB" 0 --> 45
+    bar [17, 18, 29, 27, 39, 41]
+```
+
+```mermaid
+xychart-beta
+    title "Impuesto corporativo — Comparación (%)"
+    x-axis ["Venezuela meta", "Georgia", "Singapur", "Estonia", "Chile", "Argentina"]
+    y-axis "Tasa %" 0 --> 35
+    bar [15, 15, 17, 20, 27, 35]
+```
 
 | Indicador | Singapur | Estonia | Georgia | Chile | Venezuela (meta) |
 |-----------|----------|---------|---------|-------|-----------------|

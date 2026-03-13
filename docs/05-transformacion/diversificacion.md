@@ -110,6 +110,26 @@ Llanos: tierras fértiles subutilizadas + agua del Orinoco. Venezuela importa >7
 
 ## Resumen: Contribución al PIB (Meta Año 15)
 
+```mermaid
+pie title Composición del PIB — Año 15 (meta)
+    "Petróleo" : 30
+    "Otros servicios" : 15
+    "Turismo" : 7
+    "Data centers / Tech" : 5
+    "Gas natural" : 4
+    "Petroquímica" : 4
+    "Agroindustria" : 3
+    "Renovables" : 1
+```
+
+```mermaid
+xychart-beta
+    title "Ingresos anuales por motor (USD miles de M — Año 15)"
+    x-axis ["Petróleo", "Otros Serv.", "Turismo", "Tech/DC", "Petroquím.", "Gas", "Agro", "Renov."]
+    y-axis "USD miles de millones" 0 --> 55
+    bar [47, 15, 6, 5, 4.5, 4, 3.5, 0.75]
+```
+
 | Motor | Ingreso Anual Est. | % PIB (meta) |
 |-------|-------------------|-------------|
 | Petróleo | USD 40.000–55.000 M | 25–35% |
@@ -120,6 +140,16 @@ Llanos: tierras fértiles subutilizadas + agua del Orinoco. Venezuela importa >7
 | Agroindustria | USD 2.000–5.000 M | 2–4% |
 | Renovables (exportación) | USD 500–1.000 M | <1% |
 | Otros servicios | USD 10.000–20.000 M | 10–15% |
+
+### Transición: De Petroestado a Economía Diversificada
+
+```mermaid
+xychart-beta
+    title "Petróleo como % de exportaciones — Reducción gradual"
+    x-axis ["Hoy", "Año 3", "Año 5", "Año 7", "Año 10", "Año 15"]
+    y-axis "% de exportaciones" 0 --> 100
+    line [95, 85, 75, 60, 45, 32]
+```
 
 :::tip Meta de diversificación
 Petróleo pasa del **95% actual a <35% de exportaciones**. Los 6 motores no-petroleros generan >USD 25.000 M/año combinados. Esta es la diferencia entre una petroeconomía frágil y una economía diversificada.

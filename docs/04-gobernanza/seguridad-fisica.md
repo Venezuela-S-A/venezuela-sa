@@ -7,6 +7,14 @@ title: Seguridad Física
 
 > Ningún BigTech pone un data center donde hay riesgo de secuestro. Ningún turista visita un país con la tasa de homicidios más alta del continente.
 
+```mermaid
+xychart-beta
+    title "Índice de criminalidad 2025 (Numbeo) — Más alto = peor"
+    x-axis ["Venezuela", "Papúa N.G.", "Haití", "Sudáfrica", "Honduras", "Colombia", "Chile meta"]
+    y-axis "Crime Index" 0 --> 85
+    bar [80.7, 80.3, 78.9, 75.5, 73.2, 60.1, 35]
+```
+
 ## Diagnóstico: La Realidad
 
 Venezuela tiene el [índice de criminalidad más alto del mundo](https://worldpopulationreview.com/country-rankings/crime-rate-by-country) (80,7 en el Numbeo Crime Index, 2025), por encima de Papúa Nueva Guinea (80,3) y Haití (78,9).
@@ -64,6 +72,14 @@ Georgia reformó **reemplazando** la policía con profesionales bien pagados (mo
 **Inversión total estimada:** USD 5.000–8.000 M en 7 años
 
 ### Meta de Resultado
+
+```mermaid
+xychart-beta
+    title "Meta reducción de homicidios (/100k habitantes)"
+    x-axis ["Hoy", "Año 3", "Año 7", "Año 15"]
+    y-axis "Homicidios /100k" 0 --> 40
+    line [33, 20, 10, 5]
+```
 
 | Indicador | Hoy | Año 3 | Año 7 | Año 15 |
 |-----------|-----|-------|-------|--------|

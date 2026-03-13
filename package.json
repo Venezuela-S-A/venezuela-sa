@@ -1,0 +1,32 @@
+{
+  "name": "venezuela-sa",
+  "version": "6.0.0",
+  "description": "Plan de reconstrucción nacional donde cada venezolano es accionista. Petróleo como combustible, tecnología como destino.",
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "deploy": "docusaurus deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/venezuela-sa/venezuela-sa.git"
+  },
+  "keywords": [
+    "venezuela",
+    "reconstruction",
+    "sovereign-fund",
+    "startup-nation",
+    "diaspora",
+    "open-source",
+    "transparency"
+  ],
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "@docusaurus/core": "^3.0.0",
+    "@docusaurus/preset-classic": "^3.0.0",
+    "@mdx-js/react": "^3.0.0",
+    "prism-react-renderer": "^2.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

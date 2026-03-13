@@ -34,7 +34,7 @@ Venezuela posee [303.000 millones de barriles](https://www.opec.org/assets/asset
 | Precio base del plan | **USD 60/barril** | [EIA STEO, mar. 2026](https://www.eia.gov/outlooks/steo/) |
 | Diáspora | 7,9 M personas | [UNHCR, dic. 2025](https://www.unhcr.org/us/emergencies/venezuela-situation) |
 | Fondo Noruega (referencia) | USD 2,2 T | [NBIM, 2025](https://www.nbim.no/en/investments/the-funds-value/) |
-| Fuentes verificables | **70+** | [Ver todas](/docs/referencias.md) |
+| Fuentes verificables | **85+** | [Ver todas](/referencias) |
 
 ### Las rondas de financiamiento
 
@@ -48,16 +48,16 @@ Día 1        Año 1-2  Año 2-4      Año 4-8      Año 8-12
 
 ### Estructura del plan
 
-El plan tiene **23 secciones** organizadas en 7 categorías:
+El plan tiene **30 secciones** organizadas en 7 categorías:
 
 | # | Categoría | Secciones |
 |---|-----------|-----------|
 | 🏗️ | **Fundamentos** | Tesis Central · Diagnóstico · Fase 0 Emergencia |
-| ⛽ | **Motor Financiero** | Contratos Forward · Fondo Soberano · Deuda · Inversión y Fuentes |
-| 🤝 | **Ciudadanos** | Inversión Ciudadana · Diáspora como Angel Investor |
-| 🛡️ | **Gobernanza** | Sistema Anti-Frágil · Checklist Anticorrupción · Geopolítica · Estado de Derecho · Seguridad |
-| 🚀 | **Transformación** | Hubs Tech · Startups · Diversificación · Impacto IA · Educación |
-| 🏛️ | **Estado y Servicios** | Estado Digital · Servicios Públicos · Infraestructura · ESG |
+| ⛽ | **Motor Financiero** | Contratos Forward · Fondo Soberano · Deuda · Inversión y Fuentes · Transición Fiscal |
+| 🤝 | **Ciudadanos** | Inversión Ciudadana · Diáspora · Programa de Retorno |
+| 🛡️ | **Gobernanza** | Sistema Anti-Frágil · Anticorrupción · Geopolítica · Estado de Derecho · Seguridad · Modelo de Estado |
+| 🚀 | **Transformación** | Hubs Tech · Startups · Diversificación · Impacto IA · Educación · Comercio Exterior |
+| 🏛️ | **Estado y Servicios** | Estado Digital · Servicios Públicos · Infraestructura · ESG · Pensiones · Sistema Financiero |
 | 📊 | **Ejecución** | Timeline · Proyecciones · Riesgos |
 
 ### ¿Cómo contribuir?
@@ -94,7 +94,7 @@ Venezuela holds [303 billion barrels](https://www.opec.org/assets/assetdb/asb-20
 | Plan base price | **USD 60/barrel** | [EIA STEO, Mar 2026](https://www.eia.gov/outlooks/steo/) |
 | Diaspora | 7.9M people | [UNHCR, Dec 2025](https://www.unhcr.org/us/emergencies/venezuela-situation) |
 | Norway Fund (benchmark) | USD 2.2T | [NBIM, 2025](https://www.nbim.no/en/investments/the-funds-value/) |
-| Verifiable sources | **70+** | [See all](/docs/referencias.md) |
+| Verifiable sources | **85+** | [See all](/referencias) |
 
 ### Funding rounds
 

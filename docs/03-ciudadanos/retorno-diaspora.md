@@ -37,7 +37,7 @@ title: Programa de Retorno
 |-------|-------------|
 | Hub Diáspora-Venezuela (Pre-Seed) | Plataforma de matching: talento retornante + empleos en ZEET, PDVSA JVs, hospitales, escuelas |
 | Programa público priorizado | Retornantes con experiencia tienen prioridad en contratación pública (policía, salud, educación) |
-| Emprendimiento facilitado | Acceso directo a programas Semilla/Ignite Venezuela (ver [Startups](/docs/05-transformacion/startup-programs)) |
+| Emprendimiento facilitado | Acceso directo a programas Semilla/Ignite Venezuela (ver [Startups](/05-transformacion/startup-programs)) |
 
 ### Componente 3: Modelo Bilateral
 

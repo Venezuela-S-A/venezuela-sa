@@ -30,7 +30,7 @@ Con encaje del 73%, los bancos retienen el 73% de cada depósito. No hay crédit
 
 | Acción | Detalle | Modelo |
 |--------|---------|--------|
-| Dolarización formal | Elimina riesgo cambiario, permite intermediación en USD | Ver [Estado de Derecho](/docs/04-gobernanza/estado-derecho-moneda) |
+| Dolarización formal | Elimina riesgo cambiario, permite intermediación en USD | Ver [Estado de Derecho](/04-gobernanza/estado-derecho-moneda) |
 | Reducción gradual del encaje | 73% → 40% → 20% (estándar intl.) | Gradual, vinculado a inflación |
 | Reconexión a SWIFT | Negociación con OFAC post-sanciones | Requiere transición política |
 | Regulación bancaria actualizada | Basilea III, supervisión independiente | [Panamá: centro bancario](https://latamfdi.com/dollarization-in-latin-america/) |

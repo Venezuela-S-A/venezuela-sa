@@ -37,7 +37,7 @@ Retorno del fondo:  5,5% anual (promedio conservador del rango 4–7%)
 Dividendo:          10% de ingresos netos del fondo a 40 M de personas
 ```
 
-Fuente de costos y retornos: [data-standards.md](/docs/referencias) — costo barril USD 35–40 (extracción + dilución + transporte + procesamiento); retorno fondo 4–7% anual (conservador vs. [Norway 15,1% en 2025](https://www.cnbc.com/2026/01/29/norway-sovereign-wealth-fund-2025-return-nbim-trillion-oil-stocks-tech-ai-banks-silver.html)).
+Fuente de costos y retornos: [data-standards.md](/referencias) — costo barril USD 35–40 (extracción + dilución + transporte + procesamiento); retorno fondo 4–7% anual (conservador vs. [Norway 15,1% en 2025](https://www.cnbc.com/2026/01/29/norway-sovereign-wealth-fund-2025-return-nbim-trillion-oil-stocks-tech-ai-banks-silver.html)).
 
 ### Cálculo explícito (ejemplo escenario Base, Año 5)
 

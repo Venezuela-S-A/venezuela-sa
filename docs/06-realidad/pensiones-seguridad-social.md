@@ -31,7 +31,7 @@ En mayo 2024, el gobierno promulgó la ["Ley para la Protección de las Pensione
 | **Pilar 1: Pensión básica universal** | USD 100–200/mes para TODO jubilado (financiado por presupuesto + fondo soberano) | [Alaska PFD](https://pfd.alaska.gov/) + Chile Pensión Garantizada Universal |
 | **Pilar 2: Contribución obligatoria** | 10% del salario a cuenta individual (empleador 6% + trabajador 4%) | Chile AFP reformado / Uruguay AFAP |
 | **Pilar 3: Ahorro voluntario** | Incentivos fiscales para ahorro adicional | 401(k) EE.UU. / Colombia fondo voluntario |
-| **Pilar 4: Dividendo ciudadano** | Complemento del fondo soberano (USD 125–200/año a todos) | Ver [Inversión Ciudadana](/docs/03-ciudadanos/inversion-ciudadana) |
+| **Pilar 4: Dividendo ciudadano** | Complemento del fondo soberano (USD 125–200/año a todos) | Ver [Inversión Ciudadana](/03-ciudadanos/inversion-ciudadana) |
 
 ### Financiamiento del Pilar 1 (Pensión Básica)
 

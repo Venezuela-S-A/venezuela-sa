@@ -27,14 +27,14 @@ Venezuela fue suspendida de MERCOSUR en 2017. Tiene sanciones activas de EE.UU. 
 |--------|-----------|-----------|
 | Levantamiento progresivo de sanciones | Acceso a mercados, SWIFT, financiamiento | Elecciones + transición |
 | Reingreso a MERCOSUR | Acceso a mercado de 300 M personas | Cumplimiento de protocolo democrático |
-| Tratados bilaterales de inversión (BITs) | Protección legal para inversores | Reforma judicial (ver [Estado de Derecho](/docs/04-gobernanza/estado-derecho-moneda)) |
+| Tratados bilaterales de inversión (BITs) | Protección legal para inversores | Reforma judicial (ver [Estado de Derecho](/04-gobernanza/estado-derecho-moneda)) |
 | Acuerdos petroleros directos | Eliminar intermediarios, mejorar precio | Diversificación de compradores |
 
 ### Fase 2: Expansión (Años 3–7)
 
 | Acción | Mercado objetivo | Potencial |
 |--------|-----------------|-----------|
-| Acuerdo energético con Colombia | Gas natural + electricidad | USD 1.000+ M/año (ver [Diversificación](/docs/05-transformacion/diversificacion)) |
+| Acuerdo energético con Colombia | Gas natural + electricidad | USD 1.000+ M/año (ver [Diversificación](/05-transformacion/diversificacion)) |
 | Acuerdo LNG con Trinidad y Tobago | Gas natural → LNG exportación | USD 2.000–4.000 M/año |
 | Acuerdo tech con Chile/Uruguay | Servicios digitales, startups | Ecosistema tech |
 | Caribe: acuerdo turismo + alimentos | Turismo + agroindustria | USD 2.000+ M/año |

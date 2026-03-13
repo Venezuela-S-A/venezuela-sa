@@ -104,7 +104,7 @@ La transición fiscal NO funciona si el presupuesto sigue dependiendo del petró
 
 ### Comparación con modelo Milei (Argentina)
 
-[Milei logró superávit fiscal](https://www.focus-economics.com/blog/argentina-economy-under-milei/) recortando gasto. Venezuela S.A. propone lo contrario: **no recortar gasto, sino CRECER ingresos** para que el porcentaje petrolero baje naturalmente. Razón: Venezuela ya tiene 82,8% de pobreza — no hay margen para austeridad al estilo argentino (ver [Investigación Milei](/docs/research/milei-argentina-2024-2026)).
+[Milei logró superávit fiscal](https://www.focus-economics.com/blog/argentina-economy-under-milei/) recortando gasto. Venezuela S.A. propone lo contrario: **no recortar gasto, sino CRECER ingresos** para que el porcentaje petrolero baje naturalmente. Razón: Venezuela ya tiene 82,8% de pobreza — no hay margen para austeridad al estilo argentino (ver [Investigación Milei](/research/milei-argentina-2024-2026)).
 
 ---
 

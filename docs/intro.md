@@ -63,7 +63,7 @@ flowchart TD
 4. **Ecosistema diversifica economía** → petróleo baja de 95% a <40% de exportaciones
 
 :::info 85+ Fuentes Verificables
-Cada dato tiene una fuente real y verificable. Ver [Referencias Completas](/docs/referencias).
+Cada dato tiene una fuente real y verificable. Ver [Referencias Completas](/referencias).
 :::
 
 :::caution Precio Base USD $60/barril

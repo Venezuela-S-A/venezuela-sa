@@ -108,5 +108,5 @@ Venezuela importa >70% de sus alimentos pese a tener los Llanos — una de las l
 | **TOTAL** | **USD 41.500–81.000 M** | **15 años** |
 
 :::caution Fuentes de inversión
-No todo es gasto público. Telecomunicaciones, vivienda y transporte son altamente concesionables (modelo Chile/Colombia). El gasto público directo se concentra en agua, agricultura y vivienda social. Ver [Inversión y Fuentes](/docs/02-motor-financiero/inversion-inicial-fuentes).
+No todo es gasto público. Telecomunicaciones, vivienda y transporte son altamente concesionables (modelo Chile/Colombia). El gasto público directo se concentra en agua, agricultura y vivienda social. Ver [Inversión y Fuentes](/02-motor-financiero/inversion-inicial-fuentes).
 :::

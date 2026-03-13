@@ -17,7 +17,7 @@ title: Estado de Derecho y Moneda
 | Registro propiedad digital | Blockchain de títulos de propiedad | [Georgia: reformó en 2 años](https://centreforpublicimpact.org/public-impact-fundamentals/seizing-the-moment-rebuilding-georgias-police/) |
 | Tribunales comerciales | Jueces con experiencia intl., jurisdicción especializada | [Dubai DIFC Courts](https://www.difccourts.ae/) |
 | Protección bonos ciudadanos | Rango constitucional + jurisdicción NY/Londres | Bonos soberanos estándar |
-| Resolución de reclamos ICSID | Programa de compensación o acuerdo global | Ver [Deuda](/docs/02-motor-financiero/deuda) |
+| Resolución de reclamos ICSID | Programa de compensación o acuerdo global | Ver [Deuda](/02-motor-financiero/deuda) |
 
 ### Hoja de Ruta Legal
 

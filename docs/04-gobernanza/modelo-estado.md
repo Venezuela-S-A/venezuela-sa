@@ -108,13 +108,13 @@ El [AFP chileno](https://www.spensiones.cl/) lleva 44 años funcionando pero tie
 | Tasa de reemplazo | [~40%](https://economia.lse.ac.uk/articles/10.31389/eco.420) | ~50–70% | Meta: >50% |
 | Comisiones | ~1,2% del fondo | ~0,1–0,2% | Techo: 0,5% (regulado) |
 | Ranking global | [Grado B](https://www.mercer.com/insights/investments/market-outlook-and-trends/mercer-cfa-global-pension-index/) | [Grado A, #5](https://www.mercer.com/insights/investments/market-outlook-and-trends/mercer-cfa-global-pension-index/) | Meta: Grado B+ |
-| Pilar solidario | PGU (2008, reformada 2025) | Silver Support Scheme | Pilar 1 universal (ver [Pensiones](/docs/06-realidad/pensiones-seguridad-social)) |
+| Pilar solidario | PGU (2008, reformada 2025) | Silver Support Scheme | Pilar 1 universal (ver [Pensiones](/06-realidad/pensiones-seguridad-social)) |
 
 **Modelo Venezuela:** Tomar lo mejor de ambos:
 - **De Chile:** Cuentas individuales con propiedad del trabajador, libertad de elección de fondo
 - **De Singapur:** Contribución compartida empleador/trabajador, comisiones reguladas bajas, cobertura ampliada
 
-El Pilar 1 universal (USD 100–200/mes) lo financia el presupuesto público. Los Pilares 2 y 3 son privados. Ver detalle en [Pensiones y Seguridad Social](/docs/06-realidad/pensiones-seguridad-social).
+El Pilar 1 universal (USD 100–200/mes) lo financia el presupuesto público. Los Pilares 2 y 3 son privados. Ver detalle en [Pensiones y Seguridad Social](/06-realidad/pensiones-seguridad-social).
 
 ### Salud: Sistema Dual con Piso Universal
 
@@ -193,7 +193,7 @@ Venezuela bajo Maduro cobra [15% de impuesto sobre nómina](https://central-law.
 
 | Fase | Acción | Plazo |
 |------|--------|-------|
-| Día 1 | Decreto: petróleo al fondo soberano (ver [Transición Fiscal](/docs/02-motor-financiero/transicion-fiscal)) | Inmediato |
+| Día 1 | Decreto: petróleo al fondo soberano (ver [Transición Fiscal](/02-motor-financiero/transicion-fiscal)) | Inmediato |
 | Mes 1–6 | Reforma tributaria express: 15% flat + IVA 12% + digitalización | Semestre 1 |
 | Año 1 | Ley de concesiones: infraestructura + hospitales + vivienda | Año 1 |
 | Año 1–2 | Sistema pensional: AFP mejorado + Pilar 1 universal | Año 1–2 |
@@ -225,7 +225,7 @@ Con 82,8% de pobreza, el modelo final no se implementa el Día 1. Se transiciona
 | **Empleo público temporal** | Desempleados durante reconstrucción | Transitorio (Años 1–3) — infraestructura intensiva en mano de obra |
 | **Subsidio vivienda** | Familias sin hogar o hacinamiento | Permanente (modelo Chile: subsidio a demanda) |
 | **Educación gratuita** | TODO niño y joven, desde Día 1 | Permanente |
-| **Dividendo ciudadano** | TODO venezolano (cuando el fondo lo permita) | Desde Año 3+ (ver [Inversión Ciudadana](/docs/03-ciudadanos/inversion-ciudadana)) |
+| **Dividendo ciudadano** | TODO venezolano (cuando el fondo lo permita) | Desde Año 3+ (ver [Inversión Ciudadana](/03-ciudadanos/inversion-ciudadana)) |
 
 :::info No es austeridad — es graduación
 El objetivo NO es quitar ayuda. Es que la gente YA NO LA NECESITE porque tiene empleo, pensión propia, seguro de salud, y oportunidades. El Estado no desaparece — se reduce porque la gente prospera. La mejor política social es un buen empleo.

@@ -55,7 +55,7 @@ Salto Ángel, Los Roques, Canaima (UNESCO), Margarita, Mochima, Gran Sabana, Del
 | Colombia | 6+ M | USD 6.000+ M | MinComercio |
 | **Venezuela (meta)** | **5–10 M** | **USD 4.000–8.000 M** | **Año 15** |
 
-**Requisitos:** Seguridad (ver [Seguridad Física](/docs/04-gobernanza/seguridad-fisica)), aeropuertos (ver [Infraestructura](/docs/06-realidad/infraestructura-basica)), marca país, visa fast-track, Margarita como zona de nómades digitales.
+**Requisitos:** Seguridad (ver [Seguridad Física](/04-gobernanza/seguridad-fisica)), aeropuertos (ver [Infraestructura](/06-realidad/infraestructura-basica)), marca país, visa fast-track, Margarita como zona de nómades digitales.
 
 **Inversión turismo:** USD 3.000–5.000 M en 10 años (aeropuertos, hoteles, marketing, capacitación).
 
@@ -104,7 +104,7 @@ Llanos: tierras fértiles subutilizadas + agua del Orinoco. Venezuela importa >7
 | Frutas tropicales | Clima ideal | Caribe + Europa | Procesamiento + exportación |
 | Maíz, arroz, carne | Llanos | Autosuficiencia | Soberanía alimentaria 10 años |
 
-**Meta:** Soberanía alimentaria en 10 años + exportación agroindustrial al Caribe. Ver [Infraestructura](/docs/06-realidad/infraestructura-basica) para plan agrícola detallado.
+**Meta:** Soberanía alimentaria en 10 años + exportación agroindustrial al Caribe. Ver [Infraestructura](/06-realidad/infraestructura-basica) para plan agrícola detallado.
 
 ---
 

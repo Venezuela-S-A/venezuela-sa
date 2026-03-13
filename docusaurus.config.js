@@ -1,29 +1,36 @@
 // @ts-check
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Venezuela S.A.",
   tagline: "La Empresa de 40 Millones de Socios",
   favicon: "img/favicon.ico",
-  url: "https://venezuela-sa.org",
-  baseUrl: "/",
+  url: "https://venezuela-sa.github.io",
+  baseUrl: "/venezuela-sa/",
   organizationName: "venezuela-sa",
-  projectName: "plan",
+  projectName: "venezuela-sa",
+  trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   i18n: { defaultLocale: "es", locales: ["es"] },
+  markdown: {
+    mermaid: true,
+    format: "md",
+  },
+  themes: ["@docusaurus/theme-mermaid"],
   presets: [
     [
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: "./sidebars.js",
           editUrl: "https://github.com/venezuela-sa/venezuela-sa/tree/main/",
+          numberPrefixParser: false,
+          routeBasePath: "/",
         },
-        theme: { customCss: require.resolve("./src/css/custom.css") },
+        theme: { customCss: "./src/css/custom.css" },
       }),
     ],
   ],
@@ -40,7 +47,7 @@ const config = {
             label: "El Plan",
           },
           {
-            href: "https://github.com/venezuela-sa/plan",
+            href: "https://github.com/venezuela-sa/venezuela-sa",
             label: "GitHub",
             position: "right",
           },
@@ -50,8 +57,14 @@ const config = {
         style: "dark",
         copyright: `Venezuela S.A. — Plan de Reconstrucción Nacional — v6.0 Marzo 2026. Todos los datos verificables.`,
       },
-      prism: { theme: lightCodeTheme, darkTheme: darkCodeTheme },
+      prism: {
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
+      },
+      mermaid: {
+        theme: { light: "neutral", dark: "dark" },
+      },
     }),
 };
 
-module.exports = config;
+export default config;

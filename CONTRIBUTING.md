@@ -114,6 +114,114 @@ Antes de abrir un PR, verifica:
 | **Triage** | Gestionar issues, etiquetar | Nuevos colaboradores |
 | **Reviewer** | Review PRs de su área de expertise | Especialistas invitados |
 
+### Evaluar el plan con múltiples IAs
+
+El repositorio incluye un sistema de evaluación automatizada que envía cualquier sección del plan a **7 modelos de IA de frontera** en paralelo. Esto permite contrastar, verificar y criticar las proyecciones desde múltiples perspectivas.
+
+#### Requisitos previos
+
+1. **Cuenta en OpenRouter** (gratis para empezar): https://openrouter.ai/
+2. **API Key**: https://openrouter.ai/keys
+3. **Configurar la variable de entorno:**
+   ```bash
+   export OPENROUTER_API_KEY="sk-or-v1-..."
+   ```
+
+#### Uso básico
+
+```bash
+# Evaluar una sección con un skill de experto
+./skills/evaluate.sh experts/oil-energy docs/07-ejecucion/el-sueno.md
+
+# Evaluar con una perspectiva ideológica
+./skills/evaluate.sh perspectives/milei docs/02-motor-financiero/fondo-soberano.md
+
+# Usar solo modelos específicos
+./skills/evaluate.sh experts/macroeconomics docs/07-ejecucion/proyecciones.md "openai/gpt-5.2-pro,google/gemini-3.1-pro-preview"
+```
+
+#### Modelos de frontera incluidos (marzo 2026)
+
+| Modelo | Proveedor | Fortaleza |
+|--------|-----------|-----------|
+| GPT-5.2 Pro | OpenAI | Razonamiento general y análisis |
+| Claude Opus 4.6 | Anthropic | Análisis largo, coherencia, ética |
+| Gemini 3.1 Pro | Google | Datos, cálculos, multimodalidad |
+| DeepSeek V3.2 | DeepSeek | Razonamiento profundo, bajo costo |
+| Grok 4.20 | xAI | Perspectiva no censurada, datos recientes |
+| Qwen 3.5 397B | Alibaba | Modelo MoE masivo, multilingüe |
+| Mistral Large | Mistral | Europeo, análisis financiero |
+
+#### Skills disponibles
+
+**Expertos técnicos** (`skills/experts/`) — evalúan viabilidad:
+
+| Skill | Dominio |
+|-------|---------|
+| `oil-energy` | Petróleo, gas, hidroeléctrica, renovables |
+| `macroeconomics` | PIB, fiscal, fondo soberano, deuda |
+| `geopolitics` | EE.UU., China/Rusia, transición, sanciones |
+| `mining-minerals` | Arco Minero, oro, hierro, bauxita |
+| `infrastructure` | PPP, electricidad, telecoms, data centers |
+| `governance-legal` | Reforma estatal, anticorrupción, justicia |
+| `tourism` | Desarrollo destino, eco-turismo, marca país |
+| `technology` | Data centers, ZEETs, estado digital, startups |
+| `agriculture` | Soberanía alimentaria, cacao, acuicultura |
+| `finance-investment` | Pre-Seed, bonds, forwards, fondo soberano |
+
+**Perspectivas ideológicas** (`skills/perspectives/`) — critican desde su marco:
+
+| Skill | Perspectiva | Espectro |
+|-------|------------|----------|
+| `milei` | Libertario radical | Derecha |
+| `austrian-school` | Escuela Austríaca (Mises, Hayek) | Derecha |
+| `juan-ramon-rallo` | Liberal pragmático | Centro-derecha |
+| `maria-corina-machado` | Líder opositora venezolana | Centro |
+| `ricardo-hausmann` | Complejidad económica (Harvard) | Centro |
+| `lee-kuan-yew` | Estadista pragmático (Singapur) | Centro |
+| `daron-acemoglu` | Instituciones inclusivas (Nobel) | Centro |
+| `joseph-stiglitz` | Progresista (Nobel) | Centro-izquierda |
+| `thomas-piketty` | Desigualdad y capital | Izquierda |
+
+#### Interpretar resultados
+
+Los resultados se guardan en `skills/evaluations/` con el formato:
+```
+YYYYMMDD_HHMMSS_<skill>_<doc>_<modelo>.md
+```
+
+Para comparar todas las respuestas de una evaluación:
+```bash
+cat skills/evaluations/20260313_*_milei_el-sueno_*.md
+```
+
+**Claves para interpretar:**
+- **Consenso entre 7 modelos** = alta confianza en el veredicto
+- **Desacuerdo** = punto que necesita investigación adicional
+- **Consenso entre perspectivas opuestas** (ej. Milei Y Stiglitz) = muy probablemente correcto
+- **Ningún modelo cuestiona algo** = posible punto ciego, investigar
+
+#### Modo manual (sin API key)
+
+Si no tienes OpenRouter, los skills funcionan en cualquier LLM:
+
+1. Abre ChatGPT, Gemini, DeepSeek, Grok, etc.
+2. Copia el contenido de un archivo de `skills/experts/` o `skills/perspectives/`
+3. Pégalo como primer mensaje (o system prompt si está disponible)
+4. Copia la sección del plan que quieres evaluar
+5. Pégala como segundo mensaje
+6. Compara las respuestas entre modelos
+
+#### Contribuir nuevos skills
+
+Para agregar un experto o perspectiva nueva:
+1. Crea un `.md` en `skills/experts/` o `skills/perspectives/`
+2. Usa el formato YAML frontmatter estándar (ver `skills/README.md`)
+3. Incluye: framework de evaluación, formato de salida, tono, fuentes, y advertencia
+4. Abre un PR
+
+---
+
 ### Áreas que necesitan contribuciones
 
 | Área | Prioridad | Skills necesarios |
@@ -156,6 +264,35 @@ Antes de abrir un PR, verifica:
 4. Make changes following the style guides
 5. Open a PR using the template
 6. Wait for review (max 72 hours)
+
+### Evaluate the plan with multiple AIs
+
+The repo includes an automated evaluation system that sends any section of the plan to **7 frontier AI models** in parallel via [OpenRouter](https://openrouter.ai/).
+
+#### Quick start
+
+```bash
+export OPENROUTER_API_KEY="sk-or-v1-..."   # Get at https://openrouter.ai/keys
+
+# Evaluate with a domain expert
+./skills/evaluate.sh experts/oil-energy docs/07-ejecucion/el-sueno.md
+
+# Evaluate with an ideological perspective
+./skills/evaluate.sh perspectives/milei docs/02-motor-financiero/fondo-soberano.md
+```
+
+**Models:** GPT-5.2 Pro, Claude Opus 4.6, Gemini 3.1 Pro, DeepSeek V3.2, Grok 4.20, Qwen 3.5 397B, Mistral Large.
+
+**Skills available:**
+- `skills/experts/` — 10 domain experts (oil, macro, geopolitics, mining, infrastructure, governance, tourism, tech, agriculture, finance)
+- `skills/perspectives/` — 9 ideological perspectives across the full political spectrum (Milei → Piketty)
+- `skills/tools/` — research, copywriting, and other utilities
+
+Results saved in `skills/evaluations/`. See `skills/README.md` for full documentation.
+
+**No API key?** Copy any skill file content as a system prompt into ChatGPT/Gemini/DeepSeek/Grok and paste the plan section as your message.
+
+---
 
 ### What is NOT accepted
 

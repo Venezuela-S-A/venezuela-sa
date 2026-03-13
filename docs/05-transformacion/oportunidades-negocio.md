@@ -1,9 +1,9 @@
 ---
 sidebar_position: 8
-title: Oportunidades de Negocio
+title: Oportunidades — Startups y Tech
 ---
 
-# Oportunidades de Negocio: 200+ Startups que Venezuela Necesita
+# Oportunidades Tech: 70+ Startups que Venezuela Necesita
 
 > Cada problema del plan es un negocio. Cada brecha es un mercado. Estas no son ideas — son necesidades cuantificadas con mercado cautivo interno y potencial de exportación a LATAM y global.
 

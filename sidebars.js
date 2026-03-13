@@ -58,6 +58,7 @@ const sidebars = {
         "05-transformacion/comercio-exterior",
         "05-transformacion/capital-humano",
         "05-transformacion/oportunidades-negocio",
+        "05-transformacion/oportunidades-empresas",
       ],
     },
     {

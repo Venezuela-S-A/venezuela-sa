@@ -68,16 +68,26 @@ skills/
 │   ├── legal-corporate.md          # VIN, OFAC, ICSID, Santiago Principles
 │   └── economist-latam.md          # Dutch Disease, trampa ingreso medio
 │
-├── perspectives/     # 9 voces ideológicas — comentan desde su marco
+├── perspectives/     # 16 voces — ideológicas, tech, LATAM, macro
 │   ├── milei.md                  # 🟡 Libertario radical (Argentina)
 │   ├── austrian-school.md        # 🟡 Escuela Austríaca (Mises, Hayek)
+│   ├── elon-musk.md              # 🟡 Tech disruptor, first principles (Tesla/SpaceX)
 │   ├── juan-ramon-rallo.md       # 🟡 Liberal pragmático (España)
+│   ├── marco-rubio.md            # 🔵 Secretario de Estado EE.UU. (sanciones)
+│   ├── nayib-bukele.md           # 🔵 Transformación rápida (El Salvador)
+│   ├── visualpolitik.md          # 🔵 Geopolítica divulgativa (YouTube)
+│   ├── visualeconomik.md         # 🔵 Economía divulgativa (YouTube)
 │   ├── maria-corina-machado.md   # 🔵 Líder opositora (Venezuela)
 │   ├── ricardo-hausmann.md       # 🔵 Economista desarrollo (Harvard/Venezuela)
 │   ├── lee-kuan-yew.md           # ⚪ Estadista pragmático (Singapur)
 │   ├── daron-acemoglu.md         # ⚪ Institucionalista (MIT/Nobel)
+│   ├── andres-oppenheimer.md     # ⚪ Periodista LATAM, innovación
+│   ├── ray-dalio.md              # ⚪ Macro-inversor, ciclos de deuda
 │   ├── joseph-stiglitz.md        # 🟠 Progresista (Columbia/Nobel)
-│   └── thomas-piketty.md         # 🔴 Desigualdad y capital (Paris)
+│   ├── thomas-piketty.md         # 🔴 Desigualdad y capital (Paris)
+│   ├── unicornios-latam.md       # 🟢 Panel 10 fundadores unicornios LATAM
+│   ├── tech-giants.md            # 🟢 Panel 10 CEOs/CTOs Big Tech global
+│   └── venture-capital.md        # 🟢 Panel 10 VCs globales (YC, Sequoia, etc.)
 │
 ├── project/          # Control de calidad del proyecto
 │   ├── venezuela-s-a.md
@@ -104,8 +114,14 @@ skills/
 ← IZQUIERDA                     CENTRO                     DERECHA →
 🔴 Piketty    🟠 Stiglitz    ⚪ Acemoglu    🟡 Rallo    🟡 Milei
                               ⚪ Lee Kuan Yew 🟡 Austríaca
+                              ⚪ Oppenheimer  🟡 Musk
+                              ⚪ Dalio
                               🔵 Hausmann
                               🔵 MCM
+                              🔵 Rubio
+                              🔵 Bukele
+                              🔵 VisualPolitik
+                              🔵 VisualEconomik
 ```
 
 **Por qué importa tener todo el espectro:** Un plan que sobrevive las críticas de Piketty Y de Milei simultáneamente es un plan robusto. Si solo resiste un lado, tiene un flanco débil.

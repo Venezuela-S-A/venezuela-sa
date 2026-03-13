@@ -190,13 +190,23 @@ skills/                           ← Prompts especializados (formato universal)
 |-------|------------|----------|
 | `milei` | Libertario radical, anti-estatismo | Derecha |
 | `austrian-school` | Escuela Austríaca (Mises, Hayek, Rothbard) | Derecha |
+| `elon-musk` | Tech disruptor, first principles, energía | Derecha-tech |
 | `juan-ramon-rallo` | Liberal pragmático, institucionalista | Centro-derecha |
+| `marco-rubio` | Secretario de Estado EE.UU., geopolítica, sanciones | Centro-derecha |
+| `nayib-bukele` | Transformación rápida, security first, El Salvador | Centro-derecha |
+| `visualpolitik` | Geopolítica divulgativa, modelos internacionales | Centro-liberal |
+| `visualeconomik` | Economía divulgativa, datos, competitividad | Centro-liberal |
 | `maria-corina-machado` | Opositora venezolana, realidad de terreno | Centro |
 | `ricardo-hausmann` | Complejidad económica, Harvard/Venezuela | Centro |
 | `lee-kuan-yew` | Estadista pragmático, modelo Singapur | Centro |
 | `daron-acemoglu` | Instituciones inclusivas/extractivas, Nobel | Centro |
+| `andres-oppenheimer` | Periodista LATAM, innovación, educación | Centro |
+| `ray-dalio` | Macro-inversor, ciclos deuda, orden mundial | Centro-macro |
 | `joseph-stiglitz` | Fallas de mercado, progresismo, Nobel | Centro-izquierda |
 | `thomas-piketty` | Desigualdad, r>g, impuestos progresivos | Izquierda |
+| `unicornios-latam` | Panel 10 fundadores de unicornios LATAM | Emprendedor |
+| `tech-giants` | Panel 10 CEOs/CTOs de Big Tech global | Corporativo-tech |
+| `venture-capital` | Panel 10 VCs globales (YC, Sequoia, SoftBank, etc.) | Inversor |
 
 ### Evaluación multi-AI (`skills/evaluate.sh`)
 

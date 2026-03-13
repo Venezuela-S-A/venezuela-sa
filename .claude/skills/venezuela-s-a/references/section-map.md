@@ -1,4 +1,4 @@
-# Section Map — Venezuela S.A. Plan v6.1
+# Section Map — Venezuela S.A. Plan v6.0
 
 ## Complete Document Structure
 
@@ -40,15 +40,9 @@
 
 ### 6. Inversión y Fuentes
 **File:** `docs/02-motor-financiero/inversion-inicial-fuentes.md`
-**Contains:** Total investment table ($550-750B), 12 components with capital sources
-**Key data:** Expanded to include infrastructure ($41.5-81B), banking ($4-10B), security ($5-8B), pensions, return program
+**Contains:** Total investment table ($400-525B), 10 capital sources with amounts
+**Key data:** 10 sources mapped with mechanisms and viability
 **Sources:** Rystad, Citigroup, ResearchAndMarkets, various
-
-### 6b. Transición Fiscal
-**File:** `docs/02-motor-financiero/transicion-fiscal.md`
-**Contains:** 4-phase transition from petrostate to sovereign fund, budget breakdown, Norway model comparison, Mermaid diagram
-**Key data:** Budget $22.7B (2025), PDVSA 53% ($10.1B), transition 0%→100% to fund over 15 years
-**Sources:** Invezz, La República, Orinoco Research, Statista, NBIM, Norsk Petroleum
 
 ### 7. Inversión Ciudadana
 **File:** `docs/03-ciudadanos/inversion-ciudadana.md`
@@ -61,12 +55,6 @@
 **Contains:** Distribution by country table, Pre-Seed platform table (8 items, $25-60M), bilateral participation model
 **Key data:** 7.9M people, $10.6B/year contribution, Pre-Seed $25-60M
 **Sources:** UNHCR, R4V, MPI, CNN, Milhaud Maps
-
-### 8b. Programa de Retorno
-**File:** `docs/03-ciudadanos/retorno-diaspora.md`
-**Contains:** "Venezuela Te Espera" program — economic incentives, job placement, bilateral model (physical/partial/remote return)
-**Key data:** Targets: 100K→1.5M physical returnees, 200K→1M remote contributors, $500-1,500M investment
-**Sources:** UNHCR, CNN
 
 ### 9. Sistema Anti-Frágil (Gobernanza)
 **File:** `docs/04-gobernanza/sistema-antifragil.md`
@@ -96,12 +84,6 @@
 **Contains:** Threat matrix (6 threats with strategies), Georgia model reference
 **Sources:** General knowledge + Georgia reform reference
 
-### 13b. Modelo de Estado
-**File:** `docs/04-gobernanza/modelo-estado.md`
-**Contains:** State model philosophy — taxes fund 5 essentials (state, health, justice, education, security), oil→fund, everything else private with oversight. Universal guarantees, poverty transition, automation, freedoms
-**Key data:** 15-19% GDP target spending, 15% flat tax, 12% IVA, Chile concessions, Singapore CPF hybrid
-**Sources:** Singapore MOF, Estonia e-gov, Chile MOP, Mercer, IMF
-
 ### 14. Hubs Tech (5 ZEET)
 **File:** `docs/05-transformacion/hubs-tech.md`
 **Contains:** 5 zones table, 7 fiscal benefits table
@@ -116,15 +98,9 @@
 
 ### 16. Diversificación
 **File:** `docs/05-transformacion/diversificacion.md`
-**Contains:** 6 engines (data centers, gas natural, tourism, renewables, petrochemicals, agroindustry)
-**Key data:** LATAM DC $7.16B→$14.3B, gas 5,500 BCM reserves (7th worldwide), Dragon Field with Trinidad
-**Sources:** ResearchAndMarkets, Mordor Intelligence, CRS, Columbia CGEP, J.P. Morgan
-
-### 18b. Comercio Exterior
-**File:** `docs/05-transformacion/comercio-exterior.md`
-**Contains:** Trade reintegration plan — MERCOSUR reentry, sanctions lifting, bilateral agreements, Argentina RIGI model for ZEET
-**Key data:** RIGI: $33.9B projected, 30-year stability, ZEET 0% tax
-**Sources:** UPI (Argentina RIGI)
+**Contains:** 4 engines (data centers, tourism, renewables, agro)
+**Key data:** LATAM DC $7.16B→$14.3B, DR 10M tourists
+**Sources:** ResearchAndMarkets, Mordor Intelligence
 
 ### 17. Impacto IA
 **File:** `docs/05-transformacion/impacto-ia.md`
@@ -151,21 +127,8 @@
 
 ### 21. Infraestructura Básica
 **File:** `docs/06-realidad/infraestructura-basica.md`
-**Contains:** 5 subsections: telecom, water, housing, transport, agriculture
-**Key data:** Total $41.5-81B: telecom $3-5B, water $5-9B, housing $15-30B, transport $15-30B, agro $3.5-7B
-**Sources:** Freedom House, Northwestern/SIGCOMM, IOM
-
-### 22b. Pensiones y Seguridad Social
-**File:** `docs/06-realidad/pensiones-seguridad-social.md`
-**Contains:** 4-pillar pension reform — basic universal ($100-200/mo), mandatory AFP (10% salary), voluntary savings, citizen dividend. Transition plan from $30/mo current to $200+
-**Key data:** 5M pensioners, current $30-75/mo, canasta básica $400+, Pilar 1 cost $6-12B/yr
-**Sources:** Mision Verdad, SSA, Central-Law, BATimes
-
-### 22c. Sistema Financiero
-**File:** `docs/06-realidad/sistema-financiero.md`
-**Contains:** Banking system reconstruction — encaje 73%→20%, SWIFT reconnection, digital banking, fintech, center financiero regional
-**Key data:** Encaje 73%, 65-80% transactions in USD/USDT, $4-10B total investment
-**Sources:** Legal Clarity, Globalization Guide
+**Contains:** Telecom (CANTV), housing, agriculture sections
+**Key data:** Telecom $3-5B, housing $20-40B, agro self-sufficiency 10 years
 
 ### 22. ESG y Ejecución
 **File:** `docs/06-realidad/esg-ejecucion.md`
@@ -178,19 +141,9 @@
 **Key data:** Year 15 fund $250-400B, dividend $125-200/person
 **Sources:** All previous sections consolidated
 
-### Research: Milei Argentina
-**File:** `docs/research/milei-argentina-2024-2026.md`
-**Contains:** Comprehensive analysis of Milei's first 2 years — macro results, social costs, RIGI, 9 applicable + 5 non-applicable lessons for Venezuela
-**Sources:** 30+ sources
-
-### Research: Modelos Chile Comparados
-**File:** `docs/research/modelos-chile-comparados-global.md`
-**Contains:** AFP vs Singapore CPF vs Netherlands, ISAPRE vs Singapore 3M, Chile concessions, lean state tax models, minimum GDP% for essentials
-**Sources:** OECD, IMF, Mercer, SSA, CPF Board, Chile MOP
-
 ### Referencias
 **File:** `docs/referencias.md`
-**Contains:** 85+ sources organized by category with clickable links
+**Contains:** 70+ sources organized by category with clickable links
 
 ### Conclusión
 **File:** `docs/conclusion.md`
@@ -211,10 +164,3 @@
 | New AI/employment data | Impacto IA | impacto-ia.md |
 | Fund performance data (Norway) | Fondo Soberano | fondo-soberano.md |
 | Any new source | Referencias | referencias.md (ALWAYS update) |
-| Budget/fiscal data | Transición Fiscal | transicion-fiscal.md |
-| Pension reform models | Pensiones | pensiones-seguridad-social.md |
-| Banking reform data | Sistema Financiero | sistema-financiero.md |
-| Trade agreements | Comercio Exterior | comercio-exterior.md |
-| Diaspora return data | Programa de Retorno | retorno-diaspora.md |
-| State model/tax data | Modelo de Estado | modelo-estado.md |
-| Chile/Singapore models | Research | modelos-chile-comparados-global.md |

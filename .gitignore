@@ -30,5 +30,8 @@ npm-debug.log*
 # Skills cache (tracked by skills-lock.json)
 .agents/
 
+# Local Claude settings (user-specific, not project)
+.claude/settings.local.json
+
 # OS
 Thumbs.db

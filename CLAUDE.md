@@ -1,0 +1,181 @@
+# Venezuela S.A. — Directriz Central
+
+> Este archivo es el **ente rector** del proyecto. Todo agente, skill, colaborador o contribución se rige por estas directrices. Si algo contradice este archivo, este archivo gana.
+
+## Qué es este proyecto
+
+Un plan de reconstrucción nacional tratado como startup. 40 millones de accionistas. Petróleo como combustible, tecnología como destino. No es un plan de gobierno — es un modelo de negocio con rondas de financiamiento, métricas verificables y una tesis clara.
+
+**Versión:** 1.0
+**Idioma principal:** Español
+**Idioma secundario:** Inglés (sección de inversionistas)
+**Sitio:** Docusaurus v3 con Mermaid
+
+## Los 5 principios inviolables
+
+1. **Cero datos inventados.** Todo número tiene organización + fecha + URL. Sin excepción.
+2. **Precio base USD $60/barril.** Cualquier cosa por encima es upside al fondo soberano.
+3. **Timeline Rystad Energy.** 15 años para 3M bpd. No se promete menos.
+4. **Petróleo es combustible, tech es destino.** El petróleo financia, no define.
+5. **Apartidista.** Cero propaganda política. El plan sirve a ciudadanos, no a partidos.
+
+## Filtro de viabilidad — Gate de contribución
+
+**NO toda idea es válida.** Antes de aceptar cualquier propuesta, contribución o expansión del plan, debe pasar estos filtros:
+
+### Gate 1: Consistencia con la tesis
+- ¿Refuerza "petróleo = combustible, tech = destino"?
+- ¿Es compatible con el modelo de Estado lean (5 funciones: gobierno, salud, justicia, educación, seguridad)?
+- Si depende de más burocracia estatal → rechazar o replantear como concesión privada.
+
+### Gate 2: Viabilidad con datos
+- ¿Tiene precedente verificable? (modelo exitoso en otro país con fuente)
+- ¿Los números cuadran con las proyecciones existentes?
+- ¿Encaja en el presupuesto de USD 550-750B sin inflar la cifra arbitrariamente?
+- Si no tiene datos → marcar como `[Requiere investigación]`, no inventar.
+
+### Gate 3: Coherencia interna
+- ¿Contradice otra sección del plan? (ej: proponer más gasto público cuando el modelo es lean)
+- ¿El timeline es compatible con Rystad? (no prometer resultados en 5 años si Rystad dice 15)
+- ¿Las fuentes de financiamiento están identificadas?
+
+### Gate 4: Pragmatismo geopolítico
+- ¿Asume soberanía plena sobre petróleo? → ajustar al marco de transición actual (EE.UU. controla ventas)
+- ¿Ignora la realidad de la deuda de USD 150-170B?
+- ¿Asume un gobierno que no existe todavía?
+
+### Resultado del filtro
+- **Pasa los 4 gates** → se acepta, se integra al plan con fuentes
+- **Falla 1 gate** → se devuelve con feedback específico de qué ajustar
+- **Falla 2+ gates** → se rechaza con explicación
+
+## Modelo de Estado (referencia rápida)
+
+| Principio | Regla |
+|-----------|-------|
+| El Estado vive de impuestos, no de petróleo | 15% flat + 12% IVA. Petróleo → 100% fondo soberano |
+| 5 funciones únicamente | Gobierno, salud, justicia, educación, seguridad |
+| Todo lo demás es privado con supervisión | Infraestructura, telecoms, pensiones, banca = concesión |
+| Automatizar todo lo posible | Estado digital modelo Estonia. Menos burocracia = menos corrupción |
+| Reforma quirúrgica | Fusionar ministerios (34→15), retirar/capacitar/emprender, recuperar fondos desviados |
+| Libertad | De vida, económica y religiosa. El Estado es plataforma, no patrón |
+
+## Estructura del plan
+
+```
+docs/
+├── intro.md                      ← Tesis central + embudo energético
+├── 01-fundamentos/               ← Diagnóstico + Fase 0 emergencia
+├── 02-motor-financiero/          ← Forwards, fondo, deuda, inversión, fiscal
+├── 03-ciudadanos/                ← Inversión ciudadana, diáspora, retorno
+├── 04-gobernanza/                ← Anticorrupción, seguridad, modelo estado
+├── 05-transformacion/            ← Hubs tech, startups, diversificación, IA, educación
+├── 06-realidad/                  ← Digital, servicios, infraestructura, pensiones, banca
+├── 07-ejecucion/                 ← Timeline, proyecciones, riesgos
+├── 08-pitch/                     ← Anexo inversionistas (español)
+├── 09-investors/                 ← Investor annex (English)
+├── referencias.md                ← 85+ fuentes verificables
+└── conclusion.md
+```
+
+## Datos clave (referencia rápida)
+
+| Parámetro | Valor | Fuente |
+|-----------|-------|--------|
+| Reservas petroleras | 303B barriles | OPEP ASB 2025 |
+| Producción actual | 0.9-1.1M bpd | OPEP/IEA 2025 |
+| Inversión para 3M bpd | USD 183B / 15 años | Rystad Energy, ene. 2026 |
+| PIB 2025 | USD 82.8B | FMI |
+| Deuda externa | USD 150-170B | Reuters/CNBC, dic. 2025 |
+| Diáspora | 7.9M personas | UNHCR, dic. 2025 |
+| Precio base | **USD 60/barril** | EIA STEO, mar. 2026 |
+| Hidroeléctrica | 18,000 MW (Caroní) | Mongabay 2023 |
+| Fondo soberano meta (año 15) | USD 250-400B | Proyecciones propias |
+| Inversión total | USD 550-750B / 15 años | Consolidado del plan |
+
+## Estándares técnicos
+
+### Contenido
+- Tablas sobre prosa para datos. Siempre.
+- Bold para números clave.
+- Fuentes inline: `[Nombre](URL)`.
+- Admonitions: `:::danger`, `:::info`, `:::tip`, `:::caution`.
+- Gráficos Mermaid: `pie`, `xychart-beta`, `flowchart`, `gantt`.
+- Fuentes preferidas 2024-2026. Pre-2023 solo para datos históricos.
+
+### Tono
+- Startup founder pitching a inversores Y ciudadanos simultáneamente.
+- Datos primero, explicación después.
+- Directo y honesto. Sin hedging diplomático.
+- Anti-burocrático. Cero "se procederá a implementar mecanismos de articulación interinstitucional."
+
+### Código (Docusaurus)
+- Docusaurus v3, ESM (`import` no `require`)
+- `markdown.format: "md"` (no MDX)
+- `numberPrefixParser: false`
+- `routeBasePath: "/"`
+- Mermaid vía `@docusaurus/theme-mermaid`
+
+## Git y contribuciones
+
+- Branch: `main` protegido con ruleset (PR + 1 review)
+- Admins pueden bypass para commits directos
+- Commits: `feat:`, `fix:`, `docs:`, `refactor:`, `chore:`
+- Todo PR debe pasar el gate de viabilidad (arriba)
+- Todo dato nuevo → actualizar `docs/referencias.md`
+- Toda sección nueva → actualizar `sidebars.js`
+
+## Skills y herramientas disponibles
+
+### Quality control (core)
+- `venezuela-s-a` — Control de calidad del plan (estilo, datos, estructura)
+
+### Investigación
+- `deep-research` — Research multi-fuente
+- `market-research` — Análisis de mercado y competencia
+- `search-first` — Research antes de codificar
+
+### Startup / negocio
+- `startup-financial-modeling` — Proyecciones financieras
+- `startup-metrics-framework` — Métricas SaaS/startup
+- `startup-business-models` — Modelos de negocio
+- `startup-competitive-analysis` — Análisis competitivo
+- `startup-trend-prediction` — Predicción de tendencias
+- `ai-startup-strategist` — Estrategia de startup IA
+
+### Contenido y marketing
+- `tiktok-marketing` — Estrategia TikTok
+- `tiktok-captions` — Captions virales
+- `create-promo-video` — Guiones de video promocional
+- `ai-social-media-content` — Contenido para redes
+- `short-form-video` — Videos cortos
+- `video-script-writer` — Guiones de video
+- `social-media-content-repurposer` — Reutilizar contenido entre plataformas
+- `short-form-converter` — Convertir contenido largo a formato corto
+- `instagram-research` — Tendencias Instagram
+- `multi-platform-format-adapter` — Adaptar a múltiples plataformas
+- `copywriting` — Copy de marketing
+- `humanizer` — Eliminar señales de texto IA
+
+### Técnico
+- `mermaid-diagrams` — Gráficos Mermaid
+- `audit-website` — Auditoría web
+- `coding-standards` — Estándares de código
+- `verification-loop` — Verificación de sesión
+
+### Reglas activas (.claude/rules/)
+- `git-workflow.md` — Formato de commits y PRs
+- `development-workflow.md` — Pipeline de desarrollo
+- `performance.md` — Optimización de modelos y contexto
+- `agents.md` — Orquestación de agentes
+
+## Qué NO hacer (anti-patterns)
+
+- **No agregar secciones sin pasar el gate de viabilidad**
+- **No cambiar el precio base** sin consenso y sin actualizar TODAS las proyecciones dependientes
+- **No inventar datos** — si no hay fuente, se marca como pendiente
+- **No posicionar al petróleo como el negocio** — es el combustible
+- **No crear dependencia del gobierno** — el Pre-Seed arranca sin gobierno
+- **No agregar burocracia** — si la solución requiere un ministerio nuevo, replantear
+- **No hacer propaganda** — ni a favor ni en contra de ningún político
+- **No romper el build** — `npm run build` debe pasar antes de hacer PR

@@ -19,12 +19,17 @@ const sidebars = {
         "02-motor-financiero/fondo-soberano",
         "02-motor-financiero/deuda",
         "02-motor-financiero/inversion-inicial-fuentes",
+        "02-motor-financiero/transicion-fiscal",
       ],
     },
     {
       type: "category",
       label: "🤝 Ciudadanos y Diáspora",
-      items: ["03-ciudadanos/inversion-ciudadana", "03-ciudadanos/diaspora"],
+      items: [
+        "03-ciudadanos/inversion-ciudadana",
+        "03-ciudadanos/diaspora",
+        "03-ciudadanos/retorno-diaspora",
+      ],
     },
     {
       type: "category",
@@ -46,6 +51,7 @@ const sidebars = {
         "05-transformacion/diversificacion",
         "05-transformacion/impacto-ia",
         "05-transformacion/educacion",
+        "05-transformacion/comercio-exterior",
       ],
     },
     {
@@ -56,6 +62,8 @@ const sidebars = {
         "06-realidad/servicios-publicos",
         "06-realidad/infraestructura-basica",
         "06-realidad/esg-ejecucion",
+        "06-realidad/pensiones-seguridad-social",
+        "06-realidad/sistema-financiero",
       ],
     },
     {

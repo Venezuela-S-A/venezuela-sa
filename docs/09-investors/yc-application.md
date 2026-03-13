@@ -33,6 +33,14 @@ Venezuela S.A. treats a nation of 40 million people as a startup. Venezuela sits
 
 ---
 
+## Who desperately needs this?
+
+**40 million Venezuelans.** 82.8% live in poverty. 7.9M fled the country. Those who stayed have no access to basic services — <1 Mbps internet, collapsed healthcare, $30/month pensions vs. a $400+ basic basket. The country with the world's largest oil reserves has children dying of malnutrition.
+
+But also: **oil majors** need access to 303B barrels with a stable framework. **BigTech** needs cheap 24/7 energy for data centers in LATAM. **The U.S. government** needs a democratic ally that stabilizes the region. Everyone wins — but only if someone builds the platform to coordinate it.
+
+---
+
 ## Why did you pick this idea?
 
 1. **The numbers demand it.** Venezuela has $7-10 trillion in underground assets and a GDP of $83B. That's a 100x gap between what's underground and what the economy produces.
@@ -153,3 +161,66 @@ flowchart LR
 | Oil at $60-70 | Enough to fund, not enough for complacency |
 | AI revolution | Massive demand for data centers + clean energy |
 | Open source plan | 85+ sources, transparent, auditable |
+
+---
+
+## TAM (Total Addressable Market)
+
+**USD 3.5 trillion/year** across 6 markets: crude oil ($2T), natural gas ($400B), LATAM data centers ($14.3B by 2030), Caribbean+LATAM tourism ($100B+), agroindustry ($250B+), and renewables ($50B+).
+
+**SOM (Year 15):** USD 80-120B/year with 2.75M bpd, 5% of LATAM data center market, 5-7M tourists, Dragon Field gas, and agro exports.
+
+See [TAM/SAM/SOM](/09-investors/tam-sam-som) for the full breakdown.
+
+---
+
+## Founder Team
+
+:::caution Team to be built
+Venezuela S.A. is an open-source plan. The founding team is built with the Pre-Seed. The diaspora has the talent in key global positions.
+
+| Role | Profile | Why |
+|------|---------|-----|
+| CEO | Sovereign restructuring or nation-scale M&A | Country-scale leadership |
+| CFO | Sovereign debt + wealth fund expertise | Fund financial architecture |
+| CTO | Estonia e-gov or Singapore GovTech | Digital state from scratch |
+| COO | PPP concessions (Chile/Colombia model) | Infrastructure at scale |
+| Diaspora Lead | Global Venezuelan networks + tech | Pre-Seed mobilization |
+
+**What founders should have achieved:** rebuilt something from zero, managed capital at scale, built technology serving millions, or led institutional reform.
+:::
+
+---
+
+## Tell us about a time you hacked a non-computer system to your advantage.
+
+The entire plan IS the hack. Every other approach to Venezuelan reconstruction starts with "wait for a government." We reverse-engineered the problem:
+
+1. **The hack:** Start with the diaspora (7.9M people with capital), NOT the government
+2. **The system:** National reconstruction
+3. **The exploit:** You don't need a government to build a citizen investment platform, a transparency dashboard, or a talent census. You need 79,000 people willing to invest $500
+4. **The result:** By the time a government exists, the infrastructure to hold it accountable already exists too
+
+Same insight as Bitcoin: don't fix the system from within — build a parallel system that makes the old one obsolete.
+
+---
+
+## 1-Minute Video (Recommended)
+
+:::info Recommended video script
+**0-10s:** "[Name], founder of Venezuela S.A. — an open-source plan where 40 million Venezuelans are shareholders."
+
+**10-25s:** "Venezuela has the world's largest oil reserves and 82.8% poverty. Our plan uses oil as fuel to build a tech economy. The cheapest hydroelectric energy in the Americas attracts BigTech. The ecosystem diversifies the economy. A sovereign fund pays dividends to every citizen."
+
+**25-45s:** "We already have Chevron operating, $1B+ generated in U.S.-controlled oil sales, Dragon Field gas with Trinidad signed, and a plan with 85+ verifiable sources published on GitHub."
+
+**45-60s:** "The Pre-Seed of $25-60M comes from the diaspora. No government needed. If 1% of 7.9 million invest $500, it's done. Venezuela is not a problem to solve. It's a business to build."
+:::
+
+---
+
+## How did you hear about YC?
+
+This is an open-source national reconstruction plan published on GitHub. We believe Y Combinator's model — build fast, measure, iterate, scale — is exactly what Venezuela needs. Not another government program. A startup with 40 million shareholders.
+
+YC's 2025-2026 "Requests for Startups" includes government/defense tech, climate/energy, and financial infrastructure — Venezuela S.A. sits at the intersection of all three.

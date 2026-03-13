@@ -237,6 +237,88 @@ xychart-beta
 
 ---
 
+## Reforma del Estado: Terapia de Shock Quirúrgica
+
+> Si hay que recortar, se recorta. Pero con bisturí, no con machete. Se elimina redundancia, no servicios esenciales.
+
+### Principio: Recorte Quirúrgico, No Ciego
+
+El Estado venezolano tiene ~2,5 millones de empleados públicos, decenas de ministerios duplicados, misiones clientelares sin rendición de cuentas, y empresas estatales que pierden dinero. La reforma es tipo **terapia de shock**:
+
+```mermaid
+flowchart LR
+    A["Día 1–90<br/>Auditoría total"] --> B["Mes 3–6<br/>Fusión de ministerios<br/>Eliminación de duplicados"]
+    B --> C["Mes 6–12<br/>Jubilación + Reconversión<br/>+ Emprendimiento"]
+    C --> D["Año 1–2<br/>Estado digital<br/>automático, eficiente"]
+    style A fill:#d32f2f,color:#fff
+    style B fill:#e65100,color:#fff
+    style C fill:#f9a825,color:#000
+    style D fill:#558b2f,color:#fff
+```
+
+### Qué Se Corta
+
+| Acción | Detalle | Ahorro estimado |
+|--------|---------|-----------------|
+| **Fusionar ministerios** | De 34 ministerios a 15–18. Eliminar duplicados (ej: 3 ministerios de energía) | USD 500–1.000 M/año |
+| **Eliminar misiones clientelares** | Misiones sin resultados medibles se cierran. Las que funcionan se integran a ministerios | USD 1.000–3.000 M/año |
+| **Cerrar empresas estatales deficitarias** | Auditoría: si pierde dinero y no es estratégica, se privatiza o cierra | USD 500–2.000 M/año |
+| **Eliminar burocracia redundante** | Trámites que se automatizan ya no necesitan funcionarios | Progresivo |
+| **Eliminar subsidios distorsivos** | Gasolina regalada, electricidad gratis → tarifas de mercado con subsidio focalizado para pobres | USD 2.000–5.000 M/año |
+
+### Qué Pasa Con la Gente
+
+No se bota a la calle a nadie sin alternativa. **Tres opciones para cada funcionario público desplazado:**
+
+| Opción | Para quién | Mecanismo |
+|--------|-----------|-----------|
+| **Jubilación anticipada** | Funcionarios >50 años con >15 años de servicio | Pensión Pilar 1 + bonificación de retiro (6–12 meses de salario) |
+| **Reconversión laboral** | Funcionarios <50 años con habilidades reutilizables | Programa de capacitación 6 meses (tech, concesiones, salud, educación) + reubicación en sector privado o concesiones |
+| **Emprendimiento** | Funcionarios con vocación emprendedora | Acceso directo a programas Semilla/Ignite Venezuela (ver [Startups](/05-transformacion/startup-programs)) + capital semilla + exención fiscal 2 años |
+
+```mermaid
+xychart-beta
+    title "Empleados públicos — Transición (miles)"
+    x-axis ["Hoy", "Año 1", "Año 3", "Año 5", "Año 7"]
+    y-axis "Miles de empleados" 0 --> 2600
+    bar [2500, 2000, 1400, 1000, 700]
+```
+
+:::info De 2,5 M a 700 mil
+Singapur gobierna a 5,9 M de personas con ~150 mil empleados públicos. Estonia a 1,3 M con ~130 mil. Venezuela con 40 M NO necesita 2,5 M de funcionarios. Con automatización + concesiones, la meta es ~700 mil empleados públicos al Año 7 — los mejores pagados de LATAM, en las 5 funciones esenciales.
+:::
+
+---
+
+### Recuperación de Fondos Públicos Desviados
+
+> Toda persona o empresa que recibió fondos públicos para un proyecto y no entregó resultados, debe responder.
+
+| Acción | Detalle | Prioridad |
+|--------|---------|-----------|
+| **Fiscalía especializada** | Unidad dedicada a fraude contra el Estado. Independiente, con jurisdicción retroactiva | Año 1 — empieza a investigar |
+| **Auditoría de contratos 2000–2025** | Revisar todos los contratos públicos >USD 1 M. Identificar obras inconclusas, sobrefacturación, fantasmas | Año 1–2 |
+| **Acciones legales civiles y penales** | Demandas contra empresas y personas que recibieron fondos y no entregaron | Año 1–5 (no prioritario pero en marcha) |
+| **Cooperación internacional** | Rastreo de activos en el exterior vía INTERPOL, OFAC, Transparencia Internacional | Año 1+ |
+| **Incentivo whistleblower** | 10–30% de lo recuperado para quien denuncie (modelo [SEC Whistleblower](https://www.sec.gov/whistleblower)) | Desde Día 1 |
+| **Destino de lo recuperado** | **100% al fondo soberano** — no al presupuesto corriente | Permanente |
+
+```mermaid
+flowchart LR
+    A["Auditoría<br/>Contratos 2000-2025"] --> B["Identificar<br/>Fondos desviados"]
+    B --> C["Acciones legales<br/>Civiles + penales"]
+    C --> D["Recuperación<br/>Nacional + Internacional"]
+    D --> E["💰 100% al<br/>Fondo Soberano"]
+    style A fill:#1B3A5C,color:#fff
+    style E fill:#C49A2A,color:#fff
+```
+
+:::caution No es venganza — es rendición de cuentas
+El objetivo no es persecución política. Es que quien robó, devuelva. Quien no cumplió un contrato, responda. Esto envía una señal clara a futuros contratistas y funcionarios: en Venezuela S.A., el dinero público tiene dueño — 40 millones de accionistas.
+:::
+
+---
+
 ## Transición Desde la Pobreza: El Camino Realista
 
 Con 82,8% de pobreza, el modelo final no se implementa el Día 1. Se transiciona:

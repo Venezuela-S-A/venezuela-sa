@@ -71,11 +71,37 @@ docs/
 ├── 04-gobernanza/                ← Anticorrupción, seguridad, modelo estado
 ├── 05-transformacion/            ← Hubs tech, startups, diversificación, IA, educación
 ├── 06-realidad/                  ← Digital, servicios, infraestructura, pensiones, banca
-├── 07-ejecucion/                 ← Timeline, proyecciones, riesgos
+├── 07-ejecucion/                 ← Timeline, proyecciones, riesgos, El Sueño
 ├── 08-pitch/                     ← Anexo inversionistas (español)
 ├── 09-investors/                 ← Investor annex (English)
 ├── referencias.md                ← 85+ fuentes verificables
 └── conclusion.md
+
+skills/                           ← Prompts especializados (formato universal)
+├── experts/                      ← 10 analistas de dominio
+│   ├── oil-energy.md
+│   ├── macroeconomics.md
+│   ├── geopolitics.md
+│   ├── mining-minerals.md
+│   ├── infrastructure.md
+│   ├── governance-legal.md
+│   ├── tourism.md
+│   ├── technology.md
+│   ├── agriculture.md
+│   └── finance-investment.md
+├── perspectives/                 ← 8 voces ideológicas (todo el espectro)
+│   ├── milei.md                  ← Libertario radical
+│   ├── austrian-school.md        ← Escuela Austríaca (Mises, Hayek)
+│   ├── juan-ramon-rallo.md       ← Liberal pragmático
+│   ├── maria-corina-machado.md   ← Líder opositora venezolana
+│   ├── ricardo-hausmann.md       ← Economista desarrollo (Harvard/Venezuela)
+│   ├── lee-kuan-yew.md           ← Estadista pragmático (Singapur)
+│   ├── daron-acemoglu.md         ← Institucionalista (MIT/Nobel)
+│   ├── joseph-stiglitz.md        ← Progresista (Columbia/Nobel)
+│   └── thomas-piketty.md         ← Desigualdad y capital (Paris)
+├── project/                      ← Control de calidad + referencias
+├── tools/                        ← Herramientas de trabajo (6 skills)
+└── evaluate.sh                   ← Evalúa con 7 IAs de frontera en paralelo
 ```
 
 ## Datos clave (referencia rápida)
@@ -127,8 +153,53 @@ docs/
 
 ## Skills y herramientas disponibles
 
-### Quality control (core)
-- `venezuela-s-a` — Control de calidad del plan (estilo, datos, estructura)
+### Panel de expertos (`skills/experts/`) — evaluación técnica
+| Skill | Dominio |
+|-------|---------|
+| `oil-energy` | Petróleo, gas, hidroeléctrica, renovables |
+| `macroeconomics` | PIB, fiscal, fondo soberano, deuda, dolarización |
+| `geopolitics` | EE.UU., China/Rusia, transición, diáspora, sanciones |
+| `mining-minerals` | Arco Minero, oro, hierro, bauxita, tierras raras |
+| `infrastructure` | PPP, electricidad, telecoms, transporte, data centers |
+| `governance-legal` | Reforma estatal, anticorrupción, justicia, policía |
+| `tourism` | Desarrollo destino, eco-turismo, marca país |
+| `technology` | Data centers, ZEETs, estado digital, startups |
+| `agriculture` | Soberanía alimentaria, cacao, café, acuicultura |
+| `finance-investment` | Pre-Seed, bonds, forwards, fondo soberano, sanciones |
+
+### Panel de perspectivas (`skills/perspectives/`) — evaluación ideológica
+| Skill | Perspectiva | Espectro |
+|-------|------------|----------|
+| `milei` | Libertario radical, anti-estatismo | Derecha |
+| `austrian-school` | Escuela Austríaca (Mises, Hayek, Rothbard) | Derecha |
+| `juan-ramon-rallo` | Liberal pragmático, institucionalista | Centro-derecha |
+| `maria-corina-machado` | Opositora venezolana, realidad de terreno | Centro |
+| `ricardo-hausmann` | Complejidad económica, Harvard/Venezuela | Centro |
+| `lee-kuan-yew` | Estadista pragmático, modelo Singapur | Centro |
+| `daron-acemoglu` | Instituciones inclusivas/extractivas, Nobel | Centro |
+| `joseph-stiglitz` | Fallas de mercado, progresismo, Nobel | Centro-izquierda |
+| `thomas-piketty` | Desigualdad, r>g, impuestos progresivos | Izquierda |
+
+### Evaluación multi-AI (`skills/evaluate.sh`)
+
+Un solo comando envía cualquier skill + sección del plan a **7 IAs de frontera** en paralelo vía [OpenRouter](https://openrouter.ai/):
+
+```bash
+export OPENROUTER_API_KEY="sk-or-..."
+./skills/evaluate.sh perspectives/milei docs/07-ejecucion/el-sueno.md
+```
+
+| Modelo | ID OpenRouter |
+|--------|---------------|
+| GPT-5.2 Pro | `openai/gpt-5.2-pro` |
+| Claude Opus 4.6 | `anthropic/claude-opus-4.6` |
+| Gemini 3.1 Pro | `google/gemini-3.1-pro-preview` |
+| DeepSeek V3.2 | `deepseek/deepseek-v3.2-speciale` |
+| Grok 4.20 | `x-ai/grok-4.20-beta` |
+| Qwen 3.5 397B | `qwen/qwen3.5-397b-a17b` |
+| Mistral Large | `mistralai/mistral-large-2512` |
+
+Resultados en `skills/evaluations/`. Formato universal: cualquier IDE/LLM puede leer los skills.
 
 ### Investigación
 - `deep-research` — Research multi-fuente
@@ -148,10 +219,6 @@ docs/
 - `tiktok-captions` — Captions virales
 - `create-promo-video` — Guiones de video promocional
 - `ai-social-media-content` — Contenido para redes
-- `short-form-video` — Videos cortos
-- `video-script-writer` — Guiones de video
-- `social-media-content-repurposer` — Reutilizar contenido entre plataformas
-- `short-form-converter` — Convertir contenido largo a formato corto
 - `instagram-research` — Tendencias Instagram
 - `multi-platform-format-adapter` — Adaptar a múltiples plataformas
 - `copywriting` — Copy de marketing

@@ -74,6 +74,7 @@ const sidebars = {
         "07-ejecucion/timeline",
         "07-ejecucion/proyecciones",
         "07-ejecucion/riesgos",
+        "07-ejecucion/el-sueno",
       ],
     },
     {

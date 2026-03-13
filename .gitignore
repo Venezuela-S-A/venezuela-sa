@@ -30,6 +30,12 @@ npm-debug.log*
 # Skills cache (tracked by skills-lock.json)
 .agents/
 
+# Local skill CLI directory (skills/ is the canonical source)
+skill/
+
+# Evaluation outputs (generated, not tracked)
+skills/evaluations/
+
 # Local Claude settings (user-specific, not project)
 .claude/settings.local.json
 

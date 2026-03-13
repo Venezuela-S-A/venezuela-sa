@@ -18,7 +18,67 @@ const config = {
     mermaid: true,
     format: "md",
   },
-  themes: ["@docusaurus/theme-mermaid"],
+  plugins: [
+    "docusaurus-graph",
+    [
+      "@coffeecup_tech/docusaurus-plugin-structured-data",
+      {
+        verbose: false,
+        docsDir: "docs",
+        baseSchema: {
+          organization: {
+            "@id": "https://venezuela-s-a.github.io/venezuela-sa/#organization",
+            "@type": "Organization",
+            name: "Venezuela S.A.",
+            url: "https://venezuela-s-a.github.io/venezuela-sa/",
+          },
+          website: {
+            "@id": "https://venezuela-s-a.github.io/venezuela-sa/#website",
+            "@type": "WebSite",
+            name: "Venezuela S.A. — Plan de Reconstrucción Nacional",
+            url: "https://venezuela-s-a.github.io/venezuela-sa/",
+          },
+        },
+      },
+    ],
+    [
+      "@docusaurus/plugin-ideal-image",
+      {
+        quality: 85,
+        max: 1030,
+        min: 640,
+        steps: 4,
+        disableInDev: true,
+      },
+    ],
+    [
+      "@docusaurus/plugin-pwa",
+      {
+        debug: false,
+        offlineModeActivationStrategies: [
+          "appInstalled",
+          "standalone",
+          "queryString",
+        ],
+        pwaHead: [
+          { tagName: "link", rel: "icon", href: "/img/favicon.ico" },
+          { tagName: "link", rel: "manifest", href: "/manifest.json" },
+          { tagName: "meta", name: "theme-color", content: "#1b1b1d" },
+        ],
+      },
+    ],
+  ],
+  themes: [
+    "@docusaurus/theme-mermaid",
+    [
+      "@cmfcmf/docusaurus-search-local",
+      {
+        language: "es",
+        indexBlog: false,
+        indexPages: false,
+      },
+    ],
+  ],
   presets: [
     [
       "classic",
@@ -30,6 +90,14 @@ const config = {
             `https://github.com/Venezuela-S-A/venezuela-sa/issues/new?title=${encodeURIComponent(`Editar: ${docPath}`)}&body=${encodeURIComponent(`## Página\n\`${docPath}\`\n\n## Sugerencia\n\n_Describe qué cambiarías, qué dato es incorrecto o qué falta._\n`)}`,
           numberPrefixParser: false,
           routeBasePath: "/",
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
+        },
+        sitemap: {
+          lastmod: "date",
+          changefreq: "weekly",
+          priority: 0.5,
+          filename: "sitemap.xml",
         },
         theme: { customCss: "./src/css/custom.css" },
       }),

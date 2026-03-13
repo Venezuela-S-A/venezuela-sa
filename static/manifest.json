@@ -1,0 +1,16 @@
+{
+  "name": "Venezuela S.A. — Plan de Reconstrucción Nacional",
+  "short_name": "Venezuela S.A.",
+  "theme_color": "#1b1b1d",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/venezuela-sa/",
+  "start_url": "/venezuela-sa/",
+  "icons": [
+    {
+      "src": "img/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}

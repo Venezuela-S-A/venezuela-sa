@@ -1,0 +1,302 @@
+[
+  {
+    "id": "diagnostico",
+    "title": "Diagnóstico: Dónde Estamos (Datos Duros)",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "fase-0-emergencia",
+    "title": "Fase 0: Emergencia Humanitaria (Primeros 180 Días)",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "tesis-central",
+    "title": "Tesis Central: Por Qué Este Plan Es Diferente",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "contratos-forward",
+    "title": "Contratos Forward de Petróleo a Precio Garantizado",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "deuda",
+    "title": "Reestructuración de la Deuda: USD 150–170.000 M",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "enfermedad-holandesa",
+    "title": "Enfermedad Holandesa: La Trampa que Hay que Evitar",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "fondo-soberano",
+    "title": "Fondo Soberano: El Modelo Noruega",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "inversion-inicial-fuentes",
+    "title": "Inversión Total: USD 550.000–750.000 M en 15 Años",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "transicion-fiscal",
+    "title": "Transición Fiscal: Del Petroestado al Fondo Soberano",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "diaspora",
+    "title": "Diáspora: Red Bilateral de 7,9 Millones de Nodos",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "inversion-ciudadana",
+    "title": "Inversión Ciudadana Universal: Todos Somos Socios",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "los-que-se-quedaron",
+    "title": "Los 32 Millones Que Se Quedaron",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "retorno-diaspora",
+    "title": "Programa de Retorno: Traer el Talento de Vuelta",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "anticorrupcion-checklist",
+    "title": "Checklist: Implementación Anticorrupción por Fase",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "estado-derecho-moneda",
+    "title": "Estado de Derecho, Marco Legal y Reforma Monetaria",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "geopolitica",
+    "title": "Realidad Geopolítica: EE.UU. Controla el Petróleo",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "justicia-transicional",
+    "title": "Justicia Transicional: El Dilema que Nadie Quiere Abordar",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "modelo-estado",
+    "title": "Modelo de Estado Eficiente: Impuestos, No Petróleo",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "seguridad-fisica",
+    "title": "Seguridad Física: Sin Seguridad No Hay Inversión",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "sistema-antifragil",
+    "title": "Gobernanza: Diseño de Sistema Anti-Frágil",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "capital-humano",
+    "title": "Capital Humano: El Cuello de Botella Invisible",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "comercio-exterior",
+    "title": "Comercio Exterior y Acuerdos Bilaterales",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "diversificacion",
+    "title": "Los Seis Motores de Diversificación",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "educacion",
+    "title": "Educación Rediseñada para la Era IA",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "hubs-tech",
+    "title": "5 Zonas Económicas Especiales Tech (ZEET)",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "impacto-ia",
+    "title": "Impacto de la IA: Anticiparse a la Transformación",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "oportunidades-negocio",
+    "title": "Oportunidades de Negocio: 200+ Startups que Venezuela Necesita",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "startup-programs",
+    "title": "Venezuela Emprende: Ecosistema de Aceleración",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "esg-ejecucion",
+    "title": "Sostenibilidad ESG y Gobernanza de Ejecución",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "estado-digital",
+    "title": "Estado Digital: Reducir, Digitalizar, Automatizar",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "infraestructura-basica",
+    "title": "Infraestructura Básica: Telecomunicaciones, Agua, Vivienda, Transporte y Agricultura",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "pensiones-seguridad-social",
+    "title": "Pensiones y Seguridad Social: La Deuda Con los Mayores",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "servicios-publicos",
+    "title": "Servicios Públicos: Estándares Internacionales",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "sistema-financiero",
+    "title": "Sistema Bancario y Financiero: Reconstruir el Crédito",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "el-sueno",
+    "title": "El Sueño: Escenario Optimista Integrado",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "evaluacion-perspectivas",
+    "title": "Evaluación Multi-Perspectiva del Plan",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "proyecciones",
+    "title": "Proyecciones Consolidadas (Base USD 60/barril)",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "riesgos",
+    "title": "Riesgos: Matriz de Amenazas y Mitigación",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "timeline",
+    "title": "Timeline Realista (Basado en Rystad Energy)",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "business-model-canvas",
+    "title": "Business Model Canvas — Venezuela S.A.",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "pitch-deck",
+    "title": "Pitch Deck — Venezuela S.A.",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "resumen-ejecutivo",
+    "title": "Resumen Ejecutivo — Venezuela S.A.",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "tam-sam-som",
+    "title": "Total Market: TAM / SAM / SOM",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "yc-application",
+    "title": "Y Combinator Application — Venezuela S.A.",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "executive-summary",
+    "title": "Executive Summary — Venezuela S.A.",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "conclusion",
+    "title": "Conclusión: La Oferta",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "intro",
+    "title": "Venezuela S.A.",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "referencias",
+    "title": "85+ Fuentes Verificables",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "milei-argentina-2024-2026",
+    "title": "Investigación: Reformas de Milei en Argentina (2024–2026)",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "modelos-chile-comparados-global",
+    "title": "Investigacion: Modelos Chilenos vs. Alternativas Mundiales",
+    "linkTo": [],
+    "referencedBy": []
+  }
+]

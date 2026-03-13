@@ -110,6 +110,74 @@ Cuando el Estado concesiona infraestructura, telecoms o servicios a privados, la
 
 ---
 
+## El Dividendo Real: Cómo Llegar a USD 400/Mes
+
+:::danger La matemática del dividendo en efectivo no cierra
+USD 400/mes × 40M personas × 12 meses = **USD 192B/año**. El PIB actual es USD 83B. Ni siquiera en año 15 (PIB ~USD 350B) es posible repartir USD 192B en cheques. Alaska paga **USD 1.000/año** (USD 83/mes) a 730.000 personas — no a 40M. El dividendo en efectivo del fondo será siempre simbólico: **USD 22-65/persona/año** en el mejor caso.
+:::
+
+### Redefinición: El dividendo no es un cheque — es un ecosistema
+
+La canasta básica familiar cuesta **USD 677/mes** para 5 personas (~**USD 135/persona/mes**) ([CENDAS, mar. 2026](https://lapatilla.com/2026/03/03/canasta-alimentaria-ya-cuesta-677-dolares-y-el-salario-no-alcanza-ni-para-el-1-segun-cendas/)). El plan no llega ahí con un cheque. Llega con un **Paquete de Valor Ciudadano (PVC)** que combina 7 componentes:
+
+| # | Componente | Valor/mes (año 3) | Valor/mes (año 5) | Cómo se entrega |
+|---|-----------|-------------------|-------------------|----------------|
+| 1 | **Salud gratuita universal** | USD 40-60 | USD 60-100 | Hospitales rehabilitados, medicamentos, cirugías sin costo. Ahorra lo que hoy gastan en clínicas privadas o se mueren sin atención |
+| 2 | **Educación gratuita K-12 + universidad** | USD 30-50 | USD 50-80 | Escuelas con maestros pagados, materiales, comida escolar. Ahorra tutores privados y útiles |
+| 3 | **Empleo formal** (el mayor impacto) | USD 150-300 | USD 300-500 | De USD 3.50/mes (salario mínimo actual) a USD 300-500/mes en construcción, servicios, tech, agro. El plan crea **1-3M de empleos directos** |
+| 4 | **Infraestructura que funciona** | USD 20-40 | USD 40-60 | Electricidad 24/7, agua potable, transporte público. Hoy gastan en plantas, tanques de agua, taxis por falta de transporte |
+| 5 | **Seguridad** | USD 15-25 | USD 25-40 | No te roban, no pagas "vacuna", no pierdes mercancía. El crimen es un impuesto invisible al pobre |
+| 6 | **Título de propiedad** | — | USD 10-20 | Vivienda con título = crédito, herencia, inversión. Desbloquea USD 50-100B en activos informales (De Soto) |
+| 7 | **Dividendo en efectivo** | USD 2-5 | USD 10-20 | Del fondo soberano. Simbólico al inicio, crece con el fondo |
+| | **TOTAL PVC** | **USD 260-480** | **USD 495-820** | |
+
+```mermaid
+xychart-beta
+    title "Paquete de Valor Ciudadano — USD/mes por componente (Ano 5)"
+    x-axis ["Empleo", "Salud", "Educacion", "Infraestr.", "Seguridad", "Titulo", "Efectivo"]
+    y-axis "USD/mes" 0 --> 500
+    bar [400, 80, 65, 50, 32, 15, 15]
+```
+
+### La clave es el empleo, no el cheque
+
+| Fuente de empleo | Empleos directos (año 5) | Salario promedio | Modelo |
+|-----------------|-------------------------|-----------------|--------|
+| **Construcción/infraestructura** | 500.000-1.000.000 | USD 300-500/mes | [India NREGA](https://nrega.nic.in/) adaptado |
+| **Petróleo y gas** (JVs) | 100.000-200.000 | USD 500-1.500/mes | Directos + cadena de valor |
+| **Servicios (salud, educación, seguridad)** | 300.000-500.000 | USD 300-600/mes | Plazas públicas con salarios dignos |
+| **Tech/digital** | 50.000-100.000 | USD 800-2.500/mes | Bootcamps → empleo remoto global |
+| **Agroindustria** | 200.000-400.000 | USD 200-400/mes | Formalización + tecnificación |
+| **Turismo** | 100.000-200.000 | USD 250-500/mes | Zonas piloto seguras |
+| **Comercio/servicios formalizados** | 500.000-1.000.000 | USD 200-400/mes | Microempresas + monotributo |
+| **TOTAL** | **1.750.000-3.400.000** | **USD 300-600 promedio** | |
+
+:::tip Empleo > dividendo
+Un empleo de USD 400/mes genera **USD 4.800/año** por ciudadano — vs. USD 65/año de dividendo del fondo. El empleo es **74x más efectivo** que el dividendo en efectivo para sacar gente de la pobreza. El fondo soberano es para el largo plazo (generaciones). El empleo es para AHORA.
+:::
+
+### Acelerador: Del dividendo simbólico al dividendo real
+
+| Año | Efectivo (fondo) | Servicios | Empleo | **PVC total** |
+|-----|-----------------|-----------|--------|--------------|
+| 1 | USD 0 | USD 50-80/mes | USD 100-200/mes (emergencia) | **USD 150-280/mes** |
+| 3 | USD 2-5/mes | USD 120-180/mes | USD 200-350/mes | **USD 320-535/mes** |
+| 5 | USD 10-20/mes | USD 180-260/mes | USD 300-500/mes | **USD 490-780/mes** |
+| 10 | USD 30-50/mes | USD 250-350/mes | USD 500-800/mes | **USD 780-1.200/mes** |
+| 15 | USD 50-100/mes | USD 300-400/mes | USD 800-1.500/mes | **USD 1.150-2.000/mes** |
+
+### La narrativa que falta
+
+:::info El joven de Petare
+El plan necesita una historia, no solo tablas. Imagina: un joven de 22 años en Petare. Hoy gana USD 50/mes en economía informal. En año 1, se inscribe en un bootcamp de 6 meses con estipendio de USD 200/mes. En año 2, consigue empleo remoto ganando USD 800/mes. Invirtió USD 10 en bonos ciudadanos que ya valen USD 15. Su mamá va al hospital rehabilitado sin pagar. Su hermana menor tiene escuela con comida gratis. La calle donde vive ya no la controla una banda.
+
+Ese joven cuenta la historia en TikTok. Eso vale más que 100 páginas de proyecciones.
+
+**Sin esa narrativa, el plan son tablas y gráficos. Con ella, es un movimiento.**
+:::
+
+---
+
 ## Resolución del Conflicto: Retornados vs. Residentes
 
 :::caution Tensión predecible

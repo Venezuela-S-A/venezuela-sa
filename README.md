@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🇻🇪 Venezuela S.A.</h1>
+  <h1 align="center">Venezuela S.A.</h1>
   <p align="center"><strong>La Empresa de 40 Millones de Socios</strong></p>
   <p align="center"><em>The 40-Million-Shareholder Company</em></p>
 </p>
@@ -16,79 +16,99 @@
 
 <a name="español"></a>
 
-## 🇪🇸 Español
+## Español
 
-### ¿Qué es esto?
+### Que es esto?
 
-Un plan de reconstrucción nacional donde **cada venezolano es accionista**. No es un plan de gobierno. Es un modelo de negocio con rondas de financiamiento, métricas verificables y una tesis clara:
+Un plan de reconstruccion nacional donde **cada venezolano es accionista**. No es un plan de gobierno. Es un modelo de negocio con rondas de financiamiento, metricas verificables y una tesis clara:
 
-> **El petróleo es el combustible. La tecnología es el destino.**
+> **El petroleo es el combustible. La tecnologia es el destino.**
 
-Venezuela posee [303.000 millones de barriles](https://www.opec.org/assets/assetdb/asb-2025.pdf) de reservas petroleras y [18 GW de potencial hidroeléctrico](https://news.mongabay.com/2023/08/hydropower-in-the-pan-amazon-the-guri-complex-and-the-caroni-cascade/). El petróleo genera ingresos, la energía barata atrae BigTech, el ecosistema tech diversifica la economía. Cada venezolano — dentro o fuera del país — puede invertir desde USD $10 y recibir dividendos.
+Venezuela posee [303.000 millones de barriles](https://www.opec.org/assets/assetdb/asb-2025.pdf) de reservas petroleras y [18 GW de potencial hidroelectrico](https://news.mongabay.com/2023/08/hydropower-in-the-pan-amazon-the-guri-complex-and-the-caroni-cascade/). El petroleo genera ingresos, la energia barata atrae BigTech, el ecosistema tech diversifica la economia. Cada venezolano — dentro o fuera del pais — puede invertir desde USD $10 y recibir dividendos.
 
-### Los números clave
+### Los numeros clave
 
 | Indicador | Dato | Fuente |
 |-----------|------|--------|
 | Reservas petroleras | 303.000 M barriles | [OPEP 2025](https://www.opec.org/assets/assetdb/asb-2025.pdf) |
-| Inversión para 3M bpd | USD 183.000 M / 15 años | [Rystad Energy, ene. 2026](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/) |
-| Inversión total del plan | USD 550.000–750.000 M / 15 años | [Detalle](/02-motor-financiero/inversion-inicial-fuentes) |
+| Inversion para 3M bpd | USD 183.000 M / 15 anos | [Rystad Energy, ene. 2026](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/) |
+| Inversion total del plan | USD 550.000-750.000 M / 15 anos | [Detalle](https://venezuela-s-a.github.io/venezuela-sa/02-motor-financiero/inversion-inicial-fuentes) |
 | Precio base del plan | **USD 60/barril** | [EIA STEO, mar. 2026](https://www.eia.gov/outlooks/steo/) |
-| Diáspora | 7,9 M personas | [UNHCR, dic. 2025](https://www.unhcr.org/us/emergencies/venezuela-situation) |
-| Fondo Soberano (meta año 15) | USD 250.000–400.000 M | [Proyecciones](/07-ejecucion/proyecciones) |
-| Fuentes verificables | **85+** | [Ver todas](/referencias) |
+| Diaspora | 7,9 M personas | [UNHCR, dic. 2025](https://www.unhcr.org/us/emergencies/venezuela-situation) |
+| Fondo Soberano (meta ano 15) | USD 250.000-400.000 M | [Proyecciones](https://venezuela-s-a.github.io/venezuela-sa/07-ejecucion/proyecciones) |
+| Fuentes verificables | **85+** | [Ver todas](https://venezuela-s-a.github.io/venezuela-sa/referencias) |
 
 ### Las rondas de financiamiento
 
 ```
 Pre-Seed ──→ Seed ──→ Series A ──→ Series B ──→ IPO
-Diáspora     Bonos    Forwards     Petróleo     VIN a
+Diaspora     Bonos    Forwards     Petroleo     VIN a
 USD 25-60M   + Fwd    + Majors     + BigTech    mercados
-Día 1        Año 1-2  Año 2-4      Año 4-8      Año 8-12
+Dia 1        Ano 1-2  Ano 2-4      Ano 4-8      Ano 8-12
 (SIN GOB.)
 ```
 
 ### Estructura del plan
 
-El plan tiene **30 secciones** organizadas en 7 categorías, con **30+ gráficos interactivos** (Mermaid):
+**37 secciones** organizadas en 9 categorias, con **40+ graficos interactivos** (Mermaid):
 
-| # | Categoría | Secciones |
+| # | Categoria | Secciones |
 |---|-----------|-----------|
-| 🏗️ | **Fundamentos** | Tesis Central · Diagnóstico · Fase 0 Emergencia |
-| ⛽ | **Motor Financiero** | Contratos Forward · Fondo Soberano · Deuda · Inversión y Fuentes · Transición Fiscal |
-| 🤝 | **Ciudadanos** | Inversión Ciudadana · Diáspora · Programa de Retorno |
-| 🛡️ | **Gobernanza** | Sistema Anti-Frágil · Anticorrupción · Geopolítica · Estado de Derecho · Seguridad · Modelo de Estado |
-| 🚀 | **Transformación** | Hubs Tech · Startups · Diversificación · Impacto IA · Educación · Comercio Exterior |
-| 🏛️ | **Estado y Servicios** | Estado Digital · Servicios Públicos · Infraestructura · ESG · Pensiones · Sistema Financiero |
-| 📊 | **Ejecución** | Timeline · Proyecciones · Riesgos |
+| 1 | **Fundamentos** | Tesis Central - Diagnostico - Fase 0 Emergencia |
+| 2 | **Motor Financiero** | Contratos Forward - Fondo Soberano - Deuda - Inversion y Fuentes - Transicion Fiscal - Enfermedad Holandesa |
+| 3 | **Ciudadanos y Diaspora** | Inversion Ciudadana - Diaspora - Retorno - Los que se Quedaron |
+| 4 | **Gobernanza y Seguridad** | Sistema Anti-Fragil - Anticorrupcion - Geopolitica - Estado de Derecho - Seguridad Fisica - Modelo de Estado - Justicia Transicional - Blindaje de Integridad |
+| 5 | **Transformacion** | Hubs Tech - Startups - Diversificacion - Impacto IA - Educacion - Comercio Exterior - Capital Humano - Oportunidades Startups - Oportunidades Empresas |
+| 6 | **Estado y Servicios** | Estado Digital - Servicios Publicos - Infraestructura - ESG - Pensiones - Sistema Financiero |
+| 7 | **Ejecucion** | Timeline - Proyecciones - Riesgos - El Sueno - Evaluacion Multi-Perspectiva |
+| 8 | **Anexo: Inversionistas (ES)** | Resumen Ejecutivo - Business Model Canvas - TAM/SAM/SOM - YC Application - Pitch Deck |
+| 9 | **Annex: Investors (EN)** | Executive Summary - Business Model Canvas - TAM/SAM/SOM - YC Application - Pitch Deck |
 
-### Filosofía del modelo
+### Anticorrupcion: lo que nos diferencia
+
+Venezuela desvio **USD 300.000+ M** via FONDEN entre 2005-2015. Este plan mapea **12 patrones de corrupcion** en **14 areas** con mitigaciones especificas:
+
+- Blindaje anti-empresas de maletin (registro de beneficiarios finales, pre-calificacion, debarment)
+- Proteccion anti-sobreprecios tipo CLAP (base de datos de precios referenciales, sin intermediarios)
+- 7 capas de defensa (prevencion → transparencia → deteccion IA → denuncia → investigacion → sancion → retroalimentacion)
+- Penas de 15-30 anos + decomiso hasta 3ra generacion
+- KPIs de integridad medibles anualmente
+- Costo del sistema: <0.1% del gasto total. ROI: 4-8x.
+
+### Evaluacion multi-perspectiva
+
+El plan ha sido evaluado por un panel de **9 perspectivas ideologicas** (de Milei a Piketty) y **14 expertos de dominio**. Score actual: **6.2/10** — con fortalezas reconocidas en anticorrupcion y transparencia, y debilidades identificadas en secuenciacion y capacidad institucional.
+
+Ademas, el script `skills/evaluate.sh` envia cualquier seccion a **7 IAs de frontera** (GPT-5.2, Claude Opus 4.6, Gemini 3.1, DeepSeek V3.2, Grok 4.20, Qwen 3.5, Mistral Large) en paralelo para evaluacion independiente.
+
+### Filosofia del modelo
 
 | Principio | Detalle |
 |-----------|---------|
-| **El Estado vive de impuestos, no de petróleo** | Petróleo 100% al fondo soberano. Impuestos razonables (15% flat + 12% IVA) financian lo esencial |
-| **5 funciones del Estado** | Gobierno, salud, justicia, educación, seguridad. Todo lo demás es concesión o mercado privado |
-| **Salud para todos, vejez digna para todos** | Piso universal garantizado + opciones privadas para quien quiera más |
-| **Libertad de vida, económica y religiosa** | Derechos constitucionales. El Estado no es tu papá. Es tu plataforma |
-| **Automatizar todo lo posible** | Gobierno digital (modelo Estonia), menos burocracia, menos corrupción |
-| **Reforma quirúrgica** | Recortar redundancia, fusionar ministerios, recuperar fondos desviados → al fondo soberano |
+| **El Estado vive de impuestos, no de petroleo** | Petroleo 100% al fondo soberano. 15% flat + 12% IVA financian lo esencial |
+| **5 funciones del Estado** | Gobierno, salud, justicia, educacion, seguridad. Todo lo demas es concesion |
+| **Salud para todos, vejez digna para todos** | Piso universal garantizado + opciones privadas |
+| **Libertad de vida, economica y religiosa** | El Estado es plataforma, no patron |
+| **Automatizar todo lo posible** | Gobierno digital (modelo Estonia), menos burocracia, menos corrupcion |
+| **Reforma quirurgica** | Fusionar ministerios (34→15), recuperar fondos desviados → al fondo soberano |
 
-### ¿Cómo contribuir?
+### Como contribuir?
 
-Lee [CONTRIBUTING.md](CONTRIBUTING.md). Este es un proyecto abierto pero con contribuciones controladas (PR review). Toda contribución debe incluir fuentes verificables.
+Lee [CONTRIBUTING.md](CONTRIBUTING.md). Proyecto abierto con contribuciones controladas (PR review). Toda contribucion debe incluir fuentes verificables.
 
 **Formas de aportar:**
-- 📊 Datos: Encuentra datos más recientes o más precisos
-- 📝 Contenido: Mejora redacción, agrega secciones
-- 🌐 Traducción: Traduce secciones al inglés u otros idiomas
-- 💻 Código: Mejora el sitio Docusaurus, crea visualizaciones
-- 🔍 Verificación: Audita fuentes y cálculos existentes
+- Datos: Encuentra datos mas recientes o mas precisos
+- Contenido: Mejora redaccion, agrega secciones
+- Traduccion: Traduce secciones al ingles u otros idiomas
+- Codigo: Mejora el sitio Docusaurus, crea visualizaciones
+- Verificacion: Audita fuentes y calculos existentes
+- Evaluacion: Usa los skills de perspectivas/expertos para evaluar secciones
 
 ---
 
 <a name="english"></a>
 
-## 🇬🇧 English
+## English
 
 ### What is this?
 
@@ -104,11 +124,11 @@ Venezuela holds [303 billion barrels](https://www.opec.org/assets/assetdb/asb-20
 |-----------|------|--------|
 | Oil reserves | 303B barrels | [OPEC 2025](https://www.opec.org/assets/assetdb/asb-2025.pdf) |
 | Investment for 3M bpd | USD 183B / 15 years | [Rystad Energy, Jan 2026](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/) |
-| Total plan investment | USD 550–750B / 15 years | [Detail](/02-motor-financiero/inversion-inicial-fuentes) |
+| Total plan investment | USD 550-750B / 15 years | [Detail](https://venezuela-s-a.github.io/venezuela-sa/02-motor-financiero/inversion-inicial-fuentes) |
 | Plan base price | **USD 60/barrel** | [EIA STEO, Mar 2026](https://www.eia.gov/outlooks/steo/) |
 | Diaspora | 7.9M people | [UNHCR, Dec 2025](https://www.unhcr.org/us/emergencies/venezuela-situation) |
-| Sovereign Fund (year 15 target) | USD 250–400B | [Projections](/07-ejecucion/proyecciones) |
-| Verifiable sources | **85+** | [See all](/referencias) |
+| Sovereign Fund (year 15 target) | USD 250-400B | [Projections](https://venezuela-s-a.github.io/venezuela-sa/07-ejecucion/proyecciones) |
+| Verifiable sources | **85+** | [See all](https://venezuela-s-a.github.io/venezuela-sa/referencias) |
 
 ### The core thesis
 
@@ -117,16 +137,31 @@ Venezuela holds [303 billion barrels](https://www.opec.org/assets/assetdb/asb-20
 3. **BigTech generates ecosystem** → engineers, startups, services, education
 4. **Ecosystem diversifies economy** → oil drops from 95% to <40% of exports
 
+### Anti-corruption: what sets this plan apart
+
+Venezuela diverted **USD 300B+** via FONDEN between 2005-2015. This plan maps **12 corruption patterns** across **14 areas** with specific mitigations:
+
+- Shell company shields (beneficial ownership registry, pre-qualification, debarment)
+- Anti-overpricing protections (reference price databases, no unregistered intermediaries)
+- 7 defense layers (prevention → transparency → AI detection → whistleblower → investigation → sanctions → feedback)
+- Penalties: 15-30 years + asset seizure up to 3rd generation
+- Measurable integrity KPIs (annual)
+- System cost: <0.1% of total spend. ROI: 4-8x.
+
+### Multi-perspective evaluation
+
+Evaluated by a panel of **9 ideological perspectives** (from libertarian to progressive) and **14 domain experts**. Current score: **6.2/10** — strong on anti-corruption and transparency, with identified weaknesses in sequencing and institutional capacity.
+
 ### Model philosophy
 
 | Principle | Detail |
 |-----------|--------|
-| **State lives on taxes, not oil** | Oil goes 100% to sovereign fund. Moderate taxes (15% flat + 12% VAT) fund essentials |
-| **5 state functions only** | Government, health, justice, education, security. Everything else is concession or private market |
-| **Healthcare for all, dignified retirement for all** | Universal floor guaranteed + private options for those who want more |
-| **Freedom of life, economic and religious** | Constitutional rights. The State is not your parent. It's your platform |
+| **State lives on taxes, not oil** | Oil goes 100% to sovereign fund. 15% flat + 12% VAT fund essentials |
+| **5 state functions only** | Government, health, justice, education, security. Everything else is concession |
+| **Healthcare for all, dignified retirement for all** | Universal floor guaranteed + private options |
+| **Freedom of life, economic and religious** | The State is your platform, not your parent |
 | **Automate everything possible** | Digital government (Estonia model), less bureaucracy, less corruption |
-| **Surgical reform** | Cut redundancy, merge ministries, recover diverted funds → to sovereign fund |
+| **Surgical reform** | Merge ministries (34→15), recover diverted funds → to sovereign fund |
 
 ### How to contribute
 
@@ -134,7 +169,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md). Open source with controlled contributio
 
 ---
 
-## 📁 Estructura del repo / Repo structure
+## Repo structure
 
 ```
 venezuela-sa/
@@ -143,43 +178,46 @@ venezuela-sa/
 ├── CONTRIBUTING.md              ← How to contribute
 ├── CODE_OF_CONDUCT.md           ← Community standards
 ├── LICENSE                      ← CC BY-SA 4.0
-├── docs/                        ← Plan completo (30 secciones)
-│   ├── intro.md                 ← Visión general + embudo energético
-│   ├── 01-fundamentos/          ← Tesis, diagnóstico, emergencia
-│   ├── 02-motor-financiero/     ← Forwards, fondo, deuda, fiscal
-│   ├── 03-ciudadanos/           ← Inversión, diáspora, retorno
-│   ├── 04-gobernanza/           ← Anticorrupción, seguridad, modelo de estado
-│   ├── 05-transformacion/       ← Tech, startups, diversificación, comercio
+├── docs/                        ← Plan completo (37 secciones)
+│   ├── intro.md                 ← Vision general + embudo energetico
+│   ├── 01-fundamentos/          ← Tesis, diagnostico, emergencia
+│   ├── 02-motor-financiero/     ← Forwards, fondo, deuda, fiscal, Dutch Disease
+│   ├── 03-ciudadanos/           ← Inversion, diaspora, retorno, los que se quedaron
+│   ├── 04-gobernanza/           ← Anticorrupcion, seguridad, justicia, blindaje integridad
+│   ├── 05-transformacion/       ← Tech, startups, diversificacion, oportunidades negocio
 │   ├── 06-realidad/             ← Digital, infraestructura, pensiones, banca
-│   ├── 07-ejecucion/            ← Timeline, proyecciones, riesgos
-│   ├── research/                ← Investigaciones (Milei, modelos Chile/Singapur)
+│   ├── 07-ejecucion/            ← Timeline, proyecciones, riesgos, evaluacion
+│   ├── 08-pitch/                ← Anexo inversionistas (espanol)
+│   ├── 09-investors/            ← Investor annex (English)
 │   ├── referencias.md           ← 85+ fuentes verificables
 │   └── conclusion.md
-├── .claude/                     ← Skills y reglas para colaboradores con Claude Code
-│   ├── rules/                   ← Estándares de desarrollo
-│   └── skills/                  ← Quality control, mermaid, research, etc.
-├── skill/                       ← Venezuela S.A. quality control skill
-├── docusaurus.config.js         ← Site configuration (v3, Mermaid enabled)
-├── sidebars.js                  ← Navigation (30 sections)
+├── skills/                      ← Prompts especializados (formato universal)
+│   ├── experts/                 ← 14 analistas de dominio
+│   ├── perspectives/            ← 9 voces ideologicas (Milei a Piketty)
+│   ├── tools/                   ← 10 herramientas (research, charts, copy, etc.)
+│   ├── project/                 ← Quality control skill
+│   └── evaluate.sh              ← Evaluacion con 7 IAs de frontera en paralelo
+├── docusaurus.config.js         ← Site config (v3, Mermaid, PWA, search, graph)
+├── sidebars.js                  ← Navigation (37 sections)
 └── .github/
     ├── workflows/deploy.yml     ← Auto-deploy to GitHub Pages
     ├── ISSUE_TEMPLATE/
     └── PULL_REQUEST_TEMPLATE.md
 ```
 
-## ⚖️ Licencia / License
+## Licencia / License
 
 [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Puedes copiar, redistribuir, adaptar y construir sobre este plan, incluso comercialmente, siempre que des crédito y compartas con la misma licencia.
+Puedes copiar, redistribuir, adaptar y construir sobre este plan, incluso comercialmente, siempre que des credito y compartas con la misma licencia.
 
 You are free to copy, redistribute, adapt and build upon this plan, even commercially, as long as you give credit and share under the same license.
 
-## 🌟 Star este repo
+## Star este repo
 
-Si crees que Venezuela merece un plan basado en datos y no en promesas, dale ⭐ a este repo. Cada star es un voto de confianza.
+Si crees que Venezuela merece un plan basado en datos y no en promesas, dale estrella a este repo. Cada star es un voto de confianza.
 
-If you believe Venezuela deserves a plan based on data, not promises, ⭐ this repo. Every star is a vote of confidence.
+If you believe Venezuela deserves a plan based on data, not promises, star this repo. Every star is a vote of confidence.
 
 ---
 

@@ -44,6 +44,7 @@ const sidebars = {
         "04-gobernanza/seguridad-fisica",
         "04-gobernanza/modelo-estado",
         "04-gobernanza/justicia-transicional",
+        "04-gobernanza/blindaje-integridad",
       ],
     },
     {

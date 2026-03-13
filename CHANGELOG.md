@@ -6,6 +6,30 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
 ---
 
+## [1.5.0] — 2026-03-13
+
+### Añadido — 10 Nuevas Perspectivas
+- **Marco Rubio** (`marco-rubio.md`): Secretario de Estado EE.UU., sanciones, hemisferio, Cuba/China/Rusia
+- **Elon Musk** (`elon-musk.md`): First principles, energía/tech, DOGE, compresión de timelines
+- **Nayib Bukele** (`nayib-bukele.md`): Transformación rápida, seguridad primero, resultados visibles
+- **Ray Dalio** (`ray-dalio.md`): Macro-inversor, ciclos de deuda, changing world order
+- **Andrés Oppenheimer** (`andres-oppenheimer.md`): Periodista LATAM, innovación, educación, narrativa
+- **VisualPolitik** (`visualpolitik.md`): Geopolítica divulgativa, modelos internacionales
+- **VisualEconomik** (`visualeconomik.md`): Economía divulgativa, verificación de datos
+- **Panel Unicornios LATAM** (`unicornios-latam.md`): 10 fundadores (MercadoLibre, Nubank, Globant, Rappi, etc.)
+- **Panel Tech Giants** (`tech-giants.md`): 10 CEOs (AWS, Microsoft, Google, NVIDIA, OpenAI, Meta, etc.)
+- **Panel Venture Capital** (`venture-capital.md`): 10 VCs (YC, Sequoia, a16z, SoftBank, BlackRock, Oaktree, etc.)
+
+### Cambiado — Re-evaluación con 19 Perspectivas
+- **evaluacion-perspectivas.md**: reescrito completo con 19 perspectivas (9 ideológicas + 10 operativas/inversor)
+- Score: **6.2 → 6.8/10** (+10%)
+- Gobernanza sube a 7.5 (+1.1), Realidad sigue más baja en 6.0
+- Hallazgo crítico: score académico (7.0+) vs score inversor (5.3-5.8) — gap plan vs. producto
+- 10 puntos ciegos nuevos, 10 consensos, 8 debilidades persistentes
+- Top 10 recomendaciones priorizadas con impacto estimado
+
+---
+
 ## [1.4.0] — 2026-03-13
 
 ### Añadido — Blindaje de Integridad y Justicia Reforzada

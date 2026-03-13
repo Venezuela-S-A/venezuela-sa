@@ -6,6 +6,90 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
 ---
 
+## [1.4.0] — 2026-03-13
+
+### Añadido — Blindaje de Integridad y Justicia Reforzada
+- **Blindaje de integridad** (`blindaje-integridad.md`): mapa completo de 12 patrones de corrupción × 14 áreas del plan con mitigaciones específicas
+- Anatomía del patrón CLAP (sobreprecios vía intermediarios): flowchart, controles, precios referenciales
+- Heat map patrón × área para priorizar mitigaciones
+- 5 vulnerabilidades estructurales no cubiertas por controles estándar (FANB, geopolítica, absorción, sustitución, seguridad)
+- Stack de 7 capas de defensa (prevención → transparencia → detección IA → denuncia → investigación → sanción → retroalimentación)
+- KPIs de integridad medibles anualmente (CPI, tiempo detección, contratos auditados)
+- Costo del sistema de blindaje: <0.1% del gasto total, ROI 4-8x
+
+### Cambiado — Justicia Transicional
+- Inhabilitación política aumentada: **perpetua** para crímenes de lesa humanidad y corrupción a gran escala, 25-30 años mando medio, 15-20 años funcionarios menores
+- Amnistía condicionada: inhabilitación de 10-15 → **20-30 años**
+- **Decomiso intergeneracional**: rastreo a hijos, nietos, bisnietos (50 años), testaferros y amistades/socios bajo investigación
+- **Régimen especial para testaferros**: delito autónomo (10-20 años), inhabilitación perpetua, sin prescripción, señales automáticas de alerta
+- **Pilar 5: Transparencia Total + Recompensa por Denuncia**: dashboard público de justicia, recompensas 10-30% del valor recuperado (modelo SEC), 5 canales de denuncia (plataforma cifrada, línea internacional, oficinas, embajadas, ONG), protección completa al denunciante
+
+### Cambiado — Sistema Anti-Frágil
+- Tabla de penas expandida con columnas de inhabilitación política y decomiso intergeneracional
+- Alcance extendido a familiares, testaferros y personas vinculadas bajo investigación
+
+### Cambiado — Anticorrupción Checklist
+- Nueva sección: Checklist Anti-Empresas de Maletín (8 acciones por fase)
+
+### Cambiado — README
+- Reescrito completo: 37 secciones, 9 categorías, sección anticorrupción, evaluación multi-perspectiva, repo structure actualizado
+
+### Eliminado
+- Carpeta `skill/` (redundante con `skills/project/`)
+
+---
+
+## [1.3.0] — 2026-03-13
+
+### Añadido — Oportunidades de Negocio
+- **Oportunidades Startups y Tech** (`oportunidades-negocio.md`): 70+ oportunidades en 10 sectores (HealthTech, EdTech, FinTech, EnergyTech, AgTech, InfraTech, GovTech, Tourism Tech, Cybersecurity, Logistics)
+- **Oportunidades Empresas Reales** (`oportunidades-empresas.md`): 100+ oportunidades en 10 sectores físicos (construcción, manufactura, oil & gas, agroindustria, salud, educación, transporte, energía, servicios profesionales, turismo). 3-6M empleos directos+indirectos
+
+### Añadido — Plugins Docusaurus
+- docusaurus-graph (grafo de relaciones entre documentos)
+- @cmfcmf/docusaurus-search-local (búsqueda en español)
+- @docusaurus/plugin-pwa (soporte offline)
+- @docusaurus/plugin-ideal-image (optimización de imágenes)
+- @coffeecup_tech/docusaurus-plugin-structured-data (SEO)
+- showLastUpdateTime/showLastUpdateAuthor en docs
+
+---
+
+## [1.2.0] — 2026-03-13
+
+### Añadido — 7 Puntos Ciegos Abordados
+- **Enfermedad holandesa** (`enfermedad-holandesa.md`): mecanismo, 6 defensas, casos históricos
+- **Justicia transicional** (`justicia-transicional.md`): 4 pilares (verdad, restitución, justicia penal selectiva, amnistía condicionada)
+- **Capital humano** (`capital-humano.md`): brecha cuantificada, 3 canales de solución
+- **Los que se quedaron** (`los-que-se-quedaron.md`): perfil 32M, programa Accionista Activo
+
+### Cambiado
+- **El Sueño**: aspiración reframe, análisis distribucional por decil, proyección Gini
+- **Riesgos**: 20 riesgos con matriz probabilidad×impacto, 3 escenarios cascada con Mermaid
+- **Fondo soberano**: gobernanza expandida (board, oversight, anti-captura, locks constitucionales)
+- **Seguridad física**: mapa territorial, FANB, prerequisitos por motor, DDR adaptado
+
+### Añadido — Evaluación Multi-Perspectiva
+- **evaluacion-perspectivas.md**: 9 ideologías evalúan el plan, score 6.2/10
+- Heat map sección × perspectiva con promedios
+
+---
+
+## [1.1.0] — 2026-03-13
+
+### Añadido — Skills y Herramientas
+- 14 expertos de dominio (`skills/experts/`)
+- 9 perspectivas ideológicas (`skills/perspectives/`)
+- 10 herramientas de trabajo (`skills/tools/`)
+- Script `evaluate.sh` para evaluación con 7 IAs de frontera en paralelo
+- CLAUDE.md como directriz central del proyecto
+
+### Añadido — Pitch para Inversionistas
+- Anexo en español (`08-pitch/`): resumen ejecutivo, BMC, TAM/SAM/SOM, YC application, pitch deck
+- Anexo en inglés (`09-investors/`): traducción profesional completa
+
+---
+
 ## [1.0.0] — 2026-03-13
 
 Primera versión pública del plan.

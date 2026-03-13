@@ -18,6 +18,7 @@ Un plan de reconstrucción nacional tratado como startup. 40 millones de accioni
 3. **Timeline Rystad Energy.** 15 años para 3M bpd. No se promete menos.
 4. **Petróleo es combustible, tech es destino.** El petróleo financia, no define.
 5. **Apartidista.** Cero propaganda política. El plan sirve a ciudadanos, no a partidos.
+6. **Petróleo es un activo depreciante.** Para 2040 solar será más barato que extraer crudo de la Faja. La ventana real es 10-15 años, no 30. Cada decisión debe asumir que el petróleo puede valer cero — se quema para salir de la atmósfera, no se vuela al espacio con fósil. La diversificación no es fase 3, es paralela desde el día 1.
 
 ## Filtro de viabilidad — Gate de contribución
 

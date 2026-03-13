@@ -21,6 +21,7 @@ const sidebars = {
         "02-motor-financiero/inversion-inicial-fuentes",
         "02-motor-financiero/transicion-fiscal",
         "02-motor-financiero/enfermedad-holandesa",
+        "02-motor-financiero/cashflow-20-trimestres",
       ],
     },
     {
@@ -45,6 +46,8 @@ const sidebars = {
         "04-gobernanza/modelo-estado",
         "04-gobernanza/justicia-transicional",
         "04-gobernanza/blindaje-integridad",
+        "04-gobernanza/roadmap-sanciones",
+        "04-gobernanza/cuba-desconexion",
       ],
     },
     {
@@ -72,6 +75,7 @@ const sidebars = {
         "06-realidad/esg-ejecucion",
         "06-realidad/pensiones-seguridad-social",
         "06-realidad/sistema-financiero",
+        "06-realidad/infraestructura-calidad",
       ],
     },
     {
@@ -82,6 +86,7 @@ const sidebars = {
         "07-ejecucion/proyecciones",
         "07-ejecucion/riesgos",
         "07-ejecucion/el-sueno",
+        "07-ejecucion/equipo-ejecutor",
         "07-ejecucion/evaluacion-perspectivas",
       ],
     },

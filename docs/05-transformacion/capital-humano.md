@@ -124,4 +124,79 @@ xychart-beta
 Corea del Sur invirtió ~20% de su presupuesto en educación durante 20 años. El retorno: de país agrícola a la 12.ª economía mundial. Cada dólar invertido en capital humano multiplica el retorno de todos los demás motores del plan.
 :::
 
-**Fuentes:** [ENCOVI/UCAB 2023](https://www.proyectoencovi.com/) | [UNHCR](https://www.unhcr.org/) | [ILO](https://www.ilo.org/) | [World Bank Human Capital Project](https://www.worldbank.org/en/publication/human-capital) | [Singapur SkillsFuture](https://www.skillsfuture.gov.sg/)
+---
+
+## Programa 50.000 Ingenieros de Software en 5 Años
+
+:::info Por qué 50.000
+Los Tech Giants necesitan **10.000+ ingenieros disponibles en zona** para invertir (requisito #5 de los 8 no negociables). Los unicornios LATAM dicen que un ecosistema necesita CTOs, no solo ideas. Spotify (Daniel Ek) quiere un hub de desarrollo remoto si hay talento + inglés + internet. La meta: **50.000 ingenieros de software bilingües en 5 años**.
+:::
+
+### La brecha actual
+
+| Indicador | Venezuela hoy | Meta año 5 | Referencia |
+|-----------|--------------|-----------|-----------|
+| Ingenieros de software | ~10.000-15.000 (estimación) | **50.000** | [Requiere investigación] |
+| Graduados CS/año | ~2.000-3.000 | 10.000+ | [Requiere investigación] |
+| Inglés profesional (B2+) | ~15-20% de ingenieros | 80%+ | [EF EPI 2024](https://www.ef.com/epi/) |
+| Salario promedio dev | USD 300-800/mes | USD 1.500-3.000/mes | [Requiere investigación] |
+| Developers per 1.000 hab. | ~0.3 | 1.25 (nivel Colombia) | [GitHub Octoverse](https://github.blog/news-insights/octoverse/) |
+
+### 5 canales para llegar a 50.000
+
+| Canal | Mecanismo | Aporte año 5 | Costo | Modelo |
+|-------|-----------|-------------|-------|--------|
+| **Bootcamps intensivos** (6-12 meses) | Holberton, Platzi, 4Geeks, Microverse — campuses físicos en 5 ciudades + online | 15.000-20.000 | USD 200M/año | [42 School](https://42.fr/) (gratuito, peer-to-peer) |
+| **Reconversión profesional** (3-6 meses) | Ingenieros de otras ramas (petroleros, civiles, mecánicos) → software | 8.000-12.000 | USD 100M/año | [Singapur SkillsFuture](https://www.skillsfuture.gov.sg/) |
+| **Universidades reformadas** (4-5 años) | Currículum actualizado, partnerships con Stanford/MIT/Tecnológico de Monterrey online | 5.000-8.000 | Incluido en presupuesto educativo | [MIT OpenCourseWare](https://ocw.mit.edu/) |
+| **Diáspora retornada** (inmediato) | Incentivos fiscales 5 años para devs que retornen + mentoren | 8.000-12.000 | USD 50M/año (incentivos) | [India reverse brain drain](https://nasscom.in/) |
+| **Certificaciones internacionales** | AWS, Google Cloud, Azure, Cisco, Meta — vouchers subsidiados | 10.000-15.000 certs | USD 30M/año | Programa Colombia [MinTIC](https://www.mintic.gov.co/) |
+
+### Partnerships clave
+
+| Partner | Qué aporta | A cambio de | Precedente |
+|---------|-----------|-------------|-----------|
+| **Platzi** | Plataforma + contenido en español | Acceso a mercado de 40M | Ya opera en LATAM, 5M+ estudiantes |
+| **Globant** | Mentores + employment pipeline | Talento a USD 1.500/mes (vs. USD 5.000 en Argentina) | [Globant en Colombia](https://www.globant.com/) |
+| **42 School** | Modelo peer-to-peer sin profesores | Campus físico + gobierno paga operación | Opera en 30+ países |
+| **Google/Microsoft** | Certificaciones + créditos cloud | Data center investment pipeline | [Google Career Certificates](https://grow.google/certificates/) |
+| **Y Combinator** | Startup School gratuito + red de alumni | Deal flow de startups venezolanas | [YC Startup School](https://www.startupschool.org/) |
+
+### KPIs anuales
+
+| KPI | Año 1 | Año 2 | Año 3 | Año 4 | Año 5 |
+|-----|-------|-------|-------|-------|-------|
+| Ingenieros de software activos | 15.000 | 22.000 | 32.000 | 42.000 | **50.000** |
+| Graduados bootcamp/año | 3.000 | 6.000 | 10.000 | 12.000 | 15.000 |
+| Nivel inglés B2+ (%) | 20% | 35% | 50% | 65% | **80%** |
+| Salario promedio dev (USD/mes) | 500 | 800 | 1.200 | 1.800 | 2.500 |
+| Startups tech fundadas/año | 50 | 150 | 400 | 800 | 1.500 |
+| Empleados remotos para empresas globales | 1.000 | 3.000 | 8.000 | 15.000 | 25.000 |
+
+```mermaid
+xychart-beta
+    title "Ramp-up de ingenieros de software (miles)"
+    x-axis ["Hoy", "Ano 1", "Ano 2", "Ano 3", "Ano 4", "Ano 5"]
+    y-axis "Miles de ingenieros" 0 --> 55
+    bar [12, 15, 22, 32, 42, 50]
+    line [12, 15, 22, 32, 42, 50]
+```
+
+### Inversión total: Programa 50K Ingenieros
+
+| Componente | Inversión anual | 5 años | % del plan |
+|-----------|----------------|--------|-----------|
+| Bootcamps + infraestructura | USD 200M | USD 1.000M | 0.2% |
+| Reconversión profesional | USD 100M | USD 500M | 0.1% |
+| Certificaciones internacionales | USD 30M | USD 150M | <0.1% |
+| Incentivos retorno diáspora tech | USD 50M | USD 250M | <0.1% |
+| Inglés intensivo | USD 40M | USD 200M | <0.1% |
+| **TOTAL** | **USD 420M/año** | **USD 2.100M** | **~0.4%** |
+
+:::tip ROI del programa
+Un ingeniero de software que gana USD 2.500/mes genera USD 30.000/año en salario (vs. USD 3.600 promedio actual). 50.000 ingenieros = **USD 1.500M/año en masa salarial tech** + multiplicador económico de 2-3x. El programa se paga solo en 2-3 años. Además, cada ingeniero que trabaja remoto para empresas globales trae divisas frescas al país sin necesitar petróleo.
+:::
+
+---
+
+**Fuentes:** [ENCOVI/UCAB 2023](https://www.proyectoencovi.com/) | [UNHCR](https://www.unhcr.org/) | [ILO](https://www.ilo.org/) | [World Bank Human Capital Project](https://www.worldbank.org/en/publication/human-capital) | [Singapur SkillsFuture](https://www.skillsfuture.gov.sg/) | [GitHub Octoverse](https://github.blog/news-insights/octoverse/) | [42 School](https://42.fr/)

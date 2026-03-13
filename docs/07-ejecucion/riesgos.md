@@ -213,6 +213,88 @@ Por eso el plan no puede depender del escenario favorable. El [Plan Base](/07-ej
 
 ---
 
+## Stress Test: Petróleo Irrelevante en 2040 (Tesis Musk/IEA)
+
+:::danger Este es el riesgo que el plan original subestima
+Elon Musk, Ray Dalio y la IEA coinciden: la transición energética puede hacer al petróleo irrelevante antes de lo que Rystad asume. Si solar + baterías son más baratas que extraer crudo pesado de la Faja para 2035-2040, el plan base colapsa. Este stress test modela ese escenario.
+:::
+
+### Supuestos del escenario post-petróleo
+
+| Variable | Plan Base | Escenario Post-Petróleo | Fuente |
+|----------|----------|------------------------|--------|
+| Demanda global de crudo | Estable ~100M bpd hasta 2040 | Cae a 60-70M bpd para 2040 | [IEA Net Zero Scenario](https://www.iea.org/reports/net-zero-by-2050) |
+| Precio Brent 2035 | USD 55-65 | USD 30-40 | [IEA WEO 2025](https://www.iea.org/reports/world-energy-outlook-2025) |
+| Precio Brent 2040 | USD 50-60 | USD 20-30 | Proyección propia basada en IEA NZE |
+| Costo solar (LCOE) | USD 0.03-0.05/kWh | USD 0.01-0.02/kWh | [IRENA 2024](https://www.irena.org/) |
+| Costo extracción Faja | USD 35-40/barril | Sin cambio | Rystad Energy |
+| Margen neto a USD 25/barril | — | **-USD 10-15/barril** (pérdida) | — |
+
+### Impacto en el plan
+
+| Componente | Plan Base (USD 60) | Post-Petróleo (USD 25) | Diferencia |
+|-----------|-------------------|----------------------|-----------|
+| Ingreso petrolero año 15 | **USD 44B/año** | **USD 10-15B/año** | -70% |
+| Fondo soberano año 15 | USD 160-220B | USD 30-50B | -75% |
+| Dividendo/persona/año | USD 22-30 | USD 4-7 | -75% |
+| Inversión petrolera viable | USD 183B | USD 80-100B (solo campos rentables) | -50% |
+| Producción máxima alcanzable | 3M bpd | 1.5-2M bpd (campos de menor costo) | -40% |
+
+### Pivotes necesarios: De petro-estado a energy-state
+
+Si el petróleo pierde valor, Venezuela debe pivotar sus **activos energéticos** (no solo petroleros):
+
+| Activo | Uso petrolero | Uso post-petróleo | Valor potencial |
+|--------|-------------|-------------------|-----------------|
+| **18 GW hidroeléctrica** (Caroní) | Consumo interno + pérdidas | **Compute/IA** — vender electricidad como servicio de cómputo | USD 5-15B/año ([Requiere investigación]) |
+| **Reservas de gas** (150 TCF) | Quema/reinyección | **LNG export + hidrógeno verde** — gas como puente + electrólisis | USD 8-12B/año |
+| **Ubicación geográfica** | Exportar crudo | **Hub de data centers + cables submarinos** — latencia <30ms a Miami | USD 3-8B/año |
+| **Solar + eólica** (Falcón, Zulia) | No desarrollado | **Solar farms** para compute adicional | USD 2-5B/año |
+| **Talento formado en oil & gas** | Extracción | **Ingeniería de energía renovable** — transferible con reskilling 6-12 meses | — |
+
+```mermaid
+flowchart LR
+    A["Petróleo pierde valor<br/>USD 20-25/barril"] --> B{"¿Venezuela tiene<br/>alternativas energéticas?"}
+    B -->|"SÍ — 18GW hidro"| C["Compute/IA:<br/>USD 5-15B/año"]
+    B -->|"SÍ — 150 TCF gas"| D["LNG + H2 verde:<br/>USD 8-12B/año"]
+    B -->|"SÍ — ubicación"| E["Data centers:<br/>USD 3-8B/año"]
+    B -->|"SÍ — sol/viento"| F["Solar farms:<br/>USD 2-5B/año"]
+    C --> G["Total post-petróleo:<br/>USD 18-40B/año"]
+    D --> G
+    E --> G
+    F --> G
+    G --> H["No reemplaza USD 44B<br/>pero sostiene el país"]
+```
+
+### Timeline de diversificación acelerada
+
+Si la ventana es 2027-2040 (13 años, no 30), la diversificación debe arrancar en paralelo al oil ramp-up, no después:
+
+| Año | Acción petrolera | Acción de diversificación |
+|-----|-----------------|--------------------------|
+| 1-3 | Ramp-up agresivo (1M → 1.5M bpd) | Iniciar 3-5 data centers, programa solar, LNG feasibility |
+| 4-7 | Producción máxima (2-2.5M bpd) — **extraer rápido mientras vale** | Data centers operativos, primer LNG export, 50K ingenieros formados |
+| 8-10 | Mantener producción pero preparar declive | Compute/IA como segundo motor, hidrógeno verde piloto |
+| 11-15 | Reducir inversión en upstream | Tech/energía limpia > 50% PIB. Petróleo < 20% PIB |
+
+:::tip La tesis Musk reformulada para Venezuela
+Venezuela no necesita que el petróleo dure 30 años. Necesita **10-12 años de petróleo a precio razonable** para financiar la transición a un energy-state basado en hidro, solar, gas, y compute. Si usa esos 10-12 años bien, el petróleo puede llegar a cero y el país sobrevive. Si los desperdicia (como hizo con los USD 300B+ de FONDEN), no hay segunda oportunidad.
+:::
+
+### Indicadores de alerta temprana
+
+Monitorear trimestralmente para activar el pivote:
+
+| Indicador | Umbral de alerta | Acción si se cruza |
+|-----------|-----------------|-------------------|
+| Precio Brent promedio trimestral | < USD 50 por 2+ trimestres | Acelerar data centers, congelar upstream en campos no rentables |
+| Costo solar global (LCOE) | < USD 0.02/kWh | Inversión masiva en solar doméstico + export de compute |
+| Demanda global de crudo | Cae >5% interanual | Reclasificar reservas: solo campos < USD 30/barril de costo |
+| Market cap de oil majors vs. tech | Oil < tech por >3x | Redirigir JVs hacia partnerships tech |
+| Inversión global en upstream | Cae >20% interanual | Venezuela pierde competencia por capital — pivotar |
+
+---
+
 ## Condición Sine Qua Non
 
 **Instituciones independientes + transparencia radical + reglas constitucionales que ningún gobierno pueda cambiar.**

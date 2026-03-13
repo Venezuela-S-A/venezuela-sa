@@ -78,7 +78,7 @@ docs/
 └── conclusion.md
 
 skills/                           ← Prompts especializados (formato universal)
-├── experts/                      ← 10 analistas de dominio
+├── experts/                      ← 14 analistas de dominio
 │   ├── oil-energy.md
 │   ├── macroeconomics.md
 │   ├── geopolitics.md
@@ -88,8 +88,12 @@ skills/                           ← Prompts especializados (formato universal)
 │   ├── tourism.md
 │   ├── technology.md
 │   ├── agriculture.md
-│   └── finance-investment.md
-├── perspectives/                 ← 8 voces ideológicas (todo el espectro)
+│   ├── finance-investment.md
+│   ├── financial-modeling.md     ← DCF, sensibilidad, auditoría financiera
+│   ├── international-models.md   ← 12 países referencia, marco comparativo
+│   ├── legal-corporate.md        ← VIN, OFAC, ICSID, Santiago Principles
+│   └── economist-latam.md        ← Dutch Disease, trampa ingreso medio, LATAM
+├── perspectives/                 ← 9 voces ideológicas (todo el espectro)
 │   ├── milei.md                  ← Libertario radical
 │   ├── austrian-school.md        ← Escuela Austríaca (Mises, Hayek)
 │   ├── juan-ramon-rallo.md       ← Liberal pragmático
@@ -100,7 +104,17 @@ skills/                           ← Prompts especializados (formato universal)
 │   ├── joseph-stiglitz.md        ← Progresista (Columbia/Nobel)
 │   └── thomas-piketty.md         ← Desigualdad y capital (Paris)
 ├── project/                      ← Control de calidad + referencias
-├── tools/                        ← Herramientas de trabajo (6 skills)
+├── tools/                        ← Herramientas de trabajo (10 skills)
+│   ├── deep-research.md          ← Research multi-fuente
+│   ├── market-research.md        ← Análisis de mercado
+│   ├── search-first.md           ← Research antes de codificar
+│   ├── copywriting.md            ← Copy de marketing
+│   ├── humanizer.md              ← Eliminar señales IA
+│   ├── mermaid-diagrams.md       ← Gráficos Mermaid
+│   ├── translation-en.md         ← Traducción ES→EN profesional
+│   ├── source-verification.md    ← Verificación de fuentes 5 niveles
+│   ├── interactive-charts.md     ← D3/Plotly/Recharts para Docusaurus
+│   └── ux-design.md              ← UX dual audiencia (ciudadanos + inversores)
 └── evaluate.sh                   ← Evalúa con 7 IAs de frontera en paralelo
 ```
 
@@ -166,6 +180,10 @@ skills/                           ← Prompts especializados (formato universal)
 | `technology` | Data centers, ZEETs, estado digital, startups |
 | `agriculture` | Soberanía alimentaria, cacao, café, acuicultura |
 | `finance-investment` | Pre-Seed, bonds, forwards, fondo soberano, sanciones |
+| `financial-modeling` | DCF, sensibilidad, auditoría de cálculos, finanzas soberanas |
+| `international-models` | 12 países referencia, marco comparativo, lecciones |
+| `legal-corporate` | Estructura VIN, OFAC, ICSID, Santiago Principles |
+| `economist-latam` | Dutch Disease, trampa ingreso medio, riesgos LATAM |
 
 ### Panel de perspectivas (`skills/perspectives/`) — evaluación ideológica
 | Skill | Perspectiva | Espectro |

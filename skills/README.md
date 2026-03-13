@@ -52,7 +52,7 @@ Resultados en `skills/evaluations/`. Para modelos específicos:
 
 ```
 skills/
-├── experts/          # 10 analistas de dominio — evalúan viabilidad técnica
+├── experts/          # 14 analistas de dominio — evalúan viabilidad técnica
 │   ├── oil-energy.md
 │   ├── macroeconomics.md
 │   ├── geopolitics.md
@@ -62,7 +62,11 @@ skills/
 │   ├── tourism.md
 │   ├── technology.md
 │   ├── agriculture.md
-│   └── finance-investment.md
+│   ├── finance-investment.md
+│   ├── financial-modeling.md       # DCF, sensibilidad, auditoría financiera
+│   ├── international-models.md     # 12 países referencia comparativa
+│   ├── legal-corporate.md          # VIN, OFAC, ICSID, Santiago Principles
+│   └── economist-latam.md          # Dutch Disease, trampa ingreso medio
 │
 ├── perspectives/     # 9 voces ideológicas — comentan desde su marco
 │   ├── milei.md                  # 🟡 Libertario radical (Argentina)
@@ -79,13 +83,17 @@ skills/
 │   ├── venezuela-s-a.md
 │   └── references/
 │
-├── tools/            # Herramientas de trabajo
+├── tools/            # 10 herramientas de trabajo
 │   ├── deep-research.md
 │   ├── market-research.md
 │   ├── search-first.md
 │   ├── copywriting.md
 │   ├── humanizer.md
-│   └── mermaid-diagrams.md
+│   ├── mermaid-diagrams.md
+│   ├── translation-en.md           # Traducción ES→EN profesional
+│   ├── source-verification.md      # Verificación de fuentes 5 niveles
+│   ├── interactive-charts.md       # D3/Plotly/Recharts para Docusaurus
+│   └── ux-design.md                # UX dual audiencia
 │
 └── evaluate.sh       # Script: evalúa con 7 IAs de frontera en paralelo
 ```

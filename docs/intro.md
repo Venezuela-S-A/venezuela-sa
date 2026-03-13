@@ -62,7 +62,7 @@ flowchart TD
 3. **BigTech genera ecosistema** → ingenieros, startups, servicios, educación
 4. **Ecosistema diversifica economía** → petróleo baja de 95% a <40% de exportaciones
 
-:::info 52+ Fuentes Verificables
+:::info 85+ Fuentes Verificables
 Cada dato tiene una fuente real y verificable. Ver [Referencias Completas](/docs/referencias).
 :::
 

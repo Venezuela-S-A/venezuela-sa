@@ -3,7 +3,7 @@ sidebar_position: 98
 title: Referencias
 ---
 
-# 75+ Fuentes Verificables
+# 85+ Fuentes Verificables
 
 ## Petróleo y Energía
 1. [OPEC Annual Statistical Bulletin 2025](https://www.opec.org/assets/assetdb/asb-2025.pdf) — Reservas y producción
@@ -109,3 +109,20 @@ title: Referencias
 75. [Venezuelanalysis — Dragon Field](https://venezuelanalysis.com/news/venezuela-signs-30-year-alliance-with-trinidad-to-develop-dragon-gas-field/) — Alianza 30 años con Trinidad
 76. [J.P. Morgan — Venezuela Oil and LNG](https://www.jpmorgan.com/insights/global-research/commodities/venezuela-oil-lng) — Impacto en mercados LNG
 77. [RBAC Inc. — Venezuela Gas Powerhouse](https://rbac.com/beyond-oil-could-venezuela-be-a-natural-gas-powerhouse/) — USD 700–800 M/año exportaciones a Colombia
+
+## Pensiones y Seguridad Social
+78. [Misión Verdad — Venezuela Minimum Comprehensive Income](https://misionverdad.com/english/venezuelas-minimum-comprehensive-income-announcements-thorough-reading) — Pensión base 130 bolívares, bonos USD 25–70/mes
+79. [SSA — Social Security Programs Venezuela](https://www.ssa.gov/policy/docs/progdesc/ssptw/2018-2019/americas/venezuela.html) — Sistema PAYG sin fondo de reserva
+80. [Central-Law — Ley de Protección de Pensiones 2024](https://central-law.com/en/venezuela-law-on-the-protection-of-social-security-pensions/) — Impuesto 15% sobre nómina
+81. [Buenos Aires Times — Milei Two Years](https://www.batimes.com.ar/news/economy/mileis-two-years-in-five-large-economic-and-social-indicators.phtml) — Jubilaciones cayeron del 50% al 26,6% de canasta mínima
+
+## Sistema Bancario y Financiero
+82. [Legal Clarity — Venezuelan Banks Under Sanctions](https://legalclarity.org/how-venezuelan-banks-operate-under-sanctions-and-hyperinflation/) — Encaje 73%, corte SWIFT
+83. [Wikipedia — Central Bank of Venezuela](https://en.wikipedia.org/wiki/Central_Bank_of_Venezuela) — Petro cerrado enero 2024
+
+## Comercio Exterior e Inversión
+84. [UPI — Argentina RIGI Foreign Investments](https://www.upi.com/Top_News/World-News/2025/10/30/bcpargentina-RIGI-foreign-invetments-report/1561761834454/) — USD 33.900 M proyectados en 5–10 años
+
+## Transición Fiscal y Presupuesto
+85. [Misión Verdad — Venezuela Budget 2025](https://misionverdad.com/english/venezuelas-2025-budget-overview) — Presupuesto USD 22.700 M, PDVSA ~53%
+86. [NBIM — Government Pension Fund Global Fiscal Rule](https://www.nbim.no/en/the-fund/about-the-fund/) — Regla fiscal noruega: 3–4% del fondo al presupuesto

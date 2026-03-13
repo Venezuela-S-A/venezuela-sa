@@ -55,7 +55,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        copyright: `Venezuela S.A. — Plan de Reconstrucción Nacional — v6.0 Marzo 2026. Todos los datos verificables.`,
+        copyright: `Venezuela S.A. — Plan de Reconstrucción Nacional — v1.0 Marzo 2026. Todos los datos verificables.`,
       },
       prism: {
         theme: prismThemes.github,

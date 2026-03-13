@@ -1,6 +1,6 @@
 {
   "name": "venezuela-sa",
-  "version": "6.0.0",
+  "version": "1.0.0",
   "description": "Plan de reconstrucción nacional donde cada venezolano es accionista. Petróleo como combustible, tecnología como destino.",
   "scripts": {
     "start": "docusaurus start",
@@ -23,6 +23,7 @@
   "license": "CC-BY-SA-4.0",
   "dependencies": {
     "@docusaurus/core": "^3.0.0",
+    "@docusaurus/plugin-ideal-image": "^3.9.2",
     "@docusaurus/preset-classic": "^3.0.0",
     "@docusaurus/theme-mermaid": "^3.9.2",
     "@mdx-js/react": "^3.0.0",

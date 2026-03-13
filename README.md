@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
+  <a href="https://venezuela-s-a.github.io/venezuela-sa/">Website</a> •
   <a href="#español">Español</a> •
   <a href="#english">English</a> •
-  <a href="https://venezuela-sa.org">Website</a> •
-  <a href="/docs">Documentación</a>
+  <a href="CHANGELOG.md">Changelog</a> •
+  <a href="CONTRIBUTING.md">Contribuir</a>
 </p>
 
 ---
@@ -31,9 +32,10 @@ Venezuela posee [303.000 millones de barriles](https://www.opec.org/assets/asset
 |-----------|------|--------|
 | Reservas petroleras | 303.000 M barriles | [OPEP 2025](https://www.opec.org/assets/assetdb/asb-2025.pdf) |
 | Inversión para 3M bpd | USD 183.000 M / 15 años | [Rystad Energy, ene. 2026](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/) |
+| Inversión total del plan | USD 550.000–750.000 M / 15 años | [Detalle](/02-motor-financiero/inversion-inicial-fuentes) |
 | Precio base del plan | **USD 60/barril** | [EIA STEO, mar. 2026](https://www.eia.gov/outlooks/steo/) |
 | Diáspora | 7,9 M personas | [UNHCR, dic. 2025](https://www.unhcr.org/us/emergencies/venezuela-situation) |
-| Fondo Noruega (referencia) | USD 2,2 T | [NBIM, 2025](https://www.nbim.no/en/investments/the-funds-value/) |
+| Fondo Soberano (meta año 15) | USD 250.000–400.000 M | [Proyecciones](/07-ejecucion/proyecciones) |
 | Fuentes verificables | **85+** | [Ver todas](/referencias) |
 
 ### Las rondas de financiamiento
@@ -48,7 +50,7 @@ Día 1        Año 1-2  Año 2-4      Año 4-8      Año 8-12
 
 ### Estructura del plan
 
-El plan tiene **30 secciones** organizadas en 7 categorías:
+El plan tiene **30 secciones** organizadas en 7 categorías, con **30+ gráficos interactivos** (Mermaid):
 
 | # | Categoría | Secciones |
 |---|-----------|-----------|
@@ -59,6 +61,17 @@ El plan tiene **30 secciones** organizadas en 7 categorías:
 | 🚀 | **Transformación** | Hubs Tech · Startups · Diversificación · Impacto IA · Educación · Comercio Exterior |
 | 🏛️ | **Estado y Servicios** | Estado Digital · Servicios Públicos · Infraestructura · ESG · Pensiones · Sistema Financiero |
 | 📊 | **Ejecución** | Timeline · Proyecciones · Riesgos |
+
+### Filosofía del modelo
+
+| Principio | Detalle |
+|-----------|---------|
+| **El Estado vive de impuestos, no de petróleo** | Petróleo 100% al fondo soberano. Impuestos razonables (15% flat + 12% IVA) financian lo esencial |
+| **5 funciones del Estado** | Gobierno, salud, justicia, educación, seguridad. Todo lo demás es concesión o mercado privado |
+| **Salud para todos, vejez digna para todos** | Piso universal garantizado + opciones privadas para quien quiera más |
+| **Libertad de vida, económica y religiosa** | Derechos constitucionales. El Estado no es tu papá. Es tu plataforma |
+| **Automatizar todo lo posible** | Gobierno digital (modelo Estonia), menos burocracia, menos corrupción |
+| **Reforma quirúrgica** | Recortar redundancia, fusionar ministerios, recuperar fondos desviados → al fondo soberano |
 
 ### ¿Cómo contribuir?
 
@@ -91,20 +104,11 @@ Venezuela holds [303 billion barrels](https://www.opec.org/assets/assetdb/asb-20
 |-----------|------|--------|
 | Oil reserves | 303B barrels | [OPEC 2025](https://www.opec.org/assets/assetdb/asb-2025.pdf) |
 | Investment for 3M bpd | USD 183B / 15 years | [Rystad Energy, Jan 2026](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/) |
+| Total plan investment | USD 550–750B / 15 years | [Detail](/02-motor-financiero/inversion-inicial-fuentes) |
 | Plan base price | **USD 60/barrel** | [EIA STEO, Mar 2026](https://www.eia.gov/outlooks/steo/) |
 | Diaspora | 7.9M people | [UNHCR, Dec 2025](https://www.unhcr.org/us/emergencies/venezuela-situation) |
-| Norway Fund (benchmark) | USD 2.2T | [NBIM, 2025](https://www.nbim.no/en/investments/the-funds-value/) |
+| Sovereign Fund (year 15 target) | USD 250–400B | [Projections](/07-ejecucion/proyecciones) |
 | Verifiable sources | **85+** | [See all](/referencias) |
-
-### Funding rounds
-
-```
-Pre-Seed ──→ Seed ──→ Series A ──→ Series B ──→ IPO
-Diaspora     Bonds    Forwards     Oil Rev      VIN to
-USD 25-60M   + Fwd    + Majors     + BigTech    markets
-Day 1        Yr 1-2   Yr 2-4       Yr 4-8       Yr 8-12
-(NO GOV'T)
-```
 
 ### The core thesis
 
@@ -113,12 +117,16 @@ Day 1        Yr 1-2   Yr 2-4       Yr 4-8       Yr 8-12
 3. **BigTech generates ecosystem** → engineers, startups, services, education
 4. **Ecosystem diversifies economy** → oil drops from 95% to <40% of exports
 
-### Key innovations
+### Model philosophy
 
-- **Pre-Seed from diaspora (Day 1, no government needed):** 7.9M Venezuelans abroad fund platforms, census, legal structure as a private initiative
-- **Citizen investment from $10:** Bonds, tech fund, VIN with IPO vision
-- **Anti-corruption by design:** Not by asking politicians to be good, but by making corruption technically difficult ([Estonia model](https://e-estonia.com/), [Singapore CPIB](https://www.cpib.gov.sg/), [Georgia police reform](https://en.wikipedia.org/wiki/Georgian_Police))
-- **40M shareholders = political stability:** When everyone has money in the fund, no politician dares touch it ([Alaska PFD model](https://pfd.alaska.gov/))
+| Principle | Detail |
+|-----------|--------|
+| **State lives on taxes, not oil** | Oil goes 100% to sovereign fund. Moderate taxes (15% flat + 12% VAT) fund essentials |
+| **5 state functions only** | Government, health, justice, education, security. Everything else is concession or private market |
+| **Healthcare for all, dignified retirement for all** | Universal floor guaranteed + private options for those who want more |
+| **Freedom of life, economic and religious** | Constitutional rights. The State is not your parent. It's your platform |
+| **Automate everything possible** | Digital government (Estonia model), less bureaucracy, less corruption |
+| **Surgical reform** | Cut redundancy, merge ministries, recover diverted funds → to sovereign fund |
 
 ### How to contribute
 
@@ -131,29 +139,31 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md). Open source with controlled contributio
 ```
 venezuela-sa/
 ├── README.md                    ← You are here
+├── CHANGELOG.md                 ← Version history
 ├── CONTRIBUTING.md              ← How to contribute
 ├── CODE_OF_CONDUCT.md           ← Community standards
 ├── LICENSE                      ← CC BY-SA 4.0
-├── docs/                        ← Plan completo (Docusaurus-ready)
-│   ├── intro.md
-│   ├── 01-fundamentos/
-│   ├── 02-motor-financiero/
-│   ├── 03-ciudadanos/
-│   ├── 04-gobernanza/
-│   ├── 05-transformacion/
-│   ├── 06-realidad/
-│   ├── 07-ejecucion/
-│   ├── referencias.md
+├── docs/                        ← Plan completo (30 secciones)
+│   ├── intro.md                 ← Visión general + embudo energético
+│   ├── 01-fundamentos/          ← Tesis, diagnóstico, emergencia
+│   ├── 02-motor-financiero/     ← Forwards, fondo, deuda, fiscal
+│   ├── 03-ciudadanos/           ← Inversión, diáspora, retorno
+│   ├── 04-gobernanza/           ← Anticorrupción, seguridad, modelo de estado
+│   ├── 05-transformacion/       ← Tech, startups, diversificación, comercio
+│   ├── 06-realidad/             ← Digital, infraestructura, pensiones, banca
+│   ├── 07-ejecucion/            ← Timeline, proyecciones, riesgos
+│   ├── research/                ← Investigaciones (Milei, modelos Chile/Singapur)
+│   ├── referencias.md           ← 85+ fuentes verificables
 │   └── conclusion.md
-├── docusaurus.config.js         ← Site configuration
-├── sidebars.js                  ← Navigation
-├── assets/
-│   └── logos/                   ← Brand assets
+├── .claude/                     ← Skills y reglas para colaboradores con Claude Code
+│   ├── rules/                   ← Estándares de desarrollo
+│   └── skills/                  ← Quality control, mermaid, research, etc.
+├── skill/                       ← Venezuela S.A. quality control skill
+├── docusaurus.config.js         ← Site configuration (v3, Mermaid enabled)
+├── sidebars.js                  ← Navigation (30 sections)
 └── .github/
+    ├── workflows/deploy.yml     ← Auto-deploy to GitHub Pages
     ├── ISSUE_TEMPLATE/
-    │   ├── nueva-seccion.md
-    │   ├── correccion-datos.md
-    │   └── propuesta.md
     └── PULL_REQUEST_TEMPLATE.md
 ```
 

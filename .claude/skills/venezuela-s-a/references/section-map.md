@@ -1,4 +1,4 @@
-# Section Map — Venezuela S.A. Plan v6.0
+# Section Map — Venezuela S.A. Plan v1.0
 
 ## Complete Document Structure
 

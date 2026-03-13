@@ -8,7 +8,7 @@ description: "Quality control skill for writing, editing, and expanding the Vene
 ## Overview
 
 This skill enforces quality standards for the Venezuela S.A. national reconstruction plan. Every piece of content must meet the standards below before being delivered. The plan exists in two formats:
-- **DOCX** (formal document, v6.0, 1,422 paragraphs, 23 sections)
+- **DOCX** (formal document, v1.0, 1,422 paragraphs, 23 sections)
 - **Markdown/Docusaurus** (modular site, 29 files, 7 categories)
 
 Read `references/style-guide.md` for tone and formatting rules.
@@ -193,9 +193,4 @@ Before delivering new or edited content, verify ALL of the following:
 
 | Version | Date | Key Changes |
 |---------|------|-------------|
-| v1.0 | Mar 2026 | Initial plan with Rystad data, Norway model |
-| v2.0 | Mar 2026 | Forward contracts, citizen investment, diaspora bilateral |
-| v3.0 | Mar 2026 | Anti-corruption, AI impact, education, investment sources |
-| v4.0 | Mar 2026 | Tech hubs, startup programs, state reform, public services |
-| v5.0 | Mar 2026 | Price base $60, governance expanded, startup funding model |
-| v6.0 | Mar 2026 | All 14 gaps filled: geopolitics, Phase 0, security, ESG, PMO |
+| v1.0 | Mar 2026 | Primera versión pública: 30 secciones, 85+ fuentes, 30+ gráficos |

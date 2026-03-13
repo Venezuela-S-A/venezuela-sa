@@ -6,7 +6,7 @@ title: "Venezuela S.A. — La Empresa de 40 Millones de Socios"
 
 # Venezuela S.A.
 
-> **Plan de Reconstrucción Nacional v6.0 — Marzo 2026**
+> **Plan de Reconstrucción Nacional v1.0 — Marzo 2026**
 >
 > *Modelo de Startup Nation: Petróleo Como Combustible, Tecnología Como Destino, Diáspora Como Angel Investor*
 

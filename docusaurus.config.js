@@ -6,9 +6,9 @@ const config = {
   title: "Venezuela S.A.",
   tagline: "La Empresa de 40 Millones de Socios",
   favicon: "img/favicon.ico",
-  url: "https://venezuela-sa.github.io",
+  url: "https://venezuela-s-a.github.io",
   baseUrl: "/venezuela-sa/",
-  organizationName: "venezuela-sa",
+  organizationName: "Venezuela-S-A",
   projectName: "venezuela-sa",
   trailingSlash: false,
   onBrokenLinks: "throw",
@@ -26,7 +26,8 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
-          editUrl: "https://github.com/venezuela-sa/venezuela-sa/tree/main/",
+          editUrl: ({ docPath }) =>
+            `https://github.com/Venezuela-S-A/venezuela-sa/issues/new?title=${encodeURIComponent(`Editar: ${docPath}`)}&body=${encodeURIComponent(`## Página\n\`${docPath}\`\n\n## Sugerencia\n\n_Describe qué cambiarías, qué dato es incorrecto o qué falta._\n`)}`,
           numberPrefixParser: false,
           routeBasePath: "/",
         },
@@ -47,7 +48,7 @@ const config = {
             label: "El Plan",
           },
           {
-            href: "https://github.com/venezuela-sa/venezuela-sa",
+            href: "https://github.com/Venezuela-S-A/venezuela-sa",
             label: "GitHub",
             position: "right",
           },

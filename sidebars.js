@@ -76,6 +76,28 @@ const sidebars = {
         "07-ejecucion/riesgos",
       ],
     },
+    {
+      type: "category",
+      label: "📎 Anexo: Para Inversionistas",
+      items: [
+        "08-pitch/resumen-ejecutivo",
+        "08-pitch/business-model-canvas",
+        "08-pitch/tam-sam-som",
+        "08-pitch/yc-application",
+        "08-pitch/pitch-deck",
+      ],
+    },
+    {
+      type: "category",
+      label: "📎 Annex: For Investors",
+      items: [
+        "09-investors/executive-summary",
+        "09-investors/business-model-canvas",
+        "09-investors/tam-sam-som",
+        "09-investors/yc-application",
+        "09-investors/pitch-deck",
+      ],
+    },
     "referencias",
     "conclusion",
   ],

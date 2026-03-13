@@ -5,7 +5,7 @@ title: El Sueño
 
 # El Sueño: Escenario Optimista Integrado
 
-> ¿Qué pasa si todo funciona? Esta sección agrega TODAS las fuentes de ingreso del plan — petróleo a precio favorable, gas natural, turismo, minería, energías, tecnología, startups, estado eficiente — y muestra el escenario donde Venezuela maximiza su potencial.
+> ¿Qué pasa si todo funciona? Esta sección consolida TODAS las fuentes de ingreso del plan — petróleo a precio favorable, gas natural, turismo, minería, energías, tecnología, startups, estado eficiente — y muestra el escenario donde Venezuela maximiza su potencial.
 
 :::caution Base de datos, no fantasía
 Cada cifra aquí tiene fuente verificable. El escenario optimista no es inventado — es lo que pasa cuando se combinan las proyecciones favorables de cada motor, todas documentadas en sus secciones respectivas. Lo que lo hace "sueño" no son los números, sino que requiere que TODAS las condiciones se cumplan simultáneamente.
@@ -29,6 +29,57 @@ Para que este escenario se materialice, deben cumplirse **todas** estas condicio
 | 8 | Demanda global de data centers y energía limpia sostiene crecimiento | Alta | Tendencia AI/cloud |
 | 9 | Reforma fiscal implementada (15% flat + 12% IVA) | Media | Voluntad política |
 | 10 | Estado reducido a 5 funciones con <18% PIB en gasto | Media | Reforma administrativa |
+
+---
+
+## Probabilidad Real: Honestidad Brutal
+
+La tabla anterior lista las condiciones como "Media" o "Alta". Cuantifiquemos.
+
+| # | Condición | P(éxito) | Justificación |
+|---|-----------|----------|---------------|
+| 1 | Transición política pacífica | 40% | Solo 3 de 15 petroestados autoritarios han transitado pacíficamente desde 1990 ([V-Dem Institute, 2024](https://www.v-dem.net/)) |
+| 2 | Brent ≥ USD 70-80 promedio 15 años | 55% | Promedio histórico 2000-2025: ~USD 72/bbl. [EIA STEO](https://www.eia.gov/outlooks/steo/) proyecta USD 65-75 mediano plazo |
+| 3 | Ramp-up a 2,75-3M bpd | 45% | [Rystad Energy](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/) dice posible en 15 años, pero requiere USD 183B y estabilidad |
+| 4 | Seguridad jurídica | 35% | Venezuela ocupa puesto 177/190 en [Rule of Law Index](https://worldjusticeproject.org/rule-of-law-index/) |
+| 5 | Formalización minera | 25% | Colombia lleva 30+ años intentando formalizar minería ilegal con resultados parciales |
+| 6 | Rehabilitación eléctrica (Guri) | 50% | Infraestructura existe pero requiere USD 5-8B y 5-7 años ([Mongabay, 2023](https://news.mongabay.com/2023/08/hydropower-in-the-pan-amazon-the-guri-complex-and-the-caroni-cascade/)) |
+| 7 | Acuerdos gas (Dragon + LNG) | 65% | [Dragon Field ya firmado](https://venezuelanalysis.com/news/venezuela-signs-30-year-alliance-with-trinidad-to-develop-dragon-gas-field/); LNG depende de sanciones |
+| 8 | Demanda global data centers | 75% | Tendencia estructural IA/cloud. [IEA proyecta demanda eléctrica data centers 2x para 2030](https://www.iea.org/reports/electricity-2024) |
+| 9 | Reforma fiscal implementada | 35% | Requiere transición política + consenso legislativo |
+| 10 | Estado reducido a 5 funciones | 30% | Ningún país LATAM ha reducido su Estado a este nivel; Georgia 2004 es el caso más cercano |
+
+### Probabilidad conjunta
+
+Si las 10 condiciones fueran independientes (simplificación):
+
+**P(todas) = 0.40 × 0.55 × 0.45 × 0.35 × 0.25 × 0.50 × 0.65 × 0.75 × 0.35 × 0.30 ≈ 0.02%**
+
+Eso es ~1 en 5.000. **El Sueño completo es extremadamente improbable.** Y eso está bien — porque no es el plan.
+
+### Los escenarios que importan
+
+| Escenario | Condiciones cumplidas | PIB Año 15 | Fondo soberano | Pobreza |
+|-----------|----------------------|-----------|---------------|---------|
+| **El Sueño** (10/10) | Todas | USD 450-550B | USD 400-540B | <15% |
+| **Muy favorable** (7-8/10) | Sin minería plena ni Estado mínimo | USD 350-450B | USD 250-400B | 15-25% |
+| **Plan Base** (5-6/10) | Petróleo + gas + fiscal + seguridad parcial | USD 250-350B | USD 150-250B | 20-35% |
+| **Escenario difícil** (3-4/10) | Solo petróleo + gas, reformas parciales | USD 150-200B | USD 50-100B | 35-50% |
+| **Mínimo viable** (<3/10) | Petróleo limitado, sin reformas profundas | USD 100-150B | USD 20-50B | >50% |
+
+*Nota: El fondo incluye todas las fuentes (petróleo + gas + minería + diversificación), no solo petróleo. Para el modelo petrolero aislado a USD 60, ver [stress test en Proyecciones](/07-ejecucion/proyecciones#análisis-de-sensibilidad-stress-test-por-precio-del-petróleo).*
+
+```mermaid
+xychart-beta
+    title "PIB Ano 15 por escenario (USD miles de M)"
+    x-axis ["Minimo viable", "Dificil", "Plan Base", "Muy favorable", "El Sueno"]
+    y-axis "USD miles de millones" 0 --> 600
+    bar [125, 175, 300, 400, 500]
+```
+
+:::info El Plan Base es lo que importa
+El Sueño es el techo — el 100% del potencial. Pero el plan se diseña para el **Plan Base** (5-6 condiciones cumplidas): petróleo a USD 60, gas parcial, reforma fiscal gradual, seguridad mejorada. Eso ya triplica el PIB y saca a millones de la pobreza. Todo lo demás es upside.
+:::
 
 ---
 
@@ -297,7 +348,7 @@ xychart-beta
 |-----------|-----|---------------------|------------|
 | Pobreza | 82,8% | <15% | Chile (10,8%) |
 | PIB per cápita | USD 2.075 | USD 11.250-13.750 | Colombia actual (~USD 6.600) |
-| Homicidios/100K | ~30-40 | <10 | Costa Rica (11) |
+| Homicidios/100K | ~30-40 | <5 | Chile (4,6) |
 | Internet | <1 Mbps | 50+ Mbps | Uruguay (75 Mbps) |
 | Esperanza de vida | ~72 años | 78+ años | Chile (80) |
 | Emigración neta | -7,9 M | +500K retornados | Irlanda post-2000 |
@@ -331,6 +382,205 @@ La inversión de USD 500 no busca retorno de venture capital. Busca:
 
 El ROI verdadero: **pasar de emigrante a accionista de tu país.**
 :::
+
+---
+
+## El Camino hacia USD 1.200: Horizonte Generacional
+
+:::caution Aspiración direccional, no proyección
+Todo lo que sigue del año 15 al 35 es una **aspiración fundamentada**, no una proyección. Los modelos a 35 años no predicen — señalan dirección. Las variables de los años 20-35 (retorno del fondo, IA, transición energética, demografía) tienen márgenes de error tan amplios que cualquier número específico es indicativo. Se incluyen porque un plan sin norte a largo plazo no inspira, pero se leen como: *"si hacemos esto bien durante 15 años, este es el techo alcanzable en los siguientes 20."*
+:::
+
+El dividendo de USD 65/persona en el año 15 es solo el comienzo. A medida que el fondo crece por interés compuesto, la economía se diversifica, el Estado se reduce con IA, las pensiones solidarias se transforman en contributivas, y los impuestos bajan — **más valor fluye directamente al ciudadano.**
+
+### Proyección Poblacional
+
+| Año | Población residente | Diaspora | Retornados acum. | Fuente/Supuesto |
+|-----|-------------------|----------|-------------------|----------------|
+| 0 (2027) | 32 M | 7,9 M | — | [ENCOVI/UCAB 2023](https://www.proyectoencovi.com/) |
+| 5 | 33,5 M | 7,2 M | 500K | Crecimiento natural 0.8%/año + retorno parcial |
+| 10 | 36 M | 5,9 M | 1,5 M | [UN World Population Prospects](https://population.un.org/wpp/) + retorno acelerado |
+| 15 | 38 M | 4,9 M | 2,5 M | Modelo Irlanda: retornos acelerados con economía creciente |
+| 20 | 40 M | 4,2 M | 3 M | Estabilización |
+| 25 | 41,5 M | 3,8 M | 3,5 M | Crecimiento natural domina |
+| 30 | 42,5 M | 3,5 M | 3,5 M | Equilibrio |
+| 35 | 43 M | 3,2 M | 3,5 M | Estabilización demográfica |
+
+### Crecimiento del Fondo Soberano (Año 15-35)
+
+Después del año 15, el fondo se acelera por 3 factores:
+1. **Interés compuesto** — USD 470B al 5,5% generan USD 26B/año solo en retornos
+2. **Contribuciones diversificadas** — ya no solo petróleo; minería, tech, turismo aportan
+3. **IA reduce costos del Estado** — ahorro fiscal se redirige al fondo
+
+| Año | Fondo | Contribución anual | Fuentes de contribución | Retorno 5,5% |
+|-----|-------|-------------------|------------------------|---------------|
+| 15 | USD 470B | USD 20B | Petróleo 65% + gas 10% + minería 15% + otros 10% | USD 25,9B |
+| 20 | USD 740B | USD 25B | Petróleo 50% + gas 10% + minería 15% + tech 10% + turismo 5% + IA ahorro 10% | USD 40,7B |
+| 25 | USD 1.130B | USD 30B | Petróleo 40% + diversificado 60% | USD 62,2B |
+| 30 | USD 1.670B | USD 35B | Petróleo 30% + diversificado 70% (tech + turismo dominan) | USD 91,9B |
+| 35 | USD 2.380B | USD 35B | Petróleo 25% + diversificado 75% | USD 130,9B |
+
+```mermaid
+xychart-beta
+    title "Fondo Soberano — Horizonte 35 anos (USD miles de M)"
+    x-axis ["Ano 5", "Ano 10", "Ano 15", "Ano 20", "Ano 25", "Ano 30", "Ano 35"]
+    y-axis "USD miles de millones" 0 --> 2500
+    bar [55, 200, 470, 740, 1130, 1670, 2380]
+```
+
+### 5 Motores que Aceleran el Dividendo
+
+#### 1. Payout ratio creciente
+
+En los primeros 15 años, solo 10% de retornos se distribuyen — el resto se reinvierte para que el fondo crezca. A medida que el fondo madura y la economía se diversifica, se puede repartir más sin comprometer el crecimiento:
+
+| Período | Payout ratio | Razón |
+|---------|-------------|-------|
+| Años 1-15 | 10% | Fondo en fase de acumulación; la economía depende de reinversión |
+| Años 15-20 | 15% | Economía diversificada; fondo autosuficiente por compuesto |
+| Años 20-25 | 25% | Petróleo < 40% de ingresos; menos reinversión necesaria |
+| Años 25-30 | 35% | Estado mínimo con IA; pensiones mayormente contributivas |
+| Años 30-35 | 40% | Fondo > USD 2T; compuesto genera más que contribuciones |
+
+**Referencia:** Noruega gasta 3% del fondo/año (equivalente a ~55% de retornos). Alaska distribuye ~50% de retornos vía [Permanent Fund Dividend](https://pfd.alaska.gov/).
+
+#### 2. IA reduce el costo del Estado
+
+| Período | Ahorro por IA/automatización | Efecto |
+|---------|------------------------------|--------|
+| Años 1-5 | 5% del gasto público | Digitalización básica (trámites, pagos) |
+| Años 5-10 | 15% | Automatización de procesos, IA en salud diagnóstica |
+| Años 10-15 | 25% | Estado digital completo (modelo Estonia) |
+| Años 15-25 | 40% | IA maneja mayoría de servicios rutinarios; gobierno = plataforma |
+| Años 25+ | 50-60% | Estado como infraestructura mínima; IA + blockchain hacen el trabajo |
+
+**Ahorro redirigido al fondo:** De USD 1B/año (año 10) a USD 5-8B/año (año 25+). Cada dólar que el Estado no gasta en burocracia puede ir al fondo o devolver al ciudadano.
+
+#### 3. Pensiones solidarias bajan generacionalmente
+
+El plan implementa un sistema de pensiones tipo [Singapur CPF](https://www.cpf.gov.sg/) (contribución individual obligatoria + retorno compuesto):
+
+| Generación | Pensión solidaria (Estado paga) | Pensión contributiva (CPF) | Costo fiscal |
+|-----------|-------------------------------|---------------------------|-------------|
+| **Jubilados actuales** (>60 años, 2027) | 100% solidaria — USD 200-300/mes meta | 0% (nunca contribuyeron) | Alto |
+| **Transición** (40-60 años, 2027) | 50-70% solidaria + 30-50% CPF | Comienzan a contribuir 15-20 años antes de jubilarse | Medio |
+| **Nueva generación** (<40 años, 2027) | 20% solidaria (solo mínimo garantizado) | 80% CPF — contribuyen toda su vida laboral | Bajo |
+| **Generación nativa** (nacidos post-2027) | 5-10% solidaria (red de seguridad extrema) | 90-95% CPF | Mínimo |
+
+**Efecto fiscal:** El costo de pensiones solidarias pasa de ~3% del PIB (años 1-10) a ~0.5% del PIB (año 30+). Ese 2.5% del PIB liberado = USD 15-20B/año → más espacio para dividendos o menos impuestos.
+
+**Referencia:** [Singapur CPF](https://www.cpf.gov.sg/) — contribución 37% del salario (empleado + empleador), ajuste regular de tasas. Pensiones promedio: USD 1.200-1.500/mes.
+
+#### 4. Impuestos bajan con la base
+
+A medida que la economía crece y se formaliza, la base tributaria se amplía. Más contribuyentes = se puede recaudar lo mismo (o más) con tasas menores:
+
+| Período | Impuesto plano | IVA | Base tributaria | Recaudación |
+|---------|---------------|-----|----------------|-------------|
+| Años 1-10 | 15% | 12% | 10-15 M contribuyentes | USD 15-25B |
+| Años 10-20 | 13% | 10% | 18-22 M contribuyentes | USD 30-45B |
+| Años 20-30 | 10% | 8% | 25-30 M contribuyentes | USD 45-60B |
+| Años 30+ | 8% | 8% | 30-35 M contribuyentes | USD 55-70B |
+
+**Efecto en el ciudadano:** Un trabajador con USD 15.000/año pasa de pagar USD 2.250 en impuesto plano (15%) a USD 1.200 (8%). Ese USD 1.050/año de ahorro es un "dividendo fiscal" invisible pero real.
+
+#### 5. Diversificación reduce dependencia petrolera
+
+```mermaid
+xychart-beta
+    title "Petroleo como pct de ingresos del fondo"
+    x-axis ["Ano 5", "Ano 10", "Ano 15", "Ano 20", "Ano 25", "Ano 30", "Ano 35"]
+    y-axis "pct" 0 --> 100
+    line [90, 75, 65, 50, 40, 30, 25]
+```
+
+A medida que tech, turismo y minería crecen, el fondo depende menos del petróleo. Esto lo hace más resiliente a shocks de precio y permite mayor payout.
+
+### Proyección del Dividendo: Año 5 a 35
+
+| Año | Fondo | Retorno 5,5% | Payout | Dividendo total | Población | **USD/persona/año** |
+|-----|-------|-------------|--------|----------------|-----------|---------------------|
+| 5 | USD 55B | USD 3B | 10% | USD 300M | 33,5M | **USD 9** |
+| 10 | USD 200B | USD 11B | 10% | USD 1,1B | 36M | **USD 31** |
+| 15 | USD 470B | USD 25,9B | 10% | USD 2,6B | 38M | **USD 68** |
+| 20 | USD 740B | USD 40,7B | 15% | USD 6,1B | 40M | **USD 153** |
+| 25 | USD 1.130B | USD 62,2B | 25% | USD 15,5B | 41,5M | **USD 374** |
+| 30 | USD 1.670B | USD 91,9B | 35% | USD 32,2B | 42,5M | **USD 757** |
+| **35** | **USD 2.380B** | **USD 130,9B** | **40%** | **USD 52,4B** | **43M** | **USD 1.218** |
+
+```mermaid
+xychart-beta
+    title "Dividendo por persona (USD/ano) — El Sueno extendido"
+    x-axis ["Ano 5", "Ano 10", "Ano 15", "Ano 20", "Ano 25", "Ano 30", "Ano 35"]
+    y-axis "USD por persona por ano" 0 --> 1300
+    bar [9, 31, 68, 153, 374, 757, 1218]
+```
+
+### Retorno Total por Ciudadano: Año 35
+
+| Beneficio | USD/persona/año | Notas |
+|-----------|----------------|-------|
+| **Dividendo directo del fondo** | **USD 1.218** | 40% de retornos |
+| Salud universal | USD 400-600 | IA reduce costos, calidad sube |
+| Educación (K-12 + universidad) | USD 300-500 | Sistema maduro, nivel OCDE |
+| Pensión CPF (para jubilados contribuyentes) | USD 800-1.500/mes | Autofinanciada; no es gasto fiscal |
+| Ahorro fiscal (impuestos más bajos) | USD 500-1.000 | 8% plano vs. 15% original |
+| Seguridad + infraestructura | USD 200-300 | Estado mínimo, servicios eficientes |
+| **Valor total por ciudadano** | **USD 2.600-3.600/año** | **vs. USD ~180 hoy** |
+
+:::info Año 35: El dividendo supera la línea de pobreza
+USD 1.218/año en dividendo directo + servicios públicos de calidad + pensión CPF = un piso de bienestar que ningún gobierno puede quitar porque no depende del gobierno — depende del fondo, de reglas constitucionales y de un sistema contributivo.
+
+**Comparación:** Alaska paga ~USD 1.600/año por persona con un fondo de USD 78B y 700K habitantes. Venezuela con USD 2.4T y 43M habitantes llegaría a USD 1.218 — matemáticamente consistente.
+:::
+
+### Análisis Distribucional: ¿Quién Gana por Decil?
+
+El dividendo universal es igualitario por diseño — cada ciudadano recibe lo mismo. Pero el impacto relativo varía radicalmente según el punto de partida:
+
+| Decil | Ingreso actual (USD/mes) | Dividendo año 15 (USD/mes) | Impacto relativo | Dividendo año 35 (USD/mes) | Impacto relativo |
+|-------|-------------------------|---------------------------|-----------------|---------------------------|-----------------|
+| **1 (más pobre)** | USD 3-10 | USD 5,7 | +57-190% | USD 101 | +1.000%+ |
+| **2** | USD 10-25 | USD 5,7 | +23-57% | USD 101 | +400%+ |
+| **3** | USD 25-50 | USD 5,7 | +11-23% | USD 101 | +200%+ |
+| **4** | USD 50-80 | USD 5,7 | +7-11% | USD 101 | +126%+ |
+| **5** | USD 80-120 | USD 5,7 | +5-7% | USD 101 | +84%+ |
+| **6** | USD 120-200 | USD 5,7 | +3-5% | USD 101 | +50%+ |
+| **7** | USD 200-350 | USD 5,7 | +2-3% | USD 101 | +29%+ |
+| **8** | USD 350-600 | USD 5,7 | +1-2% | USD 101 | +17%+ |
+| **9** | USD 600-1.500 | USD 5,7 | <1% | USD 101 | +7-17% |
+| **10 (más rico)** | USD 1.500+ | USD 5,7 | Marginal | USD 101 | <7% |
+
+**Fuente ingresos actuales:** [ENCOVI/UCAB 2023](https://www.proyectoencovi.com/) — distribución estimada sobre base USD 83B PIB / 32M hab.
+
+:::info El dividendo es progresivo sin ser redistributivo
+No quita a los ricos para dar a los pobres — crea valor nuevo para todos. Pero el impacto relativo es masivamente progresivo: para el decil 1, USD 101/mes es transformacional. Para el decil 10, es irrelevante. Esto reduce desigualdad sin penalizar a nadie.
+:::
+
+#### Proyección del Coeficiente Gini
+
+| Año | Gini estimado | Referencia | Motor de cambio |
+|-----|--------------|-----------|----------------|
+| Hoy | **0,56** | [Banco Mundial, 2023](https://data.worldbank.org/indicator/SI.POV.GINI?locations=VE) | — |
+| 5 | 0,52 | — | Formalización + títulos propiedad + empleo infraestructura |
+| 10 | 0,47 | Colombia 2023: 0,51 | Educación + salud universal + economía creciente |
+| 15 | 0,42 | Chile 2023: 0,44 | Dividendo + base tributaria ampliada + pensiones CPF |
+| 25 | 0,36 | Uruguay 2023: 0,39 | Dividendo creciente + impuestos bajos + clase media amplia |
+| 35 | 0,30-0,33 | Noruega: 0,27 | Fondo maduro + dividendo USD 1.200 + economía diversificada |
+
+**Quién gana más:** Los deciles 1-5 (82% de la población en pobreza). El dividendo universal + servicios públicos + formalización funcionan como un piso que sube para todos.
+
+**Quién podría perder:** Élites que se benefician de informalidad, opacidad y captura de rentas. El plan no les quita ingresos legítimos — les quita rentas ilegítimas al formalizar y transparentar.
+
+### Riesgos del Horizonte Extendido
+
+| Riesgo | Impacto | Mitigación |
+|--------|---------|-----------|
+| Transición energética elimina demanda petrolera | Contribuciones caen post-año 20 | Para entonces, petróleo es <30% de contribuciones; diversificación ya completada |
+| Populismo gasta el fondo antes de año 35 | Dividendo nunca llega a USD 1.200 | [Locks constitucionales](/02-motor-financiero/fondo-soberano) + custodia offshore |
+| IA no reduce costos del Estado como se espera | Payout ratio sube más lento | Modelo Estonia ya demuestra 25% de ahorro con tech pre-IA |
+| Retornos del fondo < 5,5% sostenidos | Fondo crece más lento | A 4% retorno, se llega a USD 1.200 en año 38-40 en vez de 35 |
 
 ---
 

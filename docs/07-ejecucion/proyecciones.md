@@ -15,22 +15,21 @@ xychart-beta
 
 ```mermaid
 xychart-beta
-    title "Fondo Soberano vs. Dividendo/persona"
-    x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
-    y-axis "USD miles de millones (fondo)" 0 --> 400
-    bar [0, 30, 115, 325]
-    line [0, 20, 50, 162]
+    title "Fondo Soberano Base USD 60 (USD miles de M)"
+    x-axis ["Hoy", "Ano 5", "Ano 10", "Ano 15"]
+    y-axis "USD miles de millones" 0 --> 250
+    bar [0, 20, 95, 190]
 ```
 
 | Indicador | Hoy | Año 5 | Año 10 | Año 15 |
 |-----------|-----|--------|---------|---------|
 | Producción | ~1 M bpd | 1,5–2 M | 2–2,5 M | 2,5–3 M |
-| PIB | USD 83.000 M | 120–160.000 M | 200–300.000 M | 350–500.000 M |
-| Fondo Soberano | USD 0 | 20–40.000 M | 80–150.000 M | 250–400.000 M |
-| Dividendo/persona | USD 0 | 15–25 | 38–63 | 125–200+ |
-| Rendimiento fondo (4%) | USD 0 | 800–1.600 M | 3.200–6.000 M | 10–16.000 M |
+| PIB | USD 83.000 M | 120–160.000 M | 200–300.000 M | 250–350.000 M |
+| Fondo Soberano | USD 0 | 15–25.000 M | 70–120.000 M | 160–220.000 M |
+| Dividendo/persona | USD 0 | 5–10 | 15–25 | 22–30 |
+| Rendimiento fondo (5,5%) | USD 0 | 825–1.375 M | 3.850–6.600 M | 8.800–12.100 M |
 
-Si el fondo alcanza USD 350.000 M al año 15 y retira 4%: **USD 14.000 M/año** en rendimientos. La mitad en dividendos = **USD 175/persona/año**. Familia de 4: **USD 700/año** + servicios públicos financiados.
+Cálculo: fondo × 5,5% retorno × 10% payout ÷ 40 M personas. Ver [stress test abajo](#análisis-de-sensibilidad-stress-test-por-precio-del-petróleo) para el modelo explícito. A USD 70-80/barril, las cifras se multiplican — ver [El Sueño](/07-ejecucion/el-sueno).
 
 :::tip Si Brent promedia USD 80 en vez de USD 60
 El fondo crecería a USD 500.000+ M y los dividendos se duplicarían. A USD 60 el plan funciona. Cualquier cosa por encima es bono.

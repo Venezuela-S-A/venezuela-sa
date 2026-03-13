@@ -20,6 +20,7 @@ const sidebars = {
         "02-motor-financiero/deuda",
         "02-motor-financiero/inversion-inicial-fuentes",
         "02-motor-financiero/transicion-fiscal",
+        "02-motor-financiero/enfermedad-holandesa",
       ],
     },
     {
@@ -29,6 +30,7 @@ const sidebars = {
         "03-ciudadanos/inversion-ciudadana",
         "03-ciudadanos/diaspora",
         "03-ciudadanos/retorno-diaspora",
+        "03-ciudadanos/los-que-se-quedaron",
       ],
     },
     {
@@ -41,6 +43,7 @@ const sidebars = {
         "04-gobernanza/estado-derecho-moneda",
         "04-gobernanza/seguridad-fisica",
         "04-gobernanza/modelo-estado",
+        "04-gobernanza/justicia-transicional",
       ],
     },
     {
@@ -53,6 +56,7 @@ const sidebars = {
         "05-transformacion/impacto-ia",
         "05-transformacion/educacion",
         "05-transformacion/comercio-exterior",
+        "05-transformacion/capital-humano",
       ],
     },
     {
@@ -75,6 +79,7 @@ const sidebars = {
         "07-ejecucion/proyecciones",
         "07-ejecucion/riesgos",
         "07-ejecucion/el-sueno",
+        "07-ejecucion/evaluacion-perspectivas",
       ],
     },
     {

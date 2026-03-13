@@ -40,6 +40,7 @@ const sidebars = {
         "04-gobernanza/geopolitica",
         "04-gobernanza/estado-derecho-moneda",
         "04-gobernanza/seguridad-fisica",
+        "04-gobernanza/modelo-estado",
       ],
     },
     {

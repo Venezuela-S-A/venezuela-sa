@@ -35,11 +35,11 @@ If the plan doesn't address the daily life of the majority who stayed — public
 | [Sovereign fund](/02-motor-financiero/fondo-soberano) | Dividend USD 30-65/person/year (year 15) | Insufficient short-term; useful long-term |
 | [Tax reform](/02-motor-financiero/transicion-fiscal) | Fewer informal taxes, more formalization | Partial: benefits those who already have income |
 | [Security](/04-gobernanza/seguridad-fisica) | Crime reduction | Direct impact on quality of life |
-| [Public health](/06-realidad/servicios-publicos) | Universal healthcare funded (4-5% GDP) | Transformational if executed |
+| [Public health](/06-realidad/servicios-publicos) | FONASA universal (7% salary contribution). Tramos A/B: zero copay. ISAPRE optional | Transformational — no one is left out |
 | [Education](/05-transformacion/educacion) | Rebuilt education system | Impact in 10-15 years |
 | [Digital state](/06-realidad/estado-digital) | Online procedures, less bureaucracy | Useful for connected users; 40%+ without reliable internet |
 | [Infrastructure](/06-realidad/infraestructura-basica) | Electricity, water, transportation | Basic need covered |
-| [Pensions](/06-realidad/pensiones-seguridad-social) | Contributory Pillar 1 | Doesn't solve current retirees who never contributed |
+| [Pensions](/06-realidad/pensiones-seguridad-social) | Pillar 1 universal + FCV Retirement Sub-account | Pillar 1 covers current retirees who never contributed. FCV builds for future |
 | [Tech hubs / ZEETs](/05-transformacion/hubs-tech) | Tech jobs | For a qualified minority; not for the informal majority |
 | [Citizen investment](/03-ciudadanos/inversion-ciudadana) | Right to dividend as "shareholder" | Symbolic until the fund generates returns |
 
@@ -133,9 +133,9 @@ The basic family basket costs **USD 677/month** for 5 people (~**USD 135/person/
 
 ```mermaid
 xychart-beta
-    title "Paquete de Valor Ciudadano — USD/mes por componente (Ano 5)"
-    x-axis ["Empleo", "Salud", "Educacion", "Infraestr.", "Seguridad", "Titulo", "Efectivo"]
-    y-axis "USD/mes" 0 --> 500
+    title "Citizen Value Package — USD/month by Component (Year 5)"
+    x-axis ["Employment", "Healthcare", "Education", "Infrastr.", "Security", "Title", "Cash"]
+    y-axis "USD/month" 0 --> 500
     bar [400, 80, 65, 50, 32, 15, 15]
 ```
 

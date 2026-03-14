@@ -7,31 +7,31 @@ title: Timeline
 
 ```mermaid
 gantt
-    title Venezuela S.A. - Timeline de Ejecucion (15 anios)
+    title Venezuela S.A. - Execution Timeline (15 years)
     dateFormat YYYY
     axisFormat %Y
 
-    section Fase A - Estabilizacion
-    Reestructuracion de deuda (haircut 50%)         :a1, 2027, 2031
-    Contratos forward diversificados               :a2, 2027, 2031
-    Capital extranjero USD 30-35B (Rystad)          :a3, 2027, 2030
-    Fondo Soberano + reglas constitucionales       :a4, 2027, 2029
-    Bonos ciudadanos + censo diaspora               :a5, 2027, 2029
-    Meta 1.4 M bpd                                  :milestone, m1, 2031, 0d
+    section Phase A - Stabilization
+    Debt restructuring (50% haircut)                :a1, 2027, 2031
+    Diversified forward contracts                   :a2, 2027, 2031
+    Foreign capital USD 30-35B (Rystad)             :a3, 2027, 2030
+    Sovereign Fund + constitutional rules           :a4, 2027, 2029
+    Citizen bonds + diaspora census                 :a5, 2027, 2029
+    Target 1.4M bpd                                 :milestone, m1, 2031, 0d
 
-    section Fase B - Aceleracion
-    Produccion 2-2.5 M bpd                           :b1, 2032, 2037
-    Hubs tech + data centers (5-10% LATAM)          :b2, 2031, 2037
-    Turismo 3-5 M turistas/anio                     :b3, 2032, 2037
-    Fondo soberano USD 80-150B                      :b4, 2032, 2037
-    Meta 2.5 M bpd                                   :milestone, m2, 2037, 0d
+    section Phase B - Acceleration
+    Production 2-2.5M bpd                            :b1, 2032, 2037
+    Tech hubs + data centers (5-10% LATAM)          :b2, 2031, 2037
+    Tourism 3-5M tourists/year                      :b3, 2032, 2037
+    Sovereign fund USD 80-150B                      :b4, 2032, 2037
+    Target 2.5M bpd                                  :milestone, m2, 2037, 0d
 
-    section Fase C - Transformacion
-    Produccion 2.5-3 M bpd                            :c1, 2038, 2042
-    Fondo USD 250-400B                               :c2, 2038, 2042
-    Petroleo menos de 40% PIB                        :c3, 2038, 2042
-    Dividendos USD 125-200/persona                   :c4, 2040, 2042
-    Meta Startup Nation                              :milestone, m3, 2042, 0d
+    section Phase C - Transformation
+    Production 2.5-3M bpd                             :c1, 2038, 2042
+    Fund USD 250-400B                                :c2, 2038, 2042
+    Oil less than 40% GDP                            :c3, 2038, 2042
+    Dividends USD 125-200/person                     :c4, 2040, 2042
+    Target Startup Nation                            :milestone, m3, 2042, 0d
 ```
 
 ## Phase A: Stabilization (Years 1–4)
@@ -97,28 +97,28 @@ Evaluators agree: a 15-year plan without visible results in the first 365 days l
 
 ```mermaid
 gantt
-    title Sprints de 100 dias — Primeros 1.000 dias
+    title 100-Day Sprints — First 1,000 Days
     dateFormat YYYY-MM-DD
     axisFormat %b %Y
 
-    section Emergencia
-    Sprint 0 - Senales visibles       :s0, 2027-01-01, 100d
+    section Emergency
+    Sprint 0 - Visible signals         :s0, 2027-01-01, 100d
 
-    section Infraestructura
-    Sprint 1 - Infra critica           :s1, after s0, 100d
-    Sprint 2 - Primeros retornos       :s2, after s1, 65d
+    section Infrastructure
+    Sprint 1 - Critical infra          :s1, after s0, 100d
+    Sprint 2 - First returns           :s2, after s1, 65d
 
-    section Aceleracion
-    Sprint 3 - Produccion 1.2M bpd     :s3, 2027-12-01, 100d
-    Sprint 4 - Primer data center      :s4, after s3, 100d
-    Sprint 5 - 5.000 devs formados     :s5, after s4, 100d
+    section Acceleration
+    Sprint 3 - Production 1.2M bpd     :s3, 2027-12-01, 100d
+    Sprint 4 - First data center       :s4, after s3, 100d
+    Sprint 5 - 5,000 devs trained      :s5, after s4, 100d
 
-    section Consolidacion
-    Sprint 6 - 1.5M bpd + fondo activo :s6, after s5, 100d
-    Sprint 7 - Primer unicornio venez  :s7, after s6, 100d
+    section Consolidation
+    Sprint 6 - 1.5M bpd + active fund  :s6, after s5, 100d
+    Sprint 7 - First Venez. unicorn    :s7, after s6, 100d
     Sprint 8 - Investment grade path   :s8, after s7, 100d
-    Sprint 9 - 50K ingenieros          :s9, after s8, 100d
-    Sprint 10 - Evaluacion 1.000 dias  :milestone, m10, after s9, 0d
+    Sprint 9 - 50K engineers           :s9, after s8, 100d
+    Sprint 10 - 1,000-day evaluation   :milestone, m10, after s9, 0d
 ```
 
 ### Timeline Compression: 15 to 10 Operational Years

@@ -23,20 +23,20 @@ This section does not name people — that is an operational task. It defines th
 
 ```mermaid
 flowchart TD
-    CIT["<b>Ciudadanos (40M accionistas)</b><br/>Dashboard público de KPIs"] --> BE
-    CIT --> AC["<b>Asamblea Ciudadana</b><br/>Mecanismo de supervisión directa"]
+    CIT["<b>Citizens (40M shareholders)</b><br/>Public KPI dashboard"] --> BE
+    CIT --> AC["<b>Citizen Assembly</b><br/>Direct oversight mechanism"]
 
-    BE["<b>Board Ejecutivo</b><br/>5-7 miembros<br/>Estrategia + supervisión"] --> CEO["<b>CEO (Administrador General)</b><br/>Operaciones día a día"]
-    AC -.->|"Audita"| BE
+    BE["<b>Executive Board</b><br/>5-7 members<br/>Strategy + oversight"] --> CEO["<b>CEO (General Administrator)</b><br/>Day-to-day operations"]
+    AC -.->|"Audits"| BE
 
-    CEO --> DP["<b>Dir. Petrolera</b><br/>JVs, upstream, Rystad"]
-    CEO --> DF["<b>Dir. Financiera</b><br/>Fondo soberano, deuda, fiscal"]
-    CEO --> DT["<b>Dir. Tech/Digital</b><br/>Estado digital, hubs, data centers"]
-    CEO --> DCH["<b>Dir. Capital Humano</b><br/>Educación, diáspora, talento"]
-    CEO --> DSL["<b>Dir. Seguridad/Legal</b><br/>Reforma policial, justicia"]
+    CEO --> DP["<b>Oil Director</b><br/>JVs, upstream, Rystad"]
+    CEO --> DF["<b>Finance Director</b><br/>Sovereign fund, debt, fiscal"]
+    CEO --> DT["<b>Tech/Digital Director</b><br/>Digital state, hubs, data centers"]
+    CEO --> DCH["<b>Human Capital Director</b><br/>Education, diaspora, talent"]
+    CEO --> DSL["<b>Security/Legal Director</b><br/>Police reform, justice"]
 
-    ADV["<b>Advisory Council</b><br/>10-15 expertos internacionales"] -.->|"Asesora"| BE
-    ADV -.->|"Asesora"| CEO
+    ADV["<b>Advisory Council</b><br/>10-15 international experts"] -.->|"Advises"| BE
+    ADV -.->|"Advises"| CEO
 ```
 
 :::info Relationship with the existing PMO
@@ -81,10 +81,10 @@ Venezuela has had decades of officials without accountability. The plan's [anti-
 
 ```mermaid
 flowchart LR
-    NOM["<b>1. Nominación</b><br/>Orgs. diáspora<br/>Sociedad civil<br/>Partners internacionales"] --> VET["<b>2. Vetting</b><br/>Comité independiente<br/>Background checks<br/>Due diligence financiero"]
-    VET --> SHORT["<b>3. Shortlist pública</b><br/>Perfiles publicados<br/>Período de comentarios<br/>ciudadanos (30 días)"]
-    SHORT --> APT["<b>4. Designación</b><br/>Voto ciudadano o<br/>aprobación parlamentaria"]
-    APT --> REV["<b>5. Revisión anual</b><br/>KPIs públicos<br/>Evaluación 360°<br/>Ciudadanos pueden objetar"]
+    NOM["<b>1. Nomination</b><br/>Diaspora orgs.<br/>Civil society<br/>International partners"] --> VET["<b>2. Vetting</b><br/>Independent committee<br/>Background checks<br/>Financial due diligence"]
+    VET --> SHORT["<b>3. Public shortlist</b><br/>Published profiles<br/>Citizen comment<br/>period (30 days)"]
+    SHORT --> APT["<b>4. Appointment</b><br/>Citizen vote or<br/>parliamentary approval"]
+    APT --> REV["<b>5. Annual review</b><br/>Public KPIs<br/>360-degree evaluation<br/>Citizens can object"]
 ```
 
 | Phase | Duration | Responsible | Output |

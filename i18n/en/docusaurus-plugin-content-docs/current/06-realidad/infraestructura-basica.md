@@ -150,20 +150,20 @@ Venezuela imports >70% of its food despite having the Llanos — one of the most
 
 ```mermaid
 xychart-beta
-    title "Inversión en infraestructura por sector (USD miles de M — rango inferior vs. superior)"
-    x-axis ["Vivienda", "Transporte", "Agua", "Telecom", "Agricultura"]
-    y-axis "USD miles de millones" 0 --> 32
+    title "Infrastructure Investment by Sector (USD billions — lower vs. upper range)"
+    x-axis ["Housing", "Transport", "Water", "Telecom", "Agriculture"]
+    y-axis "USD billions" 0 --> 32
     bar [15, 15, 5, 3, 3.5]
     bar [30, 30, 9, 5, 7]
 ```
 
 ```mermaid
-pie title Distribución de inversión en infraestructura (rango inferior)
-    "Vivienda" : 15
-    "Transporte" : 15
-    "Agua y saneamiento" : 5
-    "Telecomunicaciones" : 3
-    "Agricultura" : 3.5
+pie title Infrastructure Investment Distribution (lower range)
+    "Housing" : 15
+    "Transportation" : 15
+    "Water and sanitation" : 5
+    "Telecommunications" : 3
+    "Agriculture" : 3.5
 ```
 
 | Sector | Investment | Timeline |

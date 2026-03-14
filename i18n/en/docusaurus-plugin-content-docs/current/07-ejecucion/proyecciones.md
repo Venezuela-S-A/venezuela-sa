@@ -7,17 +7,17 @@ title: Projections
 
 ```mermaid
 xychart-beta
-    title "Crecimiento del PIB (USD miles de M)"
-    x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
-    y-axis "USD miles de millones" 0 --> 500
+    title "GDP Growth (USD billions)"
+    x-axis ["Today", "Year 5", "Year 10", "Year 15"]
+    y-axis "USD billions" 0 --> 500
     bar [83, 140, 250, 425]
 ```
 
 ```mermaid
 xychart-beta
-    title "Fondo Soberano Base USD 60 (USD miles de M)"
-    x-axis ["Hoy", "Ano 5", "Ano 10", "Ano 15"]
-    y-axis "USD miles de millones" 0 --> 250
+    title "Sovereign Fund Base USD 60 (USD billions)"
+    x-axis ["Today", "Year 5", "Year 10", "Year 15"]
+    y-axis "USD billions" 0 --> 250
     bar [0, 20, 95, 190]
 ```
 
@@ -74,9 +74,9 @@ Fund contribution = 30% × USD 14,372M = USD 4,312M/year
 
 ```mermaid
 xychart-beta
-    title "Fondo Soberano Año 15 por escenario de precio (USD miles de M)"
-    x-axis ["$40 Crisis", "$50 Bajo", "$60 Base", "$70 Favorable", "$80 Boom"]
-    y-axis "USD miles de millones" 0 --> 500
+    title "Sovereign Fund Year 15 by Price Scenario (USD billions)"
+    x-axis ["$40 Crisis", "$50 Low", "$60 Base", "$70 Favorable", "$80 Boom"]
+    y-axis "USD billions" 0 --> 500
     bar [17, 95, 190, 295, 410]
 ```
 

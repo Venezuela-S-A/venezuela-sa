@@ -19,17 +19,17 @@ The Norwegian fund: [USD 2.2 T at end of 2025](https://www.nbim.no/en/investment
 
 ```mermaid
 xychart-beta
-    title "Crecimiento del Fondo Soberano — Base USD 60 (USD miles de M)"
-    x-axis ["Ano 1", "Ano 3", "Ano 5", "Ano 7", "Ano 10", "Ano 12", "Ano 15"]
-    y-axis "USD miles de millones" 0 --> 250
+    title "Sovereign Fund Growth — Base USD 60 (USD billions)"
+    x-axis ["Year 1", "Year 3", "Year 5", "Year 7", "Year 10", "Year 12", "Year 15"]
+    y-axis "USD billions" 0 --> 250
     bar [0, 8, 20, 45, 95, 140, 190]
 ```
 
 ```mermaid
 xychart-beta
-    title "Comparación Fondos Soberanos (USD miles de M, 2025)"
-    x-axis ["Noruega", "Abu Dhabi", "Kuwait", "Arabia Saudi", "Singapur GIC", "Venezuela Ano 15"]
-    y-axis "USD miles de millones" 0 --> 2300
+    title "Sovereign Fund Comparison (USD billions, 2025)"
+    x-axis ["Norway", "Abu Dhabi", "Kuwait", "Saudi Arabia", "Singapore GIC", "Venezuela Year 15"]
+    y-axis "USD billions" 0 --> 2300
     bar [2200, 1100, 900, 925, 800, 190]
 ```
 
@@ -67,17 +67,17 @@ Between 2005 and 2015, Venezuela diverted **USD 300,000+ M** through FONDEN (Nat
 
 ```mermaid
 flowchart TD
-    A["Board Independiente
-    7 miembros, mandatos escalonados"] --> B["Fiscal General Independiente
-    Audita operaciones trimestralmente"]
-    B --> C["Auditor Externo Internacional
-    Big 4 rotativo cada 3 años"]
-    C --> D["Comisión Parlamentaria
-    Aprueba mandato de inversión anual"]
-    D --> E["Dashboard Público en Tiempo Real
-    Portafolio, rendimientos, costos — 100% transparente"]
-    E --> F["Canal de Whistleblower
-    Protección legal + recompensa por denuncia verificada"]
+    A["Independent Board
+    7 members, staggered terms"] --> B["Independent Attorney General
+    Audits operations quarterly"]
+    B --> C["International External Auditor
+    Big 4 rotating every 3 years"]
+    C --> D["Parliamentary Commission
+    Approves annual investment mandate"]
+    D --> E["Real-Time Public Dashboard
+    Portfolio, returns, costs — 100% transparent"]
+    E --> F["Whistleblower Channel
+    Legal protection + reward for verified reports"]
 
     style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
     style B fill:#2d5016,stroke:#C49A2A,color:#fff
@@ -246,14 +246,14 @@ Latin America produces populists with overwhelming majorities in predictable cyc
 
 ```mermaid
 flowchart TD
-    A["Populista gana elecciones<br/>con 60-70% de votos"] --> B{"¿Tiene mayoría<br/>parlamentaria?"}
-    B -->|Sí| C["Convoca Asamblea<br/>Constituyente"]
-    C --> D["Reescribe reglas<br/>del fondo soberano"]
-    D --> E["Vacía el fondo<br/>'legalmente'"]
-    B -->|No| F["Presiona vía decretos,<br/>emergencias, referéndums"]
+    A["Populist wins elections<br/>with 60-70% of votes"] --> B{"Has parliamentary<br/>majority?"}
+    B -->|Yes| C["Convenes Constituent<br/>Assembly"]
+    C --> D["Rewrites sovereign<br/>fund rules"]
+    D --> E["Empties the fund<br/>'legally'"]
+    B -->|No| F["Pressures via decrees,<br/>emergencies, referendums"]
     F --> D
 
-    E --> G["USD 0 en el fondo<br/>en 5-10 años"]
+    E --> G["USD 0 in the fund<br/>in 5-10 years"]
 
     style E fill:#8B0000,color:#fff
     style G fill:#8B0000,color:#fff
@@ -263,25 +263,25 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    P["Populista intenta<br/>vaciar el fondo"] --> L1{"Lock 1:<br/>Tratados (BITs)"}
-    L1 -->|Rompe| C1["Demandas ICSID por<br/>USD 5-20B + pérdida<br/>de investment grade +<br/>fuga de capital"]
-    L1 -->|No rompe| S1["Fondo protegido ✓"]
+    P["Populist attempts to<br/>empty the fund"] --> L1{"Lock 1:<br/>Treaties (BITs)"}
+    L1 -->|Breaks| C1["ICSID lawsuits for<br/>USD 5-20B + loss of<br/>investment grade +<br/>capital flight"]
+    L1 -->|Doesn't break| S1["Fund protected ✓"]
 
-    P --> L2{"Lock 2:<br/>Custodia offshore"}
-    L2 -->|Rompe| C2["Imposible sin cooperación<br/>de JPMorgan/State Street/<br/>BNY Mellon — activos<br/>fuera de jurisdicción"]
-    L2 -->|No rompe| S2["Fondo protegido ✓"]
+    P --> L2{"Lock 2:<br/>Offshore custody"}
+    L2 -->|Breaks| C2["Impossible without cooperation<br/>from JPMorgan/State Street/<br/>BNY Mellon — assets<br/>outside jurisdiction"]
+    L2 -->|Doesn't break| S2["Fund protected ✓"]
 
-    P --> L3{"Lock 3:<br/>Referéndum ciudadano"}
-    L3 -->|Rompe| C3["Necesita 60%+ de votos<br/>EN REFERÉNDUM ESPECÍFICO<br/>sobre el fondo —<br/>no elecciones generales"]
-    L3 -->|No rompe| S3["Fondo protegido ✓"]
+    P --> L3{"Lock 3:<br/>Citizen referendum"}
+    L3 -->|Breaks| C3["Requires 60%+ votes<br/>IN SPECIFIC REFERENDUM<br/>about the fund —<br/>not general elections"]
+    L3 -->|Doesn't break| S3["Fund protected ✓"]
 
-    P --> L4{"Lock 4:<br/>Board internacional<br/>con veto"}
-    L4 -->|Rompe| C4["No puede destituir<br/>miembros internacionales<br/>sin 5/7 del board +<br/>causa verificable"]
-    L4 -->|No rompe| S4["Fondo protegido ✓"]
+    P --> L4{"Lock 4:<br/>International board<br/>with veto"}
+    L4 -->|Breaks| C4["Cannot remove<br/>international members<br/>without 5/7 of board +<br/>verifiable cause"]
+    L4 -->|Doesn't break| S4["Fund protected ✓"]
 
-    P --> L5{"Lock 5:<br/>Sanciones automáticas"}
-    L5 -->|Rompe| C5["Activación automática:<br/>congelamiento de activos<br/>del gobierno en<br/>jurisdicciones firmantes"]
-    L5 -->|No rompe| S5["Fondo protegido ✓"]
+    P --> L5{"Lock 5:<br/>Automatic sanctions"}
+    L5 -->|Breaks| C5["Automatic activation:<br/>government asset freeze<br/>in signatory<br/>jurisdictions"]
+    L5 -->|Doesn't break| S5["Fund protected ✓"]
 
     style C1 fill:#8B0000,color:#fff
     style C2 fill:#8B0000,color:#fff

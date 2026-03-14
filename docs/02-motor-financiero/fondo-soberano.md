@@ -5,6 +5,10 @@ title: Fondo Soberano
 
 # Fondo Soberano: El Modelo Noruega
 
+:::danger Distinción clave: El fondo soberano NO es del Estado
+El fondo soberano es administrado por **Venezuela S.A.** — el holding corporativo de los 40 millones de ciudadanos-accionistas. El Estado NO administra el fondo, NO cobra regalías, NO opera empresas. Venezuela S.A. cobra regalías de concesiones y JVs, alimenta el fondo, y distribuye dividendos. El Estado solo regula y provee sus 5 funciones (gobierno, salud, justicia, educación, seguridad).
+:::
+
 El fondo noruego: [USD 2,2 T a fines de 2025](https://www.nbim.no/en/investments/the-funds-value/), [USD 247.000 M de beneficio en 2025](https://www.cnbc.com/2026/01/29/norway-sovereign-wealth-fund-2025-return-nbim-trillion-oil-stocks-tech-ai-banks-silver.html), 7.200+ empresas, 1,5% de todas las acciones globales, [25% del presupuesto noruego](https://fortune.com/europe/2025/07/30/how-sparsely-populated-norway-amassed-1-8-trillion-sovereign-wealth-fund/).
 
 ## Las 5 Reglas Constitucionales
@@ -79,12 +83,12 @@ flowchart TD
     E --> F["Canal de Whistleblower
     Protección legal + recompensa por denuncia verificada"]
 
-    style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style B fill:#2d5016,stroke:#C49A2A,color:#fff
-    style C fill:#2d5016,stroke:#C49A2A,color:#fff
-    style D fill:#2d5016,stroke:#C49A2A,color:#fff
-    style E fill:#C49A2A,stroke:#1B3A5C,color:#fff
-    style F fill:#8B0000,stroke:#C49A2A,color:#fff
+    style A fill:#0D47A1,color:#fff
+    style B fill:#00897B,color:#fff
+    style C fill:#00897B,color:#fff
+    style D fill:#00897B,color:#fff
+    style E fill:#F9A825,color:#000
+    style F fill:#C62828,color:#fff
 ```
 
 ### Mecanismos Anti-Captura
@@ -95,7 +99,7 @@ flowchart TD
 | **Regla de gasto 3-4%** | Solo se puede gastar el retorno real promedio de 15 años, no el principal | Noruega: 3% del valor del fondo/año |
 | **Mandatos escalonados** | Los 7 miembros nunca se renuevan al mismo tiempo — ningún gobierno nombra mayoría | [Reserva Federal](https://www.federalreserve.gov/): mandatos de 14 años escalonados |
 | **Bloqueo constitucional** | Modificar reglas del fondo requiere 2/3 de Parlamento + referéndum popular | Alaska: [Permanent Fund](https://apfc.org/) protegido constitucionalmente |
-| **Prohibición de préstamos soberanos** | El fondo no puede prestar al gobierno ni garantizar deuda pública | Anti-FONDEN: FONDEN prestó USD 170B+ al gobierno sin retorno |
+| **Prohibición de préstamos al gobierno** | El fondo no puede prestar al Estado ni garantizar deuda pública. Venezuela S.A. emite deuda corporativa propia, respaldada por flujo de concesiones — no deuda soberana | Anti-FONDEN: FONDEN prestó USD 170B+ al gobierno sin retorno |
 | **Auditoría cruzada** | Auditor externo reporta al Parlamento, no al board — evita colusión | [Santiago Principles](https://www.ifswf.org/santiago-principles), Principio 16 |
 
 ### Tabla Comparativa de Gobernanza
@@ -255,8 +259,13 @@ flowchart TD
 
     E --> G["USD 0 en el fondo<br/>en 5-10 años"]
 
-    style E fill:#8B0000,color:#fff
-    style G fill:#8B0000,color:#fff
+    style A fill:#0D47A1,color:#fff
+    style B fill:#F9A825,color:#000
+    style C fill:#E3F2FD,color:#1B2631
+    style D fill:#E3F2FD,color:#1B2631
+    style F fill:#E3F2FD,color:#1B2631
+    style E fill:#C62828,color:#fff
+    style G fill:#C62828,color:#fff
 ```
 
 ### Por qué los locks supra-constitucionales son más difíciles de romper
@@ -283,16 +292,22 @@ flowchart TD
     L5 -->|Rompe| C5["Activación automática:<br/>congelamiento de activos<br/>del gobierno en<br/>jurisdicciones firmantes"]
     L5 -->|No rompe| S5["Fondo protegido ✓"]
 
-    style C1 fill:#8B0000,color:#fff
-    style C2 fill:#8B0000,color:#fff
-    style C3 fill:#ffa07a
-    style C4 fill:#8B0000,color:#fff
-    style C5 fill:#8B0000,color:#fff
-    style S1 fill:#2d5016,color:#fff
-    style S2 fill:#2d5016,color:#fff
-    style S3 fill:#2d5016,color:#fff
-    style S4 fill:#2d5016,color:#fff
-    style S5 fill:#2d5016,color:#fff
+    style P fill:#0D47A1,color:#fff
+    style L1 fill:#F9A825,color:#000
+    style L2 fill:#F9A825,color:#000
+    style L3 fill:#F9A825,color:#000
+    style L4 fill:#F9A825,color:#000
+    style L5 fill:#F9A825,color:#000
+    style C1 fill:#C62828,color:#fff
+    style C2 fill:#C62828,color:#fff
+    style C3 fill:#C62828,color:#fff
+    style C4 fill:#C62828,color:#fff
+    style C5 fill:#C62828,color:#fff
+    style S1 fill:#00897B,color:#fff
+    style S2 fill:#00897B,color:#fff
+    style S3 fill:#00897B,color:#fff
+    style S4 fill:#00897B,color:#fff
+    style S5 fill:#00897B,color:#fff
 ```
 
 ### La diferencia clave: costo de romper

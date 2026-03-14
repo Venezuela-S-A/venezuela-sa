@@ -10,78 +10,78 @@ flowchart TB
     subgraph KP["🤝 Key Partners"]
         KP1["Oil majors (Chevron, Shell, TotalEnergies)"]
         KP2["BigTech (AWS, Google, Microsoft)"]
-        KP3["Multilaterales (FMI, BM, BID)"]
-        KP4["EE.UU. (control oil sales actual)"]
+        KP3["Multilaterals (IMF, WB, IDB)"]
+        KP4["U.S. (current oil sales control)"]
         KP5["Trinidad & Tobago (gas/LNG)"]
-        KP6["Colombia/Brasil (comercio + energía)"]
+        KP6["Colombia/Brazil (trade + energy)"]
     end
 
     subgraph KA["⚙️ Key Activities"]
-        KA1["Reconstruir producción petrolera (1→3M bpd)"]
-        KA2["Rehabilitar hidroeléctrica (18 GW)"]
-        KA3["Crear 5 hubs tech (ZEET)"]
-        KA4["Reestructurar deuda (USD 150-170B)"]
-        KA5["Reforma institucional (Georgia model)"]
-        KA6["Estado digital (Estonia model)"]
+        KA1["Rebuild oil production (1→3M bpd)"]
+        KA2["Rehabilitate hydroelectric (18 GW)"]
+        KA3["Create 5 tech hubs (ZEET)"]
+        KA4["Restructure debt (USD 150-170B)"]
+        KA5["Institutional reform (Georgia model)"]
+        KA6["Digital state (Estonia model)"]
     end
 
     subgraph VP["💎 Value Proposition"]
-        VP1["CIUDADANOS: Dividendo + servicios + propiedad"]
-        VP2["INVERSORES: Acceso a 303B bbl + energía barata"]
-        VP3["BIGTECH: Electricidad más barata de LATAM"]
-        VP4["DIÁSPORA: Participación desde USD 10 + retorno"]
+        VP1["CITIZENS: Dividend + services + ownership"]
+        VP2["INVESTORS: Access to 303B bbl + cheap energy"]
+        VP3["BIGTECH: Cheapest electricity in LATAM"]
+        VP4["DIASPORA: Participation from USD 10 + return"]
     end
 
     subgraph CR["❤️ Customer Relationships"]
-        CR1["Accionista (dividendo automático)"]
-        CR2["Transparencia total (dashboard blockchain)"]
-        CR3["Gobierno digital (0 burocracia)"]
-        CR4["Whistleblower + anticorrupción"]
+        CR1["Shareholder (automatic dividend)"]
+        CR2["Total transparency (blockchain dashboard)"]
+        CR3["Digital government (0 bureaucracy)"]
+        CR4["Whistleblower + anti-corruption"]
     end
 
     subgraph CS["👥 Customer Segments"]
-        CS1["28-32M venezolanos en el país"]
-        CS2["7,9M diáspora"]
-        CS3["Oil majors internacionales"]
+        CS1["28-32M Venezuelans in-country"]
+        CS2["7.9M diaspora"]
+        CS3["International oil majors"]
         CS4["BigTech / data center operators"]
-        CS5["Inversores institucionales"]
-        CS6["Turistas (meta: 5-10M/año)"]
+        CS5["Institutional investors"]
+        CS6["Tourists (target: 5-10M/year)"]
     end
 
     subgraph KR["🏗️ Key Resources"]
-        KR1["303.000M bbl reservas petroleras (#1 mundial)"]
-        KR2["18 GW potencial hidroeléctrico"]
-        KR3["5.500 BCM gas natural (#7 mundial)"]
-        KR4["7,9M diáspora capacitada"]
-        KR5["Posición geográfica (Caribe + cercanía EE.UU.)"]
-        KR6["Tierras fértiles (Llanos + Orinoco)"]
+        KR1["303B bbl oil reserves (#1 worldwide)"]
+        KR2["18 GW hydroelectric potential"]
+        KR3["5,500 BCM natural gas (#7 worldwide)"]
+        KR4["7.9M skilled diaspora"]
+        KR5["Geographic position (Caribbean + U.S. proximity)"]
+        KR6["Fertile land (Llanos + Orinoco)"]
     end
 
     subgraph CH["📢 Channels"]
-        CH1["App inversión ciudadana (desde USD 10)"]
-        CH2["Bonos soberanos"]
-        CH3["ZEET (5 zonas tech con beneficios fiscales)"]
-        CH4["Acuerdos bilaterales (JVs, forwards)"]
-        CH5["Plataforma diáspora (censo + matching)"]
+        CH1["Citizen investment app (from USD 10)"]
+        CH2["Sovereign bonds"]
+        CH3["ZEET (5 tech zones with tax benefits)"]
+        CH4["Bilateral agreements (JVs, forwards)"]
+        CH5["Diaspora platform (census + matching)"]
     end
 
     subgraph COST["💰 Cost Structure"]
-        COST1["Petróleo: USD 183.000M (Rystad, 15 años)"]
-        COST2["Infraestructura: USD 41.500-81.000M"]
-        COST3["Deuda: USD 75-85.000M (reestructuración)"]
-        COST4["Educación: USD 15-25.000M"]
-        COST5["Seguridad: USD 5-8.000M"]
-        COST6["Total: USD 550-750.000M / 15 años"]
+        COST1["Oil: USD 183B (Rystad, 15 years)"]
+        COST2["Infrastructure: USD 41.5-81B"]
+        COST3["Debt: USD 75-85B (restructuring)"]
+        COST4["Education: USD 15-25B"]
+        COST5["Security: USD 5-8B"]
+        COST6["Total: USD 550-750B / 15 years"]
     end
 
     subgraph REV["💵 Revenue Streams"]
-        REV1["Petróleo: USD 40-55.000M/año (año 15)"]
-        REV2["Impuestos: 15% flat + 12% IVA"]
-        REV3["Concesiones (infraestructura, telecom)"]
+        REV1["Oil: USD 40-55B/year (year 15)"]
+        REV2["Taxes: 15% flat + 12% VAT"]
+        REV3["Concessions (infrastructure, telecom)"]
         REV4["ZEET fees + corporate tax 15%"]
-        REV5["Fondo soberano: 4-7% retorno anual"]
-        REV6["Gas/LNG: USD 3-5.000M/año"]
-        REV7["Turismo: USD 4-8.000M/año"]
+        REV5["Sovereign fund: 4-7% annual return"]
+        REV6["Gas/LNG: USD 3-5B/year"]
+        REV7["Tourism: USD 4-8B/year"]
     end
 ```
 
@@ -143,16 +143,16 @@ flowchart TB
 ### 5. Revenue Streams
 
 ```mermaid
-pie title Ingresos anuales — Año 15 (USD miles de M)
-    "Petróleo" : 47
-    "Impuestos (15% flat + 12% IVA)" : 20
-    "Gas natural / LNG" : 4
-    "Turismo" : 6
+pie title Annual Revenue — Year 15 (USD billions)
+    "Oil" : 47
+    "Taxes (15% flat + 12% VAT)" : 20
+    "Natural gas / LNG" : 4
+    "Tourism" : 6
     "Data centers / Tech" : 5
-    "Concesiones" : 4
-    "Petroquímica" : 4.5
-    "Agroindustria" : 3.5
-    "Fondo soberano (retorno 4%)" : 13
+    "Concessions" : 4
+    "Petrochemicals" : 4.5
+    "Agroindustry" : 3.5
+    "Sovereign fund (4% return)" : 13
 ```
 
 | Source | Year 5 | Year 10 | Year 15 |
@@ -178,26 +178,26 @@ pie title Ingresos anuales — Año 15 (USD miles de M)
 
 ```mermaid
 gantt
-    title Actividades Clave — Timeline
+    title Key Activities — Timeline
     dateFormat YYYY
     axisFormat %Y
 
-    section Energía
-    Estabilizar 1.1M bpd + Guri       :2026, 2028
+    section Energy
+    Stabilize 1.1M bpd + Guri         :2026, 2028
     Brownfield +300K bpd               :2028, 2030
-    Ramp-up a 2-2.5M bpd              :2030, 2035
-    Meta 3M bpd                        :2035, 2041
+    Ramp-up to 2-2.5M bpd             :2030, 2035
+    Target 3M bpd                      :2035, 2041
 
-    section Instituciones
-    Reforma policial (Georgia)         :2026, 2029
-    Estado digital (Estonia)           :2027, 2032
-    Dolarización formal                :2026, 2027
-    Reestructuración deuda             :2027, 2030
+    section Institutions
+    Police reform (Georgia)            :2026, 2029
+    Digital state (Estonia)            :2027, 2032
+    Formal dollarization               :2026, 2027
+    Debt restructuring                 :2027, 2030
 
-    section Diversificación
-    ZEET (5 hubs tech)                 :2028, 2033
+    section Diversification
+    ZEET (5 tech hubs)                 :2028, 2033
     Data centers (Guayana Digital)     :2029, 2035
-    Turismo (infraestructura)          :2028, 2036
+    Tourism (infrastructure)           :2028, 2036
     Gas/LNG (Dragon Field)             :2028, 2032
 ```
 
@@ -215,17 +215,17 @@ gantt
 ### 9. Cost Structure
 
 ```mermaid
-pie title Inversión total por categoría (USD miles de M — rango inferior)
-    "Petróleo" : 183
-    "Deuda" : 75
-    "Fondo soberano (capitalización)" : 50
-    "Infraestructura" : 41.5
-    "Electricidad" : 15
-    "Educación" : 15
-    "Salud" : 10
-    "Seguridad" : 5
+pie title Total Investment by Category (USD billions — lower range)
+    "Oil" : 183
+    "Debt" : 75
+    "Sovereign fund (capitalization)" : 50
+    "Infrastructure" : 41.5
+    "Electricity" : 15
+    "Education" : 15
+    "Healthcare" : 10
+    "Security" : 5
     "Data centers" : 5
-    "Sistema financiero" : 4
+    "Financial system" : 4
 ```
 
 | Category | Investment | % of Total | Primary Source |

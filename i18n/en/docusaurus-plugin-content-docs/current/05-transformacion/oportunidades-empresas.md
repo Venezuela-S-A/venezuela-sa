@@ -222,9 +222,9 @@ Every new company needs accountants, lawyers, insurers, bankers, consultants. Th
 
 ```mermaid
 xychart-beta
-    title "Empleos directos estimados por sector (miles)"
-    x-axis ["Construccion", "Manufactura", "Agro", "Salud", "Educacion", "Transporte", "Energia", "Servicios", "Turismo", "Petroleo"]
-    y-axis "Miles de empleos" 0 --> 800
+    title "Estimated Direct Jobs by Sector (thousands)"
+    x-axis ["Construction", "Manufacturing", "Agro", "Healthcare", "Education", "Transport", "Energy", "Services", "Tourism", "Oil"]
+    y-axis "Thousands of jobs" 0 --> 800
     bar [600, 200, 200, 100, 80, 70, 40, 150, 70, 80]
 ```
 
@@ -252,15 +252,15 @@ With 32M residents, effective unemployment >40%, and massive underemployment, ge
 
 ```mermaid
 flowchart LR
-    A[Identificar<br>oportunidad] --> B[Armar equipo<br>técnico + operador]
-    B --> C{Tamaño}
-    C -->|PYMEs USD 50K-1M| D[Venezuela Emprende<br>+ Monotributo]
-    C -->|Medianas USD 1-50M| E[Fondo VC Nacional<br>+ Crédito bancario]
-    C -->|Grandes USD 50M+| F[Concesión PPP<br>+ Capital extranjero]
-    D --> G[ZEET: 0% impuesto<br>10 años]
+    A[Identify<br>opportunity] --> B[Build team<br>technical + operator]
+    B --> C{Size}
+    C -->|SMEs USD 50K-1M| D[Venezuela Emprende<br>+ Monotributo]
+    C -->|Medium USD 1-50M| E[National VC Fund<br>+ Bank credit]
+    C -->|Large USD 50M+| F[PPP Concession<br>+ Foreign capital]
+    D --> G[ZEET: 0% tax<br>10 years]
     E --> G
     F --> G
-    G --> H[Operar + crecer<br>+ exportar a LATAM]
+    G --> H[Operate + grow<br>+ export to LATAM]
 ```
 
 :::tip For business owners and professionals

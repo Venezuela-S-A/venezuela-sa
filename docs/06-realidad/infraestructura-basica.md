@@ -21,10 +21,12 @@ Venezuela tiene [velocidad promedio de descarga estancada por debajo de 1 Mbps](
 | 5G | 0 | En despliegue | Ciudades principales | Cobertura nacional |
 
 **Plan:**
-- **CANTV:** Privatización parcial + licencias privadas (modelo Chile: Entel → CTC/Telefónica)
+- **CANTV:** Se transfiere a Venezuela S.A. como activo del holding ciudadano → privatización parcial o aporte como equity en JVs con operadores internacionales (modelo Chile: Entel → CTC/Telefónica). El Estado no opera telecoms
 - **Zonas rurales:** Starlink + fibra troncal nacional
 - **5G:** Licencias competitivas para 3+ operadores
 - **Inversión:** USD 3.000–5.000 M en 5 años
+
+Ver [Telecomunicaciones — Análisis Detallado](/10-oportunidades/telecomunicaciones) para modelo de concesión, proveedores y proyección a 15 años.
 
 Fuentes: [Freedom House 2024](https://freedomhouse.org/country/venezuela/freedom-net/2024); [SIGCOMM/Northwestern 2024](https://estcarisimo.github.io/assets/pdf/papers/2024-sigcomm-venezuela.pdf)
 
@@ -94,7 +96,7 @@ Fuentes: [FCC Clean Network Initiative](https://www.fcc.gov/) [Requiere investig
 | Saneamiento y aguas servidas | USD 1.000–2.000 M | Años 2–7 | Chile (cobertura 100%) |
 | **TOTAL AGUA** | **USD 5.000–9.000 M** | **7 años** | — |
 
-**Meta:** Acceso a agua potable 100% de la población en 7 años.
+**Meta:** Acceso a agua potable 100% de la población en 7 años. Ver [Agua y Saneamiento — Análisis Detallado](/10-oportunidades/agua-saneamiento) para modelo de concesión y proyecciones.
 
 ---
 
@@ -104,8 +106,8 @@ Fuentes: [FCC Clean Network Initiative](https://www.fcc.gov/) [Requiere investig
 
 | Acción | Inversión Est. | Plazo | Modelo |
 |--------|---------------|-------|--------|
-| Subsidio habitacional para familias <3 SM | USD 5.000–10.000 M | Años 1–10 | Chile (subsidio habitacional DS49) |
-| Crédito hipotecario (bancos privados + garantía estatal) | USD 5.000–10.000 M | Años 2–15 | Colombia (Mi Casa Ya) |
+| Subcuenta Vivienda del FCV + subsidio focalizado para familias en extrema pobreza | USD 5.000–10.000 M | Años 1–10 | Chile (subsidio habitacional DS49) |
+| Crédito hipotecario (bancos privados + garantía de Venezuela S.A.) | USD 5.000–10.000 M | Años 2–15 | Colombia (Mi Casa Ya) |
 | Vivienda social cerca de hubs tech y ZEET | USD 3.000–5.000 M | Años 3–10 | Singapur (HDB) |
 | Formalización de tenencia + registro digital | USD 500–1.000 M | Años 1–3 | Georgia (blockchain títulos) |
 | **TOTAL VIVIENDA** | **USD 15.000–30.000 M** | **15 años** | — |
@@ -126,7 +128,7 @@ Sin transporte no hay cadena de suministro, no hay turismo, no hay hubs tech con
 | **TOTAL TRANSPORTE** | — | **USD 15.000–30.000 M** | **15 años** |
 
 :::info Priorización
-Corredores prioritarios: (1) Caracas–La Guaira–Maiquetía (turismo + logística), (2) Caracas–Valencia (industrial), (3) Ciudad Guayana–Puerto Ordaz (minería + data centers cerca de Guri). Modelo: Colombia 4G/5G highways (concesiones público-privadas).
+Corredores prioritarios: (1) Caracas–La Guaira–Maiquetía (turismo + logística), (2) Caracas–Valencia (industrial), (3) Ciudad Guayana–Puerto Ordaz (minería + data centers cerca de Guri). Modelo: Colombia 4G/5G highways (concesiones público-privadas). Ver [Vialidad y Logística](/10-oportunidades/vialidad-logistica) y [Transporte Marítimo](/10-oportunidades/transporte-maritimo) para análisis detallado.
 :::
 
 ---
@@ -143,6 +145,8 @@ Venezuela importa >70% de sus alimentos pese a tener los Llanos — una de las l
 | Reactivación de rubros estratégicos (maíz, arroz, café, cacao) | USD 500–1.000 M | Años 1–5 | Colombia + Brasil |
 | Exportación al Caribe + LATAM | USD 200–500 M | Años 5–10 | Rep. Dominicana como mercado |
 | **TOTAL AGRICULTURA** | **USD 3.500–7.000 M** | **10 años** | Autosuficiencia alimentaria |
+
+Ver [Agro y Ganadería — Análisis Detallado](/10-oportunidades/agro-ganaderia) para modelo completo con USD 18-25B de inversión y comparables internacionales.
 
 ---
 
@@ -176,5 +180,5 @@ pie title Distribución de inversión en infraestructura (rango inferior)
 | **TOTAL** | **USD 41.500–81.000 M** | **15 años** |
 
 :::caution Fuentes de inversión
-No todo es gasto público. Telecomunicaciones, vivienda y transporte son altamente concesionables (modelo Chile/Colombia). El gasto público directo se concentra en agua, agricultura y vivienda social. Ver [Inversión y Fuentes](/02-motor-financiero/inversion-inicial-fuentes).
+No todo es gasto público. Telecomunicaciones, vivienda y transporte son altamente concesionables (modelo Chile/Colombia). El gasto público directo se concentra en agua, agricultura y vivienda social. Ver [Inversión y Fuentes](/02-motor-financiero/inversion-inicial-fuentes). Ver [Modelo de Concesiones](/10-oportunidades/modelo-concesiones) para el marco completo de concesión aplicable a todos los sectores de infraestructura, y [Construcción Inmobiliaria](/10-oportunidades/construccion-inmobiliaria) para vivienda y obra civil.
 :::

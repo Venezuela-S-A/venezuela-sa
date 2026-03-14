@@ -33,9 +33,14 @@ flowchart TD
     G --> H["Precio del petróleo cae
     = crisis total"]
 
-    style A fill:#C49A2A,stroke:#1B3A5C,color:#fff
-    style G fill:#8B0000,stroke:#C49A2A,color:#fff
-    style H fill:#8B0000,stroke:#C49A2A,color:#fff
+    style A fill:#F9A825,color:#000
+    style B fill:#E3F2FD,color:#1B2631
+    style C fill:#E3F2FD,color:#1B2631
+    style D fill:#E3F2FD,color:#1B2631
+    style E fill:#E3F2FD,color:#1B2631
+    style F fill:#C62828,color:#fff
+    style G fill:#C62828,color:#fff
+    style H fill:#C62828,color:#fff
 ```
 
 ---
@@ -88,15 +93,15 @@ Todos los ingresos petroleros van al [fondo soberano](/02-motor-financiero/fondo
 
 ### 2. Esterilización fiscal
 
-El Estado no financia su gasto con petróleo sino con impuestos (15% flat + 12% IVA). Los ingresos petroleros van al fondo, no al presupuesto. Esto rompe el canal de transmisión: más petróleo ≠ más gasto público ≠ más demanda interna ≠ apreciación.
+El Estado no financia su gasto con petróleo sino con impuestos (15% flat + 12% IVA). Los ingresos petroleros van al fondo soberano administrado por Venezuela S.A. — no al presupuesto del Estado. Venezuela S.A. cobra regalías y dividendos de las concesiones petroleras y los deposita en el fondo. El Estado no toca esos ingresos. Esto rompe el canal de transmisión: más petróleo ≠ más gasto público ≠ más demanda interna ≠ apreciación.
 
 ### 3. ZEETs compensatorias
 
 Las [Zonas Económicas Especiales de Tecnología](/05-transformacion/hubs-tech) crean sectores exportadores no petroleros con incentivos fiscales diferenciados, protegidos del efecto apreciación:
 
 - Exención fiscal 10 años para exportaciones tech
-- Subsidio salarial para empleos tech (compensar salarios petroleros)
-- Infraestructura dedicada (energía, internet) a costo subsidiado
+- Incentivos salariales para empleos tech (compensar salarios petroleros)
+- Infraestructura dedicada (energía, internet) a costo competitivo (hidro venezolana = naturalmente barata)
 
 **Precedente:** [Shenzhen (China)](https://en.wikipedia.org/wiki/Shenzhen) y [Dubái (EAU)](https://www.difc.ae/) — zonas especiales que crearon industrias no petroleras dentro de economías petroleras.
 
@@ -190,12 +195,12 @@ flowchart TD
     D --> F
     E --> F
 
-    style A fill:#8B0000,stroke:#C49A2A,color:#fff
-    style F fill:#006400,stroke:#C49A2A,color:#fff
-    style B fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style C fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style D fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style E fill:#1B3A5C,stroke:#C49A2A,color:#fff
+    style A fill:#C62828,color:#fff
+    style F fill:#00897B,color:#fff
+    style B fill:#0D47A1,color:#fff
+    style C fill:#0D47A1,color:#fff
+    style D fill:#0D47A1,color:#fff
+    style E fill:#0D47A1,color:#fff
 ```
 
 | Activo actual | Pivote estratégico | Por qué funciona | Valor post-petróleo |

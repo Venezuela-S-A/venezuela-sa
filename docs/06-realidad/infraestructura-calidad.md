@@ -52,9 +52,16 @@ flowchart TD
     C6 --> D
     C7 --> D
 
-    style A fill:#4CAF50,color:#fff
-    style D fill:#2196F3,color:#fff
-    style B fill:#FF9800,color:#fff
+    style A fill:#F9A825,color:#000
+    style B fill:#0D47A1,color:#fff
+    style D fill:#00897B,color:#fff
+    style C1 fill:#E3F2FD,color:#1B2631
+    style C2 fill:#E3F2FD,color:#1B2631
+    style C3 fill:#E3F2FD,color:#1B2631
+    style C4 fill:#E3F2FD,color:#1B2631
+    style C5 fill:#E3F2FD,color:#1B2631
+    style C6 fill:#E3F2FD,color:#1B2631
+    style C7 fill:#E3F2FD,color:#1B2631
 ```
 
 ### Mecanismo 1: Concesiones con Penalidades (Build-Operate-Transfer)
@@ -109,7 +116,7 @@ El que construye NO se supervisa a si mismo. Se contrata una firma internacional
 | Pagado por | El Estado (o el fondo de infraestructura) |
 | Reporta a | Dashboard publico + ciudadanos |
 | Frecuencia de inspeccion | Semanal en fase de construccion |
-| Tecnologia | IoT: sensores de deformacion, vibracion y asentamiento en tiempo real |
+| Tecnología | IoT: sensores de deformación, vibración y asentamiento en tiempo real |
 | Drones | Inspeccion aerea con IA para deteccion de defectos |
 | Dashboard | Publico, actualizado en tiempo real |
 
@@ -135,7 +142,7 @@ Cero anticipos gordos. El contratista cobra cuando demuestra avance verificado.
 **Total: 100%.** Si un hito falla la inspeccion, **no hay pago hasta que se corrija.**
 
 :::info Smart contracts para trazabilidad
-Los pagos se registran en blockchain (smart contracts) para que cualquier ciudadano pueda verificar: cuanto se pago, cuando, a quien, y contra que evidencia. Modelo: [FIDIC](https://fidic.org/) (Federation Internationale des Ingenieurs-Conseils) — estandar global de contratos de construccion. Ver tambien [Estado Digital](/06-realidad/estado-digital) para la infraestructura de blockchain publico.
+Los pagos se registran en blockchain (smart contracts) para que cualquier ciudadano pueda verificar: cuánto se pagó, cuándo, a quién, y contra qué evidencia. Modelo: [FIDIC](https://fidic.org/) (Federation Internationale des Ingenieurs-Conseils) — estándar global de contratos de construcción. Ver también [Estado Digital](/06-realidad/estado-digital) para la infraestructura de blockchain público.
 :::
 
 ---
@@ -214,8 +221,8 @@ flowchart LR
         A4 --> A5["Inspeccion<br/>continua"]
     end
 
-    style Tradicional fill:#ffcccc
-    style Acelerado fill:#ccffcc
+    style Tradicional fill:#C62828,color:#fff
+    style Acelerado fill:#00897B,color:#fff
 ```
 
 | Tecnica | Ahorro de tiempo | Como funciona | Modelo |
@@ -228,7 +235,7 @@ flowchart LR
 | **Fast-track scheduling** | **20-30%** | Iniciar construccion antes de terminar todo el diseno | Singapur: Changi Terminal 5 |
 
 :::caution Velocidad sin explotacion
-Los turnos 24/7 requieren: (1) cumplimiento de ISO 45001, (2) maximo 8 horas por turno, (3) pago de horas nocturnas y dominicales segun legislacion, (4) supervision de seguridad por turno. La velocidad nunca justifica la explotacion laboral.
+Los turnos 24/7 requieren: (1) cumplimiento de ISO 45001, (2) máximo 8 horas por turno, (3) pago de horas nocturnas y dominicales según legislación, (4) supervisión de seguridad por turno. La velocidad nunca justifica la explotación laboral.
 :::
 
 **Meta combinada:** China construye rapido pero con problemas de calidad. Singapur construye con calidad pero es lento para un pais de 5M personas. Venezuela S.A. necesita **velocidad tipo China + calidad tipo Singapur**. Los 7 mecanismos de calidad + las 6 tecnicas de compresion de plazos lo hacen posible.
@@ -237,7 +244,7 @@ Los turnos 24/7 requieren: (1) cumplimiento de ISO 45001, (2) maximo 8 horas por
 
 ## Costo de Calidad vs. Costo de Fracaso
 
-Invertir en calidad no es un gasto — es el retorno mas alto del plan.
+Invertir en calidad no es un gasto — es el retorno más alto del plan.
 
 | Concepto | Costo de hacerlo bien | Costo de hacerlo mal | ROI |
 |----------|----------------------|---------------------|-----|
@@ -273,7 +280,7 @@ La corrupcion en construccion en Venezuela sigue el **mismo patron que los CLAP*
 
 | Paso | Patron CLAP en alimentos | Patron equivalente en construccion |
 |------|-------------------------|-----------------------------------|
-| 1 | Empresa de maletin recibe contrato | Empresa de maletin gana licitacion (oferta mas baja, sin capacidad real) |
+| 1 | Empresa de maletín recibe contrato | Empresa de maletín gana licitación (oferta más baja, sin capacidad real) |
 | 2 | Compra productos a USD 5 | Compra cemento/acero a precio de mercado |
 | 3 | Factura al Estado a USD 20-60 | Factura al Estado a **3-5x** el costo real |
 | 4 | Comision 15-40% a funcionarios | Comision 15-40% a funcionarios de obras publicas |

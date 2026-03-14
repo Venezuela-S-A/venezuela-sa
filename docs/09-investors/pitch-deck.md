@@ -46,10 +46,10 @@ flowchart LR
     B --> C["💻 TECH<br/>Destination"]
     C --> D["🏦 SOVEREIGN FUND<br/>Permanent wealth"]
 
-    style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style B fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style C fill:#C49A2A,stroke:#1B3A5C,color:#fff
-    style D fill:#2d5016,stroke:#C49A2A,color:#fff
+    style A fill:#0D47A1,color:#fff
+    style B fill:#0D47A1,color:#fff
+    style C fill:#F9A825,color:#000
+    style D fill:#00897B,color:#fff
 ```
 
 > **Oil is the fuel. Technology is the destination.**

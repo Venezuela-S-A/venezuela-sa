@@ -111,22 +111,22 @@ Llanos: underutilized fertile lands + Orinoco water. Venezuela imports >70% of f
 ## Summary: GDP Contribution (Year 15 Goal)
 
 ```mermaid
-pie title Composición del PIB — Año 15 (meta)
-    "Petróleo" : 30
-    "Otros servicios" : 15
-    "Turismo" : 7
+pie title GDP Composition — Year 15 (goal)
+    "Oil" : 30
+    "Other services" : 15
+    "Tourism" : 7
     "Data centers / Tech" : 5
-    "Gas natural" : 4
-    "Petroquímica" : 4
-    "Agroindustria" : 3
-    "Renovables" : 1
+    "Natural gas" : 4
+    "Petrochemicals" : 4
+    "Agroindustry" : 3
+    "Renewables" : 1
 ```
 
 ```mermaid
 xychart-beta
-    title "Ingresos anuales por motor (USD miles de M — Año 15)"
-    x-axis ["Petróleo", "Otros Serv.", "Turismo", "Tech/DC", "Petroquím.", "Gas", "Agro", "Renov."]
-    y-axis "USD miles de millones" 0 --> 55
+    title "Annual Revenue by Engine (USD billions — Year 15)"
+    x-axis ["Oil", "Other Serv.", "Tourism", "Tech/DC", "Petrochem.", "Gas", "Agro", "Renew."]
+    y-axis "USD billions" 0 --> 55
     bar [47, 15, 6, 5, 4.5, 4, 3.5, 0.75]
 ```
 
@@ -145,9 +145,9 @@ xychart-beta
 
 ```mermaid
 xychart-beta
-    title "Petróleo como % de exportaciones — Reducción gradual"
-    x-axis ["Hoy", "Año 3", "Año 5", "Año 7", "Año 10", "Año 15"]
-    y-axis "% de exportaciones" 0 --> 100
+    title "Oil as % of Exports — Gradual Reduction"
+    x-axis ["Today", "Year 3", "Year 5", "Year 7", "Year 10", "Year 15"]
+    y-axis "% of exports" 0 --> 100
     line [95, 85, 75, 60, 45, 32]
 ```
 

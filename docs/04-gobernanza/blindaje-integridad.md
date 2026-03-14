@@ -49,9 +49,9 @@ flowchart TD
     B --> G["Comisión 15-40%<br/>a funcionarios"]
     G --> H["Lavado vía offshore<br/>(Panamá, Dubái, Turquía)"]
 
-    style G fill:#ff6b6b
-    style H fill:#ff6b6b
-    style C fill:#ffa07a
+    style G fill:#C62828,color:#fff
+    style H fill:#C62828,color:#fff
+    style C fill:#C62828,color:#fff
 ```
 
 **Costo estimado:** USD 10-20B en sobreprecios entre 2016-2025 ([Armando.info](https://armando.info/series/los-empresarios-del-hambre/), [OCCRP](https://www.occrp.org/)).
@@ -396,11 +396,11 @@ flowchart TD
     C --> D["Capa 4: Verificación Automática<br/>Drones + satélites + IA = verificación<br/>sin inspector corruptible"]
     D --> E["Capa 5: Auditoría en Tiempo Real<br/>Dashboard público + IA anti-colusión =<br/>anomalías detectadas en horas, no años"]
 
-    style A fill:#1B3A5C,color:#fff
-    style B fill:#1B3A5C,color:#fff
-    style C fill:#2d5016,color:#fff
-    style D fill:#2d5016,color:#fff
-    style E fill:#C49A2A,color:#fff
+    style A fill:#0D47A1,color:#fff
+    style B fill:#0D47A1,color:#fff
+    style C fill:#00897B,color:#fff
+    style D fill:#00897B,color:#fff
+    style E fill:#F9A825,color:#000
 ```
 
 ### Precedente: India Aadhaar-DBT

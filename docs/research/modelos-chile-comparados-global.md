@@ -156,7 +156,7 @@ Fuentes: [Colombia Reports](https://colombiareports.com/colombias-healthcare-sys
 - Red de seguridad (MediFund) = ningun ciudadano queda sin atencion
 - **Gasto total: 5% PIB** vs. 10% Chile para resultados superiores
 
-**Para Venezuela S.A.:** Adoptar modelo 3M de Singapore — ahorro individual obligatorio para salud + seguro catastrofico universal + fondo de emergencia para indigentes. Evitar el modelo dual publico/privado chileno que genera seleccion adversa y fragmentacion.
+**Para Venezuela S.A.:** Modelo híbrido gradual — arrancar con FONASA solidario (cobertura universal desde Día 1, nadie queda fuera) y transicionar gradualmente a FONASA + Medisave individual a medida que los ingresos suben. Años 1-5: 7% → 100% FONASA. Años 5-10: 5% FONASA + 2% Medisave. Años 10-15: 4% FONASA + 3% Medisave. Años 15+: 3% FONASA + 4% Medisave. Lo mejor de Chile (solidaridad, universalidad) + Singapur (eficiencia, propiedad individual).
 
 ---
 
@@ -365,7 +365,7 @@ Fondos Soberanos (GIC + Temasek = ~US$900B+)
 | Area | Modelo Recomendado | Razon |
 |------|-------------------|-------|
 | **Pensiones** | Singapore CPF (adaptado) | Contribucion individual obligatoria alta (~30-37%), cuentas personales, sin intermediarios, cobertura multiproposito |
-| **Salud** | Singapore 3M (MediSave + MediShield + MediFund) | Ahorro individual + seguro catastrofico + red de seguridad. 5% PIB con mejores resultados que Chile al 10% |
+| **Salud** | Híbrido FONASA (Chile) + Medisave (Singapur) — transición gradual | Años 1-5: FONASA solidario 100% (nadie queda fuera). Años 5-15: introducción gradual de Medisave individual. Meta: eficiencia Singapur (5% PIB) con cobertura universal Chile |
 | **Infraestructura** | Chile MOP + PIMAC coreano | 30 anos de track record exitoso en LatAm + gobernanza institucional tipo Corea |
 | **Impuestos** | Singapore (17% corp, 0% cap gains) + Estonia (0% corp si reinvierte) | Impuestos moderados que atraen inversion + incentivo a reinversion |
 | **Tax/PIB objetivo** | 14-18% (estilo Singapore) | Requiere fondo soberano (petrleo?) + CPF obligatorio alto + copago en servicios |

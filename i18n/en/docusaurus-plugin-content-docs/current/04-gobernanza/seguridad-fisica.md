@@ -9,8 +9,8 @@ title: Physical Security
 
 ```mermaid
 xychart-beta
-    title "Índice de criminalidad 2025 (Numbeo) — Más alto = peor"
-    x-axis ["Venezuela", "Papúa N.G.", "Haití", "Sudáfrica", "Honduras", "Colombia", "Chile meta"]
+    title "Crime Index 2025 (Numbeo) — Higher = Worse"
+    x-axis ["Venezuela", "Papua N.G.", "Haiti", "South Africa", "Honduras", "Colombia", "Chile target"]
     y-axis "Crime Index" 0 --> 85
     bar [80.7, 80.3, 78.9, 75.5, 73.2, 60.1, 35]
 ```
@@ -75,9 +75,9 @@ Georgia reformed by **replacing** the police with well-paid professionals (insti
 
 ```mermaid
 xychart-beta
-    title "Meta reducción de homicidios (/100k habitantes)"
-    x-axis ["Hoy", "Año 3", "Año 7", "Año 15"]
-    y-axis "Homicidios /100k" 0 --> 40
+    title "Homicide Reduction Target (/100k population)"
+    x-axis ["Today", "Year 3", "Year 7", "Year 15"]
+    y-axis "Homicides /100k" 0 --> 40
     line [33, 20, 10, 5]
 ```
 
@@ -138,28 +138,28 @@ The Bolivarian National Armed Forces (~350,000 personnel, [IISS Military Balance
 
 ```mermaid
 gantt
-    title Recuperación Territorial — Años 1-10
+    title Territorial Recovery — Years 1-10
     dateFormat YYYY
     axisFormat %Y
 
-    section Fase 1: Proteger
-    Infraestructura crítica (Guri, puertos, refinerías)    :a1, 2027, 2028
-    Cooperación DEA/Interpol reactivada                    :a2, 2027, 2028
-    Desarme colectivos urbanos (DDR)                       :a3, 2027, 2029
+    section Phase 1: Protect
+    Critical infrastructure (Guri, ports, refineries)      :a1, 2027, 2028
+    DEA/Interpol cooperation reactivated                   :a2, 2027, 2028
+    Urban colectivo disarmament (DDR)                      :a3, 2027, 2029
 
-    section Fase 2: Reconstruir
-    Reforma policial total (modelo Georgia)                :b1, 2028, 2031
-    Control frontera Táchira-Apure                         :b2, 2029, 2032
-    Seguridad zonas petroleras (Zulia, Faja)               :b3, 2028, 2031
+    section Phase 2: Rebuild
+    Total police reform (Georgia model)                    :b1, 2028, 2031
+    Tachira-Apure border control                           :b2, 2029, 2032
+    Oil zone security (Zulia, Orinoco Belt)                :b3, 2028, 2031
 
-    section Fase 3: Expandir
-    Formalización Arco Minero                              :c1, 2030, 2034
-    Zonas turísticas seguras certificadas                  :c2, 2031, 2034
-    Seguridad rural (Llanos, agroindustria)                :c3, 2031, 2035
+    section Phase 3: Expand
+    Arco Minero formalization                              :c1, 2030, 2034
+    Certified safe tourist zones                           :c2, 2031, 2034
+    Rural security (Llanos, agroindustry)                  :c3, 2031, 2035
 
-    section Fase 4: Consolidar
-    Homicidios menor a 10 por 100k nacional                :d1, 2033, 2037
-    FANB reformada (350K a 120K efectivos)                 :d2, 2030, 2037
+    section Phase 4: Consolidate
+    Homicides below 10 per 100k nationally                 :d1, 2033, 2037
+    FANB reformed (350K to 120K personnel)                 :d2, 2030, 2037
 ```
 
 ### Adapted DDR: International Lessons
@@ -232,33 +232,33 @@ Venezuela is neither Colombia nor El Salvador. It is **both simultaneously** —
 
 ```mermaid
 gantt
-    title Plan Operativo de Seguridad — Años 1-7
+    title Security Operational Plan — Years 1-7
     dateFormat YYYY
     axisFormat %Y
 
-    section Año 1: Emergencia + Señal
-    Seguridad en 5 ciudades ZEET (Caracas, Valencia, Maracaibo, Barquisimeto, Pto. Ordaz) :a1, 2027, 2028
-    Inicio reforma policial (modelo Georgia: purga + reclutamiento)                       :a2, 2027, 2028
-    Protección infraestructura crítica (Guri, puertos, refinerías)                        :a3, 2027, 2028
-    Reactivación cooperación DEA/Interpol                                                  :a4, 2027, 2028
+    section Year 1: Emergency + Signal
+    Security in 5 ZEET cities (Caracas, Valencia, Maracaibo, Barquisimeto, Pto. Ordaz)    :a1, 2027, 2028
+    Police reform begins (Georgia model: purge + recruitment)                              :a2, 2027, 2028
+    Critical infrastructure protection (Guri, ports, refineries)                           :a3, 2027, 2028
+    DEA/Interpol cooperation reactivated                                                   :a4, 2027, 2028
 
-    section Años 2-3: Prisiones + Inteligencia
-    Reforma penitenciaria (mega-cárceles si necesario, modelo Bukele adaptado)            :b1, 2028, 2030
-    Inteligencia criminal: mapeo de redes, activos, flujos financieros                    :b2, 2028, 2030
-    DDR colectivos urbanos (negociación + amnistía condicionada)                           :b3, 2028, 2030
-    Primeros 10.000 policías nuevos graduados y desplegados                                :b4, 2028, 2030
+    section Years 2-3: Prisons + Intelligence
+    Prison reform (mega-prisons if needed, adapted Bukele model)                           :b1, 2028, 2030
+    Criminal intelligence: network mapping, assets, financial flows                        :b2, 2028, 2030
+    Urban colectivo DDR (negotiation + conditional amnesty)                                :b3, 2028, 2030
+    First 10,000 new officers graduated and deployed                                       :b4, 2028, 2030
 
-    section Años 3-5: Recuperación Territorial
-    Control frontera Táchira-Apure (con cooperación Colombia + EE.UU.)                    :c1, 2030, 2032
-    Formalización Arco Minero (desplazamiento de grupos armados)                           :c2, 2030, 2032
-    Seguridad zonas petroleras (Zulia, Faja del Orinoco)                                  :c3, 2029, 2032
-    Zonas turísticas seguras certificadas (Los Roques, Canaima, Mérida)                   :c4, 2030, 2032
+    section Years 3-5: Territorial Recovery
+    Tachira-Apure border control (with Colombia + U.S. cooperation)                       :c1, 2030, 2032
+    Arco Minero formalization (armed group displacement)                                   :c2, 2030, 2032
+    Oil zone security (Zulia, Orinoco Belt)                                                :c3, 2029, 2032
+    Certified safe tourist zones (Los Roques, Canaima, Merida)                            :c4, 2030, 2032
 
-    section Años 5-7: Reforma FANB + Profesionalización
-    Reducción FANB: 350K → 120K efectivos (paquetes de retiro + reconversión)             :d1, 2032, 2034
-    Profesionalización: FANB apolítica, modelo Chile/Uruguay                              :d2, 2032, 2034
-    Homicidios menor a 10 por 100k nacional                                                :d3, 2033, 2034
-    Venezuela sale del top 20 de criminalidad global                                       :milestone, m1, 2034, 0d
+    section Years 5-7: FANB Reform + Professionalization
+    FANB reduction: 350K → 120K personnel (retirement packages + reconversion)            :d1, 2032, 2034
+    Professionalization: apolitical FANB, Chile/Uruguay model                              :d2, 2032, 2034
+    Homicides below 10 per 100k nationally                                                 :d3, 2033, 2034
+    Venezuela exits top 20 global crime rankings                                           :milestone, m1, 2034, 0d
 ```
 
 ### Security Prerequisites by Economic Sector

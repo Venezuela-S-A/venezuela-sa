@@ -56,8 +56,8 @@ The current model is JV with PDVSA as majority partner. [Chevron operates under 
 
 ```mermaid
 xychart-beta
-    title "Porcentaje que retiene el Estado anfitrion (government take)"
-    x-axis ["Arabia Saudita", "Noruega", "Venezuela (actual)", "Guyana", "Nigeria PSA", "Irak (service)"]
+    title "Percentage Retained by Host State (government take)"
+    x-axis ["Saudi Arabia", "Norway", "Venezuela (current)", "Guyana", "Nigeria PSA", "Iraq (service)"]
     y-axis "% Government Take" 0 --> 100
     bar [90, 67, 60, 52, 55, 92]
 ```

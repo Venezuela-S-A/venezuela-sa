@@ -34,14 +34,14 @@ flowchart TD
     GOB["<b>Gobierno de Transición</b>"] --> AP
     GOB --> AHT
 
-    style P fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style CF fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style FN fill:#8B0000,stroke:#C49A2A,color:#fff
-    style ADM fill:#2E5A3C,stroke:#C49A2A,color:#fff
-    style AP fill:#2E5A3C,stroke:#C49A2A,color:#fff
-    style AHT fill:#2E5A3C,stroke:#C49A2A,color:#fff
-    style PDC fill:#C49A2A,stroke:#1B3A5C,color:#fff
-    style GOB fill:#4A4A4A,stroke:#C49A2A,color:#fff
+    style P fill:#0D47A1,color:#fff
+    style CF fill:#0D47A1,color:#fff
+    style FN fill:#C62828,color:#fff
+    style ADM fill:#00897B,color:#fff
+    style AP fill:#00897B,color:#fff
+    style AHT fill:#00897B,color:#fff
+    style PDC fill:#F9A825,color:#000
+    style GOB fill:#E3F2FD,color:#1B2631
 ```
 
 | Entidad | Responsabilidad | Reporta a |

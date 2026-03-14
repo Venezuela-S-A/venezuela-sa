@@ -71,9 +71,9 @@ That is ~1 in 5,000. **The full Dream is extremely unlikely.** And that is fine 
 
 ```mermaid
 xychart-beta
-    title "PIB Ano 15 por escenario (USD miles de M)"
-    x-axis ["Minimo viable", "Dificil", "Plan Base", "Muy favorable", "El Sueno"]
-    y-axis "USD miles de millones" 0 --> 600
+    title "GDP Year 15 by Scenario (USD billions)"
+    x-axis ["Minimum viable", "Difficult", "Base Plan", "Very favorable", "The Dream"]
+    y-axis "USD billions" 0 --> 600
     bar [125, 175, 300, 400, 500]
 ```
 
@@ -244,9 +244,9 @@ Reduce the state from 34 to 15 ministries and automate with [Estonia e-gov](http
 
 ```mermaid
 xychart-beta
-    title "Ingresos anuales por fuente — Escenario Optimista Año 15 (USD miles de M)"
-    x-axis ["Petroleo", "Fiscal", "Gas", "Mineria", "Turismo", "Tech", "Petroquim", "Agro", "Renovables", "Startups"]
-    y-axis "USD miles de millones" 0 --> 50
+    title "Annual Revenue by Source — Optimistic Scenario Year 15 (USD billions)"
+    x-axis ["Oil", "Fiscal", "Gas", "Mining", "Tourism", "Tech", "Petrochem", "Agro", "Renewables", "Startups"]
+    y-axis "USD billions" 0 --> 50
     bar [42.7, 40, 5.5, 9, 7, 6, 5, 6.5, 1.3, 3]
 ```
 
@@ -272,9 +272,9 @@ xychart-beta
 
 ```mermaid
 xychart-beta
-    title "PIB Venezuela — Escenario Optimista vs Base (USD miles de M)"
-    x-axis ["Hoy", "Ano 5", "Ano 10", "Ano 15"]
-    y-axis "USD miles de millones" 0 --> 600
+    title "GDP Venezuela — Optimistic vs Base Scenario (USD billions)"
+    x-axis ["Today", "Year 5", "Year 10", "Year 15"]
+    y-axis "USD billions" 0 --> 600
     bar [83, 180, 350, 550]
     line [83, 140, 250, 425]
 ```
@@ -302,9 +302,9 @@ In the optimistic scenario, the sovereign fund is fed by:
 
 ```mermaid
 xychart-beta
-    title "Fondo Soberano Acumulado — Optimista vs Base (USD miles de M)"
-    x-axis ["Hoy", "Ano 5", "Ano 10", "Ano 15"]
-    y-axis "USD miles de millones" 0 --> 550
+    title "Accumulated Sovereign Fund — Optimistic vs Base (USD billions)"
+    x-axis ["Today", "Year 5", "Year 10", "Year 15"]
+    y-axis "USD billions" 0 --> 550
     bar [0, 55, 200, 470]
     line [0, 30, 115, 220]
 ```
@@ -335,9 +335,9 @@ xychart-beta
 | Benefit | Annual Value/person | Notes |
 |-----------|-------------------|-------|
 | Direct fund dividend | USD 65 | 10% of fund returns |
-| Universal healthcare funded | USD 250-400 | Public pillar (4-5% GDP) |
-| Quality public education | USD 200-350 | Estonia model (4-5% GDP) |
-| Universal basic pension | USD 120-200 | Contributory Pillar 1 |
+| Universal healthcare funded (FCV Health) | USD 250-400 | FCV solidarity + FONASA (4-5% GDP) |
+| Quality education (voucher K-12 + university) | USD 200-350 | Universal voucher + merit university voucher (4-5% GDP) |
+| Universal basic pension (Pillar 1 + FCV Retirement) | USD 120-200 | Pillar 1 from taxes + FCV Retirement sub-account |
 | Citizen security | USD 100-150 | <20 homicides/100K |
 | 50+ Mbps internet | USD 50-100 | Digital state |
 | **Total value per citizen** | **USD 785-1,265/year** | **vs. ~USD 180 today** |
@@ -423,9 +423,9 @@ After year 15, the fund accelerates due to 3 factors:
 
 ```mermaid
 xychart-beta
-    title "Fondo Soberano — Horizonte 35 anos (USD miles de M)"
-    x-axis ["Ano 5", "Ano 10", "Ano 15", "Ano 20", "Ano 25", "Ano 30", "Ano 35"]
-    y-axis "USD miles de millones" 0 --> 2500
+    title "Sovereign Fund — 35-Year Horizon (USD billions)"
+    x-axis ["Year 5", "Year 10", "Year 15", "Year 20", "Year 25", "Year 30", "Year 35"]
+    y-axis "USD billions" 0 --> 2500
     bar [55, 200, 470, 740, 1130, 1670, 2380]
 ```
 
@@ -459,18 +459,18 @@ In the first 15 years, only 10% of returns are distributed — the rest is reinv
 
 #### 3. Solidarity Pensions Decrease Generationally
 
-The plan implements a pension system modeled on [Singapore CPF](https://www.cpf.gov.sg/) (mandatory individual contribution + compound returns):
+The plan implements the [Citizen Fund Venezuela (FCV)](/04-gobernanza/modelo-estado#citizen-fund-venezuela-fcv-one-account-zero-bureaucracy) modeled on [Singapore CPF](https://www.cpf.gov.sg/) — a unified personal account with 4 sub-accounts (Retirement 8-10%, Health 7%, Housing 4-5%, Education 2-3% = 21% total). The FCV starts at birth with USD 150/month from Venezuela S.A.:
 
-| Generation | Solidarity Pension (State pays) | Contributory Pension (CPF) | Fiscal Cost |
+| Generation | Solidarity Pension (State pays) | Contributory Pension (FCV) | Fiscal Cost |
 |-----------|-------------------------------|---------------------------|-------------|
 | **Current retirees** (>60 years, 2027) | 100% solidarity — USD 200-300/month target | 0% (never contributed) | High |
-| **Transition** (40-60 years, 2027) | 50-70% solidarity + 30-50% CPF | Begin contributing 15-20 years before retirement | Medium |
-| **New generation** (<40 years, 2027) | 20% solidarity (guaranteed minimum only) | 80% CPF — contribute throughout working life | Low |
-| **Native generation** (born post-2027) | 5-10% solidarity (extreme safety net) | 90-95% CPF | Minimal |
+| **Transition** (40-60 years, 2027) | 50-70% solidarity + 30-50% FCV | Begin contributing 15-20 years before retirement | Medium |
+| **New generation** (<40 years, 2027) | 20% solidarity (guaranteed minimum only) | 80% FCV — contribute throughout working life | Low |
+| **Native generation** (born post-2027) | 5-10% solidarity (extreme safety net) | 90-95% FCV | Minimal |
 
 **Fiscal effect:** The cost of solidarity pensions goes from ~3% of GDP (years 1-10) to ~0.5% of GDP (year 30+). That freed 2.5% of GDP = USD 15-20B/year -> more room for dividends or lower taxes.
 
-**Reference:** [Singapore CPF](https://www.cpf.gov.sg/) — 37% salary contribution (employee + employer), regular rate adjustments. Average pensions: USD 1,200-1,500/month.
+**Reference:** [Singapore CPF](https://www.cpf.gov.sg/) — 37% salary contribution (employee + employer), regular rate adjustments. Average pensions: USD 1,200-1,500/month. With the FCV, a minimum-wage worker accumulates USD 463,508 by age 65 (see [FCV lifecycle example](/04-gobernanza/modelo-estado#appendix-example--fcv-lifecycle-with-minimum-wage)).
 
 #### 4. Taxes Decrease with the Base
 
@@ -489,8 +489,8 @@ As the economy grows and formalizes, the tax base broadens. More taxpayers = sam
 
 ```mermaid
 xychart-beta
-    title "Petroleo como pct de ingresos del fondo"
-    x-axis ["Ano 5", "Ano 10", "Ano 15", "Ano 20", "Ano 25", "Ano 30", "Ano 35"]
+    title "Oil as pct of fund revenue"
+    x-axis ["Year 5", "Year 10", "Year 15", "Year 20", "Year 25", "Year 30", "Year 35"]
     y-axis "pct" 0 --> 100
     line [90, 75, 65, 50, 40, 30, 25]
 ```
@@ -511,9 +511,9 @@ As tech, tourism, and mining grow, the fund depends less on oil. This makes it m
 
 ```mermaid
 xychart-beta
-    title "Dividendo por persona (USD/ano) — El Sueno extendido"
-    x-axis ["Ano 5", "Ano 10", "Ano 15", "Ano 20", "Ano 25", "Ano 30", "Ano 35"]
-    y-axis "USD por persona por ano" 0 --> 1300
+    title "Dividend per Person (USD/year) — The Extended Dream"
+    x-axis ["Year 5", "Year 10", "Year 15", "Year 20", "Year 25", "Year 30", "Year 35"]
+    y-axis "USD per person per year" 0 --> 1300
     bar [9, 31, 68, 153, 374, 757, 1218]
 ```
 
@@ -522,15 +522,15 @@ xychart-beta
 | Benefit | USD/person/year | Notes |
 |-----------|----------------|-------|
 | **Direct fund dividend** | **USD 1,218** | 40% of returns |
-| Universal healthcare | USD 400-600 | AI reduces costs, quality rises |
-| Education (K-12 + university) | USD 300-500 | Mature system, OECD level |
-| CPF pension (for contributory retirees) | USD 800-1,500/month | Self-financed; not fiscal spending |
+| Universal healthcare (FCV Health) | USD 400-600 | AI reduces costs, quality rises |
+| Education (K-12 voucher + university) | USD 300-500 | Mature system, OECD level |
+| FCV pension (for contributory retirees) | USD 800-1,500/month | Self-financed; not fiscal spending |
 | Tax savings (lower taxes) | USD 500-1,000 | 8% flat vs. original 15% |
 | Security + infrastructure | USD 200-300 | Minimal state, efficient services |
 | **Total value per citizen** | **USD 2,600-3,600/year** | **vs. ~USD 180 today** |
 
 :::info Year 35: The dividend exceeds the poverty line
-USD 1,218/year in direct dividend + quality public services + CPF pension = a welfare floor that no government can take away because it does not depend on the government — it depends on the fund, on constitutional rules, and on a contributory system.
+USD 1,218/year in direct dividend + quality public services + FCV pension = a welfare floor that no government can take away because it does not depend on the government — it depends on the fund, on constitutional rules, and on the FCV contributory system.
 
 **Comparison:** Alaska pays ~USD 1,600/year per person with a fund of USD 78B and 700K inhabitants. Venezuela with USD 2.4T and 43M inhabitants would reach USD 1,218 — mathematically consistent.
 :::
@@ -565,7 +565,7 @@ It does not take from the rich to give to the poor — it creates new value for 
 | Today | **0.56** | [World Bank, 2023](https://data.worldbank.org/indicator/SI.POV.GINI?locations=VE) | — |
 | 5 | 0.52 | — | Formalization + property titles + infrastructure employment |
 | 10 | 0.47 | Colombia 2023: 0.51 | Education + universal healthcare + growing economy |
-| 15 | 0.42 | Chile 2023: 0.44 | Dividend + broadened tax base + CPF pensions |
+| 15 | 0.42 | Chile 2023: 0.44 | Dividend + broadened tax base + FCV pensions |
 | 25 | 0.36 | Uruguay 2023: 0.39 | Growing dividend + low taxes + broad middle class |
 | 35 | 0.30-0.33 | Norway: 0.27 | Mature fund + USD 1,200 dividend + diversified economy |
 
@@ -587,24 +587,24 @@ It does not take from the rich to give to the poor — it creates new value for 
 ## GDP Distribution: From Petro-State to Diversified Economy
 
 ```mermaid
-pie title Composición de Ingresos — Año 15 Optimista
-    "Petróleo" : 33
-    "Fiscal (no petrolero)" : 31
-    "Minería" : 7
-    "Turismo" : 5
-    "Gas Natural" : 4
+pie title Revenue Composition — Year 15 Optimistic
+    "Oil" : 33
+    "Fiscal (non-oil)" : 31
+    "Mining" : 7
+    "Tourism" : 5
+    "Natural Gas" : 4
     "Tech/Data Centers" : 5
-    "Petroquímica" : 4
-    "Agroindustria" : 5
+    "Petrochemicals" : 4
+    "Agroindustry" : 5
     "Startups" : 2
-    "Renovables + Ahorro" : 4
+    "Renewables + Savings" : 4
 ```
 
 ```mermaid
 xychart-beta
-    title "Petroleo como pct de ingresos totales — Reduccion"
-    x-axis ["Hoy", "Ano 3", "Ano 5", "Ano 7", "Ano 10", "Ano 15"]
-    y-axis "pct de ingresos totales" 0 --> 100
+    title "Oil as pct of Total Revenue — Reduction"
+    x-axis ["Today", "Year 3", "Year 5", "Year 7", "Year 10", "Year 15"]
+    y-axis "pct of total revenue" 0 --> 100
     line [95, 82, 68, 52, 40, 33]
 ```
 
@@ -647,33 +647,33 @@ If only oil (at USD 60), gas, and fiscal reform materialize — without tourism,
 
 ```mermaid
 flowchart LR
-    Y1["Años 1-3: Estabilizar
-    Emergencia humanitaria
-    Seguridad básica
-    Reforma institucional
-    Oil: 1→1,4M bpd
-    PIB: USD 100-120B"]
-    Y5["Años 3-7: Construir
-    Infraestructura
-    2 ZEETs operativas
-    Dragon Field activo
-    Minería formalizada
-    Oil: 1,5→2,5M bpd
-    PIB: USD 150-250B"]
-    Y10["Años 7-12: Diversificar
-    6 motores activos
-    5 ZEETs operativas
-    Turismo 5M+
-    Fondo USD 200B
-    Oil < 45% ingresos
-    PIB: USD 300-400B"]
-    Y15["Años 12-15: Cosechar
-    Fondo USD 470B
-    Dividendos USD 65/persona
-    Oil 33% ingresos
+    Y1["Years 1-3: Stabilize
+    Humanitarian emergency
+    Basic security
+    Institutional reform
+    Oil: 1→1.4M bpd
+    GDP: USD 100-120B"]
+    Y5["Years 3-7: Build
+    Infrastructure
+    2 ZEETs operational
+    Dragon Field active
+    Mining formalized
+    Oil: 1.5→2.5M bpd
+    GDP: USD 150-250B"]
+    Y10["Years 7-12: Diversify
+    6 engines active
+    5 ZEETs operational
+    Tourism 5M+
+    Fund USD 200B
+    Oil < 45% revenue
+    GDP: USD 300-400B"]
+    Y15["Years 12-15: Harvest
+    Fund USD 470B
+    Dividends USD 65/person
+    Oil 33% revenue
     Top 3 LATAM
-    PIB: USD 450-550B
-    Pobreza < 15%"]
+    GDP: USD 450-550B
+    Poverty < 15%"]
 
     Y1 --> Y5 --> Y10 --> Y15
 

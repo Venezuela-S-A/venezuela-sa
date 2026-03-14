@@ -125,6 +125,22 @@ flowchart TD
     N --> O[Track record fortalece siguiente fase]
     O --> A
     D --> A
+
+    style A fill:#0D47A1,color:#fff
+    style B fill:#F9A825,color:#000
+    style C fill:#E3F2FD,color:#1B2631
+    style D fill:#C62828,color:#fff
+    style E fill:#F9A825,color:#000
+    style F fill:#00897B,color:#fff
+    style G fill:#E3F2FD,color:#1B2631
+    style H fill:#0D47A1,color:#fff
+    style I fill:#00897B,color:#fff
+    style J fill:#00897B,color:#fff
+    style K fill:#00897B,color:#fff
+    style L fill:#00897B,color:#fff
+    style M fill:#F9A825,color:#000
+    style N fill:#00897B,color:#fff
+    style O fill:#0D47A1,color:#fff
 ```
 
 ## Comparables internacionales

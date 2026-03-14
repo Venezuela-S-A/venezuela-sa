@@ -51,11 +51,11 @@ flowchart LR
     B --> C["Año 7<br/>60% → Presupuesto<br/>40% → Fondo"]
     C --> D["Año 12<br/>30% → Presupuesto<br/>70% → Fondo"]
     D --> E["Año 15+<br/>Regla Noruega<br/>100% al Fondo<br/>Retiro 3-4%"]
-    style A fill:#d32f2f,color:#fff
-    style B fill:#e65100,color:#fff
-    style C fill:#f9a825,color:#000
-    style D fill:#558b2f,color:#fff
-    style E fill:#1B3A5C,color:#fff
+    style A fill:#C62828,color:#fff
+    style B fill:#F9A825,color:#000
+    style C fill:#F9A825,color:#000
+    style D fill:#00897B,color:#fff
+    style E fill:#0D47A1,color:#fff
 ```
 
 ### Tabla de Transición Fiscal (Base USD 60/barril)
@@ -193,7 +193,7 @@ xychart-beta
 |---|-----------|-------------------|----------------|------------|
 | 1 | **IVA 0% en canasta básica** (alimentos, medicinas, educación, transporte) | 82,8% en pobreza — gastan 60–80% de ingreso en estos rubros | USD 1.500–3.000 M/año en recaudación no cobrada | [Chile: IVA exento en salud y educación](https://www.sii.cl/); la mayoría de países OECD eximen alimentos básicos |
 | 2 | **Impuesto negativo / EITC** bajo línea de pobreza — si ganas < USD 300/mes, recibes transferencia | 82,8% (33M personas), decreciendo con el tiempo | USD 2.000–5.000 M/año (decrece a medida que sube ingreso) | [EE.UU.: Earned Income Tax Credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc) — USD 60B/año, saca a 5M de pobreza |
-| 3 | **PVC (Paquete de Valor Ciudadano)** — salud gratuita + educación gratuita + infraestructura = transferencia progresiva en especie | Todos, pero proporcionalmente más valor para los más pobres | Ya incluido en presupuesto del plan (salud USD 15–25B, educación USD 15–25B) | [Modelo nórdico](https://www.oecd.org/): servicios universales como redistribución |
+| 3 | **PVC (Paquete de Valor Ciudadano)** — salud universal (FONASA) + educación universal (voucher) + infraestructura = transferencia progresiva en especie | Todos, pero proporcionalmente más valor para los más pobres | Ya incluido en presupuesto del plan (salud USD 15–25B, educación USD 15–25B) | [Modelo nórdico](https://www.oecd.org/): servicios universales como redistribución |
 | 4 | **Impuesto progresivo a la propiedad** (no al ingreso) — > USD 1M en bienes raíces = 0,5–1% anual | Top 5% de riqueza | Genera USD 500–1.500 M/año | [Estonia: flat income tax + property tax progresivo](https://www.emta.ee/) |
 
 ### Efecto neto: Tasa efectiva por nivel de ingreso

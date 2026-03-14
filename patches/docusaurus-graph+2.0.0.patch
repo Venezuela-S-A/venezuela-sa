@@ -1,0 +1,363 @@
+diff --git a/node_modules/docusaurus-graph/src/index.ts b/node_modules/docusaurus-graph/src/index.ts
+index d59fe8c..ceaf414 100644
+--- a/node_modules/docusaurus-graph/src/index.ts
++++ b/node_modules/docusaurus-graph/src/index.ts
+@@ -5,64 +5,67 @@ import * as path from "node:path";
+ import defaults from "./theme/defaults";
+ 
+ async function Process(options: any, isDevelopment = true) {
+-	const docsDir = options.docsDir ?? defaults.docsDir;
+-	const sourcesTag = options.sourcesTag ?? defaults.sourcesTag;
+-	const referencesTag = options.referencesTag ?? defaults.referencesTag;
+-	const nodes = readMarkdownFiles(docsDir, sourcesTag, referencesTag);
++  const docsDir = options.docsDir ?? defaults.docsDir;
++  const sourcesTag = options.sourcesTag ?? defaults.sourcesTag;
++  const referencesTag = options.referencesTag ?? defaults.referencesTag;
++  const nodes = readMarkdownFiles(docsDir, sourcesTag, referencesTag);
+ 
+-	let filePath = path.join(defaults.staticDir, defaults.filename);
+-	if (!isDevelopment) {
+-		filePath = path.join(
+-			options.buildDir ?? defaults.buildDir,
+-			defaults.filename,
+-		);
+-	}
+-	const nodeString = JSON.stringify(nodes, null, 2);
+-	await fs.promises.writeFile(path.join(filePath), nodeString, "utf8");
++  let filePath = path.join(defaults.staticDir, defaults.filename);
++  if (!isDevelopment) {
++    filePath = path.join(
++      options.buildDir ?? defaults.buildDir,
++      defaults.filename,
++    );
++  }
++  const nodeString = JSON.stringify(nodes, null, 2);
++  await fs.promises.writeFile(path.join(filePath), nodeString, "utf8");
+ }
+ 
+ export default async function docusaurusGraph(context: any, options: any) {
+-	const { siteConfig } = context;
+-	return {
+-		name: "docusaurus-graph",
++  const { siteConfig } = context;
++  return {
++    name: "docusaurus-graph",
+ 
+-		async loadContent() {
+-			const themeConfig = siteConfig.themeConfig;
+-			themeConfig.navbar.items.push({
+-				type: "html",
+-				position: "right",
+-				value: templates.graphButton,
+-			});
++    async loadContent() {
++      const themeConfig = siteConfig.themeConfig;
++      themeConfig.navbar.items.push({
++        type: "html",
++        position: "right",
++        value: templates.graphButton,
++      });
+ 
+-			Process(options);
+-		},
++      Process(options);
++    },
+ 
+-		async contentLoaded() {},
++    async contentLoaded() {},
+ 
+-		async postBuild() {
+-			Process(options, false);
+-		},
++    async postBuild() {
++      Process(options, false);
++    },
+ 
+-		injectHtmlTags() {
+-			return {
+-				headTags: [...templates.headGraph],
+-				preBodyTags: [
+-					{
+-						tagName: "style",
+-						innerHTML: templates.styleGraph,
+-					},
+-				],
+-				postBodyTags: [
+-					{
+-						tagName: "div",
+-						innerHTML: templates.containerGraph,
+-					},
+-					{
+-						tagName: "script",
+-						innerHTML: templates.scriptGraph,
+-					},
+-				],
+-			};
+-		},
+-	};
++    injectHtmlTags() {
++      return {
++        headTags: [...templates.headGraph],
++        preBodyTags: [
++          {
++            tagName: "style",
++            innerHTML: templates.styleGraph,
++          },
++        ],
++        postBodyTags: [
++          {
++            tagName: "div",
++            innerHTML: templates.containerGraph,
++          },
++          {
++            tagName: "script",
++            innerHTML: templates.scriptGraph.replace(
++              "fetch('/docusaurus-graph.json')",
++              `fetch('${siteConfig.baseUrl}docusaurus-graph.json')`,
++            ),
++          },
++        ],
++      };
++    },
++  };
+ }
+diff --git a/node_modules/docusaurus-graph/src/theme/mdUtils.ts b/node_modules/docusaurus-graph/src/theme/mdUtils.ts
+index 74fa8cd..5d19913 100644
+--- a/node_modules/docusaurus-graph/src/theme/mdUtils.ts
++++ b/node_modules/docusaurus-graph/src/theme/mdUtils.ts
+@@ -4,118 +4,138 @@ import * as marked from "marked";
+ import matter from "gray-matter";
+ 
+ interface Node {
+-	id: string;
+-	title: string;
+-	linkTo: string[];
+-	referencedBy: string[];
++  id: string;
++  title: string;
++  linkTo: string[];
++  referencedBy: string[];
+ }
+ 
+ function validName(name: string): boolean {
+-	return name[0] !== "_";
++  return name[0] !== "_";
+ }
+ 
+ function extractTitleFromMarkdown(content: string): string | null {
+-	const tokens = marked.lexer(content);
+-	const firstHeader = tokens.find(
+-		(token: marked.Token) => token.type === "heading" && token.depth === 1,
+-	);
++  const tokens = marked.lexer(content);
++  const firstHeader = tokens.find(
++    (token: marked.Token) => token.type === "heading" && token.depth === 1,
++  );
+ 
+-	return firstHeader ? firstHeader.raw.substring(2).trim() : null;
++  return firstHeader ? firstHeader.raw.substring(2).trim() : null;
+ }
+ 
+ function extractTitleFromPath(filename: string): string {
+-	return path.basename(filename).split(".")[0];
++  return path.basename(filename).split(".")[0];
+ }
+ 
+ function isMdOrMdxFile(file: string): boolean {
+-	return (
+-		path.extname(file).toLowerCase() === ".md" ||
+-		path.extname(file).toLowerCase() === ".mdx"
+-	);
++  return (
++    path.extname(file).toLowerCase() === ".md" ||
++    path.extname(file).toLowerCase() === ".mdx"
++  );
+ }
+ 
+ export function readMarkdownFiles(
+-	directoryPath: string,
+-	sourceTag = "sources",
+-	referenceTag = "references",
++  directoryPath: string,
++  sourceTag = "sources",
++  referenceTag = "references",
+ ): Node[] {
+-	const nodes: Node[] = [];
+-
+-	function getNode(id: string): Node | undefined {
+-		return nodes.find((item) => item.id === id);
+-	}
+-
+-	function readDirectory(currentPath: string): void {
+-		const items = fs.readdirSync(currentPath);
+-
+-		for (const item of items) {
+-			if (!validName(item)) return;
+-
+-			const itemPath = path.join(currentPath, item);
+-			const stat = fs.statSync(itemPath);
+-
+-			if (stat.isDirectory()) {
+-				readDirectory(itemPath);
+-			} else if (isMdOrMdxFile(itemPath)) {
+-				const fileContent = fs.readFileSync(itemPath, "utf-8");
+-				const { data } = matter(fileContent);
+-				const id = extractTitleFromPath(itemPath);
+-				const title = (extractTitleFromMarkdown(fileContent) as string) ?? id;
+-
+-				if (typeof data[referenceTag] === "string")
+-					data[referenceTag] = [data[referenceTag]];
+-
+-				if (typeof data[sourceTag] === "string")
+-					data[sourceTag] = [data[sourceTag]];
+-
+-				const node = getNode(id);
+-				if (node) {
+-					node.title = title;
+-				} else {
+-					nodes.push({
+-						id,
+-						title,
+-						linkTo: [...(data[referenceTag] || [])],
+-						referencedBy: [...(data[sourceTag] || [])],
+-					});
+-				}
+-
+-				if (data[referenceTag]) {
+-					for (const reference of data[referenceTag]) {
+-						const node = getNode(reference);
+-						if (node) {
+-							node.referencedBy.push(id);
+-						} else {
+-							nodes.push({
+-								id: reference,
+-								title: reference,
+-								linkTo: [],
+-								referencedBy: [id],
+-							});
+-						}
+-					}
+-				}
+-
+-				if (data[sourceTag]) {
+-					for (const source of data[sourceTag]) {
+-						const node = getNode(source);
+-						if (node) {
+-							node.linkTo.push(id);
+-						} else {
+-							nodes.push({
+-								id: source,
+-								title: source,
+-								linkTo: [id],
+-								referencedBy: [],
+-							});
+-						}
+-					}
+-				}
+-			}
+-		}
+-	}
+-
+-	readDirectory(directoryPath);
+-
+-	return nodes;
++  const nodes: Node[] = [];
++
++  function getNode(id: string): Node | undefined {
++    return nodes.find((item) => item.id === id);
++  }
++
++  function readDirectory(currentPath: string): void {
++    const items = fs.readdirSync(currentPath);
++
++    for (const item of items) {
++      if (!validName(item)) return;
++
++      const itemPath = path.join(currentPath, item);
++      const stat = fs.statSync(itemPath);
++
++      if (stat.isDirectory()) {
++        readDirectory(itemPath);
++      } else if (isMdOrMdxFile(itemPath)) {
++        const fileContent = fs.readFileSync(itemPath, "utf-8");
++        const { data, content: mdContent } = matter(fileContent);
++        const id = extractTitleFromPath(itemPath);
++
++        // Auto-detect markdown links to other docs
++        const linkRegex =
++          /\[.*?\]\((?:\.\/|\.\.\/|\/)?(\d{2}-[\w-]+\/[\w-]+|[\w-]+)\)/g;
++        let match;
++        const autoRefs: string[] = [];
++        while ((match = linkRegex.exec(mdContent)) !== null) {
++          const target = match[1].split("/").pop() || match[1];
++          if (target !== id && !autoRefs.includes(target)) {
++            autoRefs.push(target);
++          }
++        }
++        if (!data[referenceTag]) data[referenceTag] = [];
++        if (typeof data[referenceTag] === "string")
++          data[referenceTag] = [data[referenceTag]];
++        for (const ref of autoRefs) {
++          if (!data[referenceTag].includes(ref)) {
++            data[referenceTag].push(ref);
++          }
++        }
++        const title = (extractTitleFromMarkdown(fileContent) as string) ?? id;
++
++        if (typeof data[referenceTag] === "string")
++          data[referenceTag] = [data[referenceTag]];
++
++        if (typeof data[sourceTag] === "string")
++          data[sourceTag] = [data[sourceTag]];
++
++        const node = getNode(id);
++        if (node) {
++          node.title = title;
++        } else {
++          nodes.push({
++            id,
++            title,
++            linkTo: [...(data[referenceTag] || [])],
++            referencedBy: [...(data[sourceTag] || [])],
++          });
++        }
++
++        if (data[referenceTag]) {
++          for (const reference of data[referenceTag]) {
++            const node = getNode(reference);
++            if (node) {
++              node.referencedBy.push(id);
++            } else {
++              nodes.push({
++                id: reference,
++                title: reference,
++                linkTo: [],
++                referencedBy: [id],
++              });
++            }
++          }
++        }
++
++        if (data[sourceTag]) {
++          for (const source of data[sourceTag]) {
++            const node = getNode(source);
++            if (node) {
++              node.linkTo.push(id);
++            } else {
++              nodes.push({
++                id: source,
++                title: source,
++                linkTo: [id],
++                referencedBy: [],
++              });
++            }
++          }
++        }
++      }
++    }
++  }
++
++  readDirectory(directoryPath);
++
++  return nodes;
+ }

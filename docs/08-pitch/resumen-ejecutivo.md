@@ -34,11 +34,11 @@ flowchart LR
     C --> D["📈 Economía Diversificada<br/>Petróleo: 95% → <35%"]
     D --> E["🏦 Fondo Soberano<br/>+ Dividendo Ciudadano"]
 
-    style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style B fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style C fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style D fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style E fill:#C49A2A,stroke:#1B3A5C,color:#fff
+    style A fill:#0D47A1,color:#fff
+    style B fill:#0D47A1,color:#fff
+    style C fill:#0D47A1,color:#fff
+    style D fill:#00897B,color:#fff
+    style E fill:#F9A825,color:#000
 ```
 
 **El petróleo es el combustible. La tecnología es el destino.**
@@ -56,11 +56,11 @@ flowchart LR
     A --> B["<b>Series B</b><br/>Petróleo + BigTech<br/>USD 50-100B<br/>Años 4-8"]
     B --> IPO["<b>IPO</b><br/>VIN a mercados<br/>USD 10-30B+<br/>Años 8-12"]
 
-    style PS fill:#2d5016,stroke:#C49A2A,color:#fff
-    style S fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style B fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style IPO fill:#C49A2A,stroke:#1B3A5C,color:#fff
+    style PS fill:#00897B,color:#fff
+    style S fill:#0D47A1,color:#fff
+    style A fill:#0D47A1,color:#fff
+    style B fill:#0D47A1,color:#fff
+    style IPO fill:#F9A825,color:#000
 ```
 
 | Ronda | Fuente | Monto | Uso | Plazo |

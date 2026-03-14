@@ -66,28 +66,28 @@ This means Cuba only withdraws under three scenarios:
 
 ```mermaid
 gantt
-    title Desconexión Cuba — Timeline Operativo
+    title Cuba Disconnection — Operational Timeline
     dateFormat YYYY
     axisFormat %Y
 
-    section Fase 1: Auditoría
-    Censo de personal cubano                          :a1, 2027, 2028
-    Informe público de dependencia operativa          :a2, 2027, 2028
+    section Phase 1: Audit
+    Cuban personnel census                            :a1, 2027, 2028
+    Public operational dependency report               :a2, 2027, 2028
 
-    section Fase 2: Congelamiento
-    Suspensión de nuevo personal cubano               :b1, 2028, 2029
-    Reducción petrolera (100K → 25K bpd)              :b2, 2028, 2030
+    section Phase 2: Freeze
+    Suspension of new Cuban personnel                 :b1, 2028, 2029
+    Oil reduction (100K → 25K bpd)                     :b2, 2028, 2030
 
-    section Fase 3: Reemplazo
-    Formación reemplazos venezolanos                  :c1, 2029, 2031
-    Asesores internacionales (COL/US/ISR)             :c2, 2029, 2031
+    section Phase 3: Replacement
+    Training Venezuelan replacements                   :c1, 2029, 2031
+    International advisors (COL/US/ISR)               :c2, 2029, 2031
 
-    section Fase 4: Salida
-    Retiro gradual verificado                         :d1, 2030, 2032
-    Monitoreo internacional ONU/OEA                   :d2, 2030, 2033
+    section Phase 4: Exit
+    Verified gradual withdrawal                        :d1, 2030, 2032
+    International monitoring UN/OAS                    :d2, 2030, 2033
 
-    section Fase 5: Normalización
-    Relación diplomática estándar                     :e1, 2032, 2035
+    section Phase 5: Normalization
+    Standard diplomatic relationship                   :e1, 2032, 2035
 ```
 
 ---

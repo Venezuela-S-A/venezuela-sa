@@ -120,9 +120,9 @@ The [forward contracts](/02-motor-financiero/contratos-forward) generate **USD 1
 
 ```mermaid
 xychart-beta
-    title "Ingreso Total vs. Gasto Prioritario por Trimestre (USD M)"
+    title "Total Revenue vs. Priority Spending per Quarter (USD M)"
     x-axis ["Q1Y1","Q2Y1","Q3Y1","Q4Y1","Q1Y2","Q2Y2","Q3Y2","Q4Y2","Q1Y3","Q2Y3","Q3Y3","Q4Y3","Q1Y4","Q2Y4","Q3Y4","Q4Y4","Q1Y5","Q2Y5","Q3Y5","Q4Y5"]
-    y-axis "USD millones" 0 --> 8000
+    y-axis "USD millions" 0 --> 8000
     bar [6553,5931,5707,5485,5362,5240,5116,4994,4871,4748,4624,4402,4178,4256,4133,4211,4087,4165,4041,4019]
     line [7000,6500,6200,5800,5500,5200,5000,4800,4600,4500,4400,4300,4200,4100,4000,3900,3800,3700,3600,3500]
 ```
@@ -135,25 +135,25 @@ xychart-beta
 
 ```mermaid
 flowchart TD
-    A["Ingreso Bruto Petrolero
-    Producción × USD 60/bbl × 91.25 días"] --> B["Costo Operativo
-    Producción × USD 37,50/bbl × 91.25 días"]
-    B --> C["Ingreso Neto Petrolero"]
-    C --> D{"Regla de Transición Fiscal"}
-    D -->|"Y1: 100% / Y2-3: 80% / Y4-5: 60%"| E["Presupuesto Fiscal"]
-    D -->|"Y1: 0% / Y2-3: 20% / Y4-5: 40%"| F["Fondo Soberano"]
-    G["Fuentes Externas
-    Forwards + JVs + Multilaterales + Diáspora"] --> E
-    E --> H["P1: Emergencia Humanitaria
-    Salud + alimentación"]
-    E --> I["P2: Seguridad
-    Policía + justicia"]
-    E --> J["P3: Infraestructura Básica
-    Electricidad + agua + telecoms"]
-    E --> K["P4: Capital Humano
-    Educación + retorno diáspora"]
-    F --> L["Inversión 100% Externa
-    Modelo NBIM"]
+    A["Gross Oil Revenue
+    Production × USD 60/bbl × 91.25 days"] --> B["Operating Cost
+    Production × USD 37.50/bbl × 91.25 days"]
+    B --> C["Net Oil Revenue"]
+    C --> D{"Fiscal Transition Rule"}
+    D -->|"Y1: 100% / Y2-3: 80% / Y4-5: 60%"| E["Fiscal Budget"]
+    D -->|"Y1: 0% / Y2-3: 20% / Y4-5: 40%"| F["Sovereign Fund"]
+    G["External Sources
+    Forwards + JVs + Multilaterals + Diaspora"] --> E
+    E --> H["P1: Humanitarian Emergency
+    Healthcare + food"]
+    E --> I["P2: Security
+    Police + justice"]
+    E --> J["P3: Basic Infrastructure
+    Electricity + water + telecoms"]
+    E --> K["P4: Human Capital
+    Education + diaspora return"]
+    F --> L["100% External Investment
+    NBIM Model"]
 
     style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
     style C fill:#2d5016,stroke:#C49A2A,color:#fff

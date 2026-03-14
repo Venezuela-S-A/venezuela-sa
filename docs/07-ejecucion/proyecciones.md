@@ -16,7 +16,7 @@ xychart-beta
 ```mermaid
 xychart-beta
     title "Fondo Soberano Base USD 60 (USD miles de M)"
-    x-axis ["Hoy", "Ano 5", "Ano 10", "Ano 15"]
+    x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
     y-axis "USD miles de millones" 0 --> 250
     bar [0, 20, 95, 190]
 ```

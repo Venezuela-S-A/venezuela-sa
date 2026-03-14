@@ -78,51 +78,51 @@ Phase 0 is already happening. Chevron is producing, Wright visited Caracas, ther
 
 ```mermaid
 gantt
-    title Roadmap de Levantamiento de Sanciones
+    title Sanctions Lifting Roadmap
     dateFormat YYYY
     axisFormat %Y
 
-    section Fase 0: Pre-transición
-    GL 44 expandida + independientes   :active, f0, 2026, 2027
+    section Phase 0: Pre-transition
+    Expanded GL 44 + independents      :active, f0, 2026, 2027
 
-    section Fase 1: Transición
-    Licencias sectoriales petróleo      :f1, 2027, 2028
+    section Phase 1: Transition
+    Sectoral oil licenses               :f1, 2027, 2028
 
-    section Fase 2: Elecciones
-    Licencias amplias oil & gas         :f2, 2028, 2030
+    section Phase 2: Elections
+    Broad oil & gas licenses            :f2, 2028, 2030
 
-    section Fase 3: Reformas
-    Licencias sector financiero         :f3, 2030, 2032
+    section Phase 3: Reforms
+    Financial sector licenses           :f3, 2030, 2032
 
-    section Fase 4: Democracia sostenida
-    Reducción SDN + tech                :f4, 2032, 2034
+    section Phase 4: Sustained democracy
+    SDN reduction + tech                :f4, 2032, 2034
 
-    section Fase 5: Normalización
-    Remoción completa de sanciones      :f5, 2034, 2036
+    section Phase 5: Normalization
+    Complete sanctions removal          :f5, 2034, 2036
 ```
 
 ## Decision Tree
 
 ```mermaid
 flowchart TD
-    A[Condición política cumplida] --> B{¿Verificada por terceros?}
-    B -->|Sí| C[Solicitud de licencia OFAC]
-    B -->|No| D[Volver a verificar con OEA/OHCHR/DEA]
-    C --> E{¿OFAC aprueba?}
-    E -->|Sí| F[Licencia específica emitida]
-    E -->|No| G[Negociar condiciones adicionales]
+    A[Political condition met] --> B{Verified by third parties?}
+    B -->|Yes| C[OFAC license request]
+    B -->|No| D[Re-verify with OAS/OHCHR/DEA]
+    C --> E{OFAC approves?}
+    E -->|Yes| F[Specific license issued]
+    E -->|No| G[Negotiate additional conditions]
     G --> A
-    F --> H[Tipo de inversión desbloqueada]
+    F --> H[Type of investment unlocked]
     H --> I[Oil & Gas]
-    H --> J[Sector financiero]
+    H --> J[Financial sector]
     H --> K[Tech & Data Centers]
-    H --> L[Mercado de capitales]
-    I --> M[Contratos firmados con garantías OFAC]
+    H --> L[Capital markets]
+    I --> M[Contracts signed with OFAC guarantees]
     J --> M
     K --> M
     L --> M
-    M --> N[Capital desplegado + empleos + PIB]
-    N --> O[Track record fortalece siguiente fase]
+    M --> N[Capital deployed + jobs + GDP]
+    N --> O[Track record strengthens next phase]
     O --> A
     D --> A
 ```

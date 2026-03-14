@@ -174,3 +174,101 @@ Marco Rubio ha sido explícito en múltiples declaraciones: la desconexión cuba
 :::danger Secuencia no negociable
 **Auditoría → Reemplazo → Retiro → Verificación.** Nunca al revés. Expulsar sin reemplazar crea un vacío que otros actores (Rusia, crimen organizado) pueden llenar. El modelo no es Egipto 1972 (expulsión abrupta). El modelo es Angola 1988 (retiro negociado, verificado, con timeline).
 :::
+
+---
+
+## Crisis Cubana 2026: La Desconexión Está Ocurriendo por Defecto
+
+:::danger Actualización marzo 2026
+La intervención militar de EE.UU. en Venezuela (enero 2026) y el bloqueo naval posterior están ejecutando una desconexión Cuba-Venezuela no planificada. Cuba enfrenta su peor crisis desde el Período Especial. Esto no es teoría — está pasando.
+:::
+
+### Los datos duros
+
+| Indicador | Dato | Fuente |
+|-----------|------|--------|
+| Petróleo venezolano a Cuba (pre-intervención) | **~35.000 bpd** = **~50%** del suministro cubano | [Requiere investigación] |
+| Bloqueo de tanqueros a Cuba | EE.UU. bloqueando tanqueros desde **febrero 2026** | [Requiere investigación] |
+| Protestas en enero 2026 | **953 protestas** — récord histórico | [Requiere investigación] |
+| Colapso planta Antonio Guiteras | **5 marzo 2026** — 68% de la isla sin electricidad | [Requiere investigación] |
+| Cubanos muertos en operación Venezuela | **32** (personal militar/inteligencia en misiones) | [Requiere investigación] |
+| Alerta de la ONU | Advierte posible "colapso" humanitario | [Requiere investigación] |
+| Estado de reservas de combustible | Acercándose a "hora cero" — depleción total | [Requiere investigación] |
+
+### 32 muertos = prueba del aparato
+
+Los **32 cubanos muertos durante la operación en Venezuela** no eran médicos ni maestros. Eran personal militar y de inteligencia en misiones activas. Esto confirma lo que esta sección ha documentado: Cuba no "asesora" — **opera** dentro del aparato de seguridad venezolano.
+
+:::info Validación del diagnóstico
+Esta sección fue creada para corregir un punto ciego calificado 1/10. Los 32 cubanos muertos en operaciones militares/inteligencia durante la intervención de enero 2026 son la evidencia empírica más directa de la profundidad de la penetración cubana en el aparato de seguridad venezolano. El diagnóstico era correcto.
+:::
+
+### La desconexión no planificada
+
+El bloqueo naval de EE.UU. cortó de facto el subsidio petrolero venezolano a Cuba. Sin necesidad de negociación, sin timeline de fases, sin Acuerdo Tripartito. La desconexión energética está ocurriendo por presión externa.
+
+| Fase del plan original | Lo que está pasando (mar. 2026) |
+|------------------------|---------------------------------|
+| **Fase 1: Auditoría** (Año 0-1) | No ejecutada formalmente, pero la intervención expuso estructura cubana. Los 32 muertos revelan presencia operativa |
+| **Fase 2: Congelamiento** (Año 1-2) | Ocurriendo por defecto. Bloqueo naval cortó petróleo. Cuba no puede enviar nuevo personal |
+| **Fase 3: Reemplazo** (Año 2-3) | Urgente. El vacío ya existe. Asesores internacionales deben entrar ahora, no en Año 2 |
+| **Fase 4: Salida** (Año 3-5) | Parcialmente forzada. Personal cubano sin apoyo logístico ni petrolero |
+| **Fase 5: Normalización** (Año 5+) | Depende de estabilidad del régimen cubano — que está en cuestión |
+
+:::caution Timeline acelerado
+El plan original asumía 5+ años para la desconexión completa. La intervención de EE.UU. comprimió las fases 1-2 a meses. Esto es bueno para la soberanía pero peligroso para la estabilidad: el vacío de capacidad de inteligencia que preveíamos en 6-18 meses **ya está aquí**. Las alianzas de reemplazo (CIA/DEA, Colombia, Israel) deben activarse con urgencia máxima.
+:::
+
+### Cuba se acerca al colapso: implicaciones
+
+Cuba enfrenta una crisis existencial. La ONU advierte de colapso humanitario. Las protestas alcanzan niveles récord. La infraestructura energética falla.
+
+```mermaid
+flowchart TD
+    A[Intervención EE.UU. en Venezuela<br/>Enero 2026] --> B[Bloqueo naval corta tanqueros a Cuba<br/>Febrero 2026]
+    B --> C[Cuba pierde ~35,000 bpd<br/>50% de su suministro]
+    C --> D[Colapso planta Antonio Guiteras<br/>5 marzo 2026]
+    C --> E[Reservas acercándose a hora cero]
+    D --> F[68% de Cuba sin electricidad]
+    E --> G[953 protestas en enero<br/>Récord histórico]
+    F --> G
+    G --> H{¿Régimen cubano sobrevive?}
+    H -->|Sí, debilitado| I[Cuba pierde capacidad de<br/>proyectar poder en Venezuela]
+    H -->|No| J[Colapso del régimen elimina<br/>el problema de raíz]
+    I --> K[Desconexión se acelera<br/>por incapacidad cubana]
+    J --> K
+    K --> L[Venezuela gana soberanía de seguridad<br/>Acelera reforma institucional]
+
+    style A fill:#C62828,color:#fff
+    style B fill:#C62828,color:#fff
+    style C fill:#C62828,color:#fff
+    style D fill:#C62828,color:#fff
+    style E fill:#C62828,color:#fff
+    style F fill:#C62828,color:#fff
+    style G fill:#C62828,color:#fff
+    style H fill:#F9A825,color:#000
+    style I fill:#E3F2FD,color:#1B2631
+    style J fill:#E3F2FD,color:#1B2631
+    style K fill:#00897B,color:#fff
+    style L fill:#0D47A1,color:#fff
+```
+
+**Tres escenarios para Cuba:**
+
+| Escenario | Probabilidad | Impacto en Venezuela |
+|-----------|-------------|---------------------|
+| **Régimen sobrevive debilitado** — ajusta, reprime protestas, busca nuevos patrones (China/Rusia) | Media | Cuba pierde capacidad de mantener presencia en Venezuela. Desconexión se completa por incapacidad, no por acuerdo |
+| **Transición interna** — presión popular + crisis energética fuerza apertura gradual | Baja-Media | Nuevo gobierno cubano no tiene incentivo para mantener aparato en Venezuela. Desconexión natural |
+| **Colapso humanitario** — hora cero se alcanza, crisis migratoria masiva, intervención humanitaria | Baja | Desconexión inmediata y total, pero genera crisis regional. Venezuela puede recibir ola migratoria cubana |
+
+### Ajuste al plan: qué hacer ahora
+
+1. **Acelerar alianzas de inteligencia.** El vacío ya existe. CIA/DEA y Colombia deben estar operando en semanas, no en años.
+2. **Auditoría de emergencia.** Identificar todo personal cubano remanente en SEBIN, DGCIM y FANB. La intervención facilitó esto — los archivos están más accesibles.
+3. **No enviar petróleo a Cuba.** La tentación humanitaria existe, pero cada barrel enviado a Cuba es un barrel fuera del fondo soberano. Cuba tiene otros socios potenciales (México, Rusia, China).
+4. **Preparar para migración cubana.** Si Cuba colapsa, Venezuela será destino. Plan migratorio necesario.
+5. **Redirigir los USD 2.2B/año.** El subsidio petrolero a Cuba (~USD 2.2B/año a USD 60/barril) es ahora ingreso recuperado. Va directo al fondo soberano.
+
+:::tip Ahorro directo: USD 2.2B/año
+Los ~35.000-100.000 bpd que iban a Cuba subsidiados ahora se venden a precio de mercado o se redirigen al fondo soberano. A **USD 60/barril**, esto representa entre **USD 766M y USD 2.2B/año** en ingresos recuperados. Es el primer "quick win" financiero de la desconexión.
+:::

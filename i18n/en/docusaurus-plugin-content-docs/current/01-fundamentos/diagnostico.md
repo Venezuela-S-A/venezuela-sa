@@ -30,17 +30,17 @@ The full diagnosis is below. If you prefer to go straight to the solution → [F
 
 ```mermaid
 xychart-beta
-    title "Venezuela vs. Pares Petroleros — Producción (M bpd, 2025)"
-    x-axis ["Arabia Saudí", "Irak", "EAU", "Kuwait", "Venezuela", "Nigeria"]
-    y-axis "Millones bpd" 0 --> 12
+    title "Venezuela vs. Oil Peers — Production (M bpd, 2025)"
+    x-axis ["Saudi Arabia", "Iraq", "UAE", "Kuwait", "Venezuela", "Nigeria"]
+    y-axis "Million bpd" 0 --> 12
     bar [10.5, 4.4, 3.2, 2.5, 1.0, 1.3]
 ```
 
 ```mermaid
 xychart-beta
-    title "Venezuela — Producción Histórica vs. Meta (M bpd)"
-    x-axis ["1998", "2008", "2015", "2020", "2025", "2030 meta", "2035 meta", "2040 meta"]
-    y-axis "Millones bpd" 0 --> 3.5
+    title "Venezuela — Historical Production vs. Target (M bpd)"
+    x-axis ["1998", "2008", "2015", "2020", "2025", "2030 target", "2035 target", "2040 target"]
+    y-axis "Million bpd" 0 --> 3.5
     line [3.3, 2.6, 2.3, 0.5, 1.0, 1.7, 2.3, 3.0]
 ```
 
@@ -67,9 +67,9 @@ xychart-beta
 
 ```mermaid
 xychart-beta
-    title "Inversión requerida por escenario (USD miles de M)"
-    x-axis ["Mantener 1.1M", "Subir a 1.4M", "Alcanzar 2M", "Alcanzar 3M"]
-    y-axis "USD miles de millones" 0 --> 200
+    title "Investment Required by Scenario (USD billions)"
+    x-axis ["Maintain 1.1M", "Increase to 1.4M", "Reach 2M", "Reach 3M"]
+    y-axis "USD billions" 0 --> 200
     bar [53, 70, 94, 183]
 ```
 
@@ -97,9 +97,9 @@ Venezuela doesn't start from solid institutions (Norway), nor from a visionary l
 
 ```mermaid
 xychart-beta
-    title "PIB post-reforma: cuantos anios para duplicar (comparable)"
-    x-axis ["Georgia", "Kazajistan", "EAU", "Irak", "Angola"]
-    y-axis "Anios para duplicar PIB" 0 --> 25
+    title "Post-reform GDP: years to double (comparables)"
+    x-axis ["Georgia", "Kazakhstan", "UAE", "Iraq", "Angola"]
+    y-axis "Years to double GDP" 0 --> 25
     bar [8, 10, 12, 20, 25]
 ```
 

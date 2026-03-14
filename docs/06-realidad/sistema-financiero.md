@@ -41,9 +41,9 @@ Con encaje del 73%, los bancos retienen el 73% de cada depósito. No hay crédit
 | Acción | Detalle | Modelo |
 |--------|---------|--------|
 | Licencias bancarias internacionales | Atraer bancos extranjeros (Santander, BBVA, Citi) | Colombia / Panamá |
-| Crédito hipotecario | Garantía estatal para vivienda social | Chile: subsidio habitacional |
+| Crédito hipotecario | Garantía vía Venezuela S.A. (deuda corporativa, no soberana) para vivienda social | Chile: subsidio habitacional |
 | Banca digital | Plataforma para bonos ciudadanos desde USD 10 | [Nubank](https://www.nubank.com) / M-Pesa |
-| Microcrédito agrícola e industrial | Fondo estatal de garantías | Colombia: Bancóldex |
+| Microcrédito agrícola e industrial | Fondo de garantías administrado por Venezuela S.A. (no por el Estado) | Colombia: Bancóldex |
 | Fintech regulado | Sandbox regulatorio para startups financieras | Singapur MAS |
 
 ### Fase 3: Madurez (Años 7–15)
@@ -99,7 +99,7 @@ Venezuela no tiene legacy bancario que proteger. No hay core banking systems de 
 
 > Patrick Collison (Stripe): *"Sin estos 4, no hay plataforma. Con ellos, Stripe opera en 6 meses."*
 
-La plataforma de inversión ciudadana (bonos soberanos desde USD 10, acciones del portafolio VIN) requiere infraestructura que hoy **no existe**:
+La plataforma de inversión ciudadana (bonos corporativos de Venezuela S.A. desde USD 10, acciones del portafolio VIN) requiere infraestructura que hoy **no existe**:
 
 | # | Prerrequisito | Estado actual | Acción requerida | Timeline |
 |---|---------------|---------------|------------------|----------|

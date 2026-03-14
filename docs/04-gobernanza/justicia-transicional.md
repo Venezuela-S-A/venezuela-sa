@@ -120,6 +120,15 @@ flowchart TD
     E --> G["Bienes → Fondo de<br/>Reparación a Víctimas"]
 
     C --> H["Cooperación internacional:<br/>DOJ, Europol, INTERPOL,<br/>oficinas de recuperación<br/>de activos"]
+
+    style A fill:#C62828,color:#fff
+    style B fill:#0D47A1,color:#fff
+    style C fill:#0D47A1,color:#fff
+    style D fill:#F9A825,color:#000
+    style E fill:#C62828,color:#fff
+    style F fill:#00897B,color:#fff
+    style G fill:#F9A825,color:#000
+    style H fill:#E3F2FD,color:#1B2631
 ```
 
 **Principios clave:**
@@ -185,6 +194,15 @@ flowchart TD
     E --> F["Recompensa: 10-30%<br/>del valor recuperado"]
     D -->|No verificable| G["Archivo de caso<br/>(puede reactivarse)"]
     F --> H["Pago al denunciante<br/>(anónimo o público,<br/>a su elección)"]
+
+    style A fill:#E3F2FD,color:#1B2631
+    style B fill:#0D47A1,color:#fff
+    style C fill:#0D47A1,color:#fff
+    style D fill:#F9A825,color:#000
+    style E fill:#00897B,color:#fff
+    style F fill:#F9A825,color:#000
+    style G fill:#E3F2FD,color:#1B2631
+    style H fill:#00897B,color:#fff
 
     style F fill:#4CAF50,color:#fff
 ```

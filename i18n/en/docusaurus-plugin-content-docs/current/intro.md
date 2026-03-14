@@ -45,10 +45,10 @@ This is not a government plan. It is a **business model** where every Venezuelan
 
 ```mermaid
 flowchart TD
-    A["<b>1. Reconstruir Energía</b><br/>Petróleo (USD 60/bbl) + Hidro (18 GW)"] --> B["<b>2. Energía Barata Atrae BigTech</b><br/>Data centers, cloud, IA<br/>Mercado LATAM: USD 7.16B → 14.3B"]
-    B --> C["<b>3. BigTech Genera Ecosistema</b><br/>Ingenieros, startups, servicios, educación"]
-    C --> D["<b>4. Ecosistema Diversifica Economía</b><br/>Petróleo baja de 95% a menos de 40%"]
-    D --> E["<b>5. Venezuela: Startup Nation</b><br/>Fondo soberano + dividendo ciudadano + IPO tech"]
+    A["<b>1. Rebuild Energy</b><br/>Oil (USD 60/bbl) + Hydro (18 GW)"] --> B["<b>2. Cheap Energy Attracts BigTech</b><br/>Data centers, cloud, AI<br/>LATAM market: USD 7.16B → 14.3B"]
+    B --> C["<b>3. BigTech Generates Ecosystem</b><br/>Engineers, startups, services, education"]
+    C --> D["<b>4. Ecosystem Diversifies Economy</b><br/>Oil drops from 95% to under 40%"]
+    D --> E["<b>5. Venezuela: Startup Nation</b><br/>Sovereign fund + citizen dividend + tech IPO"]
 
     style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
     style B fill:#1B3A5C,stroke:#C49A2A,color:#fff

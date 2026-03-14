@@ -5,7 +5,7 @@ title: Tesis Central
 
 # Tesis Central: Por Qué Este Plan Es Diferente
 
-> Este no es un plan de gobierno. Es un modelo de negocio donde cada venezolano es accionista.
+> Este no es un plan de gobierno. Es un modelo de negocio donde cada venezolano es accionista de **Venezuela S.A.** — el holding corporativo que invierte, cobra regalías, administra el fondo soberano y distribuye dividendos. El Estado solo regula.
 
 ## El Cambio Conceptual
 

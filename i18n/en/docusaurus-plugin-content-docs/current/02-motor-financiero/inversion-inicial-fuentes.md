@@ -8,25 +8,25 @@ title: Investment and Sources
 ## Investment Distribution
 
 ```mermaid
-pie title Inversión por Componente (USD miles de millones — rango inferior)
-    "Petróleo (3M bpd)" : 183
-    "Deuda reestructurada" : 75
-    "Fondo soberano" : 50
-    "Infraestructura básica" : 41.5
-    "Electricidad" : 15
-    "Educación" : 15
-    "Salud" : 10
+pie title Investment by Component (USD billions — lower range)
+    "Oil (3M bpd)" : 183
+    "Restructured debt" : 75
+    "Sovereign fund" : 50
+    "Basic infrastructure" : 41.5
+    "Electricity" : 15
+    "Education" : 15
+    "Healthcare" : 10
     "Data centers" : 5
-    "Seguridad y justicia" : 5
-    "Sistema financiero" : 4
-    "Programa retorno" : 0.5
+    "Security and justice" : 5
+    "Financial system" : 4
+    "Return program" : 0.5
 ```
 
 ```mermaid
 xychart-beta
-    title "Inversión por componente (USD miles de M — rango inferior vs. superior)"
-    x-axis ["Petróleo", "Deuda", "Fondo Sob.", "Infraestr.", "Electric.", "Educación", "Salud", "Seguridad", "Financiero", "Data Ctr."]
-    y-axis "USD miles de millones" 0 --> 200
+    title "Investment by Component (USD billions — lower vs. upper range)"
+    x-axis ["Oil", "Debt", "Sov. Fund", "Infrastr.", "Electric.", "Education", "Health", "Security", "Financial", "Data Ctr."]
+    y-axis "USD billions" 0 --> 200
     bar [183, 75, 50, 41.5, 15, 15, 10, 5, 4, 5]
     bar [183, 85, 100, 81, 25, 25, 20, 8, 10, 10]
 ```
@@ -55,21 +55,21 @@ The lower range assumes efficient execution with significant private participati
 ## Capital Sources
 
 ```mermaid
-pie title Fuentes de Financiamiento (USD miles de M — rango inferior)
-    "Forward (adelantos)" : 150
-    "Majors petroleras (JVs)" : 30
-    "Multilaterales (FMI/BM)" : 20
+pie title Funding Sources (USD billions — lower range)
+    "Forward (advances)" : 150
+    "Oil majors (JVs)" : 30
+    "Multilaterals (IMF/WB)" : 20
     "BigTech" : 5
-    "Diáspora directa" : 3
-    "Bonos ciudadanos" : 1.5
-    "Remesas redirigidas" : 1
+    "Direct diaspora" : 3
+    "Citizen bonds" : 1.5
+    "Redirected remittances" : 1
 ```
 
 ```mermaid
 xychart-beta
-    title "Fuentes de capital (USD miles de M — rango inferior vs. superior)"
-    x-axis ["Forwards", "Majors", "Multilat.", "BigTech", "Diáspora", "Bonos Ciud.", "Remesas"]
-    y-axis "USD miles de millones" 0 --> 320
+    title "Capital Sources (USD billions — lower vs. upper range)"
+    x-axis ["Forwards", "Majors", "Multilat.", "BigTech", "Diaspora", "Citizen Bonds", "Remittances"]
+    y-axis "USD billions" 0 --> 320
     bar [150, 30, 20, 5, 3, 1.5, 1]
     bar [300, 50, 40, 10, 8, 3, 2]
 ```
@@ -88,9 +88,9 @@ xychart-beta
 
 ```mermaid
 xychart-beta
-    title "Inversión total en reconstrucciones nacionales (USD miles de M, ajustado a 2025)"
-    x-axis ["Plan Marshall (Europa)", "Reunif. Alemana", "Corea del Sur (60-90)", "Venezuela S.A."]
-    y-axis "USD miles de millones" 0 --> 800
+    title "Total Investment in National Reconstructions (USD billions, adjusted to 2025)"
+    x-axis ["Marshall Plan (Europe)", "German Reunif.", "South Korea (60-90)", "Venezuela S.A."]
+    y-axis "USD billions" 0 --> 800
     bar [180, 750, 350, 550]
 ```
 
@@ -123,13 +123,13 @@ The key is **credible signaling** — verifiable actions that demonstrate commit
 
 ```mermaid
 flowchart LR
-    A["Fase 1
-    Instituciones"] --> B["Fase 2
-    Primeros contratos"]
-    B --> C["Fase 3
-    Ejecución demostrada"]
-    C --> D["Acceso pleno
-    a capital"]
+    A["Phase 1
+    Institutions"] --> B["Phase 2
+    First Contracts"]
+    B --> C["Phase 3
+    Demonstrated Execution"]
+    C --> D["Full Access
+    to Capital"]
 
     style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
     style B fill:#1B3A5C,stroke:#C49A2A,color:#fff

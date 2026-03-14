@@ -60,6 +60,15 @@ flowchart LR
     E -->|"No"| F["Continúa"]
     E -->|"Sí"| G["Alerta automática<br/>→ Fiscal Nacional<br/>→ Dashboard público<br/>→ Whistleblower notificado"]
     G --> H["Investigación<br/>en 48 horas"]
+
+    style A fill:#0D47A1,color:#fff
+    style B fill:#0D47A1,color:#fff
+    style C fill:#F9A825,color:#000
+    style D fill:#E3F2FD,color:#1B2631
+    style E fill:#F9A825,color:#000
+    style F fill:#00897B,color:#fff
+    style G fill:#C62828,color:#fff
+    style H fill:#C62828,color:#fff
 ```
 
 ### Costo vs. retorno

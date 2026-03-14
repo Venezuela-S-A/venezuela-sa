@@ -5,7 +5,7 @@ title: El Sueño
 
 # El Sueño: Escenario Optimista Integrado
 
-> ¿Qué pasa si todo funciona? Esta sección consolida TODAS las fuentes de ingreso del plan — petróleo a precio favorable, gas natural, turismo, minería, energías, tecnología, startups, estado eficiente — y muestra el escenario donde Venezuela maximiza su potencial.
+> ¿Qué pasa si todo funciona? Esta sección consolida TODAS las fuentes de ingreso del plan — petróleo a precio favorable, gas natural, turismo, minería, energías, tecnología, startups, estado eficiente — y muestra el escenario donde Venezuela maximiza su potencial. El vehículo que hace posible el sueño no es un gobierno — es **Venezuela S.A.**, el holding corporativo de 40 millones de ciudadanos-accionistas que invierte, cobra regalías, administra el fondo soberano y distribuye dividendos. El Estado solo regula.
 
 :::caution Base de datos, no fantasía
 Cada cifra aquí tiene fuente verificable. El escenario optimista no es inventado — es lo que pasa cuando se combinan las proyecciones favorables de cada motor, todas documentadas en sus secciones respectivas. Lo que lo hace "sueño" no son los números, sino que requiere que TODAS las condiciones se cumplan simultáneamente.
@@ -19,10 +19,10 @@ Para que este escenario se materialice, deben cumplirse **todas** estas condicio
 
 | # | Condición | Probabilidad | Dependencia |
 |---|-----------|-------------|-------------|
-| 1 | Transición política pacífica y estado de derecho funcional | Media | Geopolítica |
-| 2 | Brent promedio ≥ USD 70-80/barril durante 15 años | Media-Alta | Mercado global |
-| 3 | Ramp-up de producción petrolera a 2,75-3 M bpd (timeline [Rystad](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/)) | Media | Inversión + infraestructura |
-| 4 | Seguridad jurídica para inversión extranjera | Media | Reforma institucional |
+| 1 | Transición política pacífica y estado de derecho funcional | Alta | Geopolítica (intervención ene. 2026) |
+| 2 | Brent promedio ≥ USD 70-80/barril durante 15 años | Alta | Mercado global (crisis Ormuz) |
+| 3 | Ramp-up de producción petrolera a 2,75-3 M bpd (timeline [Rystad](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/)) | Media-Alta | Inversión + infraestructura (USD 100B comprometidos, 5 majors) |
+| 4 | Seguridad jurídica para inversión extranjera | Media-Alta | Reforma institucional (EE.UU. como garante de facto) |
 | 5 | Formalización del sector minero (hoy 75+ ton oro ilegal/año) | Media-Baja | Seguridad + gobernanza |
 | 6 | Infraestructura eléctrica rehabilitada (Guri + red de transmisión) | Media | Capital + tiempo |
 | 7 | Acuerdos internacionales de gas (Dragon Field + Colombia + LNG) | Alta | Ya firmados parcialmente |
@@ -38,10 +38,10 @@ La tabla anterior lista las condiciones como "Media" o "Alta". Cuantifiquemos.
 
 | # | Condición | P(éxito) | Justificación |
 |---|-----------|----------|---------------|
-| 1 | Transición política pacífica | 40% | Solo 3 de 15 petroestados autoritarios han transitado pacíficamente desde 1990 ([V-Dem Institute, 2024](https://www.v-dem.net/)) |
-| 2 | Brent ≥ USD 70-80 promedio 15 años | 55% | Promedio histórico 2000-2025: ~USD 72/bbl. [EIA STEO](https://www.eia.gov/outlooks/steo/) proyecta USD 65-75 mediano plazo |
-| 3 | Ramp-up a 2,75-3M bpd | 45% | [Rystad Energy](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/) dice posible en 15 años, pero requiere USD 183B y estabilidad |
-| 4 | Seguridad jurídica | 35% | Venezuela ocupa puesto 177/190 en [Rule of Law Index](https://worldjusticeproject.org/rule-of-law-index/) |
+| 1 | Transición política pacífica | 70% | Transición ya ocurrió (intervención ene. 2026). Riesgo residual: consolidación institucional y resistencia interna |
+| 2 | Brent ≥ USD 70-80 promedio 15 años | 75% | Crisis de Ormuz (mar. 2026) elimina ~20% del suministro global. Incluso post-resolución, la disrupción estructural sostiene precios 3-5 años mínimo [Requiere investigación] |
+| 3 | Ramp-up a 2,75-3M bpd | 55% | USD 100B comprometidos por 5 majors (ExxonMobil, Chevron, Shell, TotalEnergies, BP). [Rystad Energy](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/) timeline potencialmente acelerado de 15 a 8-10 años por urgencia geopolítica [Requiere investigación] |
+| 4 | Seguridad jurídica | 50% | EE.UU. como garante de facto; reingreso a ICSID probable como condición de inversión de las 5 majors. Venezuela aún en puesto 177/190 en [Rule of Law Index](https://worldjusticeproject.org/rule-of-law-index/) pero con trayectoria ascendente |
 | 5 | Formalización minera | 25% | Colombia lleva 30+ años intentando formalizar minería ilegal con resultados parciales |
 | 6 | Rehabilitación eléctrica (Guri) | 50% | Infraestructura existe pero requiere USD 5-8B y 5-7 años ([Mongabay, 2023](https://news.mongabay.com/2023/08/hydropower-in-the-pan-amazon-the-guri-complex-and-the-caroni-cascade/)) |
 | 7 | Acuerdos gas (Dragon + LNG) | 65% | [Dragon Field ya firmado](https://venezuelanalysis.com/news/venezuela-signs-30-year-alliance-with-trinidad-to-develop-dragon-gas-field/); LNG depende de sanciones |
@@ -53,9 +53,9 @@ La tabla anterior lista las condiciones como "Media" o "Alta". Cuantifiquemos.
 
 Si las 10 condiciones fueran independientes (simplificación):
 
-**P(todas) = 0.40 × 0.55 × 0.45 × 0.35 × 0.25 × 0.50 × 0.65 × 0.75 × 0.35 × 0.30 ≈ 0.02%**
+**P(todas) = 0.70 × 0.75 × 0.55 × 0.50 × 0.25 × 0.50 × 0.65 × 0.75 × 0.35 × 0.30 ≈ 0.09%**
 
-Eso es ~1 en 5.000. **El Sueño completo es extremadamente improbable.** Y eso está bien — porque no es el plan.
+Eso es ~1 en 1.100. Sigue siendo improbable — pero es **~5x más probable** que antes de la crisis del Medio Oriente (0.02%, 1 en 5.000). Eso demuestra cuánto importa el contexto geopolítico.
 
 ### Los escenarios que importan
 
@@ -71,8 +71,8 @@ Eso es ~1 en 5.000. **El Sueño completo es extremadamente improbable.** Y eso e
 
 ```mermaid
 xychart-beta
-    title "PIB Ano 15 por escenario (USD miles de M)"
-    x-axis ["Minimo viable", "Dificil", "Plan Base", "Muy favorable", "El Sueno"]
+    title "PIB Año 15 por escenario (USD miles de M)"
+    x-axis ["Mínimo viable", "Difícil", "Plan Base", "Muy favorable", "El Sueño"]
     y-axis "USD miles de millones" 0 --> 600
     bar [125, 175, 300, 400, 500]
 ```
@@ -80,6 +80,39 @@ xychart-beta
 :::info El Plan Base es lo que importa
 El Sueño es el techo — el 100% del potencial. Pero el plan se diseña para el **Plan Base** (5-6 condiciones cumplidas): petróleo a USD 60, gas parcial, reforma fiscal gradual, seguridad mejorada. Eso ya triplica el PIB y saca a millones de la pobreza. Todo lo demás es upside.
 :::
+
+---
+
+## Acelerador Geopolítico: Crisis del Medio Oriente (Marzo 2026)
+
+:::info Cómo la crisis de Ormuz cambia el cálculo
+La guerra con Irán y el cierre del Estrecho de Ormuz (marzo 2026) eliminaron ~20% del suministro petrolero global de un día para otro. Venezuela — con las reservas más grandes del mundo y un gobierno post-transición alineado con EE.UU. — pasó de ser un productor marginado a una pieza central de la seguridad energética occidental. Esto no cambia los fundamentos del plan, pero acelera dramáticamente el timeline y el compromiso de inversión.
+:::
+
+| Factor | Antes de Ormuz | Después de Ormuz |
+|--------|---------------|-----------------|
+| Precio del petróleo | USD 65-75/bbl | USD 100-120/bbl |
+| Inversión comprometida | Solo Chevron (~USD 5B) | USD 100B (5 majors) [Requiere investigación] |
+| Timeline a 3M bpd | 15 años (Rystad) | Potencialmente 8-10 años [Requiere investigación] |
+| Relación con EE.UU. | Control unilateral | "New friend and partner" (Trump) [Requiere investigación] |
+| Urgencia geopolítica | Baja | Máxima — EE.UU. necesita cada barril |
+| Probabilidad del Sueño | ~0.02% (1 en 5.000) | ~0.09% (1 en 1.100) |
+
+:::caution El precio base del plan sigue siendo USD 60/barril
+La crisis es un acelerador, no un supuesto. Si Ormuz reabre mañana y el petróleo baja a $70, el plan sigue funcionando. Lo que cambia es la velocidad y el compromiso de inversión. Todo lo que está por encima de USD 60 va al fondo soberano como upside.
+:::
+
+### La ventana de ventanas
+
+Esta es la combinación más favorable que Venezuela ha tenido en su historia moderna — y posiblemente la última antes de que la transición energética cierre la ventana del petróleo:
+
+1. **Gobierno post-transición ya en funciones** — la condición política más difícil ya se cumplió (intervención enero 2026)
+2. **Mayor disrupción de suministro desde los 1970s** — el cierre de Ormuz eliminó ~20 M bpd del mercado, creando urgencia real por suministro alternativo
+3. **USD 100B comprometidos por 5 majors** — ExxonMobil, Chevron, Shell, TotalEnergies y BP autorizadas para operar. No es una promesa; es capital desplegándose [Requiere investigación]
+4. **Voluntad política de EE.UU. al máximo** — el framing de Trump como "new friend and partner" refleja necesidad estratégica, no altruismo [Requiere investigación]
+5. **Rollback de sanciones acelerado por necesidad** — lo que normalmente tomaría años de negociación diplomática se resuelve en semanas cuando cada barril importa
+
+Si el plan no se ejecuta ahora, la ventana se cierra. El petróleo no va a valer más en 2040 — va a valer menos. Cada año de retraso es un año menos de combustible para financiar la transformación.
 
 ---
 
@@ -273,7 +306,7 @@ xychart-beta
 ```mermaid
 xychart-beta
     title "PIB Venezuela — Escenario Optimista vs Base (USD miles de M)"
-    x-axis ["Hoy", "Ano 5", "Ano 10", "Ano 15"]
+    x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
     y-axis "USD miles de millones" 0 --> 600
     bar [83, 180, 350, 550]
     line [83, 140, 250, 425]
@@ -303,7 +336,7 @@ En el escenario optimista, el fondo soberano se alimenta de:
 ```mermaid
 xychart-beta
     title "Fondo Soberano Acumulado — Optimista vs Base (USD miles de M)"
-    x-axis ["Hoy", "Ano 5", "Ano 10", "Ano 15"]
+    x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
     y-axis "USD miles de millones" 0 --> 550
     bar [0, 55, 200, 470]
     line [0, 30, 115, 220]
@@ -335,11 +368,11 @@ xychart-beta
 | Beneficio | Valor anual/persona | Notas |
 |-----------|-------------------|-------|
 | Dividendo directo del fondo | USD 65 | 10% de retornos del fondo |
-| Salud universal financiada | USD 250-400 | Pilar público (4-5% PIB) |
-| Educación pública de calidad | USD 200-350 | Modelo Estonia (4-5% PIB) |
-| Pensión básica universal | USD 120-200 | Pilar 1 contributivo |
+| Salud (FCV Salud: 7% contribución) | USD 250-400 | Cobertura universal. Tramo A/B: sin copago. Tramo C: 10%. Tramo D: 20% |
+| Educación (voucher puntos K-12 + FCV Educación) | USD 200-350 | Voucher sigue al estudiante; +50% para bajos ingresos (SEP). Universidad por mérito |
+| Pensión (FCV Retiro: 8-10%) | USD 120-200 | Pilar 1 universal + Subcuenta Retiro del FCV |
 | Seguridad ciudadana | USD 100-150 | <20 homicidios/100K |
-| Internet 50+ Mbps | USD 50-100 | Estado digital |
+| Internet 50+ Mbps | USD 50-100 | Tarifa de mercado (competencia 5G SA) |
 | **Valor total por ciudadano** | **USD 785-1.265/año** | **vs. USD ~180 hoy** |
 
 ### Calidad de vida Año 15
@@ -423,8 +456,8 @@ Después del año 15, el fondo se acelera por 3 factores:
 
 ```mermaid
 xychart-beta
-    title "Fondo Soberano — Horizonte 35 anos (USD miles de M)"
-    x-axis ["Ano 5", "Ano 10", "Ano 15", "Ano 20", "Ano 25", "Ano 30", "Ano 35"]
+    title "Fondo Soberano — Horizonte 35 años (USD miles de M)"
+    x-axis ["Año 5", "Año 10", "Año 15", "Año 20", "Año 25", "Año 30", "Año 35"]
     y-axis "USD miles de millones" 0 --> 2500
     bar [55, 200, 470, 740, 1130, 1670, 2380]
 ```
@@ -459,14 +492,14 @@ En los primeros 15 años, solo 10% de retornos se distribuyen — el resto se re
 
 #### 3. Pensiones solidarias bajan generacionalmente
 
-El plan implementa un sistema de pensiones tipo [Singapur CPF](https://www.cpf.gov.sg/) (contribución individual obligatoria + retorno compuesto):
+El plan implementa el [Fondo Ciudadano Venezuela (FCV)](/04-gobernanza/modelo-estado#fondo-ciudadano-venezuela-fcv-una-sola-cuenta-cero-burocracia) — cuenta unificada tipo [Singapur CPF](https://www.cpf.gov.sg/) con Subcuenta Retiro (8-10% del salario):
 
-| Generación | Pensión solidaria (Estado paga) | Pensión contributiva (CPF) | Costo fiscal |
+| Generación | Pensión solidaria (Pilar 1, impuestos) | Pensión contributiva (FCV Retiro) | Costo fiscal |
 |-----------|-------------------------------|---------------------------|-------------|
-| **Jubilados actuales** (>60 años, 2027) | 100% solidaria — USD 200-300/mes meta | 0% (nunca contribuyeron) | Alto |
-| **Transición** (40-60 años, 2027) | 50-70% solidaria + 30-50% CPF | Comienzan a contribuir 15-20 años antes de jubilarse | Medio |
-| **Nueva generación** (<40 años, 2027) | 20% solidaria (solo mínimo garantizado) | 80% CPF — contribuyen toda su vida laboral | Bajo |
-| **Generación nativa** (nacidos post-2027) | 5-10% solidaria (red de seguridad extrema) | 90-95% CPF | Mínimo |
+| **Jubilados actuales** (>60 años, 2027) | 100% solidaria — USD 200-300/mes meta | 0% (nunca contribuyeron al FCV) | Alto |
+| **Transición** (40-60 años, 2027) | 50-70% solidaria + 30-50% FCV Retiro | Comienzan a contribuir 15-20 años antes de jubilarse | Medio |
+| **Nueva generación** (<40 años, 2027) | 20% solidaria (solo mínimo garantizado) | 80% FCV Retiro — contribuyen toda su vida laboral | Bajo |
+| **Generación nativa** (nacidos post-2027) | 5-10% solidaria (red de seguridad extrema) | 90-95% FCV Retiro (FCV desde nacimiento) | Mínimo |
 
 **Efecto fiscal:** El costo de pensiones solidarias pasa de ~3% del PIB (años 1-10) a ~0.5% del PIB (año 30+). Ese 2.5% del PIB liberado = USD 15-20B/año → más espacio para dividendos o menos impuestos.
 
@@ -489,8 +522,8 @@ A medida que la economía crece y se formaliza, la base tributaria se amplía. M
 
 ```mermaid
 xychart-beta
-    title "Petroleo como pct de ingresos del fondo"
-    x-axis ["Ano 5", "Ano 10", "Ano 15", "Ano 20", "Ano 25", "Ano 30", "Ano 35"]
+    title "Petróleo como pct de ingresos del fondo"
+    x-axis ["Año 5", "Año 10", "Año 15", "Año 20", "Año 25", "Año 30", "Año 35"]
     y-axis "pct" 0 --> 100
     line [90, 75, 65, 50, 40, 30, 25]
 ```
@@ -511,9 +544,9 @@ A medida que tech, turismo y minería crecen, el fondo depende menos del petról
 
 ```mermaid
 xychart-beta
-    title "Dividendo por persona (USD/ano) — El Sueno extendido"
-    x-axis ["Ano 5", "Ano 10", "Ano 15", "Ano 20", "Ano 25", "Ano 30", "Ano 35"]
-    y-axis "USD por persona por ano" 0 --> 1300
+    title "Dividendo por persona (USD/año) — El Sueño extendido"
+    x-axis ["Año 5", "Año 10", "Año 15", "Año 20", "Año 25", "Año 30", "Año 35"]
+    y-axis "USD por persona por año" 0 --> 1300
     bar [9, 31, 68, 153, 374, 757, 1218]
 ```
 
@@ -522,7 +555,7 @@ xychart-beta
 | Beneficio | USD/persona/año | Notas |
 |-----------|----------------|-------|
 | **Dividendo directo del fondo** | **USD 1.218** | 40% de retornos |
-| Salud universal | USD 400-600 | IA reduce costos, calidad sube |
+| Salud universal (FONASA) | USD 400-600 | IA reduce costos, calidad sube |
 | Educación (K-12 + universidad) | USD 300-500 | Sistema maduro, nivel OCDE |
 | Pensión CPF (para jubilados contribuyentes) | USD 800-1.500/mes | Autofinanciada; no es gasto fiscal |
 | Ahorro fiscal (impuestos más bajos) | USD 500-1.000 | 8% plano vs. 15% original |
@@ -602,8 +635,8 @@ pie title Composición de Ingresos — Año 15 Optimista
 
 ```mermaid
 xychart-beta
-    title "Petroleo como pct de ingresos totales — Reduccion"
-    x-axis ["Hoy", "Ano 3", "Ano 5", "Ano 7", "Ano 10", "Ano 15"]
+    title "Petróleo como pct de ingresos totales — Reducción"
+    x-axis ["Hoy", "Año 3", "Año 5", "Año 7", "Año 10", "Año 15"]
     y-axis "pct de ingresos totales" 0 --> 100
     line [95, 82, 68, 52, 40, 33]
 ```
@@ -636,6 +669,9 @@ Venezuela tiene más habitantes pero también más recursos. El fondo per cápit
 | Data centers eligen otros países | -USD 6.000 M/año | Energía sigue siendo ventaja competitiva |
 | Corrupción captura valor | Fondos desviados | Blockchain + dashboard + whistleblower |
 | Cambio climático reduce hidroeléctrica | Energía más cara | Diversificar con solar + eólica |
+| Hormuz reabre rápido, petróleo baja a $70 | Reduce velocidad, no viabilidad | Contratos con cláusula de estabilidad; USD 100B ya comprometidos |
+| EE.UU. controla petróleo indefinidamente sin transferir | Plan de fondo soberano se retrasa | Condicionar apoyo a cronograma de transferencia a Venezuela S.A. |
+| Dependencia excesiva de EE.UU. | Vulnerabilidad a cambio político en Washington | Diversificar compradores (India, Europa) dentro del marco permitido |
 
 :::info Incluso si falla la mitad
 Si solo se materializan el petróleo (a USD 60), el gas, y la reforma fiscal — sin turismo, sin minería, sin tech — el plan base sigue generando USD 80-100B/año y un fondo de USD 220-325B. El sueño es el upside. El plan base es el floor.
@@ -677,10 +713,10 @@ flowchart LR
 
     Y1 --> Y5 --> Y10 --> Y15
 
-    style Y1 fill:#8B0000,stroke:#C49A2A,color:#fff
-    style Y5 fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style Y10 fill:#2d5016,stroke:#C49A2A,color:#fff
-    style Y15 fill:#C49A2A,stroke:#1B3A5C,color:#fff
+    style Y1 fill:#C62828,color:#fff
+    style Y5 fill:#0D47A1,color:#fff
+    style Y10 fill:#00897B,color:#fff
+    style Y15 fill:#F9A825,color:#000
 ```
 
 ---
@@ -700,6 +736,6 @@ Cada componente individual de este escenario ya existe en otro país:
 | Formalización minera | Perú, Colombia | Industrias reguladas |
 | Revolución agrícola | Brasil | De importador a superpotencia |
 
-**Lo que nadie ha hecho es combinar todo en un solo plan coherente.** Eso es Venezuela S.A.
+**Lo que nadie ha hecho es combinar todo en un solo plan coherente donde los ciudadanos son los dueños del vehículo que ejecuta.** Eso es Venezuela S.A. — no un gobierno que promete, sino un holding corporativo de 40 millones de accionistas que invierte, cobra, administra y distribuye. El Estado solo regula y provee sus 5 funciones. Venezuela S.A. hace negocios en nombre de los ciudadanos.
 
-> *"El sueño no es que Venezuela sea rica — ya lo es debajo del suelo. El sueño es que esa riqueza llegue a los 40 millones de personas que viven encima."*
+> *"El sueño no es que Venezuela sea rica — ya lo es debajo del suelo. El sueño es que esa riqueza llegue a los 40 millones de personas que viven encima — no a través de un gobierno, sino a través de una empresa que les pertenece."*

@@ -16,3 +16,11 @@ title: Education
 | Adult reskilling | 500,000/year in 3-6 month courses + income during retraining | USD 2-3,000 M/year |
 
 **Total education:** USD 15,000-25,000 M over 15 years
+
+:::info Education funding model: Vouchers + FCV
+**K-12:** Universal voucher (points system) funded by taxes. Covers tuition + cafeteria + transport + 1 sport + 1 art/activity. Schools compete as private enterprises. +50% voucher for families below poverty line. See [State Model: Education](/04-gobernanza/modelo-estado#education-universal-voucher--schools-as-autonomous-enterprises).
+
+**University:** Merit-based voucher (escalated loss: 100% -> 75% -> 50% -> 25% -> lose). Health + meals covered during studies. Public universities remain public but self-sustaining (R&D, patents, alliances, spin-offs).
+
+**FCV Education Sub-account:** Workers accumulate 2-3% of salary in the [FCV](/04-gobernanza/modelo-estado#citizen-fund-venezuela-fcv-one-account-zero-bureaucracy) Education Sub-account. Can be used for their own higher education or their children's. Venezuela S.A. also continues contributing USD 120/month to the student's FCV during university years.
+:::

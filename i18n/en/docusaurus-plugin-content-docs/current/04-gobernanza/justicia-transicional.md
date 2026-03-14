@@ -112,14 +112,14 @@ USD 300,000+ M diverted did not disappear — they became properties in Madrid, 
 
 ```mermaid
 flowchart TD
-    A["Sentencia por corrupción<br/>o crímenes contra el Estado"] --> B["Auditoría patrimonial<br/>del condenado"]
-    B --> C["Rastreo de transferencias<br/>a familiares y testaferros"]
-    C --> D{"¿Bienes sin<br/>origen lícito<br/>demostrable?"}
-    D -->|Sí| E["Extinción de dominio<br/>(decomiso sin condena penal<br/>del familiar)"]
-    D -->|No| F["Bienes legítimos<br/>protegidos"]
-    E --> G["Bienes → Fondo de<br/>Reparación a Víctimas"]
+    A["Conviction for corruption<br/>or crimes against the State"] --> B["Asset audit<br/>of the convicted"]
+    B --> C["Tracing transfers<br/>to relatives and nominees"]
+    C --> D{"Assets without<br/>demonstrable<br/>lawful origin?"}
+    D -->|Yes| E["Asset forfeiture<br/>(seizure without criminal<br/>conviction of the relative)"]
+    D -->|No| F["Legitimate assets<br/>protected"]
+    E --> G["Assets → Victim<br/>Reparation Fund"]
 
-    C --> H["Cooperación internacional:<br/>DOJ, Europol, INTERPOL,<br/>oficinas de recuperación<br/>de activos"]
+    C --> H["International cooperation:<br/>DOJ, Europol, INTERPOL,<br/>asset recovery<br/>offices"]
 ```
 
 **Key principles:**
@@ -178,13 +178,13 @@ The entire process is public and searchable in real time:
 
 ```mermaid
 flowchart TD
-    A["Ciudadano tiene información<br/>sobre bienes ocultos, testaferros,<br/>o corrupción no denunciada"] --> B["Denuncia anónima<br/>vía plataforma cifrada"]
-    B --> C["Verificación independiente<br/>(Fiscalía + firma forense)"]
-    C --> D{"¿Información<br/>conduce a<br/>recuperación?"}
-    D -->|Sí| E["Decomiso exitoso"]
-    E --> F["Recompensa: 10-30%<br/>del valor recuperado"]
-    D -->|No verificable| G["Archivo de caso<br/>(puede reactivarse)"]
-    F --> H["Pago al denunciante<br/>(anónimo o público,<br/>a su elección)"]
+    A["Citizen has information<br/>about hidden assets, nominees,<br/>or unreported corruption"] --> B["Anonymous report<br/>via encrypted platform"]
+    B --> C["Independent verification<br/>(Prosecutor + forensic firm)"]
+    C --> D{"Does information<br/>lead to<br/>recovery?"}
+    D -->|Yes| E["Successful seizure"]
+    E --> F["Reward: 10-30%<br/>of recovered value"]
+    D -->|Not verifiable| G["Case archived<br/>(can be reactivated)"]
+    F --> H["Payment to whistleblower<br/>(anonymous or public,<br/>at their choice)"]
 
     style F fill:#4CAF50,color:#fff
 ```
@@ -244,35 +244,35 @@ This system turns every Venezuelan into an auditor. If someone knows that former
 
 ```mermaid
 gantt
-    title Justicia Transicional — Años 1-10
+    title Transitional Justice — Years 1-10
     dateFormat YYYY
     axisFormat %Y
 
-    section Verdad
-    Comisión de Verdad (instalación)        :a1, 2027, 2028
-    Comisión de Verdad (investigación)      :a2, 2028, 2031
-    Informe final + archivo digital         :a3, 2031, 2032
+    section Truth
+    Truth Commission (installation)          :a1, 2027, 2028
+    Truth Commission (investigation)         :a2, 2028, 2031
+    Final report + digital archive           :a3, 2031, 2032
 
-    section Restitución
-    Catastro digital + inventario            :b1, 2027, 2029
-    Tribunal de restitución de propiedad     :b2, 2029, 2035
-    Compensaciones activas                   :b3, 2030, 2037
+    section Restitution
+    Digital cadaster + inventory             :b1, 2027, 2029
+    Property restitution tribunal            :b2, 2029, 2035
+    Active compensations                     :b3, 2030, 2037
 
-    section Justicia Penal
-    Casos ICC (crímenes de lesa humanidad)   :c1, 2027, 2035
-    Corrupción a gran escala                 :c2, 2028, 2033
-    Penas alternativas (mando medio)         :c3, 2029, 2034
+    section Criminal Justice
+    ICC cases (crimes against humanity)      :c1, 2027, 2035
+    Large-scale corruption                   :c2, 2028, 2033
+    Alternative sentences (mid-level)        :c3, 2029, 2034
 
-    section Amnistía
-    Proceso de amnistía condicionada         :d1, 2028, 2032
-    Inhabilitación política (20-30 años)     :d2, 2028, 2057
+    section Amnesty
+    Conditional amnesty process              :d1, 2028, 2032
+    Political disqualification (20-30 yrs)   :d2, 2028, 2057
 
-    section Decomiso
-    Rastreo patrimonial intergeneracional    :e1, 2027, 2077
-    Cooperación DOJ/Europol/INTERPOL        :e2, 2027, 2037
+    section Seizure
+    Intergenerational asset tracing          :e1, 2027, 2077
+    DOJ/Europol/INTERPOL cooperation         :e2, 2027, 2037
 
-    section Transparencia y Denuncia
-    Plataforma de denuncia cifrada           :f1, 2027, 2028
+    section Transparency and Reporting
+    Encrypted whistleblower platform         :f1, 2027, 2028
     Sistema de recompensas operativo         :f2, 2028, 2077
     Dashboard público de justicia            :f3, 2027, 2077
 ```

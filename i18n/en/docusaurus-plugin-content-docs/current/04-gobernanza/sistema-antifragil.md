@@ -87,13 +87,13 @@ No one bids without passing these filters:
 
 ```mermaid
 flowchart TD
-    A["Empresa A licita<br/>Contrato USD 50M"] --> CHECK["🔍 Sistema de detección"]
-    B["Empresa B licita<br/>mismo contrato"] --> CHECK
-    C["Empresa C licita<br/>mismo contrato"] --> CHECK
-    CHECK --> D{"¿Comparten beneficiarios,<br/>dirección, teléfono,<br/>contador, abogado,<br/>o IP de registro?"}
-    D -->|Sí| E["⚠️ Alerta: posible<br/>cartel o empresa única<br/>disfrazada de 3"]
-    D -->|No| F["✅ Licitación limpia"]
-    E --> G["Investigación +<br/>posible exclusión"]
+    A["Company A bids<br/>Contract USD 50M"] --> CHECK["🔍 Detection system"]
+    B["Company B bids<br/>same contract"] --> CHECK
+    C["Company C bids<br/>same contract"] --> CHECK
+    CHECK --> D{"Share beneficiaries,<br/>address, phone,<br/>accountant, lawyer,<br/>or registration IP?"}
+    D -->|Yes| E["⚠️ Alert: possible<br/>cartel or single company<br/>disguised as 3"]
+    D -->|No| F["✅ Clean bid"]
+    E --> G["Investigation +<br/>possible exclusion"]
 ```
 
 **Red flags the system detects automatically:**

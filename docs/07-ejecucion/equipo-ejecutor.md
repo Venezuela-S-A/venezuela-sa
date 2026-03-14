@@ -37,6 +37,17 @@ flowchart TD
 
     ADV["<b>Advisory Council</b><br/>10-15 expertos internacionales"] -.->|"Asesora"| BE
     ADV -.->|"Asesora"| CEO
+
+    style CIT fill:#F9A825,color:#000
+    style AC fill:#F9A825,color:#000
+    style BE fill:#0D47A1,color:#fff
+    style CEO fill:#0D47A1,color:#fff
+    style DP fill:#00897B,color:#fff
+    style DF fill:#00897B,color:#fff
+    style DT fill:#00897B,color:#fff
+    style DCH fill:#00897B,color:#fff
+    style DSL fill:#00897B,color:#fff
+    style ADV fill:#E3F2FD,color:#1B2631
 ```
 
 :::info Relación con el PMO existente
@@ -85,6 +96,12 @@ flowchart LR
     VET --> SHORT["<b>3. Shortlist pública</b><br/>Perfiles publicados<br/>Período de comentarios<br/>ciudadanos (30 días)"]
     SHORT --> APT["<b>4. Designación</b><br/>Voto ciudadano o<br/>aprobación parlamentaria"]
     APT --> REV["<b>5. Revisión anual</b><br/>KPIs públicos<br/>Evaluación 360°<br/>Ciudadanos pueden objetar"]
+
+    style NOM fill:#0D47A1,color:#fff
+    style VET fill:#0D47A1,color:#fff
+    style SHORT fill:#F9A825,color:#000
+    style APT fill:#00897B,color:#fff
+    style REV fill:#00897B,color:#fff
 ```
 
 | Fase | Duración | Responsable | Producto |

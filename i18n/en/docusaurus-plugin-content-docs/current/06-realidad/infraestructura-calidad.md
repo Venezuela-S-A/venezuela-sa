@@ -35,16 +35,16 @@ Data marked [Requires research] reflects estimates based on partial reports and 
 
 ```mermaid
 flowchart TD
-    A["USD 41.500-81.000 M<br/>en infraestructura"] --> B["7 Mecanismos<br/>de Calidad"]
-    B --> C1["1. Concesiones con<br/>penalidades (BOT)"]
-    B --> C2["2. Estandares<br/>internacionales"]
-    B --> C3["3. Supervision<br/>independiente"]
-    B --> C4["4. Pagos por<br/>hitos"]
+    A["USD 41,500-81,000 M<br/>in infrastructure"] --> B["7 Quality<br/>Mechanisms"]
+    B --> C1["1. Concessions with<br/>penalties (BOT)"]
+    B --> C2["2. International<br/>standards"]
+    B --> C3["3. Independent<br/>supervision"]
+    B --> C4["4. Milestone<br/>payments"]
     B --> C5["5. Blacklist +<br/>debarment"]
-    B --> C6["6. Garantias<br/>post-entrega"]
-    B --> C7["7. Transparencia<br/>total"]
+    B --> C6["6. Post-delivery<br/>warranties"]
+    B --> C7["7. Total<br/>transparency"]
 
-    C1 --> D["Infraestructura<br/>de clase mundial"]
+    C1 --> D["World-class<br/>infrastructure"]
     C2 --> D
     C3 --> D
     C4 --> D
@@ -197,25 +197,25 @@ The goal is not just to build well — it's to build **fast AND well**. These ar
 
 ```mermaid
 flowchart LR
-    subgraph Tradicional["Proceso Tradicional (36-48 meses)"]
+    subgraph Traditional["Traditional Process (36-48 months)"]
         direction LR
-        T1["Diseno<br/>12 meses"] --> T2["Permisos<br/>6 meses"]
-        T2 --> T3["Licitacion<br/>4 meses"]
-        T3 --> T4["Construccion<br/>18 meses"]
-        T4 --> T5["Inspeccion<br/>3 meses"]
+        T1["Design<br/>12 months"] --> T2["Permits<br/>6 months"]
+        T2 --> T3["Bidding<br/>4 months"]
+        T3 --> T4["Construction<br/>18 months"]
+        T4 --> T5["Inspection<br/>3 months"]
     end
 
-    subgraph Acelerado["Proceso Acelerado (18-24 meses)"]
+    subgraph Accelerated["Accelerated Process (18-24 months)"]
         direction LR
-        A1["Diseno + BIM<br/>6 meses"] --> A2["Construccion<br/>modular"]
-        A1 --> A3["Permisos<br/>paralelos"]
-        A2 --> A4["Ensamblaje<br/>en sitio<br/>10 meses"]
+        A1["Design + BIM<br/>6 months"] --> A2["Modular<br/>construction"]
+        A1 --> A3["Parallel<br/>permits"]
+        A2 --> A4["On-site<br/>assembly<br/>10 months"]
         A3 --> A4
-        A4 --> A5["Inspeccion<br/>continua"]
+        A4 --> A5["Continuous<br/>inspection"]
     end
 
-    style Tradicional fill:#ffcccc
-    style Acelerado fill:#ccffcc
+    style Traditional fill:#ffcccc
+    style Accelerated fill:#ccffcc
 ```
 
 | Technique | Time savings | How it works | Model |

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Plan de reconstrucción nacional donde cada venezolano es accionista. Petróleo como combustible, tecnología como destino.",
   "scripts": {
+    "postinstall": "patch-package",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "deploy": "docusaurus deploy"
@@ -34,5 +35,8 @@
     "prism-react-renderer": "^2.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "patch-package": "^8.0.1"
   }
 }

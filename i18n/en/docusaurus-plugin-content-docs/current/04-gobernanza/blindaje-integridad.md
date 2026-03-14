@@ -40,14 +40,14 @@ The CLAP system (Local Supply and Production Committees) was presented as a soci
 
 ```mermaid
 flowchart TD
-    A["Producto en mercado internacional<br/>Caja de alimentos: USD 5-8"] --> B["Intermediario 'autorizado'<br/>(empresa conectada políticamente)"]
-    B --> C["Marca con sobreprecio<br/>USD 20-60 por caja"]
-    C --> D["Estado venezolano compra<br/>con fondos públicos"]
-    D --> E["Distribución vía CLAP<br/>(control social + clientelismo)"]
-    E --> F["Ciudadano recibe caja<br/>cada 1-3 meses (insuficiente)"]
+    A["Product on international market<br/>Food box: USD 5-8"] --> B["'Authorized' intermediary<br/>(politically connected company)"]
+    B --> C["Marked up price<br/>USD 20-60 per box"]
+    C --> D["Venezuelan State buys<br/>with public funds"]
+    D --> E["Distribution via CLAP<br/>(social control + clientelism)"]
+    E --> F["Citizen receives box<br/>every 1-3 months (insufficient)"]
 
-    B --> G["Comisión 15-40%<br/>a funcionarios"]
-    G --> H["Lavado vía offshore<br/>(Panamá, Dubái, Turquía)"]
+    B --> G["15-40% commission<br/>to officials"]
+    G --> H["Laundered via offshore<br/>(Panama, Dubai, Turkey)"]
 
     style G fill:#ff6b6b
     style H fill:#ff6b6b
@@ -276,12 +276,12 @@ When you block one corruption channel, money migrates to a less visible one. Exa
 
 ```mermaid
 flowchart LR
-    A["Sin seguridad territorial"] --> B["No hay inspectores<br/>ni auditoría in situ"]
-    B --> C["Controles anti-corrupción<br/>son teóricos"]
-    C --> D["Corrupción prospera<br/>en zonas sin control"]
-    D --> E["Ingresos se desvían"]
-    E --> F["Sin ingresos,<br/>no hay servicios"]
-    F --> G["Sin servicios,<br/>no hay legitimidad"]
+    A["No territorial security"] --> B["No inspectors<br/>or on-site auditing"]
+    B --> C["Anti-corruption controls<br/>are theoretical"]
+    C --> D["Corruption thrives<br/>in uncontrolled zones"]
+    D --> E["Revenue is diverted"]
+    E --> F["Without revenue,<br/>no services"]
+    F --> G["Without services,<br/>no legitimacy"]
     G --> A
 ```
 
@@ -319,12 +319,12 @@ Certificación falsa  ·    ·    ·    ·     ·    ●●   ·    ·    ·    
 
 ```mermaid
 flowchart TB
-    A["Capa 1: Prevención<br/>Pre-calificación, registros, filtros"] --> B["Capa 2: Transparencia<br/>Dashboard público, precios abiertos, blockchain"]
-    B --> C["Capa 3: Detección<br/>IA anti-colusión, auditoría proactiva, patrones"]
-    C --> D["Capa 4: Denuncia<br/>Whistleblower 10-30%, canales por contrato"]
-    D --> E["Capa 5: Investigación<br/>Fiscal del Fondo, auditoría Big 4, forense"]
-    E --> F["Capa 6: Sanción<br/>Penas 15-30 años, decomiso 3 generaciones, debarment"]
-    F --> G["Capa 7: Retroalimentación<br/>Actualización de patrones, aprendizaje institucional"]
+    A["Layer 1: Prevention<br/>Pre-qualification, registries, filters"] --> B["Layer 2: Transparency<br/>Public dashboard, open prices, blockchain"]
+    B --> C["Layer 3: Detection<br/>Anti-collusion AI, proactive audit, patterns"]
+    C --> D["Layer 4: Reporting<br/>Whistleblower 10-30%, per-contract channels"]
+    D --> E["Layer 5: Investigation<br/>Fund Prosecutor, Big 4 audit, forensics"]
+    E --> F["Layer 6: Sanction<br/>15-30 year sentences, 3-generation seizure, debarment"]
+    F --> G["Layer 7: Feedback<br/>Pattern updates, institutional learning"]
     G --> A
 ```
 
@@ -391,10 +391,10 @@ CLAP was not an exception — it was the rule. **Every social program, public co
 
 ```mermaid
 flowchart TD
-    A["Capa 1: Identidad Digital<br/>Biometría + blockchain = cada ciudadano<br/>es verificable sin intermediario"] --> B["Capa 2: Pagos Directos<br/>Billetera digital + smart contracts =<br/>dinero llega sin manos intermedias"]
-    B --> C["Capa 3: Procurement Abierto<br/>ProZorro-style = cualquier proveedor<br/>calificado compite en transparencia"]
-    C --> D["Capa 4: Verificación Automática<br/>Drones + satélites + IA = verificación<br/>sin inspector corruptible"]
-    D --> E["Capa 5: Auditoría en Tiempo Real<br/>Dashboard público + IA anti-colusión =<br/>anomalías detectadas en horas, no años"]
+    A["Layer 1: Digital Identity<br/>Biometrics + blockchain = each citizen<br/>is verifiable without intermediary"] --> B["Layer 2: Direct Payments<br/>Digital wallet + smart contracts =<br/>money arrives without middlemen"]
+    B --> C["Layer 3: Open Procurement<br/>ProZorro-style = any qualified supplier<br/>competes in transparency"]
+    C --> D["Layer 4: Automatic Verification<br/>Drones + satellites + AI = verification<br/>without corruptible inspectors"]
+    D --> E["Layer 5: Real-Time Audit<br/>Public dashboard + anti-collusion AI =<br/>anomalies detected in hours, not years"]
 
     style A fill:#1B3A5C,color:#fff
     style B fill:#1B3A5C,color:#fff

@@ -34,11 +34,11 @@ flowchart LR
     C --> D["📈 Diversified Economy<br/>Oil: 95% → <35%"]
     D --> E["🏦 Sovereign Fund<br/>+ Citizen Dividends"]
 
-    style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style B fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style C fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style D fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style E fill:#C49A2A,stroke:#1B3A5C,color:#fff
+    style A fill:#0D47A1,color:#fff
+    style B fill:#0D47A1,color:#fff
+    style C fill:#0D47A1,color:#fff
+    style D fill:#00897B,color:#fff
+    style E fill:#F9A825,color:#000
 ```
 
 **Oil is the fuel. Technology is the destination.**

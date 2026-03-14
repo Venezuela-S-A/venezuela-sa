@@ -140,10 +140,10 @@ flowchart LR
 
     Y1 --> Y5 --> Y10 --> Y15
 
-    style Y1 fill:#8B0000,stroke:#C49A2A,color:#fff
-    style Y5 fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style Y10 fill:#2d5016,stroke:#C49A2A,color:#fff
-    style Y15 fill:#C49A2A,stroke:#1B3A5C,color:#fff
+    style Y1 fill:#C62828,color:#fff
+    style Y5 fill:#0D47A1,color:#fff
+    style Y10 fill:#00897B,color:#fff
+    style Y15 fill:#F9A825,color:#000
 ```
 
 **Endgame:** Venezuela becomes a tech-powered, diversified economy. Oil <35% of GDP. Every citizen receives dividends from a $250-400B sovereign fund. The state operates on moderate taxes, not oil. The country is the cheapest clean energy provider in the Americas.

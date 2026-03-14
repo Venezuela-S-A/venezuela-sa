@@ -118,9 +118,9 @@ Spending USD 183B in 15 years requires ~12B/year in oil projects + infrastructur
 
 ```mermaid
 xychart-beta
-    title "PIB Ano 15 por escenario de riesgo (USD miles de M)"
-    x-axis ["Catastrofico", "Adverso", "Plan Base", "Favorable", "El Sueno"]
-    y-axis "USD miles de millones" 0 --> 600
+    title "GDP Year 15 by Risk Scenario (USD billions)"
+    x-axis ["Catastrophic", "Adverse", "Base Plan", "Favorable", "The Dream"]
+    y-axis "USD billions" 0 --> 600
     bar [90, 175, 300, 400, 500]
 ```
 
@@ -138,13 +138,13 @@ Risks are not independent. A failure in one dimension amplifies others. These 3 
 
 ```mermaid
 flowchart LR
-    A[Transición política<br>no ocurre o es parcial] --> B[Sanciones se<br>mantienen/endurecen]
-    B --> C[Inversión extranjera<br>no llega]
-    C --> D[Petróleo estancado<br>en 1M bpd]
-    D --> E[Fondo soberano<br>no se capitaliza]
-    E --> F[No hay dividendo<br>ni servicios]
-    F --> G[Emigración<br>se acelera]
-    G --> H[Capital humano<br>se deteriora más]
+    A[Political transition<br>does not occur or is partial] --> B[Sanctions<br>maintained/tightened]
+    B --> C[Foreign investment<br>does not arrive]
+    C --> D[Oil stagnant<br>at 1M bpd]
+    D --> E[Sovereign fund<br>not capitalized]
+    E --> F[No dividends<br>or services]
+    F --> G[Emigration<br>accelerates]
+    G --> H[Human capital<br>deteriorates further]
 ```
 
 | Stage | Probability | Impact on GDP Year 15 | Ref. |
@@ -158,12 +158,12 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A[Precio petróleo<br>cae a USD 40] --> B[Ingresos caen<br>USD 15-20B/año]
-    B --> C[Estado no puede<br>financiar transición]
-    C --> D[Reformas se<br>detienen]
-    D --> E[Dutch Disease<br>sin defensas]
-    E --> F[Sector no petrolero<br>no despega]
-    F --> G[Dependencia<br>petrolera persiste]
+    A[Oil price<br>falls to USD 40] --> B[Revenue drops<br>USD 15-20B/year]
+    B --> C[State cannot<br>finance transition]
+    C --> D[Reforms<br>stall]
+    D --> E[Dutch Disease<br>without defenses]
+    E --> F[Non-oil sector<br>does not take off]
+    F --> G[Oil dependency<br>persists]
     G --> A
 ```
 
@@ -180,12 +180,12 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A[Gobierno populista<br>captura instituciones] --> B[Board del fondo<br>reemplazado por aliados]
-    B --> C[Regla de gasto<br>se modifica]
-    C --> D[Fondo se gasta<br>en gasto corriente]
-    D --> E[No hay compuesto<br>ni crecimiento]
-    E --> F[FONDEN 2.0:<br>USD 300B+ desaparecen]
-    F --> G[Ciclo de pobreza<br>se repite]
+    A[Populist government<br>captures institutions] --> B[Fund board<br>replaced by allies]
+    B --> C[Spending rule<br>modified]
+    C --> D[Fund spent<br>on current spending]
+    D --> E[No compounding<br>or growth]
+    E --> F[FONDEN 2.0:<br>USD 300B+ disappear]
+    F --> G[Poverty cycle<br>repeats]
 ```
 
 | Stage | Probability | Impact | Ref. |
@@ -254,16 +254,16 @@ If oil loses value, Venezuela must pivot its **energy assets** (not just oil ass
 
 ```mermaid
 flowchart LR
-    A["Petróleo pierde valor<br/>USD 20-25/barril"] --> B{"¿Venezuela tiene<br/>alternativas energéticas?"}
-    B -->|"SÍ — 18GW hidro"| C["Compute/IA:<br/>USD 5-15B/año"]
-    B -->|"SÍ — 150 TCF gas"| D["LNG + H2 verde:<br/>USD 8-12B/año"]
-    B -->|"SÍ — ubicación"| E["Data centers:<br/>USD 3-8B/año"]
-    B -->|"SÍ — sol/viento"| F["Solar farms:<br/>USD 2-5B/año"]
-    C --> G["Total post-petróleo:<br/>USD 18-40B/año"]
+    A["Oil loses value<br/>USD 20-25/barrel"] --> B{"Does Venezuela have<br/>energy alternatives?"}
+    B -->|"YES — 18GW hydro"| C["Compute/AI:<br/>USD 5-15B/year"]
+    B -->|"YES — 150 TCF gas"| D["LNG + green H2:<br/>USD 8-12B/year"]
+    B -->|"YES — location"| E["Data centers:<br/>USD 3-8B/year"]
+    B -->|"YES — sun/wind"| F["Solar farms:<br/>USD 2-5B/year"]
+    C --> G["Total post-oil:<br/>USD 18-40B/year"]
     D --> G
     E --> G
     F --> G
-    G --> H["No reemplaza USD 44B<br/>pero sostiene el país"]
+    G --> H["Does not replace USD 44B<br/>but sustains the country"]
 ```
 
 ### Accelerated Diversification Timeline

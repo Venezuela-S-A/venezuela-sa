@@ -13,9 +13,9 @@ title: TAM / SAM / SOM
 
 ```mermaid
 flowchart TB
-    TAM["<b>TAM — USD 3.5T/year</b><br/>Mercado global: petróleo + gas + data centers +<br/>turismo LATAM + agroindustria + renovables"]
-    SAM["<b>SAM — USD 200-350B/year</b><br/>Mercado accesible: producción 3M bpd +<br/>LATAM DC + Caribe turismo + gas regional"]
-    SOM["<b>SOM — USD 80-120B/year</b><br/>Realista año 15: 2.75M bpd + 5% LATAM DC +<br/>5M turistas + Dragon Field + agro"]
+    TAM["<b>TAM — USD 3.5T/year</b><br/>Global market: oil + gas + data centers +<br/>LATAM tourism + agroindustry + renewables"]
+    SAM["<b>SAM — USD 200-350B/year</b><br/>Addressable market: 3M bpd production +<br/>LATAM DC + Caribbean tourism + regional gas"]
+    SOM["<b>SOM — USD 80-120B/year</b><br/>Realistic year 15: 2.75M bpd + 5% LATAM DC +<br/>5M tourists + Dragon Field + agro"]
 
     TAM --> SAM --> SOM
 
@@ -65,9 +65,9 @@ What is realistically capturable by year 15, with plan execution.
 
 ```mermaid
 xychart-beta
-    title "SOM — Ingresos anuales realistas Año 15 (USD miles de M)"
-    x-axis ["Petróleo", "Impuestos", "Fondo Sob.", "Turismo", "Tech/DC", "Gas", "Petroquím.", "Agro", "Renov."]
-    y-axis "USD miles de millones" 0 --> 55
+    title "SOM — Realistic Annual Revenue Year 15 (USD billions)"
+    x-axis ["Oil", "Taxes", "Sov. Fund", "Tourism", "Tech/DC", "Gas", "Petrochem.", "Agro", "Renew."]
+    y-axis "USD billions" 0 --> 55
     bar [47, 20, 13, 6, 5, 4, 4.5, 3.5, 0.75]
 ```
 
@@ -90,9 +90,9 @@ xychart-beta
 
 ```mermaid
 xychart-beta
-    title "Evolución del SOM (USD miles de M/año)"
-    x-axis ["Hoy", "Año 3", "Año 5", "Año 7", "Año 10", "Año 15"]
-    y-axis "USD miles de millones" 0 --> 125
+    title "SOM Evolution (USD billions/year)"
+    x-axis ["Today", "Year 3", "Year 5", "Year 7", "Year 10", "Year 15"]
+    y-axis "USD billions" 0 --> 125
     bar [15, 30, 50, 65, 85, 107]
     line [15, 30, 50, 65, 85, 107]
 ```

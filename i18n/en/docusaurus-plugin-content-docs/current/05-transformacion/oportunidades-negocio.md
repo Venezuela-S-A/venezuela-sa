@@ -201,7 +201,7 @@ Venezuela produces [40% of the world's fine cacao](https://www.icco.org/). A **N
 ## Opportunity Map by Plan Investment
 
 ```mermaid
-pie title Oportunidades por sector (estimado de mercado interno, USD M/año)
+pie title Opportunities by Sector (domestic market estimate, USD M/year)
     "HealthTech" : 500
     "EdTech" : 400
     "FinTech" : 300
@@ -218,31 +218,31 @@ pie title Oportunidades por sector (estimado de mercado interno, USD M/año)
 
 ```mermaid
 gantt
-    title Ventana de oportunidad por sector
+    title Opportunity Window by Sector
     dateFormat YYYY
     axisFormat %Y
-    section Inmediato (Año 1-3)
-    Generadores hospitalarios      :2027, 2030
-    Billetera digital              :2027, 2030
-    Remesas fintech                :2027, 2029
+    section Immediate (Year 1-3)
+    Hospital generators            :2027, 2030
+    Digital wallet                 :2027, 2030
+    Remittances fintech            :2027, 2029
     Last-mile delivery             :2027, 2030
-    Educacion financiera           :2027, 2030
-    section Corto plazo (Año 2-5)
-    Telemedicina rural             :2028, 2032
-    Ingles masivo con IA           :2028, 2033
-    Reskilling vocacional          :2028, 2033
-    Solar residencial              :2028, 2032
-    Catastro digital               :2029, 2033
-    section Medio plazo (Año 3-8)
-    Cacao trazabilidad             :2029, 2035
-    Vivienda modular               :2029, 2037
+    Financial education            :2027, 2030
+    section Short term (Year 2-5)
+    Rural telemedicine             :2028, 2032
+    Massive English with AI        :2028, 2033
+    Vocational reskilling          :2028, 2033
+    Residential solar              :2028, 2032
+    Digital cadastre               :2029, 2033
+    section Medium term (Year 3-8)
+    Cacao traceability             :2029, 2035
+    Modular housing                :2029, 2037
     Booking Venezuela              :2030, 2035
-    Agricultura precision          :2030, 2035
+    Precision agriculture          :2030, 2035
     SOC-as-a-Service               :2030, 2034
-    section Largo plazo (Año 5-15)
-    Universidad virtual            :2032, 2042
+    section Long term (Year 5-15)
+    Virtual university             :2032, 2042
     EV charging                    :2032, 2040
-    Centro financiero digital      :2033, 2042
+    Digital financial center       :2033, 2042
 ```
 
 ## How to Get Started

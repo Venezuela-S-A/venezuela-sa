@@ -118,8 +118,8 @@ Gastar USD 183.000 M en 15 años requiere ~12.000 M/año en proyectos petroleros
 
 ```mermaid
 xychart-beta
-    title "PIB Ano 15 por escenario de riesgo (USD miles de M)"
-    x-axis ["Catastrofico", "Adverso", "Plan Base", "Favorable", "El Sueno"]
+    title "PIB Año 15 por escenario de riesgo (USD miles de M)"
+    x-axis ["Catastrófico", "Adverso", "Plan Base", "Favorable", "El Sueño"]
     y-axis "USD miles de millones" 0 --> 600
     bar [90, 175, 300, 400, 500]
 ```
@@ -145,6 +145,15 @@ flowchart LR
     E --> F[No hay dividendo<br>ni servicios]
     F --> G[Emigración<br>se acelera]
     G --> H[Capital humano<br>se deteriora más]
+
+    style A fill:#C62828,color:#fff
+    style B fill:#C62828,color:#fff
+    style C fill:#C62828,color:#fff
+    style D fill:#C62828,color:#fff
+    style E fill:#C62828,color:#fff
+    style F fill:#C62828,color:#fff
+    style G fill:#C62828,color:#fff
+    style H fill:#C62828,color:#fff
 ```
 
 | Etapa | Probabilidad | Impacto en PIB año 15 | Ref. |
@@ -165,6 +174,14 @@ flowchart LR
     E --> F[Sector no petrolero<br>no despega]
     F --> G[Dependencia<br>petrolera persiste]
     G --> A
+
+    style A fill:#F9A825,color:#000
+    style B fill:#C62828,color:#fff
+    style C fill:#C62828,color:#fff
+    style D fill:#C62828,color:#fff
+    style E fill:#C62828,color:#fff
+    style F fill:#C62828,color:#fff
+    style G fill:#C62828,color:#fff
 ```
 
 | Etapa | Probabilidad | Impacto | Ref. |
@@ -186,6 +203,14 @@ flowchart LR
     D --> E[No hay compuesto<br>ni crecimiento]
     E --> F[FONDEN 2.0:<br>USD 300B+ desaparecen]
     F --> G[Ciclo de pobreza<br>se repite]
+
+    style A fill:#0D47A1,color:#fff
+    style B fill:#C62828,color:#fff
+    style C fill:#C62828,color:#fff
+    style D fill:#C62828,color:#fff
+    style E fill:#C62828,color:#fff
+    style F fill:#C62828,color:#fff
+    style G fill:#C62828,color:#fff
 ```
 
 | Etapa | Probabilidad | Impacto | Ref. |
@@ -264,6 +289,15 @@ flowchart LR
     E --> G
     F --> G
     G --> H["No reemplaza USD 44B<br/>pero sostiene el país"]
+
+    style A fill:#C62828,color:#fff
+    style B fill:#F9A825,color:#000
+    style C fill:#00897B,color:#fff
+    style D fill:#00897B,color:#fff
+    style E fill:#00897B,color:#fff
+    style F fill:#00897B,color:#fff
+    style G fill:#0D47A1,color:#fff
+    style H fill:#E3F2FD,color:#1B2631
 ```
 
 ### Timeline de diversificación acelerada

@@ -47,10 +47,10 @@ Today, **100% of oil revenues** are consumed in the budget. **0% goes to the sov
 
 ```mermaid
 flowchart LR
-    A["Año 1<br/>100% → Presupuesto<br/>0% → Fondo"] --> B["Año 3<br/>80% → Presupuesto<br/>20% → Fondo"]
-    B --> C["Año 7<br/>60% → Presupuesto<br/>40% → Fondo"]
-    C --> D["Año 12<br/>30% → Presupuesto<br/>70% → Fondo"]
-    D --> E["Año 15+<br/>Regla Noruega<br/>100% al Fondo<br/>Retiro 3-4%"]
+    A["Year 1<br/>100% → Budget<br/>0% → Fund"] --> B["Year 3<br/>80% → Budget<br/>20% → Fund"]
+    B --> C["Year 7<br/>60% → Budget<br/>40% → Fund"]
+    C --> D["Year 12<br/>30% → Budget<br/>70% → Fund"]
+    D --> E["Year 15+<br/>Norway Rule<br/>100% to Fund<br/>3-4% Withdrawal"]
     style A fill:#d32f2f,color:#fff
     style B fill:#e65100,color:#fff
     style C fill:#f9a825,color:#000
@@ -150,18 +150,18 @@ Risk #1 is a future government saying "the emergency justifies spending the fund
 
 ```mermaid
 xychart-beta
-    title "Transición Fiscal: % de ingreso petrolero al fondo vs. presupuesto"
-    x-axis ["Año 1", "Año 3", "Año 5", "Año 7", "Año 10", "Año 15"]
-    y-axis "Porcentaje" 0 --> 100
+    title "Fiscal Transition: % of Oil Revenue to Fund vs. Budget"
+    x-axis ["Year 1", "Year 3", "Year 5", "Year 7", "Year 10", "Year 15"]
+    y-axis "Percentage" 0 --> 100
     bar [0, 20, 40, 40, 65, 100]
     line [100, 80, 60, 60, 35, 0]
 ```
 
 ```mermaid
 xychart-beta
-    title "Fondo acumulado vs. presupuesto petrolero (USD miles de M)"
-    x-axis ["Año 1", "Año 3", "Año 5", "Año 7", "Año 10", "Año 15"]
-    y-axis "USD miles de millones" 0 --> 310
+    title "Accumulated Fund vs. Oil Budget (USD billions)"
+    x-axis ["Year 1", "Year 3", "Year 5", "Year 7", "Year 10", "Year 15"]
+    y-axis "USD billions" 0 --> 310
     bar [0, 7, 30, 65, 130, 300]
     line [14, 14.4, 13.2, 15.6, 10.5, 0]
 ```

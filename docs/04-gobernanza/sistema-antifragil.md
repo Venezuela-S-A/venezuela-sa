@@ -94,6 +94,15 @@ flowchart TD
     D -->|Sí| E["⚠️ Alerta: posible<br/>cartel o empresa única<br/>disfrazada de 3"]
     D -->|No| F["✅ Licitación limpia"]
     E --> G["Investigación +<br/>posible exclusión"]
+
+    style A fill:#E3F2FD,color:#1B2631
+    style B fill:#E3F2FD,color:#1B2631
+    style C fill:#E3F2FD,color:#1B2631
+    style CHECK fill:#0D47A1,color:#fff
+    style D fill:#F9A825,color:#000
+    style E fill:#C62828,color:#fff
+    style F fill:#00897B,color:#fff
+    style G fill:#C62828,color:#fff
 ```
 
 **Señales de alerta que el sistema detecta automáticamente:**

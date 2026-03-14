@@ -13,9 +13,9 @@ title: Pitch Deck
 
 ```mermaid
 xychart-beta
-    title "Colapso de Venezuela vs. LATAM"
-    x-axis ["PIB/cápita", "Producción bpd", "Pobreza %", "Criminalidad"]
-    y-axis "Índice (100 = promedio LATAM)" 0 --> 200
+    title "Venezuela Collapse vs. LATAM"
+    x-axis ["GDP/capita", "Production bpd", "Poverty %", "Crime"]
+    y-axis "Index (100 = LATAM average)" 0 --> 200
     bar [25, 33, 180, 200]
 ```
 
@@ -50,9 +50,9 @@ xychart-beta
 
 ```mermaid
 flowchart LR
-    A["🛢️ PETRÓLEO<br/>Combustible"] --> B["⚡ ENERGÍA BARATA<br/>Ventaja competitiva"]
-    B --> C["💻 TECH<br/>Destino"]
-    C --> D["🏦 FONDO SOBERANO<br/>Riqueza permanente"]
+    A["🛢️ OIL<br/>Fuel"] --> B["⚡ CHEAP ENERGY<br/>Competitive advantage"]
+    B --> C["💻 TECH<br/>Destination"]
+    C --> D["🏦 SOVEREIGN FUND<br/>Permanent wealth"]
 
     style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
     style B fill:#1B3A5C,stroke:#C49A2A,color:#fff
@@ -109,9 +109,9 @@ Oil generates revenue. Hydro generates cheap electricity. BigTech comes for the 
 
 ```mermaid
 xychart-beta
-    title "TAM → SAM → SOM (USD miles de M/año)"
-    x-axis ["TAM", "SAM", "SOM Año 15"]
-    y-axis "USD miles de millones" 0 --> 500
+    title "TAM → SAM → SOM (USD billions/year)"
+    x-axis ["TAM", "SAM", "SOM Year 15"]
+    y-axis "USD billions" 0 --> 500
     bar [3500, 275, 107]
 ```
 
@@ -127,9 +127,9 @@ xychart-beta
 
 ```mermaid
 xychart-beta
-    title "PIB y Fondo Soberano (USD miles de M)"
-    x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
-    y-axis "USD miles de millones" 0 --> 500
+    title "GDP and Sovereign Fund (USD billions)"
+    x-axis ["Today", "Year 5", "Year 10", "Year 15"]
+    y-axis "USD billions" 0 --> 500
     bar [83, 140, 250, 425]
     line [0, 30, 115, 325]
 ```

@@ -9,9 +9,9 @@ title: Pensions and Social Security
 
 ```mermaid
 xychart-beta
-    title "Pensión mensual: Venezuela vs. región (USD)"
-    x-axis ["Venezuela actual", "Colombia", "Perú", "Chile (PGU)", "Uruguay", "Venezuela meta Año 8"]
-    y-axis "USD/mes" 0 --> 360
+    title "Monthly Pension: Venezuela vs. Region (USD)"
+    x-axis ["Venezuela current", "Colombia", "Peru", "Chile (PGU)", "Uruguay", "Venezuela target Year 8"]
+    y-axis "USD/month" 0 --> 360
     bar [35, 110, 85, 200, 350, 200]
 ```
 
@@ -32,16 +32,20 @@ Venezuela's minimum wage has been frozen at 130 bolivares since March 2022. Pens
 In May 2024, the government enacted the ["Law for the Protection of Social Security Pensions"](https://central-law.com/en/venezuela-law-on-the-protection-of-social-security-pensions/), which establishes a tax of up to **15% on private sector payroll** to finance pensions. A solution that punishes formal employment instead of capitalizing the system.
 :::
 
-## Proposal: Mixed System (Pay-As-You-Go + Capitalization)
+## Proposal: FCV Retirement Sub-account + Universal Pension
+
+:::info Pensions are NOT a separate system
+The pension is the **Retirement Sub-account of the Citizen Fund Venezuela (FCV)**, which also covers health, housing, and education in a single personal account. Managed by an **autonomous public entity** ([Singapore CPF Board](https://www.cpf.gov.sg/)-type), NOT by private AFPs. See [State Model: FCV](/04-gobernanza/modelo-estado#citizen-fund-venezuela-fcv-one-account-zero-bureaucracy).
+:::
 
 | Component | Description | Model |
 |-----------|-------------|-------|
-| **Pillar 1: Universal basic pension** | USD 100–200/month for EVERY retiree (funded by budget + sovereign fund) | [Alaska PFD](https://pfd.alaska.gov/) + Chile Universal Guaranteed Pension |
-| **Pillar 2: Mandatory contribution** | 10% of salary to individual account (employer 6% + worker 4%) | Chile reformed AFP / Uruguay AFAP |
-| **Pillar 3: Voluntary savings** | Tax incentives for additional savings | U.S. 401(k) / Colombia voluntary fund |
+| **Pillar 1: Universal basic pension** | USD 100–200/month for EVERY retiree (funded by taxes + sovereign fund returns) | [Alaska PFD](https://pfd.alaska.gov/) + Chile Universal Guaranteed Pension |
+| **Pillar 2: FCV Retirement Sub-account** | 8% of salary → 10% at maturity. Individual account within the FCV, managed by autonomous CPF Board-type entity. Part of the total 21% FCV (10% worker + 11% employer) | [Singapore CPF Special Account](https://www.cpf.gov.sg/) |
+| **Pillar 3: Voluntary savings** | Tax incentives for additional savings beyond the FCV | U.S. 401(k) / Colombia voluntary fund |
 | **Pillar 4: Citizen dividend** | Sovereign fund supplement (USD 125–200/year to everyone) | See [Citizen Investment](/03-ciudadanos/inversion-ciudadana) |
 
-### Pillar 1 Financing (Basic Pension)
+### Pillar 1 Financing (Basic Pension — from taxes, NOT from FCV)
 
 | Scenario | Annual cost | Financing |
 |----------|------------|-----------|
@@ -53,9 +57,9 @@ In May 2024, the government enacted the ["Law for the Protection of Social Secur
 
 ```mermaid
 xychart-beta
-    title "Pensión básica universal — Transición (USD/mes)"
-    x-axis ["Hoy", "Mes 1", "Año 1-3", "Año 4-7", "Año 8+"]
-    y-axis "USD/mes" 0 --> 220
+    title "Universal Basic Pension — Transition (USD/month)"
+    x-axis ["Today", "Month 1", "Year 1-3", "Year 4-7", "Year 8+"]
+    y-axis "USD/month" 0 --> 220
     bar [35, 50, 100, 150, 200]
 ```
 
@@ -65,6 +69,23 @@ xychart-beta
 | Stabilization | USD 100/month | Budget | Year 1–3 |
 | Growth | USD 150/month | Budget + fund returns | Year 4–7 |
 | Maturity | USD 200+/month + citizen dividend | Sovereign fund returns | Year 8+ |
+
+### Generational Transition: Solidarity Decreases Over Time
+
+The FCV implements a [Singapore CPF](https://www.cpf.gov.sg/)-model pension system (mandatory individual contribution + compound returns):
+
+| Generation | Solidarity Pension (State pays) | Contributory Pension (FCV) | Fiscal Cost |
+|-----------|-------------------------------|---------------------------|-------------|
+| **Current retirees** (>60 years, 2027) | 100% solidarity — USD 200-300/month target | 0% (never contributed) | High |
+| **Transition** (40-60 years, 2027) | 50-70% solidarity + 30-50% FCV | Begin contributing 15-20 years before retirement | Medium |
+| **New generation** (<40 years, 2027) | 20% solidarity (guaranteed minimum only) | 80% FCV — contribute throughout working life | Low |
+| **Native generation** (born post-2027) | 5-10% solidarity (extreme safety net) | 90-95% FCV | Minimal |
+
+**Fiscal effect:** The cost of solidarity pensions goes from ~3% of GDP (years 1-10) to ~0.5% of GDP (year 30+). That freed 2.5% of GDP = USD 15-20B/year -> more room for dividends or lower taxes.
+
+### FCV Lifecycle Example: Minimum Wage Worker
+
+A worker on minimum wage who contributes to the FCV from age 18 to 65 accumulates **USD 463,508** in total (with compound interest at 5%), resulting in a **monthly pension of USD 1,408** (FCV Retirement + Pillar 1). That represents a **117% replacement rate** of their last salary. See the full lifecycle example in [State Model: FCV Appendix](/04-gobernanza/modelo-estado#appendix-example--fcv-lifecycle-with-minimum-wage).
 
 ---
 

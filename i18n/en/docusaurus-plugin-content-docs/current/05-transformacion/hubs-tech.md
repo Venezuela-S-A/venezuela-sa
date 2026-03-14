@@ -23,9 +23,9 @@ title: Technology Hubs
 
 ```mermaid
 flowchart LR
-    A["Año 1-3<br/><b>5 ZEETs</b><br/>Concentrar recursos<br/>en 5 ciudades"] --> B["Año 3-5<br/><b>15 ciudades</b><br/>Replicar modelo<br/>a toda ciudad >100K"]
-    B --> C["Año 5-7<br/><b>Todo el país</b><br/>Estonia model<br/>ZEETs ya no existen"]
-    C --> D["Año 7+<br/><b>Venezuela = ZEET</b><br/>Registro 20 min<br/>0% tech tax<br/>e-residency global"]
+    A["Year 1-3<br/><b>5 ZEETs</b><br/>Concentrate resources<br/>in 5 cities"] --> B["Year 3-5<br/><b>15 cities</b><br/>Replicate model<br/>to every city >100K"]
+    B --> C["Year 5-7<br/><b>Entire country</b><br/>Estonia model<br/>ZEETs no longer exist"]
+    C --> D["Year 7+<br/><b>Venezuela = ZEET</b><br/>Registration 20 min<br/>0% tech tax<br/>e-residency global"]
 ```
 
 ## Phase 1: The 5 Pilot Cities (Years 1-3)

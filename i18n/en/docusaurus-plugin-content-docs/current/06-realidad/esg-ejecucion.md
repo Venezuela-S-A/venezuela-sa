@@ -18,20 +18,20 @@ title: ESG and Execution
 
 ```mermaid
 flowchart TD
-    P["<b>Parlamento + Ciudadanos</b><br/>Supervisión soberana"] --> CF
+    P["<b>Parliament + Citizens</b><br/>Sovereign oversight"] --> CF
     P --> FN
 
-    CF["<b>Consejo del Fondo</b><br/>7 miembros<br/>Política de inversión + reglas"] --> ADM["<b>Administrador (CEO técnico)</b><br/>Gestión diaria del fondo"]
-    CF --> PDC["<b>Plataforma Digital Ciudadana</b><br/>Censo, inversión, transparencia<br/><i>Operada por privados</i>"]
+    CF["<b>Fund Council</b><br/>7 members<br/>Investment policy + rules"] --> ADM["<b>Administrator (technical CEO)</b><br/>Day-to-day fund management"]
+    CF --> PDC["<b>Citizen Digital Platform</b><br/>Census, investment, transparency<br/><i>Operated by private sector</i>"]
 
-    ADM --> AP["<b>Agencia Petrolera</b><br/>JVs + upstream"]
-    ADM --> AHT["<b>Agencia Hubs Tech</b><br/>(tipo CORFO)<br/>Aceleradoras, VC, zonas"]
+    ADM --> AP["<b>Oil Agency</b><br/>JVs + upstream"]
+    ADM --> AHT["<b>Tech Hubs Agency</b><br/>(CORFO-type)<br/>Accelerators, VC, zones"]
 
-    FN["<b>Fiscal Nacional</b><br/>Anticorrupción<br/><i>Nunca reporta al ejecutivo</i>"] -.->|"Audita"| ADM
-    FN -.->|"Audita"| AP
-    FN -.->|"Audita"| AHT
+    FN["<b>National Prosecutor</b><br/>Anti-corruption<br/><i>Never reports to the executive</i>"] -.->|"Audits"| ADM
+    FN -.->|"Audits"| AP
+    FN -.->|"Audits"| AHT
 
-    GOB["<b>Gobierno de Transición</b>"] --> AP
+    GOB["<b>Transition Government</b>"] --> AP
     GOB --> AHT
 
     style P fill:#1B3A5C,stroke:#C49A2A,color:#fff

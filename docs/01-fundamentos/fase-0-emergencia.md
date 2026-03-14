@@ -37,7 +37,7 @@ Los primeros 100 días definen si el plan tiene credibilidad o es otro documento
 | # | Acción | Entregable concreto | Señal que envía |
 |---|--------|---------------------|-----------------|
 | 1 | **Activar 3 hospitales** con equipos médicos internacionales (OPS/MSF) | 3 hospitales operativos en Caracas, Maracaibo, Valencia con insumos, quirófanos, personal | "La gente primero — no el petróleo" |
-| 2 | **Desplegar Starlink en 5 ciudades ZEET** (Caracas, Valencia, Barquisimeto, Maracaibo, Pto. Ordaz) | 50+ puntos de internet gratuito (plazas, escuelas, hospitales) a 100+ Mbps | "Venezuela se conecta al mundo en 30 días, no en 5 años" |
+| 2 | **Desplegar Starlink en 5 ciudades ZEET** (Caracas, Valencia, Barquisimeto, Maracaibo, Pto. Ordaz) | 50+ puntos de acceso público a internet (plazas, escuelas, hospitales) a 100+ Mbps | "Venezuela se conecta al mundo en 30 días, no en 5 años" |
 | 3 | **Lanzar dashboard de transparencia** (web + móvil, aunque sea básico) | Plataforma pública con: presupuesto, gastos, avance de obras, contratos | "Cada bolívar se rastrea. No más FONDEN." |
 | 4 | **Firmar primer contrato forward** (Chevron expansion o nuevo operador) | USD 1-3B en adelantos comprometidos. Anuncio público con cifra exacta | "El dinero ya está entrando" |
 | 5 | **Anunciar dolarización formal** + plan de estabilización monetaria | Decreto + hoja de ruta de 180 días para transición monetaria | "Se acabó la inflación de 4 dígitos" |

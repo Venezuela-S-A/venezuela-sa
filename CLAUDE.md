@@ -50,13 +50,20 @@ Un plan de reconstrucción nacional tratado como startup. 40 millones de accioni
 - **Falla 1 gate** → se devuelve con feedback específico de qué ajustar
 - **Falla 2+ gates** → se rechaza con explicación
 
-## Modelo de Estado (referencia rápida)
+## Modelo de Estado + Venezuela S.A. (referencia rápida)
 
 | Principio | Regla |
 |-----------|-------|
-| El Estado vive de impuestos, no de petróleo | 15% flat + 12% IVA. Petróleo → 100% fondo soberano |
-| 5 funciones únicamente | Gobierno, salud, justicia, educación, seguridad |
-| Todo lo demás es privado con supervisión | Infraestructura, telecoms, pensiones, banca = concesión |
+| **Estado ≠ Venezuela S.A.** | Son entidades SEPARADAS. El Estado regula. Venezuela S.A. (holding de 40M ciudadanos-accionistas) hace negocios |
+| El Estado vive de impuestos, no de petróleo | 15% flat + 12% IVA. Petróleo → 100% al fondo soberano administrado por Venezuela S.A. |
+| El Estado NO es dueño de empresas | PDVSA, CORPOELEC, CANTV, HIDROVEN → se transfieren a Venezuela S.A. como activos del holding ciudadano |
+| Venezuela S.A. es accionista, no dueña | Aporta tierra + recursos + permisos como equity en JVs. Cobra regalías y dividendos. Administra el fondo soberano |
+| 5 funciones del Estado: SUPERVISA, no opera | Gobierno, salud (supervisa), justicia, educación (supervisa), seguridad. Supervisión tripartita: Estado + comunidad + usuarios |
+| **Fondo Ciudadano Venezuela (FCV)** | Cuenta unificada tipo Singapur CPF: 4 subcuentas (Retiro 8% + Salud 7% + Vivienda 4% + Educación 2% = 21%). FCV desde nacimiento (VSA contribuye USD 150/mes por niño). Reemplaza AFP + FONASA + subsidio vivienda en UN solo sistema |
+| Educación K-12: voucher con puntos | Todo niño recibe voucher (matrícula + comedor + transporte + 1 deporte + 1 arte). Colegios compiten como empresas privadas. Precio lo fija el mercado, voucher tiene tope de puntos |
+| Educación universitaria: voucher por mérito | Se gana y mantiene por esfuerzo (100→75→50→25→pierde). VSA sigue contribuyendo durante universidad. Universidades públicas autosostenibles (I+D, patentes, spin-offs) |
+| Todo lo demás es privado con supervisión | Infraestructura, telecoms, banca = concesión donde Venezuela S.A. es accionista |
+| Deuda de infraestructura = corporativa | Venezuela S.A. emite bonos de infraestructura (deuda corporativa). NO deuda soberana |
 | Automatizar todo lo posible | Estado digital modelo Estonia. Menos burocracia = menos corrupción |
 | Reforma quirúrgica | Fusionar ministerios (34→15), retirar/capacitar/emprender, recuperar fondos desviados |
 | Libertad | De vida, económica y religiosa. El Estado es plataforma, no patrón |

@@ -10,13 +10,13 @@ title: Debt
 ## Debt Composition
 
 ```mermaid
-pie title Composición de la Deuda (USD miles de M)
-    "Bonos soberanos" : 30
-    "Bonos PDVSA" : 30
-    "Intereses acumulados" : 40
-    "Reclamos ICSID" : 19
+pie title Debt Composition (USD billions)
+    "Sovereign bonds" : 30
+    "PDVSA bonds" : 30
+    "Accrued interest" : 40
+    "ICSID claims" : 19
     "China bilateral" : 11
-    "Rusia bilateral" : 4
+    "Russia bilateral" : 4
 ```
 
 [In default since November 2017](https://www.cnbc.com/2026/01/04/venezuelas-billions-in-distressed-debt-who-is-in-line-to-collect.html). Total debt: **USD 150–170,000 M**. Debt-to-GDP ratio: ~200% ([IMF](https://www.imf.org)).
@@ -49,7 +49,7 @@ With bonds trading at 27–32 cents, a 50% haircut with a 4.4% coupon represents
 
 ```mermaid
 xychart-beta
-    title "Haircut en reestructuraciones históricas (% NPV)"
+    title "Haircut in Historical Restructurings (% NPV)"
     x-axis ["Argentina 2005", "Grecia 2012", "Venezuela (prop.)", "Argentina 2020", "Ecuador 2020"]
     y-axis "% Haircut NPV" 0 --> 80
     bar [75, 62, 50, 45, 9]

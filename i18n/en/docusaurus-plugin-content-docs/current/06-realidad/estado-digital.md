@@ -53,13 +53,13 @@ Put everything on blockchain. Let anyone anywhere see any government transaction
 
 ```mermaid
 flowchart LR
-    A["Transacción del<br/>gobierno"] --> B["Registro en<br/>blockchain"]
-    B --> C["Visible para<br/>40M ciudadanos"]
-    B --> D["Modelos IA<br/>analizan en<br/>tiempo real"]
-    D --> E{"¿Anomalía<br/>detectada?"}
-    E -->|"No"| F["Continúa"]
-    E -->|"Sí"| G["Alerta automática<br/>→ Fiscal Nacional<br/>→ Dashboard público<br/>→ Whistleblower notificado"]
-    G --> H["Investigación<br/>en 48 horas"]
+    A["Government<br/>transaction"] --> B["Recorded on<br/>blockchain"]
+    B --> C["Visible to<br/>40M citizens"]
+    B --> D["AI models<br/>analyze in<br/>real time"]
+    D --> E{"Anomaly<br/>detected?"}
+    E -->|"No"| F["Continue"]
+    E -->|"Yes"| G["Automatic alert<br/>→ National Prosecutor<br/>→ Public dashboard<br/>→ Whistleblower notified"]
+    G --> H["Investigation<br/>within 48 hours"]
 ```
 
 ### Cost vs. return

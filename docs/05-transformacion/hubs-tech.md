@@ -28,6 +28,83 @@ flowchart LR
     C --> D["Año 7+<br/><b>Venezuela = ZEET</b><br/>Registro 20 min<br/>0% tech tax<br/>e-residency global"]
 ```
 
+## El Boom Global de Data Centers: USD 1,7 TRILLONES para 2030
+
+:::danger La ventana se cierra
+Los hyperscalers (Amazon, Microsoft, Google, Meta) invertirán **USD 602B solo en 2026** — cada uno superando **USD 100B individualmente** — y el **75% es para infraestructura de IA**. Para 2030, el capex global en data centers alcanzará **USD 1,7 TRILLONES** ([Dell'Oro Group](https://www.delloro.com/), 2026). El cuello de botella no es capital ni chips — es **energía limpia y barata**. Quien tenga electricidad garantizada, barata y verde gana.
+:::
+
+### La crisis energética de los data centers
+
+| Dato | Cifra | Fuente |
+|------|-------|--------|
+| Capex hyperscalers 2026 | **USD 602B** (+36% vs 2025) | [Dell'Oro Group](https://www.delloro.com/) |
+| % de capex para IA | **75%** | [Bloomberg](https://www.bloomberg.com/) |
+| Data centers como % de electricidad EE.UU. (2028) | **12-15%** (vs 4% en 2023) | [Morgan Stanley](https://www.morganstanley.com/) |
+| Demanda de DC en EE.UU. para 2028 | **74 GW** — déficit de **49 GW** | [Morgan Stanley](https://www.morganstanley.com/) |
+| Nueva generación necesaria para 2030 | **75-100 GW** | [Goldman Sachs](https://www.goldmansachs.com/) |
+| Capacidad AI DC en LATAM 2026 | **443 MW** | [Requiere investigación] |
+| Capacidad AI DC en LATAM 2031 | **1,6 GW** | [Requiere investigación] |
+| Inversión Chile en DCs (a fin de 2026) | **>USD 4B** comprometidos | [Google Cloud](https://cloud.google.com/) |
+| Rio AI City (Brasil) | Respaldado por Goldman Sachs | [Goldman Sachs](https://www.goldmansachs.com/) |
+
+**Traducción:** El mundo necesita desesperadamente sitios con energía limpia, barata y abundante para data centers de IA. Las renovables crecen 22%/año pero cubren solo ~la mitad de la demanda nueva. Las empresas pagan **primas** por acceso garantizado a energía verde.
+
+### Venezuela: el pitch de energía más competitivo del hemisferio
+
+| Parámetro | Venezuela | Chile | Brasil | México | EE.UU. (Virginia) |
+|-----------|-----------|-------|--------|--------|-------------------|
+| **Costo eléctrico** | **<USD 0,02/kWh** | USD 0,05-0,08/kWh | USD 0,06-0,09/kWh | USD 0,07-0,10/kWh | USD 0,08-0,12/kWh |
+| **Fuente principal** | Hidro (90%) | Solar + eólica | Hidro + solar | Gas + solar | Gas + nuclear |
+| **Capacidad instalada** | **17 GW hidro** | ~8 GW renovable | 180 GW total | ~90 GW total | ~1.300 GW total |
+| **Energía "atrapada"** | **Sí** — Bolívar tiene excedentes | No | No | No | No |
+| **Latencia a Miami** | ~30 ms | ~150 ms | ~120 ms | ~40 ms | ~10 ms |
+| **Riesgo país** | Alto (sanciones, transición) | Bajo | Bajo-medio | Medio | Mínimo |
+| **Inversión comprometida en DCs** | USD 0 | **>USD 4B** | **>USD 5B** | **>USD 3B** | **>USD 50B** |
+
+Fuentes: costos de electricidad — [Global Energy Monitor](https://globalenergymonitor.org/), [Americas Quarterly](https://www.americasquarterly.org/); capacidad instalada — [EIA](https://www.eia.gov/), [Mongabay](https://news.mongabay.com/2023/08/hydropower-in-the-pan-amazon-the-guri-complex-and-the-caroni-cascade/); inversiones DC — reportes corporativos 2025-2026.
+
+### "Energía atrapada": la oportunidad de arbitraje
+
+Guri tiene **10,2 GW de capacidad instalada** pero la red de transmisión no puede llevar toda esa energía al norte del país. Resultado: **excedentes localizados en Bolívar State** que literalmente no tienen a dónde ir.
+
+```mermaid
+flowchart LR
+    G["🏔️ Guri Dam<br/><b>10,2 GW</b> instalados<br/>~8 GW producción actual"] --> T["⚡ Red de Transmisión<br/>Deteriorada<br/>Pérdidas 30-40%"]
+    T --> N["🏙️ Norte del país<br/>Caracas, Valencia, Maracaibo<br/><b>~13 GW demanda</b>"]
+    G --> E["💡 ENERGÍA ATRAPADA<br/>Excedentes en Bolívar<br/>No llegan al norte"]
+    E --> DC["🖥️ DATA CENTERS<br/>Construir JUNTO a Guri<br/>Consumir excedentes localmente"]
+    E --> BTC["⛏️ BITCOIN MINING<br/>Carga flexible<br/>Absorbe picos"]
+
+    style DC fill:#00897B,color:#fff
+    style BTC fill:#F9A825,color:#000
+    style E fill:#C62828,color:#fff
+```
+
+**La solución:** en lugar de arreglar toda la red de transmisión (USD 5-15B, 5+ años), se **construyen data centers junto a Guri** y se consume la energía localmente. La red de transmisión se repara en paralelo, pero los data centers no esperan.
+
+**Requisitos inmediatos:**
+1. **Reparar SCADA** — sistema de control y supervisión de Guri (deteriorado)
+2. **Interconexiones de alto voltaje** locales — de Guri al campus de data centers
+3. **Fibra óptica** — tendido Bolívar → cable submarino (existente en la costa norte)
+4. **Seguridad física** — zona perimetral 24/7 para el campus
+
+### Corredor de Data Centers en Bolívar: proyección de ingresos
+
+| Escenario | Capacidad | Inversión | Ingreso anual | Empleos directos | Timeline |
+|-----------|-----------|-----------|---------------|-------------------|----------|
+| **Piloto** | 50 MW | USD 300-500M | USD 150-250M | 200-500 | Años 1-3 |
+| **Expansión** | 200 MW | USD 1-2B | USD 600M-1B | 1.000-2.000 | Años 3-5 |
+| **Escala** | 500 MW-1 GW | USD 3-6B | USD 1,5-3B | 3.000-5.000 | Años 5-10 |
+
+**Cálculo de referencia:** A USD 0,02/kWh, un data center de 100 MW gasta ~USD 17M/año en electricidad vs. ~USD 70-100M en EE.UU. Ese diferencial de **USD 50-80M/año por cada 100 MW** es el pitch a los hyperscalers.
+
+:::tip Despliegue rápido: 6-18 meses con excedentes existentes
+No hace falta esperar la reconstrucción completa de la red eléctrica. Los excedentes de Guri en Bolívar ya existen. Con reparación de SCADA + interconexiones locales + fibra, un data center piloto de **50 MW** puede estar operativo en **12-18 meses**. Eso pone a Venezuela en el mapa ANTES de que Chile y Brasil absorban toda la demanda LATAM.
+:::
+
+---
+
 ## Fase 1: Las 5 Ciudades Piloto (Años 1-3)
 
 | Zona | Ubicación | Vocación | Ventaja natural |

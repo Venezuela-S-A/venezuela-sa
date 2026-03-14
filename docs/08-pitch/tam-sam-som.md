@@ -19,9 +19,9 @@ flowchart TB
 
     TAM --> SAM --> SOM
 
-    style TAM fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style SAM fill:#2d5016,stroke:#C49A2A,color:#fff
-    style SOM fill:#C49A2A,stroke:#1B3A5C,color:#fff
+    style TAM fill:#0D47A1,color:#fff
+    style SAM fill:#00897B,color:#fff
+    style SOM fill:#F9A825,color:#000
 ```
 
 ---

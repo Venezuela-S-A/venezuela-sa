@@ -17,21 +17,21 @@ title: Dutch Disease
 
 ```mermaid
 flowchart TD
-    A["Boom petrolero
-    USD 65B/año ingresan"] --> B["Dólares inundan la economía"]
-    B --> C["Moneda se aprecia
-    (o precios internos suben)"]
-    C --> D["Exportaciones no-petroleras
-    se encarecen y pierden competitividad"]
-    C --> E["Importaciones se abaratan
-    y destruyen producción local"]
-    D --> F["Agricultura, manufactura,
-    turismo se contraen"]
+    A["Oil Boom
+    USD 65B/year flows in"] --> B["Dollars flood the economy"]
+    B --> C["Currency appreciates
+    (or domestic prices rise)"]
+    C --> D["Non-oil exports
+    become expensive and lose competitiveness"]
+    C --> E["Imports become cheap
+    and destroy local production"]
+    D --> F["Agriculture, manufacturing,
+    tourism contract"]
     E --> F
-    F --> G["Economía depende
-    100% del petróleo"]
-    G --> H["Precio del petróleo cae
-    = crisis total"]
+    F --> G["Economy depends
+    100% on oil"]
+    G --> H["Oil price drops
+    = total crisis"]
 
     style A fill:#C49A2A,stroke:#1B3A5C,color:#fff
     style G fill:#8B0000,stroke:#C49A2A,color:#fff
@@ -67,9 +67,9 @@ In the optimistic scenario (year 15):
 
 ```mermaid
 xychart-beta
-    title "Riesgo Dutch Disease: Petroleo+Gas como pct de ingresos (Base USD 60)"
-    x-axis ["Ano 1", "Ano 3", "Ano 5", "Ano 7", "Ano 10", "Ano 15"]
-    y-axis "pct de ingresos totales" 0 --> 100
+    title "Dutch Disease Risk: Oil+Gas as % of Revenue (Base USD 60)"
+    x-axis ["Year 1", "Year 3", "Year 5", "Year 7", "Year 10", "Year 15"]
+    y-axis "% of total revenue" 0 --> 100
     bar [90, 78, 65, 52, 42, 33]
     line [60, 60, 60, 60, 60, 60]
 ```
@@ -173,19 +173,19 @@ If peak demand is 2028-2030 and the decline is gradual (-2-3% per year post-peak
 
 ```mermaid
 flowchart TD
-    A["PETRÓLEO
-    Activo depreciante
-    Ventana: 10-15 años"] --> B["Hidroeléctrica 18 GW
-    → Compute / IA / Data Centers"]
-    A --> C["Gas natural
-    → LNG export + Hidrógeno verde"]
-    A --> D["Geografía estratégica
-    → Hub logístico + cables submarinos"]
-    A --> E["Crudo extra-pesado
-    → Petroquímicos (no combustible)"]
+    A["OIL
+    Depreciating asset
+    Window: 10-15 years"] --> B["Hydroelectric 18 GW
+    → Compute / AI / Data Centers"]
+    A --> C["Natural gas
+    → LNG export + Green hydrogen"]
+    A --> D["Strategic geography
+    → Logistics hub + submarine cables"]
+    A --> E["Extra-heavy crude
+    → Petrochemicals (not fuel)"]
 
-    B --> F["VALOR PERMANENTE
-    Post-petróleo"]
+    B --> F["PERMANENT VALUE
+    Post-oil"]
     C --> F
     D --> F
     E --> F

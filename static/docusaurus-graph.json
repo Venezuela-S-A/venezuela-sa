@@ -2,14 +2,28 @@
   {
     "id": "diagnostico",
     "title": "Diagnóstico: Dónde Estamos (Datos Duros)",
-    "linkTo": [],
+    "linkTo": [
+      "inversion-inicial-fuentes"
+    ],
     "referencedBy": []
+  },
+  {
+    "id": "inversion-inicial-fuentes",
+    "title": "Inversión Total: USD 550.000–750.000 M en 15 Años",
+    "linkTo": [],
+    "referencedBy": [
+      "diagnostico",
+      "roadmap-sanciones",
+      "infraestructura-basica"
+    ]
   },
   {
     "id": "fase-0-emergencia",
     "title": "Fase 0: Emergencia Humanitaria (Primeros 180 Días)",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "blindaje-integridad"
+    ]
   },
   {
     "id": "tesis-central",
@@ -18,231 +32,795 @@
     "referencedBy": []
   },
   {
-    "id": "contratos-forward",
-    "title": "Contratos Forward de Petróleo a Precio Garantizado",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "deuda",
-    "title": "Reestructuración de la Deuda: USD 150–170.000 M",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "enfermedad-holandesa",
-    "title": "Enfermedad Holandesa: La Trampa que Hay que Evitar",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "fondo-soberano",
-    "title": "Fondo Soberano: El Modelo Noruega",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "inversion-inicial-fuentes",
-    "title": "Inversión Total: USD 550.000–750.000 M en 15 Años",
-    "linkTo": [],
+    "id": "cashflow-20-trimestres",
+    "title": "Cashflow Trimestral: Los Primeros 5 Años",
+    "linkTo": [
+      "transicion-fiscal",
+      "contratos-forward"
+    ],
     "referencedBy": []
   },
   {
     "id": "transicion-fiscal",
     "title": "Transición Fiscal: Del Petroestado al Fondo Soberano",
     "linkTo": [],
+    "referencedBy": [
+      "cashflow-20-trimestres",
+      "los-que-se-quedaron",
+      "modelo-estado",
+      "timeline"
+    ]
+  },
+  {
+    "id": "contratos-forward",
+    "title": "Contratos Forward de Petróleo a Precio Garantizado",
+    "linkTo": [],
+    "referencedBy": [
+      "cashflow-20-trimestres",
+      "blindaje-integridad",
+      "riesgos",
+      "construccion-inmobiliaria"
+    ]
+  },
+  {
+    "id": "citgo",
+    "title": "Citgo: La Pieza Clave en la Reestructuración",
+    "linkTo": [
+      "fondo-soberano"
+    ],
     "referencedBy": []
   },
   {
-    "id": "diaspora",
-    "title": "Diáspora: Red Bilateral de 7,9 Millones de Nodos",
+    "id": "fondo-soberano",
+    "title": "Fondo Soberano: El Modelo Noruega",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "citgo",
+      "enfermedad-holandesa",
+      "los-que-se-quedaron",
+      "blindaje-integridad",
+      "justicia-transicional",
+      "roadmap-sanciones",
+      "el-sueno",
+      "equipo-ejecutor",
+      "riesgos",
+      "petroleo-gas"
+    ]
   },
   {
-    "id": "inversion-ciudadana",
-    "title": "Inversión Ciudadana Universal: Todos Somos Socios",
+    "id": "deuda",
+    "title": "Reestructuración de la Deuda: USD 150–170.000 M",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "blindaje-integridad",
+      "estado-derecho-moneda",
+      "riesgos",
+      "petroleo-gas"
+    ]
   },
   {
-    "id": "los-que-se-quedaron",
-    "title": "Los 32 Millones Que Se Quedaron",
-    "linkTo": [],
-    "referencedBy": []
+    "id": "enfermedad-holandesa",
+    "title": "Enfermedad Holandesa: La Trampa que Hay que Evitar",
+    "linkTo": [
+      "fondo-soberano",
+      "hubs-tech",
+      "capital-humano"
+    ],
+    "referencedBy": [
+      "riesgos",
+      "manufactura-industrial",
+      "petroleo-gas"
+    ]
   },
   {
-    "id": "retorno-diaspora",
-    "title": "Programa de Retorno: Traer el Talento de Vuelta",
+    "id": "hubs-tech",
+    "title": "De 5 Zonas Especiales a 1 País Startup-Friendly",
     "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "anticorrupcion-checklist",
-    "title": "Checklist: Implementación Anticorrupción por Fase",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "blindaje-integridad",
-    "title": "Blindaje de Integridad: Mapa Completo de Vulnerabilidades",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "estado-derecho-moneda",
-    "title": "Estado de Derecho, Marco Legal y Reforma Monetaria",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "geopolitica",
-    "title": "Realidad Geopolítica: EE.UU. Controla el Petróleo",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "justicia-transicional",
-    "title": "Justicia Transicional: El Dilema que Nadie Quiere Abordar",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "modelo-estado",
-    "title": "Modelo de Estado Eficiente: Impuestos, No Petróleo",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "seguridad-fisica",
-    "title": "Seguridad Física: Sin Seguridad No Hay Inversión",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "sistema-antifragil",
-    "title": "Gobernanza: Diseño de Sistema Anti-Frágil",
-    "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "enfermedad-holandesa",
+      "los-que-se-quedaron",
+      "blindaje-integridad",
+      "roadmap-sanciones",
+      "diversificacion",
+      "oportunidades-empresas",
+      "oportunidades-negocio",
+      "construccion-inmobiliaria",
+      "manufactura-industrial",
+      "minerales-criticos"
+    ]
   },
   {
     "id": "capital-humano",
     "title": "Capital Humano: El Cuello de Botella Invisible",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "enfermedad-holandesa",
+      "los-que-se-quedaron",
+      "blindaje-integridad",
+      "oportunidades-empresas",
+      "oportunidades-negocio",
+      "riesgos"
+    ]
   },
   {
-    "id": "comercio-exterior",
-    "title": "Comercio Exterior y Acuerdos Bilaterales",
+    "id": "el-sueno",
+    "title": "El Sueño: Escenario Optimista Integrado",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "fondo-soberano",
+      "proyecciones"
+    ]
   },
   {
-    "id": "diversificacion",
-    "title": "Los Seis Motores de Diversificación",
+    "id": "diaspora",
+    "title": "Diáspora: Red Bilateral de 7,9 Millones de Nodos",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "blindaje-integridad",
+      "equipo-ejecutor",
+      "timeline"
+    ]
+  },
+  {
+    "id": "inversion-ciudadana",
+    "title": "Inversión Ciudadana Universal: Todos Somos Socios",
+    "linkTo": [],
+    "referencedBy": [
+      "los-que-se-quedaron",
+      "retorno-diaspora",
+      "blindaje-integridad",
+      "modelo-estado",
+      "roadmap-sanciones",
+      "pensiones-seguridad-social",
+      "sistema-financiero"
+    ]
+  },
+  {
+    "id": "los-que-se-quedaron",
+    "title": "Los 32 Millones Que Se Quedaron",
+    "linkTo": [
+      "fondo-soberano",
+      "transicion-fiscal",
+      "seguridad-fisica",
+      "servicios-publicos",
+      "educacion",
+      "estado-digital",
+      "infraestructura-basica",
+      "pensiones-seguridad-social",
+      "hubs-tech",
+      "inversion-ciudadana",
+      "capital-humano",
+      "retorno-diaspora"
+    ],
+    "referencedBy": [
+      "blindaje-integridad",
+      "capital-humano",
+      "oportunidades-negocio",
+      "riesgos"
+    ]
+  },
+  {
+    "id": "seguridad-fisica",
+    "title": "Seguridad Física: Sin Seguridad No Hay Inversión",
+    "linkTo": [],
+    "referencedBy": [
+      "los-que-se-quedaron",
+      "blindaje-integridad",
+      "cuba-desconexion",
+      "geopolitica",
+      "justicia-transicional",
+      "diversificacion",
+      "riesgos",
+      "minerales-criticos"
+    ]
+  },
+  {
+    "id": "servicios-publicos",
+    "title": "Servicios Públicos: Estándares Internacionales",
+    "linkTo": [],
+    "referencedBy": [
+      "los-que-se-quedaron",
+      "blindaje-integridad"
+    ]
   },
   {
     "id": "educacion",
     "title": "Educación Rediseñada para la Era IA",
     "linkTo": [],
+    "referencedBy": [
+      "los-que-se-quedaron",
+      "blindaje-integridad"
+    ]
+  },
+  {
+    "id": "estado-digital",
+    "title": "Estado Digital: Reducir, Digitalizar, Automatizar",
+    "linkTo": [],
+    "referencedBy": [
+      "los-que-se-quedaron",
+      "oportunidades-negocio",
+      "infraestructura-calidad",
+      "sistema-financiero",
+      "timeline"
+    ]
+  },
+  {
+    "id": "infraestructura-basica",
+    "title": "Infraestructura Básica: Telecomunicaciones, Agua, Vivienda, Transporte y Agricultura",
+    "linkTo": [],
+    "referencedBy": [
+      "los-que-se-quedaron",
+      "retorno-diaspora",
+      "blindaje-integridad",
+      "diversificacion",
+      "oportunidades-empresas",
+      "infraestructura-calidad",
+      "timeline",
+      "agro-ganaderia",
+      "vialidad-logistica"
+    ]
+  },
+  {
+    "id": "pensiones-seguridad-social",
+    "title": "Pensiones y Seguridad Social: La Deuda Con los Mayores",
+    "linkTo": [],
+    "referencedBy": [
+      "los-que-se-quedaron",
+      "blindaje-integridad",
+      "modelo-estado"
+    ]
+  },
+  {
+    "id": "retorno-diaspora",
+    "title": "Programa de Retorno: Traer el Talento de Vuelta",
+    "linkTo": [],
+    "referencedBy": [
+      "los-que-se-quedaron"
+    ]
+  },
+  {
+    "id": "startup-programs",
+    "title": "Venezuela Emprende: Ecosistema de Aceleración",
+    "linkTo": [],
+    "referencedBy": [
+      "retorno-diaspora",
+      "blindaje-integridad",
+      "modelo-estado",
+      "diversificacion",
+      "oportunidades-empresas",
+      "oportunidades-negocio"
+    ]
+  },
+  {
+    "id": "equipo-ejecutor",
+    "title": "Equipo Ejecutor",
+    "linkTo": [],
+    "referencedBy": [
+      "retorno-diaspora"
+    ]
+  },
+  {
+    "id": "anticorrupcion-checklist",
+    "title": "Checklist: Implementación Anticorrupción por Fase",
+    "linkTo": [],
+    "referencedBy": [
+      "cuba-desconexion",
+      "equipo-ejecutor",
+      "aviacion-aeropuertos"
+    ]
+  },
+  {
+    "id": "blindaje-integridad",
+    "title": "Blindaje de Integridad: Mapa Completo de Vulnerabilidades",
+    "linkTo": [
+      "fondo-soberano",
+      "contratos-forward",
+      "deuda",
+      "infraestructura-basica",
+      "sistema-antifragil",
+      "fase-0-emergencia",
+      "educacion",
+      "servicios-publicos",
+      "diversificacion",
+      "seguridad-fisica",
+      "hubs-tech",
+      "startup-programs",
+      "pensiones-seguridad-social",
+      "estado-derecho-moneda",
+      "los-que-se-quedaron",
+      "comercio-exterior",
+      "inversion-ciudadana",
+      "diaspora",
+      "capital-humano",
+      "justicia-transicional"
+    ],
+    "referencedBy": [
+      "justicia-transicional",
+      "estado-digital",
+      "infraestructura-calidad"
+    ]
+  },
+  {
+    "id": "sistema-antifragil",
+    "title": "Gobernanza: Diseño de Sistema Anti-Frágil",
+    "linkTo": [],
+    "referencedBy": [
+      "blindaje-integridad",
+      "cuba-desconexion"
+    ]
+  },
+  {
+    "id": "diversificacion",
+    "title": "Los Seis Motores de Diversificación",
+    "linkTo": [],
+    "referencedBy": [
+      "blindaje-integridad",
+      "comercio-exterior",
+      "oportunidades-empresas",
+      "oportunidades-negocio"
+    ]
+  },
+  {
+    "id": "estado-derecho-moneda",
+    "title": "Estado de Derecho, Marco Legal y Reforma Monetaria",
+    "linkTo": [],
+    "referencedBy": [
+      "blindaje-integridad",
+      "comercio-exterior",
+      "oportunidades-negocio",
+      "sistema-financiero"
+    ]
+  },
+  {
+    "id": "comercio-exterior",
+    "title": "Comercio Exterior y Acuerdos Bilaterales",
+    "linkTo": [],
+    "referencedBy": [
+      "blindaje-integridad"
+    ]
+  },
+  {
+    "id": "justicia-transicional",
+    "title": "Justicia Transicional: El Dilema que Nadie Quiere Abordar",
+    "linkTo": [],
+    "referencedBy": [
+      "blindaje-integridad",
+      "cuba-desconexion",
+      "seguridad-fisica",
+      "sistema-antifragil",
+      "estado-digital",
+      "riesgos"
+    ]
+  },
+  {
+    "id": "cuba-desconexion",
+    "title": "Cuba: Desconexión del Aparato de Seguridad",
+    "linkTo": [
+      "seguridad-fisica",
+      "geopolitica",
+      "justicia-transicional",
+      "anticorrupcion-checklist",
+      "sistema-antifragil"
+    ],
+    "referencedBy": [
+      "geopolitica"
+    ]
+  },
+  {
+    "id": "geopolitica",
+    "title": "Realidad Geopolítica: EE.UU. Controla el Petróleo",
+    "linkTo": [],
+    "referencedBy": [
+      "cuba-desconexion",
+      "roadmap-sanciones",
+      "riesgos"
+    ]
+  },
+  {
+    "id": "resumen-ejecutivo",
+    "title": "Resumen Ejecutivo — Venezuela S.A.",
+    "linkTo": [],
+    "referencedBy": [
+      "justicia-transicional"
+    ]
+  },
+  {
+    "id": "modelo-estado",
+    "title": "Modelo de Estado Eficiente: Impuestos, No Petróleo",
+    "linkTo": [
+      "pensiones-seguridad-social",
+      "transicion-fiscal",
+      "startup-programs",
+      "inversion-ciudadana"
+    ],
     "referencedBy": []
   },
   {
-    "id": "hubs-tech",
-    "title": "5 Zonas Económicas Especiales Tech (ZEET)",
+    "id": "roadmap-sanciones",
+    "title": "Roadmap de Sanciones: De OFAC a Investment Grade",
+    "linkTo": [
+      "inversion-ciudadana",
+      "inversion-inicial-fuentes",
+      "hubs-tech",
+      "fondo-soberano",
+      "geopolitica"
+    ],
+    "referencedBy": [
+      "construccion-inmobiliaria",
+      "petroleo-gas"
+    ]
+  },
+  {
+    "id": "data-centers-ia",
+    "title": "Data Centers para IA: La Ventaja Energetica que el Mundo Necesita",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "diversificacion",
+      "oportunidades-negocio",
+      "timeline",
+      "capacidad-electrica",
+      "educacion-edtech",
+      "energia-renovable",
+      "fintech-banca-digital",
+      "modelo-concesiones",
+      "telecomunicaciones"
+    ]
+  },
+  {
+    "id": "petroleo-gas",
+    "title": "Petróleo y Gas: El Motor que Enciende Todo lo Demás",
+    "linkTo": [],
+    "referencedBy": [
+      "diversificacion",
+      "timeline",
+      "modelo-concesiones",
+      "transporte-maritimo"
+    ]
+  },
+  {
+    "id": "turismo",
+    "title": "Turismo: El Caribe Inexplorado",
+    "linkTo": [],
+    "referencedBy": [
+      "diversificacion",
+      "oportunidades-negocio",
+      "timeline",
+      "agua-saneamiento",
+      "modelo-concesiones",
+      "telecomunicaciones",
+      "transporte-maritimo",
+      "vialidad-logistica"
+    ]
+  },
+  {
+    "id": "energia-renovable",
+    "title": "Energia Renovable: El Combustible que No Se Acaba",
+    "linkTo": [],
+    "referencedBy": [
+      "diversificacion",
+      "agro-ganaderia",
+      "capacidad-electrica",
+      "data-centers-ia",
+      "modelo-concesiones",
+      "petroleo-gas"
+    ]
+  },
+  {
+    "id": "capacidad-electrica",
+    "title": "Capacidad Eléctrica: Sin Luz No Hay Plan",
+    "linkTo": [],
+    "referencedBy": [
+      "diversificacion",
+      "agro-ganaderia",
+      "agua-saneamiento",
+      "construccion-inmobiliaria",
+      "data-centers-ia",
+      "energia-renovable",
+      "fintech-banca-digital",
+      "manufactura-industrial",
+      "minerales-criticos",
+      "modelo-concesiones",
+      "petroleo-gas",
+      "salud-telemedicina",
+      "telecomunicaciones",
+      "transporte-maritimo",
+      "turismo",
+      "vialidad-logistica"
+    ]
+  },
+  {
+    "id": "manufactura-industrial",
+    "title": "Manufactura y Zonas Industriales: Revivir la Fábrica de LATAM",
+    "linkTo": [],
+    "referencedBy": [
+      "diversificacion",
+      "oportunidades-negocio",
+      "agro-ganaderia",
+      "capacidad-electrica",
+      "construccion-inmobiliaria",
+      "data-centers-ia",
+      "energia-renovable",
+      "minerales-criticos",
+      "modelo-concesiones"
+    ]
+  },
+  {
+    "id": "minerales-criticos",
+    "title": "Minerales Criticos: La Otra Mina de Oro",
+    "linkTo": [],
+    "referencedBy": [
+      "diversificacion",
+      "capacidad-electrica",
+      "construccion-inmobiliaria",
+      "energia-renovable",
+      "manufactura-industrial",
+      "modelo-concesiones",
+      "petroleo-gas",
+      "transporte-maritimo",
+      "vialidad-logistica"
+    ]
+  },
+  {
+    "id": "agro-ganaderia",
+    "title": "Agro y Ganadería: De Importar el 70% a Exportar USD 5-10B",
+    "linkTo": [],
+    "referencedBy": [
+      "diversificacion",
+      "oportunidades-negocio",
+      "infraestructura-basica",
+      "agua-saneamiento",
+      "energia-renovable",
+      "manufactura-industrial",
+      "modelo-concesiones",
+      "vialidad-logistica"
+    ]
+  },
+  {
+    "id": "educacion-edtech",
+    "title": "Educación y EdTech: De Fuga de Cerebros a Fábrica de Talento",
+    "linkTo": [],
+    "referencedBy": [
+      "educacion",
+      "oportunidades-negocio",
+      "fintech-banca-digital",
+      "modelo-concesiones",
+      "salud-telemedicina",
+      "telecomunicaciones"
+    ]
   },
   {
     "id": "impacto-ia",
     "title": "Impacto de la IA: Anticiparse a la Transformación",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "oportunidades-negocio"
+    ]
   },
   {
     "id": "oportunidades-empresas",
     "title": "Oportunidades para Empresas Reales: El País Físico que Hay que Construir",
-    "linkTo": [],
+    "linkTo": [
+      "startup-programs",
+      "hubs-tech",
+      "oportunidades-negocio",
+      "diversificacion",
+      "infraestructura-basica",
+      "capital-humano"
+    ],
     "referencedBy": []
   },
   {
     "id": "oportunidades-negocio",
     "title": "Oportunidades Tech: 70+ Startups que Venezuela Necesita",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "oportunidades-empresas"
+    ]
   },
   {
-    "id": "startup-programs",
-    "title": "Venezuela Emprende: Ecosistema de Aceleración",
+    "id": "salud-telemedicina",
+    "title": "Salud y Telemedicina: Reconstruir un Sistema de Salud Desde Cero",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "oportunidades-negocio",
+      "agua-saneamiento",
+      "educacion-edtech",
+      "fintech-banca-digital",
+      "modelo-concesiones",
+      "telecomunicaciones"
+    ]
+  },
+  {
+    "id": "fintech-banca-digital",
+    "title": "FinTech y Banca Digital: 40 Millones de Clientes Sin Banco",
+    "linkTo": [],
+    "referencedBy": [
+      "oportunidades-negocio",
+      "educacion-edtech",
+      "modelo-concesiones",
+      "salud-telemedicina",
+      "telecomunicaciones"
+    ]
+  },
+  {
+    "id": "telecomunicaciones",
+    "title": "Telecomunicaciones: Sin Internet No Hay Siglo XXI",
+    "linkTo": [],
+    "referencedBy": [
+      "oportunidades-negocio",
+      "infraestructura-basica",
+      "capacidad-electrica",
+      "construccion-inmobiliaria",
+      "data-centers-ia",
+      "educacion-edtech",
+      "fintech-banca-digital",
+      "modelo-concesiones",
+      "salud-telemedicina",
+      "turismo"
+    ]
+  },
+  {
+    "id": "modelo-concesiones",
+    "title": "Modelo de Concesiones: Estándares Máximos, 100+ Años, Ejecución Paralela",
+    "linkTo": [],
+    "referencedBy": [
+      "oportunidades-negocio",
+      "infraestructura-basica",
+      "timeline",
+      "agro-ganaderia",
+      "agua-saneamiento",
+      "capacidad-electrica",
+      "construccion-inmobiliaria",
+      "data-centers-ia",
+      "educacion-edtech",
+      "energia-renovable",
+      "fintech-banca-digital",
+      "manufactura-industrial",
+      "minerales-criticos",
+      "petroleo-gas",
+      "salud-telemedicina",
+      "telecomunicaciones",
+      "transporte-maritimo",
+      "turismo",
+      "vialidad-logistica"
+    ]
   },
   {
     "id": "esg-ejecucion",
     "title": "Sostenibilidad ESG y Gobernanza de Ejecución",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "equipo-ejecutor"
+    ]
   },
   {
-    "id": "estado-digital",
-    "title": "Estado Digital: Reducir, Digitalizar, Automatizar",
+    "id": "agua-saneamiento",
+    "title": "Agua y Saneamiento: Lo Más Básico que Falta",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "infraestructura-basica",
+      "agro-ganaderia",
+      "construccion-inmobiliaria",
+      "minerales-criticos",
+      "modelo-concesiones",
+      "salud-telemedicina",
+      "turismo"
+    ]
   },
   {
-    "id": "infraestructura-basica",
-    "title": "Infraestructura Básica: Telecomunicaciones, Agua, Vivienda, Transporte y Agricultura",
+    "id": "vialidad-logistica",
+    "title": "Vialidad y Logistica: El Sistema Circulatorio de la Reconstruccion",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "infraestructura-basica",
+      "agro-ganaderia",
+      "construccion-inmobiliaria",
+      "manufactura-industrial",
+      "minerales-criticos",
+      "modelo-concesiones",
+      "transporte-maritimo",
+      "turismo"
+    ]
   },
   {
-    "id": "pensiones-seguridad-social",
-    "title": "Pensiones y Seguridad Social: La Deuda Con los Mayores",
+    "id": "transporte-maritimo",
+    "title": "Transporte Marítimo: La Autopista Azul del Caribe",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "infraestructura-basica",
+      "agro-ganaderia",
+      "manufactura-industrial",
+      "minerales-criticos",
+      "modelo-concesiones",
+      "petroleo-gas",
+      "turismo",
+      "vialidad-logistica"
+    ]
   },
   {
-    "id": "servicios-publicos",
-    "title": "Servicios Públicos: Estándares Internacionales",
+    "id": "construccion-inmobiliaria",
+    "title": "Construcción e Inmobiliaria: Reconstruir un País Entero",
     "linkTo": [],
+    "referencedBy": [
+      "infraestructura-basica",
+      "agua-saneamiento",
+      "manufactura-industrial",
+      "modelo-concesiones",
+      "turismo",
+      "vialidad-logistica"
+    ]
+  },
+  {
+    "id": "infraestructura-calidad",
+    "title": "Calidad y Plazos en Infraestructura: Que No Se Caiga al Mes",
+    "linkTo": [
+      "infraestructura-basica",
+      "estado-digital",
+      "blindaje-integridad"
+    ],
     "referencedBy": []
   },
   {
     "id": "sistema-financiero",
     "title": "Sistema Bancario y Financiero: Reconstruir el Crédito",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "el-sueno",
-    "title": "El Sueño: Escenario Optimista Integrado",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "evaluacion-perspectivas",
-    "title": "Evaluación Multi-Perspectiva del Plan",
-    "linkTo": [],
-    "referencedBy": []
+    "linkTo": [
+      "estado-derecho-moneda",
+      "estado-digital",
+      "inversion-ciudadana"
+    ],
+    "referencedBy": [
+      "timeline"
+    ]
   },
   {
     "id": "proyecciones",
     "title": "Proyecciones Consolidadas (Base USD 60/barril)",
     "linkTo": [],
-    "referencedBy": []
-  },
-  {
-    "id": "riesgos",
-    "title": "Riesgos: Matriz de Amenazas y Mitigación",
-    "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "el-sueno",
+      "riesgos"
+    ]
   },
   {
     "id": "timeline",
     "title": "Timeline Realista (Basado en Rystad Energy)",
     "linkTo": [],
+    "referencedBy": [
+      "equipo-ejecutor"
+    ]
+  },
+  {
+    "id": "evaluacion-perspectivas",
+    "title": "Evaluación Multi-Perspectiva del Plan (19 Perspectivas)",
+    "linkTo": [],
+    "referencedBy": []
+  },
+  {
+    "id": "referencias",
+    "title": "85+ Fuentes Verificables",
+    "linkTo": [],
+    "referencedBy": [
+      "proyecciones",
+      "resumen-ejecutivo",
+      "executive-summary",
+      "intro"
+    ]
+  },
+  {
+    "id": "riesgos",
+    "title": "Riesgos: Matriz de Amenazas y Mitigación",
+    "linkTo": [
+      "fondo-soberano",
+      "seguridad-fisica",
+      "enfermedad-holandesa",
+      "capital-humano",
+      "los-que-se-quedaron",
+      "geopolitica",
+      "deuda",
+      "justicia-transicional",
+      "contratos-forward",
+      "proyecciones"
+    ],
     "referencedBy": []
   },
   {
@@ -258,28 +836,39 @@
     "referencedBy": []
   },
   {
-    "id": "resumen-ejecutivo",
-    "title": "Resumen Ejecutivo — Venezuela S.A.",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
     "id": "tam-sam-som",
     "title": "Total Market: TAM / SAM / SOM",
     "linkTo": [],
-    "referencedBy": []
+    "referencedBy": [
+      "yc-application",
+      "yc-application"
+    ]
   },
   {
     "id": "yc-application",
     "title": "Y Combinator Application — Venezuela S.A.",
-    "linkTo": [],
+    "linkTo": [
+      "tam-sam-som"
+    ],
     "referencedBy": []
   },
   {
     "id": "executive-summary",
     "title": "Executive Summary — Venezuela S.A.",
-    "linkTo": [],
+    "linkTo": [
+      "referencias"
+    ],
     "referencedBy": []
+  },
+  {
+    "id": "aviacion-aeropuertos",
+    "title": "Aviación Comercial y Aeropuertos: La Puerta al Mundo",
+    "linkTo": [
+      "anticorrupcion-checklist"
+    ],
+    "referencedBy": [
+      "modelo-concesiones"
+    ]
   },
   {
     "id": "conclusion",
@@ -288,15 +877,17 @@
     "referencedBy": []
   },
   {
-    "id": "intro",
-    "title": "Venezuela S.A.",
+    "id": "glosario",
+    "title": "Glosario de Términos",
     "linkTo": [],
     "referencedBy": []
   },
   {
-    "id": "referencias",
-    "title": "85+ Fuentes Verificables",
-    "linkTo": [],
+    "id": "intro",
+    "title": "Venezuela S.A.",
+    "linkTo": [
+      "referencias"
+    ],
     "referencedBy": []
   },
   {

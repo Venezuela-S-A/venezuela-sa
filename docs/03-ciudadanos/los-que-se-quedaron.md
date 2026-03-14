@@ -35,7 +35,7 @@ Si el plan no resuelve la vida cotidiana de la mayoría que se quedó — emplea
 | [Fondo soberano](/02-motor-financiero/fondo-soberano) | Dividendo USD 30-65/persona/año (año 15) | Insuficiente a corto plazo; útil a largo plazo |
 | [Reforma fiscal](/02-motor-financiero/transicion-fiscal) | Menos impuestos informales, más formalización | Parcial: beneficia a quien ya tiene ingresos |
 | [Seguridad](/04-gobernanza/seguridad-fisica) | Reducción de criminalidad | Impacto directo en calidad de vida |
-| [Salud pública](/06-realidad/servicios-publicos) | Salud universal financiada (4-5% PIB) | Transformacional si se ejecuta |
+| [Salud](/06-realidad/servicios-publicos) | FONASA universal (contribución 7% salario). Tramos A/B sin copago. ISAPRE opcional | Transformacional — nadie queda fuera |
 | [Educación](/05-transformacion/educacion) | Sistema educativo reconstruido | Impacto en 10-15 años |
 | [Estado digital](/06-realidad/estado-digital) | Trámites online, menos burocracia | Útil para conectados; 40%+ sin internet confiable |
 | [Infraestructura](/06-realidad/infraestructura-basica) | Electricidad, agua, transporte | Necesidad básica cubierta |
@@ -100,7 +100,7 @@ El plan requiere USD 550-750B en inversión en 15 años. Eso significa **constru
 
 #### 5. Participación comunitaria en concesiones
 
-Cuando el Estado concesiona infraestructura, telecoms o servicios a privados, las comunidades locales deben tener voz y beneficio:
+Cuando Venezuela S.A. concesiona infraestructura, telecoms o servicios a privados, las comunidades locales deben tener voz y beneficio:
 
 | Mecanismo | Cómo funciona | Precedente |
 |-----------|--------------|-----------|
@@ -122,8 +122,8 @@ La canasta básica familiar cuesta **USD 677/mes** para 5 personas (~**USD 135/p
 
 | # | Componente | Valor/mes (año 3) | Valor/mes (año 5) | Cómo se entrega |
 |---|-----------|-------------------|-------------------|----------------|
-| 1 | **Salud gratuita universal** | USD 40-60 | USD 60-100 | Hospitales rehabilitados, medicamentos, cirugías sin costo. Ahorra lo que hoy gastan en clínicas privadas o se mueren sin atención |
-| 2 | **Educación gratuita K-12 + universidad** | USD 30-50 | USD 50-80 | Escuelas con maestros pagados, materiales, comida escolar. Ahorra tutores privados y útiles |
+| 1 | **Salud universal (FONASA)** | USD 40-60 | USD 60-100 | Cobertura total vía FONASA (contribución 7%). Tramos A/B: 0% copago. Ahorra lo que hoy gastan en clínicas privadas o se mueren sin atención |
+| 2 | **Educación universal (voucher portable)** | USD 30-50 | USD 50-80 | Voucher cubre 100% de matrícula. Colegios compiten como empresas privadas por vouchers. +50% para bajos ingresos (SEP) |
 | 3 | **Empleo formal** (el mayor impacto) | USD 150-300 | USD 300-500 | De USD 3.50/mes (salario mínimo actual) a USD 300-500/mes en construcción, servicios, tech, agro. El plan crea **1-3M de empleos directos** |
 | 4 | **Infraestructura que funciona** | USD 20-40 | USD 40-60 | Electricidad 24/7, agua potable, transporte público. Hoy gastan en plantas, tanques de agua, taxis por falta de transporte |
 | 5 | **Seguridad** | USD 15-25 | USD 25-40 | No te roban, no pagas "vacuna", no pierdes mercancía. El crimen es un impuesto invisible al pobre |
@@ -169,7 +169,7 @@ Un empleo de USD 400/mes genera **USD 4.800/año** por ciudadano — vs. USD 65/
 ### La narrativa que falta
 
 :::info El joven de Petare
-El plan necesita una historia, no solo tablas. Imagina: un joven de 22 años en Petare. Hoy gana USD 50/mes en economía informal. En año 1, se inscribe en un bootcamp de 6 meses con estipendio de USD 200/mes. En año 2, consigue empleo remoto ganando USD 800/mes. Invirtió USD 10 en bonos ciudadanos que ya valen USD 15. Su mamá va al hospital rehabilitado sin pagar. Su hermana menor tiene escuela con comida gratis. La calle donde vive ya no la controla una banda.
+El plan necesita una historia, no solo tablas. Imagina: un joven de 22 años en Petare. Hoy gana USD 50/mes en economía informal. En año 1, se inscribe en un bootcamp de 6 meses con estipendio de USD 200/mes. En año 2, consigue empleo remoto ganando USD 800/mes. Invirtió USD 10 en bonos ciudadanos que ya valen USD 15. Su mamá va al hospital concesionado — cubierta por FONASA sin copago porque es Tramo A. Su hermana menor tiene voucher escolar que le permite elegir la mejor escuela del barrio. La calle donde vive ya no la controla una banda.
 
 Ese joven cuenta la historia en TikTok. Eso vale más que 100 páginas de proyecciones.
 
@@ -245,7 +245,7 @@ Jose se fue de Maracaibo a Miami en 2017 con una maleta y USD 400. Ocho anos des
 
 Un domingo ve en Instagram un post del programa de retorno: un ingeniero civil venezolano que volvio y ahora lidera la reconstruccion del puerto de Maracaibo con 8% de equity en la concesion. Jose abre la app de inversion ciudadana. Explora el dashboard: produccion petrolera en tiempo real, estado de las concesiones, retorno de los bonos. Invierte USD 5.000 en participaciones VIN.
 
-Seis meses despues, aplica al programa de co-fundacion para la rehabilitacion de la autopista Lara-Zulia — un proyecto que conoce porque la recorrio mil veces de nino. Lo aceptan. Le ofrecen 5% de equity en la concesion, salario de USD 3.000/mes y vivienda subsidiada en Maracaibo por 6 meses. Jose habla con su esposa. Deciden intentarlo un ano. En enero del ano 3, aterriza en Maiquetia con su familia. Su mama lo espera en el aeropuerto. No se habian abrazado en 8 anos.
+Seis meses despues, aplica al programa de co-fundacion para la rehabilitacion de la autopista Lara-Zulia — un proyecto que conoce porque la recorrio mil veces de nino. Lo aceptan. Le ofrecen 5% de equity en la concesion, salario de USD 3.000/mes y voucher de vivienda temporal en Maracaibo por 6 meses. Jose habla con su esposa. Deciden intentarlo un ano. En enero del ano 3, aterriza en Maiquetia con su familia. Su mama lo espera en el aeropuerto. No se habian abrazado en 8 anos.
 :::
 
 :::info Por que las historias importan

@@ -155,14 +155,16 @@ flowchart TD
     F --> L["Inversión 100% Externa
     Modelo NBIM"]
 
-    style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
-    style C fill:#2d5016,stroke:#C49A2A,color:#fff
-    style F fill:#C49A2A,stroke:#1B3A5C,color:#fff
-    style G fill:#4a148c,stroke:#C49A2A,color:#fff
-    style H fill:#d32f2f,stroke:#fff,color:#fff
-    style I fill:#e65100,stroke:#fff,color:#fff
-    style J fill:#f9a825,stroke:#000,color:#000
-    style K fill:#558b2f,stroke:#fff,color:#fff
+    style A fill:#0D47A1,color:#fff
+    style C fill:#00897B,color:#fff
+    style D fill:#F9A825,color:#000
+    style F fill:#F9A825,color:#000
+    style G fill:#E3F2FD,color:#1B2631
+    style H fill:#C62828,color:#fff
+    style I fill:#C62828,color:#fff
+    style J fill:#F9A825,color:#000
+    style K fill:#00897B,color:#fff
+    style L fill:#0D47A1,color:#fff
 ```
 
 ---

@@ -29,10 +29,10 @@ title: Executive Summary
 
 ```mermaid
 flowchart LR
-    A["🛢️ Reconstruir Energía<br/>Petróleo + Hidro"] --> B["⚡ Energía Barata<br/>Atrae BigTech"]
-    B --> C["💻 Ecosistema Tech<br/>Startups + Empleos"]
-    C --> D["📈 Economía Diversificada<br/>Petróleo: 95% → <35%"]
-    D --> E["🏦 Fondo Soberano<br/>+ Dividendo Ciudadano"]
+    A["🛢️ Rebuild Energy<br/>Oil + Hydro"] --> B["⚡ Cheap Energy<br/>Attracts BigTech"]
+    B --> C["💻 Tech Ecosystem<br/>Startups + Jobs"]
+    C --> D["📈 Diversified Economy<br/>Oil: 95% → <35%"]
+    D --> E["🏦 Sovereign Fund<br/>+ Citizen Dividend"]
 
     style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
     style B fill:#1B3A5C,stroke:#C49A2A,color:#fff
@@ -51,10 +51,10 @@ Oil generates revenue. Hydroelectric generates cheap electricity. Cheap electric
 
 ```mermaid
 flowchart LR
-    PS["<b>Pre-Seed</b><br/>Diáspora<br/>USD 25-60M<br/>Día 1<br/><i>SIN GOBIERNO</i>"] --> S["<b>Seed</b><br/>Bonos + Forwards<br/>USD 1-5B<br/>Años 1-2"]
-    S --> A["<b>Series A</b><br/>Forwards + Majors<br/>USD 30-50B<br/>Años 2-4"]
-    A --> B["<b>Series B</b><br/>Petróleo + BigTech<br/>USD 50-100B<br/>Años 4-8"]
-    B --> IPO["<b>IPO</b><br/>VIN a mercados<br/>USD 10-30B+<br/>Años 8-12"]
+    PS["<b>Pre-Seed</b><br/>Diaspora<br/>USD 25-60M<br/>Day 1<br/><i>NO GOVERNMENT</i>"] --> S["<b>Seed</b><br/>Bonds + Forwards<br/>USD 1-5B<br/>Years 1-2"]
+    S --> A["<b>Series A</b><br/>Forwards + Majors<br/>USD 30-50B<br/>Years 2-4"]
+    A --> B["<b>Series B</b><br/>Oil + BigTech<br/>USD 50-100B<br/>Years 4-8"]
+    B --> IPO["<b>IPO</b><br/>VIN to markets<br/>USD 10-30B+<br/>Years 8-12"]
 
     style PS fill:#2d5016,stroke:#C49A2A,color:#fff
     style S fill:#1B3A5C,stroke:#C49A2A,color:#fff
@@ -77,9 +77,9 @@ flowchart LR
 
 ```mermaid
 xychart-beta
-    title "Trayectoria de valor (USD miles de M)"
-    x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
-    y-axis "USD miles de millones" 0 --> 500
+    title "Value Trajectory (USD billions)"
+    x-axis ["Today", "Year 5", "Year 10", "Year 15"]
+    y-axis "USD billions" 0 --> 500
     bar [83, 140, 250, 425]
     line [0, 30, 115, 325]
 ```

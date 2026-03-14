@@ -44,6 +44,10 @@ title: Referencias
 ## Tecnología y Data Centers
 27. [ResearchAndMarkets/Arizton](https://www.businesswire.com/news/home/20250505397648/en/) — LATAM DC USD 7.16B→14.3B
 28. [Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/south-america-data-center-market) — South America DC CAGR 11,18%
+28b. [Dell'Oro Group](https://www.delloro.com/) — Capex global DC USD 1,7T para 2030; hyperscalers USD 602B en 2026
+28c. [Morgan Stanley](https://www.morganstanley.com/) — DC demand 74 GW para 2028, déficit 49 GW en EE.UU.
+28d. [Global Energy Monitor](https://globalenergymonitor.org/) — Costos de electricidad globales, capacidad instalada
+28e. [Americas Quarterly](https://www.americasquarterly.org/) — Energía y data centers en LATAM
 
 ## Modelos Institucionales
 29. [Alaska PFD](https://pfd.alaska.gov/) — USD 1.000/persona 2025
@@ -126,3 +130,24 @@ title: Referencias
 ## Transición Fiscal y Presupuesto
 85. [Misión Verdad — Venezuela Budget 2025](https://misionverdad.com/english/venezuelas-2025-budget-overview) — Presupuesto USD 22.700 M, PDVSA ~53%
 86. [NBIM — Government Pension Fund Global Fiscal Rule](https://www.nbim.no/en/the-fund/about-the-fund/) — Regla fiscal noruega: 3–4% del fondo al presupuesto
+
+## Salud y FCV
+87. [Chile FONASA](https://www.fonasa.cl/) — Fondo Nacional de Salud: cobertura universal, contribución 7%, 83% de la población
+88. [Superintendencia de Salud Chile](https://www.supersalud.gob.cl/) — Regulación FONASA + ISAPRE
+89. [Singapur MOH — MediSave](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/medisave/) — Ahorro médico individual obligatorio
+90. [Singapur CPF](https://www.cpf.gov.sg/) — Central Provident Fund: cuenta unificada retiro + salud + vivienda
+91. [Mercer CFA Global Pension Index 2025](https://www.mercer.com/insights/investments/market-outlook-and-trends/mercer-cfa-global-pension-index/) — Singapur CPF: Grado A, #4 mundial
+92. [Singapur GIC](https://www.gic.com.sg/) — Gestión profesional de fondos soberanos y CPF
+
+## Educación y Voucher
+93. [Chile SEP — Subvención Escolar Preferencial](https://www.mineduc.cl/) — Voucher diferenciado: +50% para bajos ingresos
+94. [Chile Agencia de Calidad de la Educación](https://www.agenciaeducacion.cl/) — Auditoría de colegios por resultados
+95. [Chile JUNAEB](https://www.junaeb.cl/) — Alimentación escolar y universitaria
+96. [PIRLS 2021 — Progress in International Reading Literacy Study](https://pirls2021.org/results/achievement/overall/) — Singapur #1 mundial en lectura a los 10 años
+97. [Singapur MOE](https://www.moe.gov.sg/) — Bilingüismo obligatorio, CCA, evaluación docente
+98. [Estonia ProgeTiger](https://www.hitsa.ee/) — Programación desde 1er grado
+99. [Finlandia OPH](https://www.oph.fi/) — Transporte + comedor escolar incluidos, artes como pilar
+100. [IFAU Suecia — Voucher Schools Impact](https://www.ifau.se/) — Lecciones de segregación en sistema de vouchers
+101. [EdChoice — Voucher Systems Across the Globe](https://www.edchoice.org/) — 25 países OECD con vouchers educativos
+102. [MIT Technology Licensing Office](https://tlo.mit.edu/) — USD 2.1B en licencias de patentes universitarias
+103. [Technion Israel](https://www.technion.ac.il/) — 1.600+ empresas, USD 36B en valor de spin-offs universitarios

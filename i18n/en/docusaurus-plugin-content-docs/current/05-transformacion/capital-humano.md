@@ -31,9 +31,9 @@ You can't rehabilitate refineries without petroleum engineers. You can't run dat
 
 ```mermaid
 xychart-beta
-    title "Brecha de Capital Humano por Sector — Ano 5 (miles de personas)"
-    x-axis ["Construccion", "Seguridad", "Tech", "Educacion", "Salud", "Turismo", "Agro", "Petroleo", "Finanzas", "Legal"]
-    y-axis "Miles de personas" 0 --> 110
+    title "Human Capital Gap by Sector — Year 5 (thousands of people)"
+    x-axis ["Construction", "Security", "Tech", "Education", "Healthcare", "Tourism", "Agro", "Oil", "Finance", "Legal"]
+    y-axis "Thousands of people" 0 --> 110
     bar [75, 55, 27, 27, 25, 27, 16, 12, 3, 4]
 ```
 
@@ -94,9 +94,9 @@ To close the immediate gap while locals are being trained:
 
 ```mermaid
 xychart-beta
-    title "Cierre de brecha de capital humano (miles de personas)"
-    x-axis ["Ano 1", "Ano 3", "Ano 5", "Ano 7", "Ano 10", "Ano 15"]
-    y-axis "Miles de personas" 0 --> 400
+    title "Human Capital Gap Closure (thousands of people)"
+    x-axis ["Year 1", "Year 3", "Year 5", "Year 7", "Year 10", "Year 15"]
+    y-axis "Thousands of people" 0 --> 400
     bar [280, 250, 200, 140, 80, 20]
     line [0, 30, 80, 140, 200, 260]
 ```
@@ -175,9 +175,9 @@ Tech Giants need **10,000+ engineers available in the area** to invest (requirem
 
 ```mermaid
 xychart-beta
-    title "Ramp-up de ingenieros de software (miles)"
-    x-axis ["Hoy", "Ano 1", "Ano 2", "Ano 3", "Ano 4", "Ano 5"]
-    y-axis "Miles de ingenieros" 0 --> 55
+    title "Software Engineer Ramp-up (thousands)"
+    x-axis ["Today", "Year 1", "Year 2", "Year 3", "Year 4", "Year 5"]
+    y-axis "Thousands of engineers" 0 --> 55
     bar [12, 15, 22, 32, 42, 50]
     line [12, 15, 22, 32, 42, 50]
 ```

@@ -59,7 +59,7 @@ flowchart TB
 
     subgraph CH["📢 Channels"]
         CH1["App inversión ciudadana (desde USD 10)"]
-        CH2["Bonos soberanos"]
+        CH2["Bonos corporativos Venezuela S.A."]
         CH3["ZEET (5 zonas tech con beneficios fiscales)"]
         CH4["Acuerdos bilaterales (JVs, forwards)"]
         CH5["Plataforma diáspora (censo + matching)"]
@@ -83,6 +83,16 @@ flowchart TB
         REV6["Gas/LNG: USD 3-5.000M/año"]
         REV7["Turismo: USD 4-8.000M/año"]
     end
+
+    style KP fill:#0D47A1,color:#fff
+    style KA fill:#0D47A1,color:#fff
+    style VP fill:#F9A825,color:#000
+    style CR fill:#00897B,color:#fff
+    style CS fill:#E3F2FD,color:#1B2631
+    style KR fill:#0D47A1,color:#fff
+    style CH fill:#E3F2FD,color:#1B2631
+    style COST fill:#C62828,color:#fff
+    style REV fill:#00897B,color:#fff
 ```
 
 ---
@@ -97,14 +107,14 @@ flowchart TB
 | Diáspora | 7,9 M | Participar, invertir, retornar | Bonos desde USD 10 + programa retorno |
 | Oil majors | 5–10 empresas | Acceso a reservas | JVs con marco legal estable |
 | BigTech | AWS, Google, MS, Oracle | Electricidad barata para data centers | ZEET con energía a costo marginal |
-| Inversores institucionales | Fondos globales | Retorno en mercados frontera | Bonos soberanos + VIN |
+| Inversores institucionales | Fondos globales | Retorno en mercados frontera | Bonos corporativos de Venezuela S.A. + VIN |
 | Turistas | Meta: 5–10 M/año | Caribe, naturaleza, aventura | Salto Ángel, Los Roques, Canaima |
 
 ### 2. Propuesta de Valor
 
 **Para ciudadanos:**
 - Dividendo automático del fondo soberano (USD 15→200/año)
-- Salud universal + pensión digna
+- Salud universal + pensión digna vía el **Fondo Ciudadano Venezuela (FCV):** cuenta unificada retiro + salud + vivienda + educación (21% del salario, tipo Singapur CPF)
 - Estado digital sin burocracia
 - Propiedad real sobre recursos nacionales
 
@@ -234,7 +244,7 @@ pie title Inversión total por categoría (USD miles de M — rango inferior)
 | Deuda reestructurada | USD 75–85.000 M | 14% | Haircut 50% (Citigroup model) |
 | Fondo soberano | USD 50–100.000 M | 11% | Ingresos petroleros + rendimientos |
 | Infraestructura | USD 41.500–81.000 M | 10% | Concesiones + multilaterales |
-| Electricidad | USD 15–25.000 M | 3% | Concesiones + gobierno |
+| Electricidad | USD 15–25.000 M | 3% | Concesiones + Venezuela S.A. como accionista |
 | Educación | USD 15–25.000 M | 3% | Presupuesto público |
 | Salud | USD 10–20.000 M | 2% | Presupuesto + concesiones |
 | Todo lo demás | USD 20–30.000 M | 5% | Mixto |

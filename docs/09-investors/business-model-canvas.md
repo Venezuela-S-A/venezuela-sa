@@ -24,7 +24,7 @@ title: Business Model Canvas
 
 **For citizens:**
 - Automatic dividend from sovereign fund (USD 15→200/year)
-- Universal healthcare + dignified pension
+- Universal healthcare + dignified pension via the **Citizen Fund Venezuela (CFV):** unified account covering retirement + health + housing + education (21% payroll, Singapore CPF model)
 - Digital government, zero bureaucracy
 - Real ownership of national resources
 
@@ -153,7 +153,7 @@ pie title Total Investment by Category (USD billions — lower range)
 | Debt restructuring | USD 75–85B | 14% | 50% haircut (Citigroup model) |
 | Sovereign fund | USD 50–100B | 11% | Oil revenue + returns |
 | Infrastructure | USD 41.5–81B | 10% | Concessions + multilaterals |
-| Electricity | USD 15–25B | 3% | Concessions + government |
+| Electricity | USD 15–25B | 3% | Concessions + Venezuela S.A. as shareholder |
 | Education | USD 15–25B | 3% | Public budget |
 | Healthcare | USD 10–20B | 2% | Budget + concessions |
 | Everything else | USD 20–30B | 5% | Mixed |

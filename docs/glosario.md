@@ -19,7 +19,8 @@ title: Glosario
 | **Dividendo Ciudadano** | Pago anual directo a cada venezolano proveniente de los rendimientos del Fondo de Inversión Venezuela S.A. (10-40% de retornos según fase). Modelo: [Alaska Permanent Fund](https://pfd.alaska.gov/) |
 | **Pre-Seed** | Primera ronda de financiamiento del plan. USD 39,5M de la diáspora (79.000 inversores × USD 500 promedio). Arranca sin gobierno |
 | **PVC** | Paquete de Valor Ciudadano. Combina 7 componentes: salud + educación + empleo + infraestructura + seguridad + título de propiedad + dividendo. El valor real para el ciudadano |
-| **FCV** | Fondo Ciudadano Venezuela. Cuenta personal obligatoria unificada (tipo [Singapur CPF](https://www.cpf.gov.sg/)) con 4 subcuentas: Retiro (8%), Salud (7%), Vivienda (4%), Educación (2%). Total: 21% del salario (10% trabajador + 11% empleador). Una sola institución, una sola cuenta, una sola app. Evoluciona de 14% (fase emergencia) a 25% (madurez) |
+| **FCV** | Fondo Ciudadano Venezuela. Cuenta personal obligatoria unificada (tipo [Singapur CPF](https://www.cpf.gov.sg/)) con 5 subcuentas: Retiro (8%), Salud (7%), Vivienda (4%), Educación (2%), Cesantía (2%). Total: 23% del salario (11% trabajador + 12% empleador). Una sola institución, una sola cuenta, una sola app. Evoluciona de 14% (fase emergencia) a 27% (madurez) |
+| **Fondo de Inversión Venezuela S.A.** | Fondo colectivo de inversión (tipo [Noruega NBIM](https://www.nbim.no/)) administrado por Venezuela S.A. Recibe ingresos petroleros, mineros, gas, regalías de JVs. Invierte 100% fuera de Venezuela. Distribuye dividendo ciudadano anual. **No confundir con el FCV** — el Fondo de Inversión es colectivo, el FCV es personal |
 
 ---
 

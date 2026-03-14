@@ -102,21 +102,37 @@ Estos servicios se operan por concesión, contrato o mercado privado regulado. E
 
 Venezuela adopta el mismo principio: **el Fondo Ciudadano Venezuela (FCV)** es una cuenta personal obligatoria que unifica salud, retiro, vivienda y educación superior en un solo vehículo.
 
+:::danger No confundir: FCV ≠ Fondo de Inversión Venezuela S.A.
+Son **dos cosas distintas** que se complementan:
+
+| | **Fondo de Inversión Venezuela S.A.** | **Fondo Ciudadano Venezuela (FCV)** |
+|---|---|---|
+| **Qué es** | Fondo colectivo de inversión (tipo [Noruega NBIM](https://www.nbim.no/)) | Cuenta personal del ciudadano (tipo [Singapur CPF](https://www.cpf.gov.sg/)) |
+| **De quién es** | De Venezuela S.A. (40M accionistas colectivamente) | De cada persona individual |
+| **Qué recibe** | Ingresos petroleros, mineros, gas, regalías de JVs | Contribución 23% del salario (trabajador + empleador) |
+| **Qué produce** | Dividendo ciudadano anual (USD 65-200/año para todos) | Pensión + salud + vivienda + educación + cesantía (personal) |
+| **Puedes tocarlo** | No — solo recibes el dividendo | Sí — es TU cuenta (retiras vivienda, usas salud, cobras cesantía) |
+
+**El ciudadano recibe de AMBOS:** dividendo del Fondo de Inversión + beneficios de su FCV personal.
+:::
+
 | Subcuenta | % del salario | Para qué | Propiedad | Modelo |
 |-----------|--------------|----------|-----------|--------|
 | **Retiro** | 8% | Pensión al jubilarse | Del trabajador — nadie se la quita | [Singapur CPF Special Account](https://www.cpf.gov.sg/) |
-| **Salud** | 7% | Hospitalización, medicamentos, copagos. Fase 1-5: 100% contributivo. Fase 5+: contributivo + ahorro individual | Solidario (fase 1) → individual (fase 3) | [Chile FONASA](https://www.fonasa.cl/) → [Singapur MediSave](https://www.moh.gov.sg/) |
+| **Salud** | 7% | Hospitalización, medicamentos, copagos. Fase 1-5: 100% contributivo. Fase 5+: contributivo + ahorro individual | Contributivo (fase 1) → individual (fase 3) | [Chile FONASA](https://www.fonasa.cl/) → [Singapur MediSave](https://www.moh.gov.sg/) |
 | **Vivienda** | 4% | Pago inicial de vivienda propia. Crédito hipotecario | Del trabajador | [Singapur CPF Ordinary Account](https://www.cpf.gov.sg/) |
 | **Educación** | 2% | Universidad propia o de los hijos | Del trabajador | [Singapur CPF Education Scheme](https://www.cpf.gov.sg/) |
-| **TOTAL** | **21%** | | **(10% trabajador + 11% empleador)** | Singapur CPF: 37% |
+| **Cesantía** | 2% | Colchón de 3-6 meses de salario si pierdes el empleo. Se acumula y si no la usas, se transfiere a Retiro al jubilarte | Del trabajador — disponible inmediato si queda desempleado | [Chile AFC (Seguro de Cesantía)](https://www.afc.cl/) |
+| **TOTAL** | **23%** | | **(11% trabajador + 12% empleador)** | Singapur CPF: 37% |
 
 ```mermaid
 flowchart TB
-    FCV["🏦 FONDO CIUDADANO VENEZUELA (FCV)<br/>21% del salario (10% trabajador + 11% empleador)<br/>UNA cuenta, UNA institución"]
+    FCV["🏦 FONDO CIUDADANO VENEZUELA (FCV)<br/>23% del salario (11% trabajador + 12% empleador)<br/>UNA cuenta, UNA institución, 5 subcuentas"]
     FCV --> RET["💰 Subcuenta Retiro<br/>8% → Pensión"]
     FCV --> SAL["🏥 Subcuenta Salud<br/>7% → FONASA + Medisave"]
     FCV --> VIV["🏠 Subcuenta Vivienda<br/>4% → Casa propia"]
     FCV --> EDU["🎓 Subcuenta Educación<br/>2% → Universidad"]
+    FCV --> CES["🛡️ Subcuenta Cesantía<br/>2% → Protección si pierdes empleo"]
 
     TAX["📋 IMPUESTOS<br/>(separado del FCV)"]
     TAX --> VK12["📚 Voucher K-12<br/>Universal para todo niño"]
@@ -128,6 +144,7 @@ flowchart TB
     style SAL fill:#00897B,color:#fff
     style VIV fill:#00897B,color:#fff
     style EDU fill:#00897B,color:#fff
+    style CES fill:#F9A825,color:#000
     style TAX fill:#C62828,color:#fff
     style VK12 fill:#E3F2FD,color:#1B2631
     style P1 fill:#E3F2FD,color:#1B2631
@@ -184,6 +201,7 @@ El FCV del extranjero es **retirable**, pero el Estado recupera lo que invirtió
 | **Subcuenta Salud** | Se le devuelve el saldo no utilizado |
 | **Subcuenta Vivienda** | Se le devuelve el saldo (si no compró casa) |
 | **Subcuenta Educación** | Se le devuelve el saldo no utilizado |
+| **Subcuenta Cesantía** | Se le devuelve 100% del saldo acumulado |
 | **(-) Inversión de VSA en sus hijos** | Se descuenta lo que Venezuela S.A. invirtió en educación y salud de hijos nacidos en Venezuela (USD 150/mes × meses cubiertos) |
 | **(-) Salud utilizada (contribución compartida)** | Se descuenta el costo de atención médica recibida vía componente contributivo del FCV (hospitalización, cirugías, tratamientos financiados por el fondo común — no lo que pagó de su bolsillo vía copago) |
 | **(-) Comisión de administración** | Se descuenta la comisión acumulada del fondo (~0,5% anual sobre el saldo) |
@@ -197,15 +215,15 @@ El FCV es una ventaja competitiva para atraer talento extranjero. Un ingeniero c
 
 #### Transición gradual del FCV
 
-| Fase | Años | Contribución total | Distribución | Razón |
-|------|------|-------------------|-------------|-------|
-| **Emergencia** | 1-3 | 14% | Retiro 8% + Salud 6% (100% contributivo) | 82,8% pobreza. No hay capacidad para vivienda ni educación. Salud es puro fondo contributivo |
-| **Estabilización** | 3-7 | 18% | Retiro 8% + Salud 6% + Vivienda 4% | Ingresos suben. Se abre subcuenta vivienda. Trabajadores empiezan a ahorrar para casa propia |
-| **Construcción** | 7-12 | 21% | Retiro 8% + Salud 7% + Vivienda 4% + Educación 2% | Clase media creciente. Se abre subcuenta educación. Salud introduce componente individual (Medisave) |
-| **Madurez** | 12+ | 25% | Retiro 10% + Salud 7% + Vivienda 5% + Educación 3% | Convergencia al modelo Singapur. Ciudadano es dueño de su ahorro en las 4 áreas |
+| Fase | KPI de activación (no años fijos) | Contribución total | Distribución | Qué se desbloquea |
+|------|-------------------------------------|-------------------|-------------|-------------------|
+| **Emergencia** | PIB per cápita < USD 3.000 y/o informalidad > 60% | 14% | Retiro 8% + Salud 6% (100% contributivo) | Solo retiro y salud. Prioridad: cobertura básica |
+| **Estabilización** | PIB per cápita > USD 3.000 y formalización > 40% | 18% | Retiro 8% + Salud 6% + Vivienda 4% | Se abre subcuenta vivienda. Trabajadores empiezan a ahorrar para casa propia |
+| **Construcción** | PIB per cápita > USD 5.000 y formalización > 55% | 23% | Retiro 8% + Salud 7% + Vivienda 4% + Educación 2% + Cesantía 2% | Se abren educación y cesantía. Salud introduce Medisave individual |
+| **Madurez** | PIB per cápita > USD 8.000 y formalización > 70% | 27% | Retiro 10% + Salud 7% + Vivienda 5% + Educación 3% + Cesantía 2% | Sistema completo. Convergencia al modelo Singapur |
 
-:::tip ¿Por qué 21% y no 37% como Singapur?
-Singapur tiene PIB per cápita de USD 65.000. Venezuela parte de USD 2.075. No se puede pedir 37% a un salario de USD 200/mes. Se arranca en 14% (fase emergencia) y se sube gradualmente. La meta es 25% al año 12+ — cuando el PIB per cápita supere USD 8.000. La clave: cada punto porcentual adicional se introduce SOLO cuando los ingresos reales han subido lo suficiente para absorberlo sin ahogar al trabajador.
+:::tip Las fases se activan por KPIs, no por calendario
+**No se dice "en el año 7 se abre vivienda."** Se dice "cuando el PIB per cápita supere USD 3.000 y la formalización supere 40%, se abre vivienda." Si eso pasa en el año 4 porque la economía creció rápido → se acelera. Si tarda hasta el año 9 porque hubo crisis → se espera. **El plan se adapta a la realidad, no al revés.** Singapur no fijó fechas para el CPF — lo ajustó 50+ veces en 60 años según las condiciones reales.
 :::
 
 :::info Ventajas del FCV unificado vs. sistemas separados

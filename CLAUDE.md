@@ -59,7 +59,7 @@ Un plan de reconstrucción nacional tratado como startup. 40 millones de accioni
 | El Estado NO es dueño de empresas | PDVSA, CORPOELEC, CANTV, HIDROVEN → se transfieren a Venezuela S.A. como activos del holding ciudadano |
 | Venezuela S.A. es accionista, no dueña | Aporta tierra + recursos + permisos como equity en JVs. Cobra regalías y dividendos. Administra el fondo soberano |
 | 5 funciones del Estado: SUPERVISA, no opera | Gobierno, salud (supervisa), justicia, educación (supervisa), seguridad. Supervisión tripartita: Estado + comunidad + usuarios |
-| **Fondo Ciudadano Venezuela (FCV)** | Cuenta unificada tipo Singapur CPF: 4 subcuentas (Retiro 8% + Salud 7% + Vivienda 4% + Educación 2% = 21%). FCV desde nacimiento (VSA contribuye USD 150/mes por niño). Reemplaza AFP + FONASA + subsidio vivienda en UN solo sistema |
+| **Fondo Ciudadano Venezuela (FCV)** | Cuenta personal unificada tipo Singapur CPF: 5 subcuentas (Retiro 8% + Salud 7% + Vivienda 4% + Educación 2% + Cesantía 2% = 23%). FCV desde nacimiento (VSA contribuye USD 150/mes por niño). NO confundir con el Fondo de Inversión Venezuela S.A. (que es el fondo colectivo de inversión tipo Noruega) |
 | Educación K-12: voucher con puntos | Todo niño recibe voucher (matrícula + comedor + transporte + 1 deporte + 1 arte). Colegios compiten como empresas privadas. Precio lo fija el mercado, voucher tiene tope de puntos |
 | Educación universitaria: voucher por mérito | Se gana y mantiene por esfuerzo (100→75→50→25→pierde). VSA sigue contribuyendo durante universidad. Universidades públicas autosostenibles (I+D, patentes, spin-offs) |
 | Todo lo demás es privado con supervisión | Infraestructura, telecoms, banca = concesión donde Venezuela S.A. es accionista |

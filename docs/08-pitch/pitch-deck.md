@@ -96,11 +96,13 @@ Petróleo genera ingresos → Hidro genera electricidad barata → BigTech viene
 
 | Métrica | Estado |
 |---------|--------|
+| **Licencia 46B de OFAC (14-mar-2026)** | **TODAS las empresas de EE.UU. autorizadas a operar en petróleo + oro + fertilizantes** |
 | Chevron operando JV en Venezuela | Activo |
 | EE.UU. controlando ventas de petróleo | >USD 1.000 M generados |
+| Producción petrolera | >1M bpd (+10% crecimiento) |
 | Dragon Field (gas con Trinidad) | Alianza 30 años firmada |
-| Plan documentado con 85+ fuentes | Publicado y auditable |
-| Mercado LATAM data centers | USD 7.160 M → USD 14.300 M (2030) |
+| Plan documentado con 100+ fuentes | Publicado y auditable |
+| Evaluado por 20 perspectivas | **Score: 7.4/10** |
 | Diáspora | 7,9M listos para participar |
 
 ---

@@ -89,6 +89,7 @@ Oil generates revenue → Hydro generates cheap electricity → BigTech comes fo
 
 | Metric | Status |
 |--------|--------|
+| **OFAC License 46B (Mar 14, 2026)** | **ALL US companies authorized: oil + gold + fertilizers** |
 | Chevron JV in Venezuela | Active |
 | U.S. oil sales control | >USD 1B generated |
 | Dragon Field gas (Trinidad) | 30-year alliance signed |

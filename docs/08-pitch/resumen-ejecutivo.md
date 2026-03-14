@@ -134,6 +134,10 @@ xychart-beta
 
 ## Riesgos Principales
 
+:::tip Validación en tiempo real — 14 de marzo de 2026
+[OFAC emitió la Licencia 46B](https://www.infobae.com/venezuela/2026/03/14/eeuu-autorizo-a-las-empresas-estadounidenses-realizar-negocios-con-el-sector-petrolero-venezolano/) autorizando a **todas las empresas de EE.UU.** a operar en petróleo, oro y fertilizantes venezolanos. La Fase 0 del roadmap de sanciones se completó más rápido de lo proyectado. La barrera regulatoria más grande del plan **ya no existe**.
+:::
+
 | Riesgo | Probabilidad | Mitigación |
 |--------|-------------|------------|
 | Precio petróleo <USD 50 | Media | Floor en contratos forward (USD 55) + fondo estabilización |

@@ -23,6 +23,10 @@ title: Executive Summary
 
 **Venezuela holds the world's largest oil reserves (303 billion barrels) and 18 GW of hydroelectric potential, yet operates as a failed state.**
 
+:::tip Real-time validation — March 14, 2026
+[OFAC issued License 46B](https://www.infobae.com/venezuela/2026/03/14/eeuu-autorizo-a-las-empresas-estadounidenses-realizar-negocios-con-el-sector-petrolero-venezolano/) authorizing **all US companies** to operate in Venezuela's oil, gold, and fertilizer sectors — exploitation, trade, investment, supply, storage, transport, and refining. The largest regulatory barrier to this plan **no longer exists**.
+:::
+
 ---
 
 ## The Solution

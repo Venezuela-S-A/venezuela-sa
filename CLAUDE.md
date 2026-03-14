@@ -216,6 +216,7 @@ skills/                           ← Prompts especializados (formato universal)
 | `tech-giants` | Panel 10 CEOs/CTOs de Big Tech global | Corporativo-tech |
 | `venture-capital` | Panel 10 VCs globales (YC, Sequoia, SoftBank, etc.) | Inversor |
 | `gerver-torres` | Economía Social de Mercado, ordoliberal, privatización inclusiva | Centro-pragmático |
+| `freddy-vega` | EdTech, economía digital, educación como motor, Platzi | Emprendedor-tech |
 
 ### Evaluación multi-AI (`skills/evaluate.sh`)
 

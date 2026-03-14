@@ -80,6 +80,7 @@ La implementación del **Fondo Ciudadano Venezuela (FCV)** — cuenta unificada 
 | 18 | **Tech Giants** | CEOs Big Tech | 5.3 | 6.1 | **6.5** | +0.4 | "FCV como plataforma digital + Estado Estonia es el entorno que necesitamos. Pero cero mención a cables submarinos, ley de datos, ni SLA de energía para data centers." |
 | 19 | **VCs** | Inversores globales | 5.8 | 6.8 | **7.0** | +0.2 | "FCV como fintech soberana = USD 10-20B valuación. Asset pool de USD 30B/año necesita gestión profesional. Separar FCV como entidad tech independiente con CTO de clase mundial." |
 | 20 | **Gerver Torres** | Centro (ordoliberal) | — | — | **8.5** | NUEVA | "FCV es superior a lo que propusimos en 'Un Sueño para Venezuela'. Unifica pensiones, salud, vivienda y educación con propiedad del trabajador. Economía social de mercado en su mejor expresión." |
+| 21 | **Freddy Vega** | Edtech/emprendedor | — | — | **7.5** | NUEVA | "El plan entiende que la educación es el motor, no la decoración. Voucher con puntos es un marketplace. Pero le falta train the trainers, le sobra fascinación por campus físicos, y no resuelve quién enseña coding si 100K profesores emigraron." |
 
 ---
 

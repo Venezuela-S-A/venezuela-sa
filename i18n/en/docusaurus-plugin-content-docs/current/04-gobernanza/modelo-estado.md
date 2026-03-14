@@ -5,7 +5,7 @@ title: State Model
 
 # Efficient State Model: Taxes, Not Oil
 
-> The Venezuelan State must live on reasonable taxes — not oil. Oil goes to the Sovereign Fund, managed by **Venezuela S.A.** (the corporate holding of 40M citizen-shareholders), not by the State. Taxes cover the essentials: government, healthcare, justice, education, and security. Everything else is operated by the private sector with state oversight. Everything that can be automated gets automated. The State regulates. Venezuela S.A. does business.
+> The Venezuelan State must live on reasonable taxes — not oil. Oil goes to the Venezuela S.A. Investment Fund, managed by **Venezuela S.A.** (the corporate holding of 40M citizen-shareholders), not by the State. Taxes cover the essentials: government, healthcare, justice, education, and security. Everything else is operated by the private sector with state oversight. Everything that can be automated gets automated. The State regulates. Venezuela S.A. does business.
 
 ## Non-Negotiable Guarantees
 
@@ -29,7 +29,7 @@ Venezuela has [82.8% poverty](https://www.cgdev.org/blog/barreling-blindly-ahead
 ```mermaid
 flowchart TD
     OIL["🛢️ Oil + Resources<br/>100% → Venezuela S.A."] --> VSA["🏢 Venezuela S.A.<br/>Holding of 40M shareholders"]
-    VSA --> FUND["💰 Sovereign Fund<br/>Managed by Venezuela S.A.<br/>Returns 4-5%/year"]
+    VSA --> FUND["💰 Venezuela S.A. Investment Fund<br/>Managed by Venezuela S.A.<br/>Returns 4-5%/year"]
     TAX["📋 Reasonable Taxes<br/>~18-22% of GDP"] --> STATE["🏛️ Efficient State<br/>Regulates only"]
     FUND --> DIV["👤 Citizen Dividend<br/>USD 125-200/year"]
     FUND --> STAB["🛡️ Stabilization<br/>Price crises"]
@@ -54,7 +54,7 @@ flowchart TD
     style STAB fill:#C62828,color:#fff
 ```
 
-**Golden rule:** If a service can be privately operated with state oversight and delivers a better outcome, the State does NOT operate it. **In healthcare and education, the State FUNDS and SUPERVISES — it does not operate.** Oversight is tripartite: State + community + parents/patients. **Venezuela S.A.** — the citizen corporate holding — invests in base infrastructure, collects royalties from concessions, manages the sovereign fund, and distributes dividends.
+**Golden rule:** If a service can be privately operated with state oversight and delivers a better outcome, the State does NOT operate it. **In healthcare and education, the State FUNDS and SUPERVISES — it does not operate.** Oversight is tripartite: State + community + parents/patients. **Venezuela S.A.** — the citizen corporate holding — invests in base infrastructure, collects royalties from concessions, manages the Venezuela S.A. Investment Fund, and distributes dividends.
 
 ---
 
@@ -100,23 +100,80 @@ These services are operated by concession, contract, or regulated private market
 
 **Why have a separate healthcare system from pensions from housing?** In [Singapore, the CPF](https://www.cpf.gov.sg/) is ONE single account with sub-accounts. The citizen sees all their savings in one place. A single institution manages it. Zero bureaucratic duplication.
 
-Venezuela adopts the same principle: **the Citizen Fund Venezuela (FCV)** is a mandatory personal account that unifies healthcare, retirement, housing, and higher education in a single vehicle.
+Venezuela adopts the same principle: **the Citizen Fund Venezuela (FCV)** is a mandatory personal account that unifies healthcare, retirement, housing, education, and severance protection in a single vehicle.
+
+:::danger Do not confuse: FCV ≠ Venezuela S.A. Investment Fund
+They are **two different things** that complement each other:
+
+| | **Venezuela S.A. Investment Fund** | **Citizen Fund Venezuela (FCV)** |
+|---|---|---|
+| **What it is** | Collective investment fund ([Norway NBIM](https://www.nbim.no/)-style) | Personal citizen account ([Singapore CPF](https://www.cpf.gov.sg/)-style) |
+| **Whose is it** | Venezuela S.A.'s (40M shareholders collectively) | Each individual person's |
+| **What it receives** | Oil, mining, gas revenues, JV royalties | 23% salary contribution (worker + employer) |
+| **What it produces** | Annual citizen dividend (USD 65-200/year for everyone) | Pension + healthcare + housing + education + severance (personal) |
+| **Can you touch it** | No — you only receive the dividend | Yes — it is YOUR account (withdraw for housing, use for health, collect severance) |
+
+**The citizen receives from BOTH:** dividend from the Investment Fund + benefits from their personal FCV.
+:::
 
 | Sub-account | % of salary | Purpose | Ownership | Model |
 |-------------|------------|---------|-----------|-------|
 | **Retirement** | 8% | Pension upon retirement | The worker's — no one can take it | [Singapore CPF Special Account](https://www.cpf.gov.sg/) |
-| **Health** | 7% | Hospitalization, medications, copays. Years 1-5: 100% solidarity. Year 5+: introduces individual savings | Solidarity (phase 1) → individual (phase 3) | [Chile FONASA](https://www.fonasa.cl/) → [Singapore MediSave](https://www.moh.gov.sg/) |
+| **Health** | 7% | Hospitalization, medications, copays. Phase 1-5: 100% contributory. Phase 5+: contributory + individual savings | Contributory (phase 1) → individual (phase 3) | [Chile FONASA](https://www.fonasa.cl/) → [Singapore MediSave](https://www.moh.gov.sg/) |
 | **Housing** | 4% | Down payment on own home. Mortgage credit | The worker's | [Singapore CPF Ordinary Account](https://www.cpf.gov.sg/) |
 | **Education** | 2% | Own university education or children's | The worker's | [Singapore CPF Education Scheme](https://www.cpf.gov.sg/) |
-| **TOTAL** | **21%** | | **(10% worker + 11% employer)** | Singapore CPF: 37% |
+| **Severance** | 2% | 3-6 month salary cushion if you lose your job. If unused, transfers to Retirement upon retirement | The worker's — immediately available if unemployed | [Chile AFC (Unemployment Insurance)](https://www.afc.cl/) |
+| **TOTAL** | **23%** | | **(11% worker + 12% employer)** | Singapore CPF: 37% |
+
+:::info At retirement: all unused balances consolidate into Retirement
+When the citizen reaches retirement age, **all unused funds from other sub-accounts automatically consolidate into the Retirement Sub-account:**
+- **Housing** unused (if they already bought a home or never used it) → Retirement
+- **Education** unused (if they did not need it for university) → Retirement
+- **Severance** unused (if they were never unemployed) → Retirement
+- **Health** with individual balance (Medisave) → remains as medical fund for retirement
+
+**Effect:** a disciplined worker who bought their home early, was never unemployed, and whose children earned merit-based university vouchers reaches retirement with a **significantly larger** retirement fund because they receive the balances of 3 additional sub-accounts. The system rewards effort and planning.
+:::
+
+:::danger If the citizen dies: the FCV is inheritable — 100%
+The FCV is **the worker's property**, not the State's. If they die before retirement or during retirement:
+
+| Situation | What happens to the FCV |
+|-----------|------------------------|
+| **Dies before retirement** | The full balance of all 5 sub-accounts passes to their **designated beneficiaries** (spouse, children, parents). No complex paperwork — automatic transfer to the beneficiaries' FCV accounts |
+| **Dies during retirement** | The remaining Retirement + Health (Medisave) balance passes to beneficiaries. Not a single cent is lost |
+| **No designated beneficiaries** | The legal order of succession applies (spouse → children → parents → siblings). It never reverts to the State |
+| **Minors as beneficiaries** | The balance is deposited into the minor's FCV. VSA continues managing it until they turn 18 |
+
+**This is NOT a state pension that dies with the retiree.** It is inheritable personal wealth. In the current system (IVSS), when the pensioner dies, the pension disappears. In the FCV, a lifetime of savings passes to the next generation. [Singapore CPF](https://www.cpf.gov.sg/) works exactly this way — the balance belongs to the citizen, not the government.
+:::
+
+#### Debts and insurance: integrated FCV protection
+
+Every debt linked to the FCV (mortgage via Housing Sub-account, education loan via Education Sub-account) includes **mandatory integrated insurance**:
+
+| Insurance type | What it covers | How it is paid | What happens if triggered |
+|---------------|----------------|---------------|--------------------------|
+| **Severance insurance** | If you lose your job, FCV debt payments freeze for 3-6 months | Included in the Severance Sub-account (2%) | Payments pause automatically. The Severance Sub-account covers the minimum. No penalty or negative credit report |
+| **Life insurance** | If the holder dies, the debt is cancelled completely | Premium included in the loan rate (~0.3-0.5% additional) | **Debt = zero.** The family inherits the home/asset free of debt + remaining FCV balance |
+| **Disability insurance** | If the holder becomes permanently incapacitated | Premium included in the loan rate | Debt is cancelled. FCV continues generating returns. Health Sub-account covers treatment |
+
+**Concrete example:** A worker buys a home with Housing Sub-account + mortgage. At age 40 they die in an accident. Result:
+- Mortgage → **cancelled by life insurance** (the family does NOT inherit debt)
+- Home → **family's property** (free of liens)
+- Remaining FCV → **inherited by beneficiaries** (retirement + health + education + severance)
+- Minor children → continue receiving USD 150/month from VSA in their FCV + K-12 voucher
+
+**No one inherits debt. They only inherit wealth.** The integrated insurance system within the FCV ensures that death or job loss does not destroy a family. The insurance cost is minimal (~0.3-0.5% on the rate) because it is distributed among millions of contributors — economies of scale.
 
 ```mermaid
 flowchart TB
-    FCV["🏦 CITIZEN FUND VENEZUELA (FCV)<br/>21% of salary (10% worker + 11% employer)<br/>ONE account, ONE institution"]
+    FCV["🏦 CITIZEN FUND VENEZUELA (FCV)<br/>23% of salary (11% worker + 12% employer)<br/>ONE account, ONE institution, 5 sub-accounts"]
     FCV --> RET["💰 Retirement Sub-account<br/>8% → Pension"]
     FCV --> SAL["🏥 Health Sub-account<br/>7% → FONASA + Medisave"]
     FCV --> VIV["🏠 Housing Sub-account<br/>4% → Home ownership"]
     FCV --> EDU["🎓 Education Sub-account<br/>2% → University"]
+    FCV --> CES["🛡️ Severance Sub-account<br/>2% → Protection if you lose your job"]
 
     TAX["📋 TAXES<br/>(separate from FCV)"]
     TAX --> VK12["📚 K-12 Voucher<br/>Universal for every child"]
@@ -128,6 +185,7 @@ flowchart TB
     style SAL fill:#00897B,color:#fff
     style VIV fill:#00897B,color:#fff
     style EDU fill:#00897B,color:#fff
+    style CES fill:#F9A825,color:#000
     style TAX fill:#C62828,color:#fff
     style VK12 fill:#E3F2FD,color:#1B2631
     style P1 fill:#E3F2FD,color:#1B2631
@@ -153,14 +211,14 @@ By age 18, the citizen has received **USD 32,400 in investment** from Venezuela 
 
 #### Diaspora FCV: Incentive to Return
 
-| Situation | Sovereign fund dividend | FCV (4 sub-accounts) | How it works |
+| Situation | Investment Fund dividend | FCV (5 sub-accounts) | How it works |
 |-----------|------------------------|---------------------|--------------|
 | **Venezuelan abroad — does NOT contribute** | Yes, receives dividend as Venezuela S.A. shareholder | No FCV accumulation | Maintains citizen-shareholder rights. If they return, starts contributing from that moment |
-| **Venezuelan abroad — contributes voluntarily** | Yes, receives dividend | Yes, accumulates in all 4 sub-accounts | Pays 21% voluntarily on declared income. When returning: has health, housing, pension, and education for children already accumulated |
+| **Venezuelan abroad — contributes voluntarily** | Yes, receives dividend | Yes, accumulates in all 5 sub-accounts | Pays 23% voluntarily on declared income. When returning: has health, housing, pension, education for children, and severance already accumulated |
 | **Venezuelan who returns** | Yes, receives dividend | Yes, starts/continues FCV | Joins the system like any worker. Years contributed from abroad count |
 
 :::tip The FCV is the greatest incentive to return
-A Venezuelan in Miami earns USD 4,500/month but has NO FCV. If they contribute voluntarily at 21% (USD 945/month) for 10 years from abroad, they accumulate ~USD 150,000 in their FCV. When they return to Venezuela they have: a home (housing sub-account), healthcare covered (health sub-account), advanced pension (retirement sub-account), and university for their children (education sub-account). **The FCV turns "returning" from a risk into a calculated investment.**
+A Venezuelan in Miami earns USD 4,500/month but has NO FCV. If they contribute voluntarily at 23% (USD 1,035/month) for 10 years from abroad, they accumulate ~USD 170,000 in their FCV. When they return to Venezuela they have: a home (housing sub-account), healthcare covered (health sub-account), advanced pension (retirement sub-account), university for their children (education sub-account), and a severance cushion (severance sub-account). **The FCV turns "returning" from a risk into a calculated investment.**
 :::
 
 #### Foreigners Who Come to Venezuela: Same System
@@ -169,7 +227,7 @@ Foreigners who work legally in Venezuela contribute to the FCV **exactly like a 
 
 | Situation | Fund dividend | FCV | How it works |
 |-----------|-------------|-----|--------------|
-| **Foreigner with work permit** | No dividend (not a VSA shareholder) | Yes, contributes and accumulates FCV from Day 1 | Same 4 sub-accounts. If they leave: withdraws accumulated minus costs (see below) |
+| **Foreigner with work permit** | No dividend (not a VSA shareholder) | Yes, contributes and accumulates FCV from Day 1 | Same 5 sub-accounts. If they leave: withdraws accumulated minus costs (see below) |
 | **Foreigner with permanent residency** | No dividend (unless naturalized) | Yes, full FCV | Same benefits. Children born in Venezuela: FCV from birth (VSA contributes) |
 | **Naturalized foreigner** | Yes, receives dividend (is Venezuelan) | Yes, full FCV | Becomes a citizen-shareholder of Venezuela S.A. with all rights |
 | **Children of foreigners born in Venezuela** | Yes, they are Venezuelan | Yes, FCV from birth (VSA contributes) | Born with FCV account. VSA deposits USD 150/month. Same rights as any Venezuelan |
@@ -184,6 +242,7 @@ The foreigner's FCV is **withdrawable**, but the State recovers what it invested
 | **Health sub-account** | Unused balance returned |
 | **Housing sub-account** | Balance returned (if no home was purchased) |
 | **Education sub-account** | Unused balance returned |
+| **Severance sub-account** | 100% of accumulated balance returned |
 | **(-) VSA investment in their children** | Deducted: what Venezuela S.A. invested in education and healthcare of children born in Venezuela (USD 150/month x months covered) |
 | **(-) Solidarity health used** | Deducted: cost of medical care received via the FCV solidarity component (hospitalization, surgeries, treatments funded by the common pool — not what they paid out-of-pocket via copay) |
 | **(-) Administration fee** | Deducted: accumulated fund management fee (~0.5% annual on balance) |
@@ -192,27 +251,27 @@ The foreigner's FCV is **withdrawable**, but the State recovers what it invested
 **Example:** A foreigner worked 8 years, accumulated USD 45,000 in FCV. Had 1 child (4 years old, VSA invested USD 7,200). Used USD 3,500 in solidarity health (one surgery + hospitalization). Fees: USD 1,200. **Receives: USD 45,000 - USD 7,200 - USD 3,500 - USD 1,200 = USD 33,100.**
 
 :::info Attracting global talent with the FCV
-The FCV is a competitive advantage for attracting foreign talent. A Colombian, Peruvian, or Argentine engineer working in Venezuela accumulates in 4 sub-accounts from Day 1 — something their home country probably does NOT offer in a single system. If they stay 10+ years, they have a home, healthcare, and pension. If they leave, they withdraw their money (minus what Venezuela invested in their children and fees). **It is fair: the system protects you while you contribute, and if you leave, it returns what is yours minus what the country invested in your family.**
+The FCV is a competitive advantage for attracting foreign talent. A Colombian, Peruvian, or Argentine engineer working in Venezuela accumulates in 5 sub-accounts from Day 1 — something their home country probably does NOT offer in a single system. If they stay 10+ years, they have a home, healthcare, and pension. If they leave, they withdraw their money (minus what Venezuela invested in their children and fees). **It is fair: the system protects you while you contribute, and if you leave, it returns what is yours minus what the country invested in your family.**
 :::
 
 #### Gradual FCV Transition
 
-| Phase | Years | Total contribution | Distribution | Reason |
-|-------|-------|-------------------|-------------|--------|
-| **Emergency** | 1-3 | 14% | Retirement 8% + Health 6% (100% solidarity) | 82.8% poverty. No capacity for housing or education. Health is pure solidarity fund |
-| **Stabilization** | 3-7 | 18% | Retirement 8% + Health 6% + Housing 4% | Incomes rising. Housing sub-account opens. Workers start saving for their own home |
-| **Construction** | 7-12 | 21% | Retirement 8% + Health 7% + Housing 4% + Education 2% | Growing middle class. Education sub-account opens. Health introduces individual component (Medisave) |
-| **Maturity** | 12+ | 25% | Retirement 10% + Health 7% + Housing 5% + Education 3% | Convergence to Singapore model. Citizen owns their savings across all 4 areas |
+| Phase | Activation KPI (not fixed years) | Total contribution | Distribution | What unlocks |
+|-------|-----------------------------------|--------------------|-------------|-------------|
+| **Emergency** | GDP per capita < USD 3,000 and/or informality > 60% | 14% | Retirement 8% + Health 6% (100% contributory) | Only retirement and health. Priority: basic coverage |
+| **Stabilization** | GDP per capita > USD 3,000 and formalization > 40% | 18% | Retirement 8% + Health 6% + Housing 4% | Housing sub-account opens. Workers start saving for their own home |
+| **Construction** | GDP per capita > USD 5,000 and formalization > 55% | 23% | Retirement 8% + Health 7% + Housing 4% + Education 2% + Severance 2% | Education and severance open. Health introduces individual Medisave |
+| **Maturity** | GDP per capita > USD 8,000 and formalization > 70% | 27% | Retirement 10% + Health 7% + Housing 5% + Education 3% + Severance 2% | Full system. Convergence to Singapore model |
 
-:::tip Why 21% and not 37% like Singapore?
-Singapore has a GDP per capita of USD 65,000. Venezuela starts at USD 2,075. You cannot demand 37% from a USD 200/month salary. Start at 14% (emergency phase) and increase gradually. The target is 25% by year 12+ — when GDP per capita exceeds USD 8,000. The key: each additional percentage point is introduced ONLY when real incomes have risen enough to absorb it without drowning the worker.
+:::tip Phases activate by KPIs, not by calendar
+**You do not say "in year 7 housing opens."** You say "when GDP per capita exceeds USD 3,000 and formalization exceeds 40%, housing opens." If that happens in year 4 because the economy grew fast, it accelerates. If it takes until year 9 because of a crisis, it waits. **The plan adapts to reality, not the other way around.** Singapore did not set dates for the CPF — it adjusted it 50+ times in 60 years based on real conditions.
 :::
 
 :::info Advantages of unified FCV vs. separate systems
-| Separate (FONASA + AFP + housing subsidy + scholarship) | Unified (FCV) |
+| Separate (FONASA + AFP + housing subsidy + scholarship + severance) | Unified (FCV) |
 |-----------------------------------------------------|---------------|
-| 4 institutions, 4 bureaucracies, 4 accountability processes | **1 institution, 1 account, 1 app** |
-| Citizen doesn't know their total balance | **Single dashboard: see retirement + health + housing + education** |
+| 5 institutions, 5 bureaucracies, 5 accountability processes | **1 institution, 1 account, 1 app** |
+| Citizen doesn't know their total balance | **Single dashboard: see retirement + health + housing + education + severance** |
 | Each system has its own administrative cost | **Economies of scale: lower fees** |
 | Fragmented funds invest separately | **One single fund invests the entire pool professionally** |
 | Hard to reform (each system has its own lobby) | **One reform, one legal framework** |
@@ -246,9 +305,9 @@ The [Chilean AFP](https://www.spensiones.cl/) has been operating for 44 years bu
 
 | Aspect | Chile AFP | Singapore CPF | Venezuela (proposal) |
 |--------|----------|--------------|----------------------|
-| Total contribution | 10% (worker only) | 37% (20% + 17% employer) | 21% (10% worker + 11% employer) via FCV |
+| Total contribution | 10% (worker only) | 37% (20% + 17% employer) | 23% (11% worker + 12% employer) via FCV |
 | Administration | Private AFPs | Government (CPF Board) | FCV: autonomous public entity (CPF Board-type) |
-| Covers | Retirement only | Housing + healthcare + retirement | Retirement + health + housing + education (4 sub-accounts) |
+| Covers | Retirement only | Housing + healthcare + retirement | Retirement + health + housing + education + severance (5 sub-accounts) |
 | Replacement rate | [~40%](https://economia.lse.ac.uk/articles/10.31389/eco.420) | ~50–70% | Target: >50% |
 | Fees | ~1.2% of fund | ~0.1–0.2% | Cap: 0.5% (regulated) |
 | Global ranking | [Grade B](https://www.mercer.com/insights/investments/market-outlook-and-trends/mercer-cfa-global-pension-index/) | [Grade A, #5](https://www.mercer.com/insights/investments/market-outlook-and-trends/mercer-cfa-global-pension-index/) | Target: Grade B+ |
@@ -559,7 +618,7 @@ xychart-beta
 | **Total tax revenue** | **USD 10,000M** | **USD 20,000M** | **USD 41,000M** |
 | **% of GDP** | ~10% | ~15% | ~18% |
 | **Required budget** | USD 15,000M | USD 25,000M | USD 45,000M |
-| **Deficit covered by** | Oil (transitional) | Sovereign Fund + other | Self-sufficient |
+| **Deficit covered by** | Oil (transitional) | Investment Fund + other | Self-sufficient |
 
 :::caution The high-tax trap
 Venezuela under Maduro charges [15% payroll tax](https://central-law.com/en/venezuela-law-on-the-protection-of-social-security-pensions/) just for pensions. Colombia charges 19% VAT. Argentina has 100+ different taxes. Result: massive evasion, informality, and corporate flight. The Venezuela S.A. model bets on LOW rates with a BROAD base (formalization + digital taxation).
@@ -591,7 +650,7 @@ xychart-beta
 | Income tax (persons) | 0–24% | [20% flat](https://www.emta.ee/en) | [20% flat](https://www.rs.ge/) | 0–40% | 15% flat |
 | Income tax (corporate) | [17%](https://www.iras.gov.sg/) | [20% (distributed only)](https://www.emta.ee/en) | [15%](https://www.rs.ge/) | 27% | 15% |
 | VAT/GST | [9%](https://www.iras.gov.sg/) | 22% | 18% | 19% | 12% |
-| Pensions | CPF (37%) | 3 pillars | Private | AFP (10%) | Unified FCV (21%) |
+| Pensions | CPF (37%) | 3 pillars | Private | AFP (10%) | Unified FCV (23%) |
 | Doing Business ranking | #2 | #18 | #7 | #59 | Target: Top 20 |
 | Infrastructure | PPP | Digital | Reformed | Concessions | Concessions |
 
@@ -603,12 +662,12 @@ xychart-beta
 
 | Phase | Action | Timeline |
 |-------|--------|----------|
-| Day 1 | Decree: oil to the Sovereign Fund (see [Fiscal Transition](/02-motor-financiero/transicion-fiscal)) | Immediate |
+| Day 1 | Decree: oil to the Venezuela S.A. Investment Fund (see [Fiscal Transition](/02-motor-financiero/transicion-fiscal)). [OFAC License 46B](https://www.infobae.com/venezuela/2026/03/14/eeuu-autorizo-a-las-empresas-estadounidenses-realizar-negocios-con-el-sector-petrolero-venezolano/) already enables all U.S. companies to operate (issued March 14, 2026) | Immediate |
 | Month 1–6 | Express tax reform: 15% flat + 12% VAT + digitalization | Semester 1 |
 | Year 1 | Concession law: infrastructure + hospitals + housing | Year 1 |
-| Year 1–2 | Citizen Fund Venezuela (FCV): 4 sub-accounts (retirement + health + housing + education) + universal Pillar 1 | Year 1–2 |
-| Year 2–3 | FCV Health operational: universal coverage (solidarity). ISAPRE as private option | Year 2–3 |
-| Year 3–5 | Tax base >15% of GDP -> State self-sufficient without oil | Year 3–5 |
+| Year 1–2 | Citizen Fund Venezuela (FCV): 5 sub-accounts (retirement + health + housing + education + severance) + universal Pillar 1 | Year 1–2 |
+| Year 2–3 | FCV Health operational: universal coverage (contributory). ISAPRE as private option | Year 2–3 |
+| Year 3–5 | Tax base >15% of GDP → State self-sufficient without oil | Year 3–5 |
 | Year 7+ | Convergence to Singapore model: public spending <18% GDP | Long term |
 | Year 15 | **State lives 100% on taxes. Oil 100% to the fund.** | Final target |
 
@@ -633,15 +692,90 @@ flowchart LR
     style D fill:#00897B,color:#fff
 ```
 
-### What Gets Cut
+### From 34 Ministries to 10: Target Structure
 
-| Action | Detail | Estimated Savings |
-|--------|--------|-------------------|
-| **Merge ministries** | From 34 ministries to 15–18. Eliminate duplicates (e.g., 3 energy ministries) | USD 500–1,000M/year |
-| **Eliminate clientelist missions** | Missions without measurable results get shut down. Those that work are integrated into ministries | USD 1,000–3,000M/year |
-| **Close or transfer deficit state enterprises** | Audit: if it loses money, privatize, transfer to Venezuela S.A. as a holding asset, or close. The State does not operate companies | USD 500–2,000M/year |
-| **Eliminate redundant bureaucracy** | Processes that get automated no longer need officials | Progressive |
-| **Eliminate distortive subsidies** | Free gasoline, free electricity -> **cost-reflective tariffs** + targeted voucher only for verified extreme poverty | USD 2,000–5,000M/year |
+:::danger 24 ministries are eliminated or merged
+The State **supervises, does not operate**. Oil, mining, agriculture, tourism, housing, industry are operated by Venezuela S.A. or the private sector. The State does not need a ministry for every sector it does not manage.
+:::
+
+#### The 10 ministries and their functions
+
+| # | Ministry | Functions | Target employees | Digital |
+|---|----------|----------|-----------------|---------|
+| 1 | **Presidency and Government** | Inter-ministerial coordination, strategic planning, relations with Venezuela S.A., cabinet | 1,500 | Real-time management dashboard |
+| 2 | **Finance and FCV** | Tax collection (15% flat + 12% VAT), administration of the Citizen Fund Venezuela (5 sub-accounts), national budget, fiscal auditing | 12,000 | Automatic filing in 3 minutes ([Estonia](https://e-estonia.com/)). FCV: single app for 40M accounts |
+| 3 | **Foreign Affairs** | Diplomacy, trade agreements, embassies/consulates (50+), protection of Venezuelans abroad, diaspora return | 3,000 | 100% online consular procedures |
+| 4 | **Defense** | Complete armed forces (Army, Navy, Air Force, professionalized National Guard), borders (Colombia/Brazil/Guyana), Caribbean coast, counter-narcotics, intelligence, military cybersecurity. **Bolivarian militia: ELIMINATED** (political instrument, not military) | 80,000 active + 3,000 civilian admin | Drone + AI border surveillance. Professional force, not politicized |
+| 5 | **Interior, Justice and Security** | National police (130K: [UN recommends 300/100K pop.](https://ourworldindata.org/grapher/police-officers-per-1000-people)), courts (8K), prison system (12K), civil registries, rights protection (women, indigenous, minorities), immigration | 155,000 | AI predictive policing. 80% virtual courts. Single digital case file. Cameras + recognition. Initially 170K police (high crime), decreases to 130K with AI |
+| 6 | **Health** (supervisor) | Supervises quality of concession hospitals, accredits clinics, audits FCV Health, regulates medications, epidemiology | 3,000 | Single digital medical record. Telemedicine. 99% digital prescriptions ([Estonia](https://e-estonia.com/)) |
+| 7 | **Education** (supervisor) | Supervises autonomous schools, accredits universities, defines national curriculum, administers K-12 vouchers, evaluates teachers | 3,000 | Digital voucher (points). Online evaluations. Quality dashboard per school |
+| 8 | **Infrastructure and Services** | Supervises concessions: water, electricity, telecoms, transport, ports, airports. Environmental regulation. Digital permits | 2,500 | Automatic permits if standards met ([Singapore BCA](https://www.bca.gov.sg/)). IoT infrastructure monitoring |
+| 9 | **Economy and Labor** | Labor regulation, formalization, competition, domestic/foreign trade, consumer protection, SEEZs | 2,000 | Company registration in 15 minutes. Digital monotax |
+| 10 | **Digital and Technology** | Digital state (central platform), cybersecurity, digital identity, open data, government AI, interoperability | 5,000 | **IS** the digital infrastructure that enables the other 9 ministries |
+
+#### The 24 ministries that are eliminated
+
+| Current ministry | Destination | Reason |
+|-----------------|------------|--------|
+| Oil | → Venezuela S.A. | VSA manages oil JVs. Not a State function |
+| Mining | → Venezuela S.A. | VSA manages mining JVs |
+| Electric Energy | → Infrastructure | Regulated concessions |
+| Water | → Infrastructure | Regulated concessions |
+| Transport | → Infrastructure | Regulated concessions |
+| Public Works | → Infrastructure | Regulated concessions |
+| Housing | → **Eliminate** | FCV Housing + private sector builds |
+| Agriculture | → **Eliminate** | Private sector. VSA shareholder in agricultural JVs |
+| Fisheries | → **Eliminate** | Private sector |
+| Tourism | → **Eliminate** | Private sector. Promotion from Economy |
+| Industries | → **Eliminate** | Private sector |
+| Domestic Commerce | → Economy | Merge |
+| Food (CLAP) | → **Eliminate** | Free market + targeted voucher |
+| Communes | → **Eliminate** | Clientelism with no justification |
+| Sports | → **Eliminate** | Extracurricular voucher funds sports |
+| Culture | → **Eliminate** | Extracurricular voucher + private sector |
+| Youth | → **Eliminate** | FCV + voucher cover youth |
+| Women and Equality | → Interior and Justice | Integrated legal protection |
+| Indigenous Peoples | → Interior and Justice | Integrated constitutional rights |
+| Communication and Information | → **Eliminate** | State should not own propaganda media |
+| Ecosocialism | → **Eliminate** | Environmental regulation integrated into Infrastructure |
+| Environment | → Infrastructure | Environmental regulation of concessions |
+| Planning | → Presidency | Merge |
+| Science and Technology | → Digital | Merge |
+| University Education | → Education | One ministry supervises K-12 + university |
+
+#### Public employees: target by phase
+
+```mermaid
+xychart-beta
+    title "Public employees civilian + military — Transition (thousands)"
+    x-axis ["Today", "Year 1", "Year 3", "Year 5", "Year 7", "Year 10"]
+    y-axis "Thousands of employees" 0 --> 2600
+    bar [2500, 630, 420, 330, 285, 265]
+```
+
+| Phase | Civilians | Armed Forces | Total | What changes |
+|-------|-----------|-------------|-------|-------------|
+| **Today** | **2,370,000** | **130,000** + 220K militia | **2,500,000+** | State operates EVERYTHING. Militia = political instrument |
+| **Year 1** | **550,000** | **80,000** | **630,000** | Merge 34 → 10 ministries. Enterprises → VSA. Missions closed. Militia eliminated. Armed forces professionalized |
+| **Year 3** | **340,000** | **80,000** | **420,000** | 50% teachers already in autonomous schools. Hospitals in concession |
+| **Year 5** | **250,000** | **80,000** | **330,000** | 80% autonomous schools. AI in policing. Digital procedures |
+| **Year 7** | **205,000** | **80,000** | **285,000** | 80% virtual courts. Automatic tax filing. 95% autonomous schools |
+| **Year 10** | **185,000** | **80,000** | **265,000** | Mature digital state. All services in concession or autonomous |
+
+**Target: 265,000 total employees** (185K civilians + 80K military) — the best paid in LATAM.
+
+| Comparison | Civilians | Military | Total | Population | Ratio |
+|------------|-----------|----------|-------|-----------|-------|
+| [Singapore](https://www.careers.gov.sg/who-we-are/the-singapore-public-service/) | 158,000 | 50,000 | 208,000 | 5.9M | 1:28 |
+| Chile | ~400,000 | 80,000 | 480,000 | 19M | 1:40 |
+| **Venezuela target** | **185,000** | **80,000** | **265,000** | **40M** | **1:151** |
+| Venezuela current | 2,370,000 | 350,000+ | 2,720,000 | 32M | 1:12 |
+
+:::caution Lean but functional State
+1:151 is aggressive but viable because: (1) 100% digital state — [Estonia saves 2% GDP](https://e-estonia.com/) with e-gov, (2) healthcare/education operated by private/autonomous entities — not public employees, (3) unified FCV replaces 5 bureaucracies, (4) AI in policing/justice/taxation, (5) U.S. as security ally reduces military needs. If digitalization fails, the model fails — that is why the Ministry of Digital is the backbone.
+:::
+
+#### Transition plan for 2.37M displaced officials
 
 ### What Happens to the People
 
@@ -649,7 +783,7 @@ No one gets thrown out on the street without an alternative. **Three options for
 
 | Option | For Whom | Mechanism |
 |--------|----------|-----------|
-| **Early retirement** | Officials >50 years old with >15 years of service | Pillar 1 pension + retirement bonus (6–12 months of salary) |
+| **Early retirement** | Officials >50 years old with >15 years of service | Pillar 1 pension + retirement bonus (6-12 months of salary) |
 | **Workforce reconversion** | Officials <50 years old with reusable skills | 6-month training program (tech, concessions, healthcare, education) + relocation to private sector or concessions |
 | **Entrepreneurship** | Officials with entrepreneurial drive | Direct access to Semilla/Ignite Venezuela programs (see [Startups](/05-transformacion/startup-programs)) + seed capital + 2-year tax exemption |
 
@@ -678,14 +812,14 @@ Singapore governs 5.9M people with ~150 thousand public employees. Estonia gover
 | **Civil and criminal legal actions** | Lawsuits against companies and individuals who received funds and did not deliver | Year 1–5 (not top priority but in progress) |
 | **International cooperation** | Asset tracing abroad via INTERPOL, OFAC, Transparency International | Year 1+ |
 | **Whistleblower incentive** | 10–30% of recovered funds for whoever reports (model [SEC Whistleblower](https://www.sec.gov/whistleblower)) | From Day 1 |
-| **Destination of recovered funds** | **100% to the Sovereign Fund** — not to the current budget | Permanent |
+| **Destination of recovered funds** | **100% to the Venezuela S.A. Investment Fund** — not to the current budget | Permanent |
 
 ```mermaid
 flowchart LR
     A["Audit<br/>Contracts 2000-2025"] --> B["Identify<br/>Diverted Funds"]
     B --> C["Legal Actions<br/>Civil + criminal"]
     C --> D["Recovery<br/>National + International"]
-    D --> E["💰 100% to<br/>Sovereign Fund"]
+    D --> E["💰 100% to<br/>Investment Fund"]
     style A fill:#0D47A1,color:#fff
     style B fill:#E3F2FD,color:#1B2631
     style C fill:#E3F2FD,color:#1B2631
@@ -707,8 +841,8 @@ With 82.8% poverty, the final model is not implemented on Day 1. There is a tran
 |-------|---------------|-------------------|------------------------|---------|
 | **Emergency (Year 1)** | Extreme poverty, no institutions | State provides basic services: healthcare, food, minimum pension, temporary public employment. Venezuela S.A. launches forward contracts and first concessions | Almost none — there is no market | 100% Venezuela S.A. revenue (oil) + humanitarian emergency |
 | **Stabilization (Years 2–3)** | Poverty declining, dollarization stable | State maintains universal floor. Venezuela S.A. tenders concessions and collects royalties | First concessions (telecommunications, ports) + FCV operational (14%) | 80% Venezuela S.A. revenue + 20% growing taxes |
-| **Construction (Years 4–7)** | Poverty <50%, formal economy growing | State reduces direct operations. Supervises health and education. Venezuela S.A. manages concessions + sovereign fund | FCV at 18% (housing sub-account opens), ISAPREs launching, concessions underway | 50% taxes + 50% sovereign fund (Venezuela S.A.) |
-| **Maturity (Years 8–15)** | Poverty <25%, growing middle class | State only supervises the 5 functions. FCV at 21-25% self-funded | Mature FCV. Private sector operates infrastructure, hospitals, schools. ISAPRE active | 100% taxes. Oil -> fund. FCV self-funded |
+| **Construction (Years 4–7)** | Poverty <50%, formal economy growing | State reduces direct operations. Supervises health and education. Venezuela S.A. manages concessions + Investment Fund | FCV at 18% (housing sub-account opens), ISAPREs launching, concessions underway | 50% taxes + 50% Investment Fund (Venezuela S.A.) |
+| **Maturity (Years 8–15)** | Poverty <25%, growing middle class | State only supervises the 5 functions. FCV at 23-27% self-funded | Mature FCV. Private sector operates infrastructure, hospitals, schools. ISAPRE active | 100% taxes. Oil → fund. FCV self-funded |
 
 ### Protection During the Transition
 
@@ -754,7 +888,7 @@ The objective is NOT to take away aid. It is for people to NO LONGER NEED IT bec
 | Millions depend on CLAP boxes to eat | Formal employment that allows buying food freely |
 | USD 3.50/month pension = total dependency | FCV Retirement + dignified Pillar 1 = independence |
 | Healthcare: go to the public hospital or die | FCV Health (7% contribution) + ISAPRE for those who want more |
-| Housing: waiting for the government to build | FCV Housing (4-5% of salary) = own home. Targeted subsidy only for extreme poverty |
+| Housing: waiting for the government to build | FCV Housing (4-5% of salary) = own home. Targeted voucher only for extreme poverty |
 | Employment: cronyism and clientelist missions | Free labor market, SEEZs, startups, concessions |
 
 **The State is not your parent. It is your platform.** It creates the conditions for every person to build their own life. And for those who cannot — yet — there is the universal floor until they can.
@@ -762,7 +896,7 @@ The objective is NOT to take away aid. It is for people to NO LONGER NEED IT bec
 ---
 
 :::danger The ultimate objective
-Year 15: Venezuela funds its State WITH taxes. Oil goes to the Sovereign Fund managed by Venezuela S.A. — not by the State. Fund returns (4–5%) supplement via citizen dividend. The unified FCV (retirement + health + housing + education) makes every citizen the owner of their future. Infrastructure is operated by the private sector in concessions where Venezuela S.A. is a shareholder. The State is small, digital, automated, and efficient — it only supervises and provides its 5 functions. Freedom of life, economic freedom, and religious freedom are constitutional. No one depends on the government to live. That is the model.
+Year 15: Venezuela funds its State WITH taxes. Oil goes to the Venezuela S.A. Investment Fund managed by Venezuela S.A. — not by the State. Fund returns (4-5%) supplement via citizen dividend. The unified FCV (retirement + health + housing + education + severance) makes every citizen the owner of their future. Infrastructure is operated by the private sector in concessions where Venezuela S.A. is a shareholder. The State is small, digital, automated, and efficient — it only supervises and provides its 5 functions. Freedom of life, economic freedom, and religious freedom are constitutional. No one depends on the government to live. That is the model.
 :::
 
 ---
@@ -775,8 +909,8 @@ Year 15: Venezuela funds its State WITH taxes. Oil goes to the Sovereign Fund ma
 
 | Component | Who pays | Annual cost (Year 1) | Annual cost (Year 7) | Annual cost (Year 15) |
 |-----------|---------|---------------------|---------------------|----------------------|
-| **FCV child contributions (0-17)** | Venezuela S.A. (sovereign fund + JVs) | USD 5B (partial, scaled up) | USD 10B | USD 14B |
-| **FCV worker contributions (21%)** | Workers + employers | Self-funded | Self-funded | Self-funded |
+| **FCV child contributions (0-17)** | Venezuela S.A. (Investment Fund + JVs) | USD 5B (partial, scaled up) | USD 10B | USD 14B |
+| **FCV worker contributions (23%)** | Workers + employers | Self-funded | Self-funded | Self-funded |
 | **University voucher (merit)** | Taxes | USD 0.5B | USD 1B | USD 2B |
 | **Pillar 1 pension (current retirees)** | Taxes | USD 4B | USD 6B | USD 8B |
 | **Health solidarity Tramo A/B** | Taxes | USD 3B | USD 2B | USD 1B (decreases with poverty) |
@@ -801,14 +935,14 @@ xychart-beta
 | **Oil** (Venezuela S.A.) | USD 14B (100%) | USD 16B (80%) | USD 18B (45%) | USD 10B (10% -> fund) |
 | **Taxes** (State) | USD 5B (28%) | USD 8B (35%) | USD 12B (40%) | USD 25B (50%) |
 | **FCV workers** (self-funded) | USD 1B | USD 4B | USD 8B | USD 15B |
-| **Sovereign fund returns** | USD 0 | USD 0.5B | USD 2B | USD 10B |
+| **Investment Fund returns** | USD 0 | USD 0.5B | USD 2B | USD 10B |
 | **Concessions + JVs** | USD 0.5B | USD 2B | USD 5B | USD 8B |
 | **TOTAL available** | **USD 20.5B** | **USD 30.5B** | **USD 45B** | **USD 68B** |
 
 ### Implementation Sequence from Current Situation
 
 :::danger The sequence matters — you cannot do everything on Day 1
-With USD 83B GDP and 82.8% poverty, the complete model (FCV at 21%, USD 265/month voucher, 4 sub-accounts) is impossible on Day 1. It is built in phases. **Each phase is funded by what the previous one generates.**
+With USD 83B GDP and 82.8% poverty, the complete model (FCV at 23%, USD 265/month voucher, 5 sub-accounts) is impossible on Day 1. It is built in phases. **Each phase is funded by what the previous one generates.**
 :::
 
 | Phase | What is implemented | How it is funded | Cost |
@@ -816,20 +950,20 @@ With USD 83B GDP and 82.8% poverty, the complete model (FCV at 21%, USD 265/mont
 | **Day 1-90** | Pillar 1 pension (USD 50/month). Emergency healthcare. Temporary infrastructure employment | 100% oil (Venezuela S.A.) + humanitarian aid | USD 5-8B/year |
 | **Months 3-12** | FCV launches at 14% (retirement 8% + health 6%). Basic K-12 voucher (USD 163/month). Teacher salaries x5 | Oil 80% + first taxes 20% | USD 15-18B/year |
 | **Years 2-3** | FCV rises to 18% (housing 4% added). Voucher grows to USD 214/month. First concessions generate revenue | Oil 60% + taxes 35% + concessions 5% | USD 22-28B/year |
-| **Years 4-7** | FCV at 21% (education 2% added). Voucher at USD 265/month. University with merit voucher. Sovereign fund grows | Taxes 40% + oil 30% + FCV self-funded + fund 5% | USD 30-40B/year |
-| **Years 8-15** | FCV at 25%. Maturity voucher (USD 295/month). Pillar 1 rises to USD 200/month. Health introduces individual Medisave | Taxes 50% + sovereign fund 20% + FCV self-funded + diversification | USD 45-55B/year |
+| **Years 4-7** | FCV at 23% (education 2% + severance 2% added). Voucher at USD 265/month. University with merit voucher. Investment Fund grows | Taxes 40% + oil 30% + FCV self-funded + fund 5% | USD 30-40B/year |
+| **Years 8-15** | FCV at 27%. Maturity voucher (USD 295/month). Pillar 1 rises to USD 200/month. Health introduces individual Medisave | Taxes 50% + Investment Fund 20% + FCV self-funded + diversification | USD 45-55B/year |
 
 ### The Key: Worker FCV Is SELF-FUNDED
 
-The biggest cost of the model is NOT public spending. The 21% FCV contribution is paid by **workers + employers** — not the government. That means:
+The biggest cost of the model is NOT public spending. The 23% FCV contribution is paid by **workers + employers** — not the government. That means:
 
-| Year | Formal workers | Average salary | FCV 21% monthly | Total FCV/year |
+| Year | Formal workers | Average salary | FCV 23% monthly | Total FCV/year |
 |------|---------------|----------------|-----------------|----------------|
-| 1 | 5M | USD 250/month | USD 52/month | **USD 3.1B** |
-| 7 | 10M | USD 500/month | USD 105/month | **USD 12.6B** |
-| 15 | 15M | USD 800/month | USD 168/month | **USD 30.2B** |
+| 1 | 5M | USD 250/month | USD 57/month | **USD 3.4B** |
+| 7 | 10M | USD 500/month | USD 115/month | **USD 13.8B** |
+| 15 | 15M | USD 800/month | USD 184/month | **USD 33.1B** |
 
-**USD 30B/year from FCV is not public spending** — it is mandatory savings by the citizen in their own account. The State only collects and supervises. The money belongs to the worker.
+**USD 33B/year from FCV is not public spending** — it is mandatory savings by the citizen in their own account. The State only collects and supervises. The money belongs to the worker.
 
 ### What the Government DOES Pay (and How Much)
 
@@ -837,7 +971,7 @@ Only 4 items require direct public funding:
 
 | Item | Year 1 | Year 7 | Year 15 | Source |
 |------|--------|--------|---------|--------|
-| **FCV children (VSA)**: USD 150/month x children | USD 5B | USD 10B | USD 14B | Venezuela S.A. (JV dividends + sovereign fund) |
+| **FCV children (VSA)**: USD 150/month x children | USD 5B | USD 10B | USD 14B | Venezuela S.A. (JV dividends + Investment Fund) |
 | **Pillar 1 pension**: current retirees | USD 4B | USD 6B | USD 3B (decreases as FCV matures) | Taxes |
 | **Health solidarity Tramo A/B** | USD 3B | USD 2B | USD 1B (decreases with economy) | Taxes |
 | **University voucher** | USD 0.5B | USD 1B | USD 2B | Taxes |
@@ -850,9 +984,9 @@ The rest of the budget (government, justice, security) is funded by taxes like a
 
 **Year 7:** USD 34B total spending = 17% of a USD 200B GDP. Perfectly viable — Singapore spends 17%.
 
-**Year 15:** USD 50B total spending = 14% of a USD 350B GDP. The most efficient State in LATAM. And the FCV's USD 30B/year is self-funded — it does not count as public spending.
+**Year 15:** USD 50B total spending = 14% of a USD 350B GDP. The most efficient State in LATAM. And the FCV's USD 33B/year is self-funded — it does not count as public spending.
 
-**The model pays for itself because oil funds the transition and taxes take over.** Each year oil contributes less to the budget and more to the sovereign fund. By year 15, 100% of oil goes to the fund and the State lives on taxes. That is the design.
+**The model pays for itself because oil funds the transition and taxes take over.** Each year oil contributes less to the budget and more to the Venezuela S.A. Investment Fund. By year 15, 100% of oil goes to the fund and the State lives on taxes. That is the design.
 :::
 
 ---

@@ -1,0 +1,38 @@
+{
+  "sidebar.planSidebar.category.🏗️ Fundamentos": {
+    "message": "🏗️ Foundations",
+    "description": "The label for category Fundamentos in sidebar planSidebar"
+  },
+  "sidebar.planSidebar.category.⛽ Motor Financiero": {
+    "message": "⛽ Financial Engine",
+    "description": "The label for category Motor Financiero in sidebar planSidebar"
+  },
+  "sidebar.planSidebar.category.🤝 Ciudadanos y Diáspora": {
+    "message": "🤝 Citizens & Diaspora",
+    "description": "The label for category Ciudadanos y Diáspora in sidebar planSidebar"
+  },
+  "sidebar.planSidebar.category.🛡️ Gobernanza y Seguridad": {
+    "message": "🛡️ Governance & Security",
+    "description": "The label for category Gobernanza y Seguridad in sidebar planSidebar"
+  },
+  "sidebar.planSidebar.category.🚀 Transformación": {
+    "message": "🚀 Transformation",
+    "description": "The label for category Transformación in sidebar planSidebar"
+  },
+  "sidebar.planSidebar.category.🏛️ Estado y Servicios": {
+    "message": "🏛️ State & Services",
+    "description": "The label for category Estado y Servicios in sidebar planSidebar"
+  },
+  "sidebar.planSidebar.category.📊 Ejecución y Proyecciones": {
+    "message": "📊 Execution & Projections",
+    "description": "The label for category Ejecución y Proyecciones in sidebar planSidebar"
+  },
+  "sidebar.planSidebar.category.📎 Anexo: Para Inversionistas": {
+    "message": "📎 Annex: For Investors (ES)",
+    "description": "The label for category Anexo: Para Inversionistas in sidebar planSidebar"
+  },
+  "sidebar.planSidebar.category.📎 Annex: For Investors": {
+    "message": "📎 Annex: For Investors",
+    "description": "The label for category Annex: For Investors in sidebar planSidebar"
+  }
+}

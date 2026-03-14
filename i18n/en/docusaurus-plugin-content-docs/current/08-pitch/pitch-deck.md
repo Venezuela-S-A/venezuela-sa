@@ -1,0 +1,207 @@
+---
+sidebar_position: 5
+title: Pitch Deck
+---
+
+# Pitch Deck — Venezuela S.A.
+
+> 12 slides. Each slide is an argument. All data verifiable.
+
+---
+
+## Slide 1: The Problem
+
+```mermaid
+xychart-beta
+    title "Colapso de Venezuela vs. LATAM"
+    x-axis ["PIB/cápita", "Producción bpd", "Pobreza %", "Criminalidad"]
+    y-axis "Índice (100 = promedio LATAM)" 0 --> 200
+    bar [25, 33, 180, 200]
+```
+
+- GDP/capita: **USD 2,588** (LATAM average: ~USD 10,000)
+- Oil production: **1M bpd** (peak: 3.3M)
+- Poverty: **82.8%** (LATAM average: ~29%)
+- Crime: **#1 worldwide** (Numbeo: 80.7)
+- Debt: **USD 150–170B**
+- Diaspora: **7.9M people** (20% of population emigrated)
+
+**The country with the most resources on the continent is the poorest.**
+
+---
+
+## Slide 2: The Opportunity
+
+| Resource | Venezuela | World ranking |
+|----------|-----------|---------------|
+| Oil reserves | 303B barrels | **#1** |
+| Natural gas | 5,500 BCM | **#7** |
+| Hydroelectric | 18,000 MW (Caroni) | Top 10 |
+| Arable land | Llanos + Orinoco Delta | Top in LATAM |
+| Skilled diaspora | 7.9M people | Largest in South America |
+
+**Underlying value:** USD 7–10 trillion in underground assets.
+**Current GDP:** USD 83B.
+**Gap:** 100x between potential and reality.
+
+---
+
+## Slide 3: The Thesis
+
+```mermaid
+flowchart LR
+    A["🛢️ PETRÓLEO<br/>Combustible"] --> B["⚡ ENERGÍA BARATA<br/>Ventaja competitiva"]
+    B --> C["💻 TECH<br/>Destino"]
+    C --> D["🏦 FONDO SOBERANO<br/>Riqueza permanente"]
+
+    style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
+    style B fill:#1B3A5C,stroke:#C49A2A,color:#fff
+    style C fill:#C49A2A,stroke:#1B3A5C,color:#fff
+    style D fill:#2d5016,stroke:#C49A2A,color:#fff
+```
+
+> **Oil is the fuel. Technology is the destination.**
+
+Oil generates revenue. Hydro generates cheap electricity. BigTech comes for the energy (Amazon: $4B in Chile). Tech ecosystem diversifies the economy. Sovereign fund turns finite resource into infinite wealth.
+
+---
+
+## Slide 4: The Business Model
+
+| Block | Venezuela S.A. |
+|-------|---------------|
+| **Customers** | 40M citizens + 7.9M diaspora + oil majors + BigTech |
+| **Value proposition** | Dividends + cheap energy + tax-free zones + return program |
+| **Revenue** | Oil + taxes + gas + tech + tourism + fund returns |
+| **Key resources** | 303B bbl + 18GW hydro + 7.9M diaspora + geography |
+| **Competitive moat** | Cheapest energy in LATAM + reserves #1 + greenfield tech |
+
+---
+
+## Slide 5: Funding Rounds
+
+| Round | Amount | Source | Timeline |
+|-------|--------|--------|----------|
+| **Pre-Seed** | USD 25–60M | Diaspora (no government) | Day 1 |
+| **Seed** | USD 1–5B | Bonds + forwards | Years 1–2 |
+| **Series A** | USD 30–50B | Majors + forwards | Years 2–4 |
+| **Series B** | USD 50–100B | Revenue + BigTech | Years 4–8 |
+| **IPO** | USD 10–30B+ | VIN to markets | Years 8–12 |
+
+**The Pre-Seed needs NO government.** If 1% of 7.9M diaspora invests USD 500 = USD 39.5M. Achievable.
+
+---
+
+## Slide 6: Traction
+
+| Metric | Status |
+|--------|--------|
+| Chevron JV operating in Venezuela | Active |
+| U.S. controlling oil sales | >USD 1B generated |
+| Dragon Field gas (Trinidad) | 30-year alliance signed |
+| Documented plan with 85+ sources | Published and auditable |
+| LATAM data center market | USD 7.16B --> USD 14.3B (2030) |
+| Diaspora | 7.9M ready to participate |
+
+---
+
+## Slide 7: Market (TAM/SAM/SOM)
+
+```mermaid
+xychart-beta
+    title "TAM → SAM → SOM (USD miles de M/año)"
+    x-axis ["TAM", "SAM", "SOM Año 15"]
+    y-axis "USD miles de millones" 0 --> 500
+    bar [3500, 275, 107]
+```
+
+| Level | Value | Includes |
+|-------|-------|----------|
+| **TAM** | USD 3.5T/year | Global oil + gas + LATAM DC + tourism + agro |
+| **SAM** | USD 200–350B/year | 3M bpd + LATAM DC share + Caribbean tourism + regional gas |
+| **SOM** | USD 80–120B/year | 2.75M bpd + 5% DC + 5M tourists + gas + agro |
+
+---
+
+## Slide 8: Financial Projections
+
+```mermaid
+xychart-beta
+    title "PIB y Fondo Soberano (USD miles de M)"
+    x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
+    y-axis "USD miles de millones" 0 --> 500
+    bar [83, 140, 250, 425]
+    line [0, 30, 115, 325]
+```
+
+| Year | GDP | Fund | Dividend/person | Oil % exports |
+|------|-----|------|-----------------|---------------|
+| Today | USD 83B | USD 0 | USD 0 | 95% |
+| 5 | USD 140B | USD 30B | USD 20 | 75% |
+| 10 | USD 250B | USD 115B | USD 50 | 45% |
+| 15 | USD 425B | USD 325B | USD 162 | <35% |
+
+**Conservative base: USD 60/barrel.** Every dollar above is upside to the fund.
+
+---
+
+## Slide 9: Competitive Moat
+
+| Moat | Detail | Duration |
+|------|--------|----------|
+| **Reserves #1** | 303B bbl (no one has more) | 50–100 years |
+| **24/7 Hydro** | 18 GW Caroni — solar/wind cannot match reliability | Permanent |
+| **7.9M Diaspora** | Human + financial capital distributed globally | 10–20 years |
+| **Greenfield** | No legacy tech = build from scratch (Estonia 1991) | 10 years |
+| **Geography** | Caribbean + coast + submarine cable proximity | Permanent |
+
+---
+
+## Slide 10: The Team
+
+| Role | Required profile |
+|------|-----------------|
+| **CEO / Plan Director** | Leader with experience in sovereign restructurings or nation-scale M&A |
+| **CFO / Financial Architect** | Expertise in sovereign debt restructuring + sovereign wealth funds |
+| **CTO / Digital Government** | Estonia e-gov or Singapore GovTech background |
+| **COO / Infrastructure** | Track record in public-private concessions (Chile/Colombia model) |
+| **Diaspora Lead** | Access to global Venezuelan networks, tech background |
+| **Advisors** | Ex-finance ministers from Chile/Georgia/Estonia, oil & gas executives |
+
+:::caution Team to be built
+This plan is open source. The team is built with the Pre-Seed. The diaspora has the talent — Venezuelans at Goldman Sachs, Google, McKinsey, Shell. The plan brings them together.
+:::
+
+---
+
+## Slide 11: The Ask
+
+| Concept | Amount |
+|---------|--------|
+| **Pre-Seed (now)** | USD 25–60M |
+| **Pre-Seed use** | Investment app, digital census, legal, transparency, matching |
+| **Seed (years 1-2)** | USD 1–5B |
+| **Total (15 years)** | USD 550–750B |
+
+**What we DON'T need to start:** government, oil, anyone's permission. Just 79,000 Venezuelans investing USD 500 each.
+
+---
+
+## Slide 12: The Vision
+
+> **Venezuela is not a problem to solve. It's a business to build.**
+>
+> **And every Venezuelan is a founding shareholder.**
+
+| Year 15 target | Value |
+|----------------|-------|
+| GDP | USD 350–500B (top 3 LATAM) |
+| GDP/capita | USD 10,000–14,000 (Chile/Colombia range) |
+| Sovereign fund | USD 250–400B |
+| Oil % of exports | <35% (today: 95%) |
+| Dividend/person/year | USD 125–200 |
+| Homicide rate | <5/100K (today: ~30-40) |
+| Internet | 50+ Mbps (today: <1 Mbps) |
+| Direct tech jobs | 200,000+ (today: ~0) |
+
+**The country with the most resources on Earth deserves the most ambitious plan.**

@@ -13,7 +13,14 @@ const config = {
   trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  i18n: { defaultLocale: "es", locales: ["es"] },
+  i18n: {
+    defaultLocale: "es",
+    locales: ["es", "en"],
+    localeConfigs: {
+      es: { label: "Español", direction: "ltr", htmlLang: "es" },
+      en: { label: "English", direction: "ltr", htmlLang: "en" },
+    },
+  },
   markdown: {
     mermaid: true,
     format: "md",
@@ -73,7 +80,7 @@ const config = {
     [
       "@cmfcmf/docusaurus-search-local",
       {
-        language: "es",
+        language: ["es", "en"],
         indexBlog: false,
         indexPages: false,
       },
@@ -114,6 +121,10 @@ const config = {
             sidebarId: "planSidebar",
             position: "left",
             label: "El Plan",
+          },
+          {
+            type: "localeDropdown",
+            position: "right",
           },
           {
             href: "https://github.com/Venezuela-S-A/venezuela-sa",

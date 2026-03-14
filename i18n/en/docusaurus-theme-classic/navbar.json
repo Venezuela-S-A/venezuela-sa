@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Venezuela S.A.",
+    "description": "The title in the navbar"
+  },
+  "item.label.El Plan": {
+    "message": "The Plan",
+    "description": "Navbar item with label El Plan"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

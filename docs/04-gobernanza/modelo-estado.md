@@ -122,8 +122,18 @@ Son **dos cosas distintas** que se complementan:
 | **Salud** | 7% | Hospitalización, medicamentos, copagos. Fase 1-5: 100% contributivo. Fase 5+: contributivo + ahorro individual | Contributivo (fase 1) → individual (fase 3) | [Chile FONASA](https://www.fonasa.cl/) → [Singapur MediSave](https://www.moh.gov.sg/) |
 | **Vivienda** | 4% | Pago inicial de vivienda propia. Crédito hipotecario | Del trabajador | [Singapur CPF Ordinary Account](https://www.cpf.gov.sg/) |
 | **Educación** | 2% | Universidad propia o de los hijos | Del trabajador | [Singapur CPF Education Scheme](https://www.cpf.gov.sg/) |
-| **Cesantía** | 2% | Colchón de 3-6 meses de salario si pierdes el empleo. Se acumula y si no la usas, se transfiere a Retiro al jubilarte | Del trabajador — disponible inmediato si queda desempleado | [Chile AFC (Seguro de Cesantía)](https://www.afc.cl/) |
+| **Cesantía** | 2% | Colchón de 3-6 meses de salario si pierdes el empleo. Si no la usas → se transfiere a Retiro al jubilarte | Del trabajador — disponible inmediato si queda desempleado | [Chile AFC (Seguro de Cesantía)](https://www.afc.cl/) |
 | **TOTAL** | **23%** | | **(11% trabajador + 12% empleador)** | Singapur CPF: 37% |
+
+:::info Al jubilarse: todos los saldos no usados → Retiro
+Cuando el ciudadano llega a la edad de jubilación, **todos los fondos no utilizados de las demás subcuentas se consolidan automáticamente en la Subcuenta Retiro:**
+- **Vivienda** no usada (si ya compró casa o nunca la usó) → Retiro
+- **Educación** no usada (si no la necesitó para universidad) → Retiro
+- **Cesantía** no usada (si nunca quedó desempleado) → Retiro
+- **Salud** con saldo individual (Medisave) → se mantiene como fondo médico para la jubilación
+
+**Efecto:** un trabajador disciplinado que compró casa temprano, nunca quedó desempleado, y sus hijos pagaron universidad con mérito, llega a la jubilación con un fondo de retiro **significativamente mayor** porque recibe los saldos de 3 subcuentas adicionales. El sistema premia el esfuerzo y la planificación.
+:::
 
 ```mermaid
 flowchart TB

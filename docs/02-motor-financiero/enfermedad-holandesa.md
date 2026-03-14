@@ -52,7 +52,7 @@ flowchart TD
 | **Países Bajos** | 1959-1977 | Descubrimiento de gas en Groningen → apreciación del florín | Manufactura cayó de 30% a 20% del PIB; sector servicios compensó parcialmente | [IMF WP/2003/12](https://www.imf.org/external/pubs/ft/wp/2003/wp0312.pdf) |
 | **Nigeria** | 1970-2000 | Boom petrolero → naira apreciada → agricultura colapsó | Agricultura cayó de 60% a 20% del PIB; pobreza aumentó pese a ingresos petroleros | [World Bank, 2003](https://documents.worldbank.org/) |
 | **Venezuela** | 1973-1998 | Boom petrolero → bolívar apreciado → "Venezuela Saudita" | PIB per cápita cayó 22% entre 1978-1998 pese a USD 300B+ en ingresos petroleros; manufactura destruida | [Hausmann & Rodríguez, 2014](https://www.hup.harvard.edu/books/9780674072848) |
-| **Noruega** | 1970-presente | Boom petrolero → fondo soberano absorbe dólares → corona gestionada | Manufactura se contrajo pero fondo acumuló USD 2,2T; economía diversificada | [NBIM](https://www.nbim.no/) |
+| **Noruega** | 1970-presente | Boom petrolero → Fondo de Inversión Venezuela S.A. absorbe dólares → corona gestionada | Manufactura se contrajo pero fondo acumuló USD 2,2T; economía diversificada | [NBIM](https://www.nbim.no/) |
 | **Botsuana** | 1967-presente | Boom de diamantes → fondo Pula + inversión en educación + tipo de cambio gestionado | PIB per cápita: USD 70 (1966) → USD 7.500 (2023); democracia más estable de África | [World Bank](https://data.worldbank.org/country/botswana) |
 
 ---
@@ -85,15 +85,15 @@ xychart-beta
 
 ## 6 Mecanismos de Defensa
 
-### 1. Fondo soberano 100% externo
+### 1. Fondo de Inversión Venezuela S.A. 100% externo
 
-Todos los ingresos petroleros van al [fondo soberano](/02-motor-financiero/fondo-soberano) que invierte **100% fuera de Venezuela**. Los dólares del petróleo nunca entran a la economía doméstica directamente — solo el retorno del fondo (3-4%/año), dosificado.
+Todos los ingresos petroleros van al [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano) que invierte **100% fuera de Venezuela**. Los dólares del petróleo nunca entran a la economía doméstica directamente — solo el retorno del fondo (3-4%/año), dosificado.
 
 **Precedente:** [NBIM (Noruega)](https://www.nbim.no/) — 100% activos externos. Es el mecanismo anti-Dutch Disease más probado del mundo.
 
 ### 2. Esterilización fiscal
 
-El Estado no financia su gasto con petróleo sino con impuestos (15% flat + 12% IVA). Los ingresos petroleros van al fondo soberano administrado por Venezuela S.A. — no al presupuesto del Estado. Venezuela S.A. cobra regalías y dividendos de las concesiones petroleras y los deposita en el fondo. El Estado no toca esos ingresos. Esto rompe el canal de transmisión: más petróleo ≠ más gasto público ≠ más demanda interna ≠ apreciación.
+El Estado no financia su gasto con petróleo sino con impuestos (15% flat + 12% IVA). Los ingresos petroleros van al Fondo de Inversión Venezuela S.A. administrado por Venezuela S.A. — no al presupuesto del Estado. Venezuela S.A. cobra regalías y dividendos de las concesiones petroleras y los deposita en el fondo. El Estado no toca esos ingresos. Esto rompe el canal de transmisión: más petróleo ≠ más gasto público ≠ más demanda interna ≠ apreciación.
 
 ### 3. ZEETs compensatorias
 

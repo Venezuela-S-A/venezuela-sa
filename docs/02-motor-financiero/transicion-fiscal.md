@@ -3,7 +3,7 @@ sidebar_position: 5
 title: Transición Fiscal
 ---
 
-# Transición Fiscal: Del Petroestado al Fondo Soberano
+# Transición Fiscal: Del Petroestado al Fondo de Inversión Venezuela S.A.
 
 > El petróleo no puede financiar SIMULTÁNEAMENTE el presupuesto de hoy y el fondo del mañana. La transición fiscal es el mecanismo que resuelve esa tensión.
 
@@ -23,12 +23,12 @@ Venezuela aprobó un [presupuesto de USD 22.700 M para 2025](https://invezz.com/
 | PDVSA exportaciones totales | USD 17.520 M | — | [OE Digital](https://energynews.oedigital.com/fossil-fuels/2025/07/11/venezuelan-pdvsa-exports-of-hydrocarbons-will-reach-1752-billion-in-2024) |
 
 :::danger El problema central
-Hoy, el **100% de los ingresos petroleros** se consume en presupuesto. **0% va al fondo soberano.** Cada bolívar de petróleo se gasta. No se ahorra nada. Esto es exactamente lo que Noruega hacía antes de 1990 — y lo que decidió dejar de hacer.
+Hoy, el **100% de los ingresos petroleros** se consume en presupuesto. **0% va al Fondo de Inversión Venezuela S.A..** Cada bolívar de petróleo se gasta. No se ahorra nada. Esto es exactamente lo que Noruega hacía antes de 1990 — y lo que decidió dejar de hacer.
 :::
 
 ## El Modelo Noruega: Cómo Funciona la Regla Fiscal
 
-[Noruega](https://www.norskpetroleum.no/en/economy/management-of-revenues/) transfiere el **100% de los ingresos petroleros netos** al fondo soberano. Luego retira solo el [3–4% del valor del fondo](https://www.norskpetroleum.no/en/economy/management-of-revenues/) para financiar el presupuesto. Resultado: el fondo crece con el 96–97% restante + rendimientos.
+[Noruega](https://www.norskpetroleum.no/en/economy/management-of-revenues/) transfiere el **100% de los ingresos petroleros netos** al Fondo de Inversión Venezuela S.A.. Luego retira solo el [3–4% del valor del fondo](https://www.norskpetroleum.no/en/economy/management-of-revenues/) para financiar el presupuesto. Resultado: el fondo crece con el 96–97% restante + rendimientos.
 
 | Aspecto | Noruega | Venezuela (propuesta) |
 |---------|---------|----------------------|
@@ -115,7 +115,7 @@ Para que ningún gobierno futuro revierta la transición:
 | Regla | Detalle | Modelo |
 |-------|---------|--------|
 | **Techo de gasto petrolero directo** | Máximo % del ingreso petrolero que va al presupuesto, decreciente por ley | [Chile: regla fiscal estructural](https://www.worldbank.org/en/topic/fiscal-policy) |
-| **Piso de ahorro** | Mínimo % al fondo soberano, creciente por ley | Noruega: regla del 3% |
+| **Piso de ahorro** | Mínimo % al Fondo de Inversión Venezuela S.A., creciente por ley | Noruega: regla del 3% |
 | **Candado constitucional** | Modificar requiere 2/3 del parlamento + referéndum | Chile: supermayoría |
 | **Fondo de estabilización** | Reserva de 6–12 meses de gasto para crisis de precio | [Chile: FEES](https://www.hacienda.cl) |
 

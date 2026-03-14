@@ -11,7 +11,7 @@ title: Inversión y Fuentes
 pie title Inversión por Componente (USD miles de millones — rango inferior)
     "Petróleo (3M bpd)" : 183
     "Deuda reestructurada" : 75
-    "Fondo soberano" : 50
+    "Fondo de Inversión Venezuela S.A." : 50
     "Infraestructura básica" : 41.5
     "Electricidad" : 15
     "Educación" : 15
@@ -46,7 +46,7 @@ xychart-beta
 | Pensiones (transición) | USD 6–12.000 M/año | Pilar 1 universal + transición | ALTA |
 | Data centers | USD 5–10.000 M | [ResearchAndMarkets](https://www.businesswire.com/news/home/20250505397648/en/) | ALTA |
 | Programa de retorno | USD 500–1.500 M | Bonos repatriación + plataforma | ALTA |
-| Fondo soberano inicial | USD 50–100.000 M | Modelo noruego | ESTRATÉGICA |
+| Fondo de Inversión Venezuela S.A. inicial | USD 50–100.000 M | Modelo noruego | ESTRATÉGICA |
 
 :::info Nota sobre los rangos
 El rango inferior asume ejecución eficiente con participación privada significativa (concesiones, JVs, PPPs). El rango superior asume mayor participación estatal directa. El modelo Venezuela S.A. prioriza el rango inferior mediante concesiones y capital privado.
@@ -141,7 +141,7 @@ flowchart LR
 |------|--------------|--------------------------|----------------|
 | **1: Instituciones** (Año 0-1) | Dashboard anticorrupción público, reglas fiscales legisladas, nombramiento de equipo negociador de deuda, acuerdo stand-by FMI | Chevron expande operaciones, primeras licencias OFAC | **USD 3.000–5.000 M** |
 | **2: Primeros contratos** (Año 1-3) | Primeros forward contracts firmados, JV con 2-3 majors, Citgo estabilizado | Oil majors amplían JVs (TotalEnergies, Shell, Repsol), multilaterales desembolsan | **USD 10.000–20.000 M** |
-| **3: Ejecución demostrada** (Año 3-5) | 2 años de cumplimiento fiscal, producción subiendo (1.5M+ bpd), primer desembolso del fondo soberano | Full upstream investment, sector financiero, BigTech data centers | **USD 50.000–100.000 M** |
+| **3: Ejecución demostrada** (Año 3-5) | 2 años de cumplimiento fiscal, producción subiendo (1.5M+ bpd), primer desembolso del Fondo de Inversión Venezuela S.A. | Full upstream investment, sector financiero, BigTech data centers | **USD 50.000–100.000 M** |
 
 ### Por Qué Funciona
 

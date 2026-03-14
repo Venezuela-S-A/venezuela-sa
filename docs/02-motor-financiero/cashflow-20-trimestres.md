@@ -32,7 +32,7 @@ Si el bridge financing no se estructura correctamente, el plan muere en el trime
 | Producción inicial | **1.000K bpd** | [OPEP/IEA 2025](https://www.iea.org/) |
 | Producción meta año 5 | **1.750K bpd** | Rystad Energy, interpolación lineal |
 | Incremento trimestral | **~37,5K bpd** | (1.750 - 1.000) / 20 trimestres |
-| % al fondo soberano | **0% → 40%** | [Transición fiscal](/02-motor-financiero/transicion-fiscal) |
+| % al Fondo de Inversión Venezuela S.A. | **0% → 40%** | [Transición fiscal](/02-motor-financiero/transicion-fiscal) |
 | Días por trimestre | **91,25** | 365 / 4 |
 
 :::info Sobre el ramp-up de producción
@@ -72,7 +72,7 @@ El incremento no es lineal en la realidad — los primeros trimestres son más l
 
 ### Notas metodológicas
 
-- **Año 1:** 100% del ingreso neto petrolero va al presupuesto (emergencia). Fondo soberano recibe **USD 0**.
+- **Año 1:** 100% del ingreso neto petrolero va al presupuesto (emergencia). Fondo de Inversión Venezuela S.A. recibe **USD 0**.
 - **Año 2-3:** 80% al presupuesto, **20% al fondo** — consistente con [transición fiscal](/02-motor-financiero/transicion-fiscal).
 - **Año 4-5:** 60% al presupuesto, **40% al fondo**.
 - **Fuentes externas** incluyen: forwards (adelantos), desembolsos multilaterales, aportes JV de majors petroleras, Pre-Seed ciudadano.
@@ -141,7 +141,7 @@ flowchart TD
     B --> C["Ingreso Neto Petrolero"]
     C --> D{"Regla de Transición Fiscal"}
     D -->|"Y1: 100% / Y2-3: 80% / Y4-5: 60%"| E["Presupuesto Fiscal"]
-    D -->|"Y1: 0% / Y2-3: 20% / Y4-5: 40%"| F["Fondo Soberano"]
+    D -->|"Y1: 0% / Y2-3: 20% / Y4-5: 40%"| F["Fondo de Inversión Venezuela S.A."]
     G["Fuentes Externas
     Forwards + JVs + Multilaterales + Diáspora"] --> E
     E --> H["P1: Emergencia Humanitaria
@@ -187,7 +187,7 @@ flowchart TD
 | Margen neto por barril | **USD 12,50** (vs. USD 22,50) |
 | Ingreso neto acumulado 5 años | **USD 28.800 M** (vs. USD 51.700 M) |
 | Gap adicional | **USD 22.900 M** |
-| Solución | Activar cláusula de emergencia: fondo soberano congelado, 100% al presupuesto, renegociar forward pricing |
+| Solución | Activar cláusula de emergencia: Fondo de Inversión Venezuela S.A. congelado, 100% al presupuesto, renegociar forward pricing |
 
 ### Escenario C: Combinado (ramp-up lento + precio bajo)
 
@@ -209,7 +209,7 @@ Si la producción se retrasa Y el precio cae simultáneamente, el plan necesita 
 |-----|------------|------------|------------|------------|----------------------|
 | Producción (bpd) | 1.113K | 1.263K | 1.413K | 1.713K | OPEP Monthly Oil Market Report |
 | Ingreso neto trimestral (USD M) | 2.285 | 2.594 | 2.902 | 3.519 | Auditoría Big 4 trimestral |
-| Fondo soberano acumulado (USD M) | 0 | 1.563 | 3.793 | 11.035 | Dashboard público [NBIM-style](https://www.nbim.no/) |
+| Fondo de Inversión Venezuela S.A. acumulado (USD M) | 0 | 1.563 | 3.793 | 11.035 | Dashboard público [NBIM-style](https://www.nbim.no/) |
 | Balance trimestral (USD M) | >-500 | >0 | >100 | >400 | Tesorería + auditor externo |
 | Forward advances desembolsados (USD M acum.) | 8.000 | 12.500 | 15.000 | 17.300 | Cuentas escrow + Big 4 |
 | Gasto prioritario ejecutado (%) | >85% | >90% | >92% | >95% | Contraloría + dashboard ciudadano |

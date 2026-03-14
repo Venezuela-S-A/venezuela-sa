@@ -5,7 +5,7 @@ title: El Sueño
 
 # El Sueño: Escenario Optimista Integrado
 
-> ¿Qué pasa si todo funciona? Esta sección consolida TODAS las fuentes de ingreso del plan — petróleo a precio favorable, gas natural, turismo, minería, energías, tecnología, startups, estado eficiente — y muestra el escenario donde Venezuela maximiza su potencial. El vehículo que hace posible el sueño no es un gobierno — es **Venezuela S.A.**, el holding corporativo de 40 millones de ciudadanos-accionistas que invierte, cobra regalías, administra el fondo soberano y distribuye dividendos. El Estado solo regula.
+> ¿Qué pasa si todo funciona? Esta sección consolida TODAS las fuentes de ingreso del plan — petróleo a precio favorable, gas natural, turismo, minería, energías, tecnología, startups, estado eficiente — y muestra el escenario donde Venezuela maximiza su potencial. El vehículo que hace posible el sueño no es un gobierno — es **Venezuela S.A.**, el holding corporativo de 40 millones de ciudadanos-accionistas que invierte, cobra regalías, administra el Fondo de Inversión Venezuela S.A. y distribuye dividendos. El Estado solo regula.
 
 :::caution Base de datos, no fantasía
 Cada cifra aquí tiene fuente verificable. El escenario optimista no es inventado — es lo que pasa cuando se combinan las proyecciones favorables de cada motor, todas documentadas en sus secciones respectivas. Lo que lo hace "sueño" no son los números, sino que requiere que TODAS las condiciones se cumplan simultáneamente.
@@ -59,7 +59,7 @@ Eso es ~1 en 1.100. Sigue siendo improbable — pero es **~5x más probable** qu
 
 ### Los escenarios que importan
 
-| Escenario | Condiciones cumplidas | PIB Año 15 | Fondo soberano | Pobreza |
+| Escenario | Condiciones cumplidas | PIB Año 15 | Fondo de Inversión Venezuela S.A. | Pobreza |
 |-----------|----------------------|-----------|---------------|---------|
 | **El Sueño** (10/10) | Todas | USD 450-550B | USD 400-540B | <15% |
 | **Muy favorable** (7-8/10) | Sin minería plena ni Estado mínimo | USD 350-450B | USD 250-400B | 15-25% |
@@ -99,7 +99,7 @@ La guerra con Irán y el cierre del Estrecho de Ormuz (marzo 2026) eliminaron ~2
 | Probabilidad del Sueño | ~0.02% (1 en 5.000) | ~0.09% (1 en 1.100) |
 
 :::caution El precio base del plan sigue siendo USD 60/barril
-La crisis es un acelerador, no un supuesto. Si Ormuz reabre mañana y el petróleo baja a $70, el plan sigue funcionando. Lo que cambia es la velocidad y el compromiso de inversión. Todo lo que está por encima de USD 60 va al fondo soberano como upside.
+La crisis es un acelerador, no un supuesto. Si Ormuz reabre mañana y el petróleo baja a $70, el plan sigue funcionando. Lo que cambia es la velocidad y el compromiso de inversión. Todo lo que está por encima de USD 60 va al Fondo de Inversión Venezuela S.A. como upside.
 :::
 
 ### La ventana de ventanas
@@ -254,7 +254,7 @@ Venezuela importa >70% de alimentos pese a tener los Llanos (tierras fértiles +
 | 5 ZEETs operativas | Shenzhen, Dubái, Estonia | Tasas + impuestos corporativos |
 | Aceleradoras (50+/año) | Israel: 6.000 startups en 20 años | Equity + empleos |
 | Talento diáspora retornada (300K+) | India reverse brain drain | Capital humano |
-| Venture capital local | Fondo soberano como LP | Retornos de portfolio |
+| Venture capital local | Fondo de Inversión Venezuela S.A. como LP | Retornos de portfolio |
 | **Contribución total ecosistema** | | **USD 2.000-4.000 M/año** |
 
 ---
@@ -320,9 +320,9 @@ xychart-beta
 
 ---
 
-## Fondo Soberano: El Motor de los Dividendos
+## Fondo de Inversión Venezuela S.A.: El Motor de los Dividendos
 
-En el escenario optimista, el fondo soberano se alimenta de:
+En el escenario optimista, el Fondo de Inversión Venezuela S.A. se alimenta de:
 
 | Fuente de aporte al fondo | % asignado | Aporte anual Año 15 |
 |--------------------------|-----------|---------------------|
@@ -335,7 +335,7 @@ En el escenario optimista, el fondo soberano se alimenta de:
 
 ```mermaid
 xychart-beta
-    title "Fondo Soberano Acumulado — Optimista vs Base (USD miles de M)"
+    title "Fondo de Inversión Venezuela S.A. Acumulado — Optimista vs Base (USD miles de M)"
     x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
     y-axis "USD miles de millones" 0 --> 550
     bar [0, 55, 200, 470]
@@ -411,7 +411,7 @@ La inversión de USD 500 no busca retorno de venture capital. Busca:
 2. Servicios públicos que funcionan para tu familia
 3. Seguridad para tus padres que se quedaron
 4. Oportunidades económicas en una economía de USD 550B
-5. Dividendos perpetuos de un fondo soberano
+5. Dividendos perpetuos de un Fondo de Inversión Venezuela S.A.
 
 El ROI verdadero: **pasar de emigrante a accionista de tu país.**
 :::
@@ -439,7 +439,7 @@ El dividendo de USD 65/persona en el año 15 es solo el comienzo. A medida que e
 | 30 | 42,5 M | 3,5 M | 3,5 M | Equilibrio |
 | 35 | 43 M | 3,2 M | 3,5 M | Estabilización demográfica |
 
-### Crecimiento del Fondo Soberano (Año 15-35)
+### Crecimiento del Fondo de Inversión Venezuela S.A. (Año 15-35)
 
 Después del año 15, el fondo se acelera por 3 factores:
 1. **Interés compuesto** — USD 470B al 5,5% generan USD 26B/año solo en retornos
@@ -456,7 +456,7 @@ Después del año 15, el fondo se acelera por 3 factores:
 
 ```mermaid
 xychart-beta
-    title "Fondo Soberano — Horizonte 35 años (USD miles de M)"
+    title "Fondo de Inversión Venezuela S.A. — Horizonte 35 años (USD miles de M)"
     x-axis ["Año 5", "Año 10", "Año 15", "Año 20", "Año 25", "Año 30", "Año 35"]
     y-axis "USD miles de millones" 0 --> 2500
     bar [55, 200, 470, 740, 1130, 1670, 2380]
@@ -647,7 +647,7 @@ xychart-beta
 
 ## Comparación Internacional
 
-| País | Fondo Soberano | Habitantes | Per cápita | Años para lograrlo |
+| País | Fondo de Inversión Venezuela S.A. | Habitantes | Per cápita | Años para lograrlo |
 |------|---------------|-----------|------------|-------------------|
 | Noruega | USD 2.200B | 5,3 M | USD 415.000 | 30 años |
 | Singapur (GIC+Temasek) | USD 1.100B+ | 5,9 M | USD 186.000 | 40 años |
@@ -670,7 +670,7 @@ Venezuela tiene más habitantes pero también más recursos. El fondo per cápit
 | Corrupción captura valor | Fondos desviados | Blockchain + dashboard + whistleblower |
 | Cambio climático reduce hidroeléctrica | Energía más cara | Diversificar con solar + eólica |
 | Hormuz reabre rápido, petróleo baja a $70 | Reduce velocidad, no viabilidad | Contratos con cláusula de estabilidad; USD 100B ya comprometidos |
-| EE.UU. controla petróleo indefinidamente sin transferir | Plan de fondo soberano se retrasa | Condicionar apoyo a cronograma de transferencia a Venezuela S.A. |
+| EE.UU. controla petróleo indefinidamente sin transferir | Plan de Fondo de Inversión Venezuela S.A. se retrasa | Condicionar apoyo a cronograma de transferencia a Venezuela S.A. |
 | Dependencia excesiva de EE.UU. | Vulnerabilidad a cambio político en Washington | Diversificar compradores (India, Europa) dentro del marco permitido |
 
 :::info Incluso si falla la mitad
@@ -727,7 +727,7 @@ Cada componente individual de este escenario ya existe en otro país:
 
 | Componente | Ya lo hizo | Resultado |
 |-----------|-----------|-----------|
-| Fondo soberano de petróleo | Noruega | USD 2,2T en 30 años |
+| Fondo de inversión petrolero | Noruega | USD 2,2T en 30 años |
 | Diversificación desde petróleo | Emiratos Árabes | Petróleo <30% PIB |
 | Estado digital | Estonia | 99% servicios online |
 | Reforma policial radical | Georgia | Corrupción eliminada en 2 años |

@@ -46,7 +46,7 @@ Brent hoy: ~USD 100 (crisis Ormuz). [EIA proyecta](https://www.eia.gov/outlooks/
 | **Production Sharing Agreement (PSA)** | 50–70% | 30–50% | Indonesia, Angola, Nigeria | Estado no pone capital; major asume riesgo exploratorio | Menor control operativo, cost recovery favorece major |
 | **Service Contract** | 85–95% | 5–15% (fee fijo) | Irak post-2009, México (pre-reforma) | Máximo control y retención de ingresos | No atrae inversión de escala; riesgo 100% de Venezuela S.A. |
 | **Concesión** | 40–60% (regalías + impuestos) | 40–60% | Guyana, Brasil (pre-sal) | Máxima inversión privada, rápida ejecución | Menor control, riesgo de términos desfavorables |
-| **Modelo Noruego** | **~67%** | ~33% | Noruega (Equinor + licencias) | Balance óptimo: control ciudadano (vía Venezuela S.A.) + inversión privada + fondo soberano | Requiere empresa operadora competente (Equinor como referencia) |
+| **Modelo Noruego** | **~67%** | ~33% | Noruega (Equinor + licencias) | Balance óptimo: control ciudadano (vía Venezuela S.A.) + inversión privada + Fondo de Inversión Venezuela S.A. | Requiere empresa operadora competente (Equinor como referencia) |
 
 ### Situación Actual de Venezuela
 
@@ -78,7 +78,7 @@ xychart-beta
 2. **Fase 2 (Año 5-10):** Renegociar a 60/40 conforme el riesgo baja y la producción sube.
 3. **Fase 3 (Año 10-15):** Migrar a modelo noruego (67/33) con Venezuela S.A. como socio competente en JVs post-reforma de PDVSA (PDVSA se transforma en filial operadora de Venezuela S.A., no del Estado).
 
-El **upside por encima de USD 60/barril** va 100% al fondo soberano — esto aumenta el Venezuela S.A. take efectivo sin cambiar los contratos.
+El **upside por encima de USD 60/barril** va 100% al Fondo de Inversión Venezuela S.A. — esto aumenta el Venezuela S.A. take efectivo sin cambiar los contratos.
 :::
 
 **Fuentes:** [IEA — World Energy Outlook 2024](https://www.iea.org/reports/world-energy-outlook-2024) | [Rystad Energy](https://www.rystadenergy.com/) | [Reuters — Chevron GL44](https://www.reuters.com/business/energy/chevron-begins-shipping-venezuelan-oil-us-after-license-2022-11-26/)

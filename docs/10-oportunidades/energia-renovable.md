@@ -494,7 +494,7 @@ pie title Mix de Generación Eléctrica — Meta Año 10
 | **Ingreso anual (año 10)** | USD 1-3B (electricidad + créditos + exportación) |
 
 :::tip La ecuación final
-Venezuela + hidro + solar + eólica = el grid más limpio y barato de las Américas. Eso atrae data centers (USD 2-3B/año). Eso genera créditos de carbono (USD 100-450M/año). Eso habilita hidrógeno verde (futuro). Y todo eso sucede **sin quemar una gota de petróleo** — que se vende a USD 60/barril para el fondo soberano.
+Venezuela + hidro + solar + eólica = el grid más limpio y barato de las Américas. Eso atrae data centers (USD 2-3B/año). Eso genera créditos de carbono (USD 100-450M/año). Eso habilita hidrógeno verde (futuro). Y todo eso sucede **sin quemar una gota de petróleo** — que se vende a USD 60/barril para el Fondo de Inversión Venezuela S.A..
 
 **Petróleo es combustible. Las renovables son destino.**
 :::

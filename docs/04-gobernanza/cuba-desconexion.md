@@ -114,7 +114,7 @@ Cuba retiró **50.000 tropas** de Angola en 27 meses bajo el Acuerdo Tripartito 
 | **Inteligencia** | Capacidad operativa de SEBIN/DGCIM se degrada temporalmente (6–18 meses) | Inteligencia soberana, alianzas con Five Eyes/Mossad, capacidad propia |
 | **Control militar** | Mecanismos de lealtad interna se debilitan → riesgo de facciones | FANB profesional con doctrina propia, no de control político |
 | **Misiones sociales** | Pérdida temporal de médicos/educadores cubanos en zonas vulnerables | Programa propio de salud rural + contratación internacional |
-| **Gasto petrolero** | "Ahorro" de **~USD 2.2B/año** en petróleo que iba a Cuba | USD 2.2B/año redirigidos al fondo soberano o inversión interna |
+| **Gasto petrolero** | "Ahorro" de **~USD 2.2B/año** en petróleo que iba a Cuba | USD 2.2B/año redirigidos al Fondo de Inversión Venezuela S.A. o inversión interna |
 | **Relación con EE.UU.** | — | **Desbloqueo de alivio de sanciones** — condición Rubio satisfecha |
 | **Soberanía** | — | Venezuela controla sus propias instituciones de seguridad |
 
@@ -265,10 +265,10 @@ flowchart TD
 
 1. **Acelerar alianzas de inteligencia.** El vacío ya existe. CIA/DEA y Colombia deben estar operando en semanas, no en años.
 2. **Auditoría de emergencia.** Identificar todo personal cubano remanente en SEBIN, DGCIM y FANB. La intervención facilitó esto — los archivos están más accesibles.
-3. **No enviar petróleo a Cuba.** La tentación humanitaria existe, pero cada barrel enviado a Cuba es un barrel fuera del fondo soberano. Cuba tiene otros socios potenciales (México, Rusia, China).
+3. **No enviar petróleo a Cuba.** La tentación humanitaria existe, pero cada barrel enviado a Cuba es un barrel fuera del Fondo de Inversión Venezuela S.A.. Cuba tiene otros socios potenciales (México, Rusia, China).
 4. **Preparar para migración cubana.** Si Cuba colapsa, Venezuela será destino. Plan migratorio necesario.
-5. **Redirigir los USD 2.2B/año.** El subsidio petrolero a Cuba (~USD 2.2B/año a USD 60/barril) es ahora ingreso recuperado. Va directo al fondo soberano.
+5. **Redirigir los USD 2.2B/año.** El subsidio petrolero a Cuba (~USD 2.2B/año a USD 60/barril) es ahora ingreso recuperado. Va directo al Fondo de Inversión Venezuela S.A..
 
 :::tip Ahorro directo: USD 2.2B/año
-Los ~35.000-100.000 bpd que iban a Cuba subsidiados ahora se venden a precio de mercado o se redirigen al fondo soberano. A **USD 60/barril**, esto representa entre **USD 766M y USD 2.2B/año** en ingresos recuperados. Es el primer "quick win" financiero de la desconexión.
+Los ~35.000-100.000 bpd que iban a Cuba subsidiados ahora se venden a precio de mercado o se redirigen al Fondo de Inversión Venezuela S.A.. A **USD 60/barril**, esto representa entre **USD 766M y USD 2.2B/año** en ingresos recuperados. Es el primer "quick win" financiero de la desconexión.
 :::

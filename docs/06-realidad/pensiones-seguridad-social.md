@@ -5,7 +5,7 @@ title: Pensiones y Seguridad Social
 
 # Pensiones y Seguridad Social: La Deuda Con los Mayores
 
-> Un país que no cuida a sus jubilados no merece un fondo soberano.
+> Un país que no cuida a sus jubilados no merece un fondo de inversión.
 
 ```mermaid
 xychart-beta
@@ -40,18 +40,18 @@ Es la **Subcuenta Retiro del Fondo Ciudadano Venezuela (FCV)**, que también cub
 
 | Componente | Descripción | Modelo |
 |-----------|-------------|--------|
-| **Pilar 1: Pensión básica universal** | USD 100–200/mes para TODO jubilado (financiado por impuestos + rendimientos del fondo soberano) | [Alaska PFD](https://pfd.alaska.gov/) + Chile Pensión Garantizada Universal |
+| **Pilar 1: Pensión básica universal** | USD 100–200/mes para TODO jubilado (financiado por impuestos + rendimientos del Fondo de Inversión Venezuela S.A.) | [Alaska PFD](https://pfd.alaska.gov/) + Chile Pensión Garantizada Universal |
 | **Pilar 2: Subcuenta Retiro del FCV** | 8% del salario → 10% en madurez. Cuenta individual dentro del FCV, administrada por ente autónomo tipo CPF Board. Parte del 21% total del FCV (10% trabajador + 11% empleador) | [Singapur CPF Special Account](https://www.cpf.gov.sg/) |
 | **Pilar 3: Ahorro voluntario** | Incentivos fiscales para ahorro adicional sobre el FCV | 401(k) EE.UU. / Colombia fondo voluntario |
-| **Pilar 4: Dividendo ciudadano** | Complemento del fondo soberano (USD 125–200/año a todos) | Ver [Inversión Ciudadana](/03-ciudadanos/inversion-ciudadana) |
+| **Pilar 4: Dividendo ciudadano** | Complemento del Fondo de Inversión Venezuela S.A. (USD 125–200/año a todos) | Ver [Inversión Ciudadana](/03-ciudadanos/inversion-ciudadana) |
 
 ### Financiamiento del Pilar 1 (Pensión Básica — de impuestos, NO del FCV)
 
 | Escenario | Costo anual | Financiamiento |
 |-----------|------------|----------------|
 | 5 M jubilados × USD 100/mes | USD 6.000 M/año | Presupuesto estatal (15% flat + 12% IVA) |
-| 5 M jubilados × USD 150/mes | USD 9.000 M/año | Presupuesto + rendimientos parciales del fondo soberano |
-| 5 M jubilados × USD 200/mes | USD 12.000 M/año | Rendimientos del fondo soberano (año 10+) |
+| 5 M jubilados × USD 150/mes | USD 9.000 M/año | Presupuesto + rendimientos parciales del Fondo de Inversión Venezuela S.A. |
+| 5 M jubilados × USD 200/mes | USD 12.000 M/año | Rendimientos del Fondo de Inversión Venezuela S.A. (año 10+) |
 
 ### Transición
 
@@ -68,7 +68,7 @@ xychart-beta
 | Emergencia | USD 50/mes (vs. USD 30 actual) | Presupuesto + oil revenue | Mes 1 |
 | Estabilización | USD 100/mes | Presupuesto | Año 1–3 |
 | Crecimiento | USD 150/mes | Presupuesto + rendimientos fondo | Año 4–7 |
-| Madurez | USD 200+/mes + dividendo ciudadano | Rendimientos del fondo soberano | Año 8+ |
+| Madurez | USD 200+/mes + dividendo ciudadano | Rendimientos del Fondo de Inversión Venezuela S.A. | Año 8+ |
 
 ### Contribución al Pilar 2 (Subcuenta Retiro del FCV)
 
@@ -89,4 +89,4 @@ A diferencia del IVSS actual (reparto, sin fondo), la Subcuenta Retiro del FCV e
 
 ## Lección Argentina (Milei)
 
-Bajo Milei, el poder adquisitivo de las jubilaciones [cayó del 50% al 26,6%](https://www.batimes.com.ar/news/economy/mileis-two-years-in-five-large-economic-and-social-indicators.phtml) de la canasta mínima. Venezuela S.A. propone lo contrario: **subir las pensiones desde el Día 1** como parte de la Fase 0 humanitaria. El fondo soberano es el mecanismo de largo plazo que lo hace sostenible.
+Bajo Milei, el poder adquisitivo de las jubilaciones [cayó del 50% al 26,6%](https://www.batimes.com.ar/news/economy/mileis-two-years-in-five-large-economic-and-social-indicators.phtml) de la canasta mínima. Venezuela S.A. propone lo contrario: **subir las pensiones desde el Día 1** como parte de la Fase 0 humanitaria. El Fondo de Inversión Venezuela S.A. es el mecanismo de largo plazo que lo hace sostenible.

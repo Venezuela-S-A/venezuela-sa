@@ -6,7 +6,7 @@ title: "Fase 0: Emergencia Humanitaria"
 # Fase 0: Emergencia Humanitaria (Primeros 180 Días)
 
 :::danger Prioridad Absoluta
-Ningún ciudadano creerá en un fondo soberano si no tiene agua, comida o medicinas. 80% de la población bajo la línea de pobreza. La [ONU recaudó solo 17%](https://www.cgdev.org/blog/barreling-blindly-ahead-seizure-venezuelas-oil) de su solicitud de USD 600 M.
+Ningún ciudadano creerá en un Fondo de Inversión Venezuela S.A. si no tiene agua, comida o medicinas. 80% de la población bajo la línea de pobreza. La [ONU recaudó solo 17%](https://www.cgdev.org/blog/barreling-blindly-ahead-seizure-venezuelas-oil) de su solicitud de USD 600 M.
 :::
 
 | Prioridad | Acción | Financiamiento | Plazo |

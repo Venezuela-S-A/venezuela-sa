@@ -18,7 +18,7 @@ Si un riesgo no tiene mitigación, no se ignora — se marca como vulnerabilidad
 | # | Riesgo | Prob. | Impacto | Severidad | Ref. |
 |---|--------|-------|---------|-----------|------|
 | 1 | **Inestabilidad política** — transición fracasa o se revierte | Alta | Crítico | CRÍTICO | — |
-| 2 | **Corrupción captura el fondo** — FONDEN 2.0 | Alta | Crítico | CRÍTICO | [Fondo soberano](/02-motor-financiero/fondo-soberano) |
+| 2 | **Corrupción captura el fondo** — FONDEN 2.0 | Alta | Crítico | CRÍTICO | [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano) |
 | 3 | **FANB como actor económico** — militares bloquean reformas que afectan sus negocios | Alta | Crítico | CRÍTICO | [Seguridad](/04-gobernanza/seguridad-fisica) |
 | 4 | **Dutch Disease** — petróleo aprecia moneda y destruye otros sectores | Media-Alta | Alto | ALTO | [Enfermedad holandesa](/02-motor-financiero/enfermedad-holandesa) |
 | 5 | **Capacidad de absorción** — no hay proyectos ni gente para gastar USD 183B en 15 años | Media-Alta | Alto | ALTO | [Capital humano](/05-transformacion/capital-humano) |
@@ -26,7 +26,7 @@ Si un riesgo no tiene mitigación, no se ignora — se marca como vulnerabilidad
 | 7 | **Brain drain permanente** — diáspora no retorna y talento local emigra | Media | Alto | ALTO | [Capital humano](/05-transformacion/capital-humano) |
 | 8 | **Sanciones se mantienen/endurecen** — EE.UU. no levanta restricciones | Media | Alto | ALTO | [Geopolítica](/04-gobernanza/geopolitica) |
 | 9 | **China/Rusia exigen pago** — USD 50B+ en deuda con condiciones | Media | Alto | ALTO | [Deuda](/02-motor-financiero/deuda) |
-| 10 | **Populismo captura el proceso** — nuevo gobierno gasta el fondo | Media | Crítico | ALTO | [Fondo soberano](/02-motor-financiero/fondo-soberano) |
+| 10 | **Populismo captura el proceso** — nuevo gobierno gasta el fondo | Media | Crítico | ALTO | [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano) |
 | 11 | **Precio petróleo < USD 50** por transición energética acelerada | Media-Baja | Alto | MEDIO | — |
 | 12 | **Acreedores bloquean activos** — USD 19B en reclamos Citgo | Media | Medio | MEDIO | [Deuda](/02-motor-financiero/deuda) |
 | 13 | **Cambio climático reduce Guri** — sequías afectan generación hidroeléctrica | Media-Baja | Alto | MEDIO | — |
@@ -62,7 +62,7 @@ Si un riesgo no tiene mitigación, no se ignora — se marca como vulnerabilidad
 
 Venezuela desvió **USD 300.000+ M** vía FONDEN entre 2005-2015 sin rendición de cuentas ([Transparencia Venezuela](https://transparenciave.org/)). Que la historia se repita es el riesgo #1 según los 9 evaluadores del panel de perspectivas.
 
-**Mitigación:** Ver [Gobernanza del fondo soberano](/02-motor-financiero/fondo-soberano) — 6 capas de oversight, locks constitucionales, mecanismos anti-captura.
+**Mitigación:** Ver [Gobernanza del Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano) — 6 capas de oversight, locks constitucionales, mecanismos anti-captura.
 
 ### 3. FANB como actor económico
 
@@ -141,7 +141,7 @@ flowchart LR
     A[Transición política<br>no ocurre o es parcial] --> B[Sanciones se<br>mantienen/endurecen]
     B --> C[Inversión extranjera<br>no llega]
     C --> D[Petróleo estancado<br>en 1M bpd]
-    D --> E[Fondo soberano<br>no se capitaliza]
+    D --> E[Fondo de Inversión Venezuela S.A.<br>no se capitaliza]
     E --> F[No hay dividendo<br>ni servicios]
     F --> G[Emigración<br>se acelera]
     G --> H[Capital humano<br>se deteriora más]
@@ -260,7 +260,7 @@ Elon Musk, Ray Dalio y la IEA coinciden: la transición energética puede hacer 
 | Componente | Plan Base (USD 60) | Post-Petróleo (USD 25) | Diferencia |
 |-----------|-------------------|----------------------|-----------|
 | Ingreso petrolero año 15 | **USD 44B/año** | **USD 10-15B/año** | -70% |
-| Fondo soberano año 15 | USD 160-220B | USD 30-50B | -75% |
+| Fondo de Inversión Venezuela S.A. año 15 | USD 160-220B | USD 30-50B | -75% |
 | Dividendo/persona/año | USD 22-30 | USD 4-7 | -75% |
 | Inversión petrolera viable | USD 183B | USD 80-100B (solo campos rentables) | -50% |
 | Producción máxima alcanzable | 3M bpd | 1.5-2M bpd (campos de menor costo) | -40% |

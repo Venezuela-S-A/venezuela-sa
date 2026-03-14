@@ -32,7 +32,7 @@ Si el plan no resuelve la vida cotidiana de la mayoría que se quedó — emplea
 
 | Componente del plan | Oferta para los 32M | Suficiente |
 |--------------------|---------------------|-------------|
-| [Fondo soberano](/02-motor-financiero/fondo-soberano) | Dividendo USD 30-65/persona/año (año 15) | Insuficiente a corto plazo; útil a largo plazo |
+| [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano) | Dividendo USD 30-65/persona/año (año 15) | Insuficiente a corto plazo; útil a largo plazo |
 | [Reforma fiscal](/02-motor-financiero/transicion-fiscal) | Menos impuestos informales, más formalización | Parcial: beneficia a quien ya tiene ingresos |
 | [Seguridad](/04-gobernanza/seguridad-fisica) | Reducción de criminalidad | Impacto directo en calidad de vida |
 | [Salud](/06-realidad/servicios-publicos) | FONASA universal (contribución 7% salario). Tramos A/B sin copago. ISAPRE opcional | Transformacional — nadie queda fuera |
@@ -128,7 +128,7 @@ La canasta básica familiar cuesta **USD 677/mes** para 5 personas (~**USD 135/p
 | 4 | **Infraestructura que funciona** | USD 20-40 | USD 40-60 | Electricidad 24/7, agua potable, transporte público. Hoy gastan en plantas, tanques de agua, taxis por falta de transporte |
 | 5 | **Seguridad** | USD 15-25 | USD 25-40 | No te roban, no pagas "vacuna", no pierdes mercancía. El crimen es un impuesto invisible al pobre |
 | 6 | **Título de propiedad** | — | USD 10-20 | Vivienda con título = crédito, herencia, inversión. Desbloquea USD 50-100B en activos informales (De Soto) |
-| 7 | **Dividendo en efectivo** | USD 2-5 | USD 10-20 | Del fondo soberano. Simbólico al inicio, crece con el fondo |
+| 7 | **Dividendo en efectivo** | USD 2-5 | USD 10-20 | Del Fondo de Inversión Venezuela S.A.. Simbólico al inicio, crece con el fondo |
 | | **TOTAL PVC** | **USD 260-480** | **USD 495-820** | |
 
 ```mermaid
@@ -153,7 +153,7 @@ xychart-beta
 | **TOTAL** | **1.750.000-3.400.000** | **USD 300-600 promedio** | |
 
 :::tip Empleo > dividendo
-Un empleo de USD 400/mes genera **USD 4.800/año** por ciudadano — vs. USD 65/año de dividendo del fondo. El empleo es **74x más efectivo** que el dividendo en efectivo para sacar gente de la pobreza. El fondo soberano es para el largo plazo (generaciones). El empleo es para AHORA.
+Un empleo de USD 400/mes genera **USD 4.800/año** por ciudadano — vs. USD 65/año de dividendo del fondo. El empleo es **74x más efectivo** que el dividendo en efectivo para sacar gente de la pobreza. El Fondo de Inversión Venezuela S.A. es para el largo plazo (generaciones). El empleo es para AHORA.
 :::
 
 ### Acelerador: Del dividendo simbólico al dividendo real
@@ -200,7 +200,7 @@ Cuando la diáspora retorne con ahorros, experiencia internacional y títulos, h
 | Titulación masiva (3-5M títulos) | USD 500M-1B | Presupuesto + cooperación internacional |
 | Formalización + banca digital | USD 200-400 M | Presupuesto + PPP fintech |
 | Empleo en infraestructura (1-2M/año) | USD 10-20B | Presupuesto de infraestructura (ya incluido en plan) |
-| Capacitación con ingreso (200K/año) | USD 2-4B | Fondo soberano retornos + presupuesto educación |
+| Capacitación con ingreso (200K/año) | USD 2-4B | Fondo de Inversión Venezuela S.A. retornos + presupuesto educación |
 | Microfinanzas residentes | USD 500M-1B | PPP con banca + cooperación |
 | **TOTAL** | **USD 13-26B (5 años)** | **Mayoría ya incluida en presupuesto de infraestructura + educación** |
 

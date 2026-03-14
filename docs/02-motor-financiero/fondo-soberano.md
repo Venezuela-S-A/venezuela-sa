@@ -1,12 +1,12 @@
 ---
 sidebar_position: 2
-title: Fondo Soberano
+title: Fondo de Inversión Venezuela S.A.
 ---
 
-# Fondo Soberano: El Modelo Noruega
+# Fondo de Inversión Venezuela S.A.: El Modelo Noruega
 
-:::danger Distinción clave: El fondo soberano NO es del Estado
-El fondo soberano es administrado por **Venezuela S.A.** — el holding corporativo de los 40 millones de ciudadanos-accionistas. El Estado NO administra el fondo, NO cobra regalías, NO opera empresas. Venezuela S.A. cobra regalías de concesiones y JVs, alimenta el fondo, y distribuye dividendos. El Estado solo regula y provee sus 5 funciones (gobierno, salud, justicia, educación, seguridad).
+:::danger Distinción clave: El Fondo de Inversión Venezuela S.A. NO es del Estado
+El Fondo de Inversión Venezuela S.A. es administrado por **Venezuela S.A.** — el holding corporativo de los 40 millones de ciudadanos-accionistas. El Estado NO administra el fondo, NO cobra regalías, NO opera empresas. Venezuela S.A. cobra regalías de concesiones y JVs, alimenta el fondo, y distribuye dividendos. El Estado solo regula y provee sus 5 funciones (gobierno, salud, justicia, educación, seguridad).
 :::
 
 El fondo noruego: [USD 2,2 T a fines de 2025](https://www.nbim.no/en/investments/the-funds-value/), [USD 247.000 M de beneficio en 2025](https://www.cnbc.com/2026/01/29/norway-sovereign-wealth-fund-2025-return-nbim-trillion-oil-stocks-tech-ai-banks-silver.html), 7.200+ empresas, 1,5% de todas las acciones globales, [25% del presupuesto noruego](https://fortune.com/europe/2025/07/30/how-sparsely-populated-norway-amassed-1-8-trillion-sovereign-wealth-fund/).
@@ -23,7 +23,7 @@ El fondo noruego: [USD 2,2 T a fines de 2025](https://www.nbim.no/en/investments
 
 ```mermaid
 xychart-beta
-    title "Crecimiento del Fondo Soberano — Base USD 60 (USD miles de M)"
+    title "Crecimiento del Fondo de Inversión Venezuela S.A. — Base USD 60 (USD miles de M)"
     x-axis ["Ano 1", "Ano 3", "Ano 5", "Ano 7", "Ano 10", "Ano 12", "Ano 15"]
     y-axis "USD miles de millones" 0 --> 250
     bar [0, 8, 20, 45, 95, 140, 190]
@@ -53,7 +53,7 @@ Esta proyección incluye **solo aportes del 30% de ingresos netos petroleros** a
 ## Gobernanza: Cómo Evitar Otro FONDEN
 
 :::danger La lección más importante
-Entre 2005 y 2015, Venezuela desvió **USD 300.000+ M** a través del FONDEN (Fondo de Desarrollo Nacional) sin rendición de cuentas, sin auditorías públicas, sin oversight parlamentario ([Transparencia Venezuela](https://transparenciave.org/)). **El fondo soberano de este plan será tan bueno como su gobernanza.**
+Entre 2005 y 2015, Venezuela desvió **USD 300.000+ M** a través del FONDEN (Fondo de Desarrollo Nacional) sin rendición de cuentas, sin auditorías públicas, sin oversight parlamentario ([Transparencia Venezuela](https://transparenciave.org/)). **El Fondo de Inversión Venezuela S.A. de este plan será tan bueno como su gobernanza.**
 :::
 
 ### Estructura del Board
@@ -154,7 +154,7 @@ Argentina violó su propia constitución decenas de veces. Ecuador la reescribi�
 
 Una constitución es una promesa interna. Un gobierno con suficiente apoyo popular puede:
 1. Convocar una Asamblea Constituyente (Venezuela 1999, Ecuador 2008, Bolivia 2009)
-2. Reescribir las reglas del fondo soberano
+2. Reescribir las reglas del Fondo de Inversión Venezuela S.A.
 3. Vaciar el fondo "legalmente" bajo la nueva constitución
 
 **FONDEN lo demostró:** fue creado por decreto, sin lock constitucional, sin oversight. Resultado: **USD 300.000+ M desviados** en 10 años ([Transparencia Venezuela](https://transparenciave.org/)). Pero incluso con locks constitucionales, el resultado habría sido el mismo — la constituyente de 1999 ya había demostrado que todo es reescribible.
@@ -235,7 +235,7 @@ El problema político de pagar USD 1M+ a funcionarios en un país con salario m�
 ## Anti-Captura Política: El Ciclo de 8-12 Años
 
 :::danger El patrón LATAM: cada 8-12 años un populista rompe las reglas
-América Latina produce populistas con mayorías arrolladoras en ciclos predecibles. Argentina: Menem (1989) → Kirchner (2003) → Fernández (2019). Ecuador: Correa (2007) disolvió el fondo petrolero FEIREP. Bolivia: Morales (2006) nacionalizó hidrocarburos y vació el fondo de estabilización. **Si el fondo soberano solo tiene locks constitucionales, será vaciado en el primer ciclo populista.**
+América Latina produce populistas con mayorías arrolladoras en ciclos predecibles. Argentina: Menem (1989) → Kirchner (2003) → Fernández (2019). Ecuador: Correa (2007) disolvió el fondo petrolero FEIREP. Bolivia: Morales (2006) nacionalizó hidrocarburos y vació el fondo de estabilización. **Si el Fondo de Inversión Venezuela S.A. solo tiene locks constitucionales, será vaciado en el primer ciclo populista.**
 :::
 
 ### Los 3 casos que demuestran el problema
@@ -252,7 +252,7 @@ América Latina produce populistas con mayorías arrolladoras en ciclos predecib
 flowchart TD
     A["Populista gana elecciones<br/>con 60-70% de votos"] --> B{"¿Tiene mayoría<br/>parlamentaria?"}
     B -->|Sí| C["Convoca Asamblea<br/>Constituyente"]
-    C --> D["Reescribe reglas<br/>del fondo soberano"]
+    C --> D["Reescribe reglas<br/>del Fondo de Inversión Venezuela S.A."]
     D --> E["Vacía el fondo<br/>'legalmente'"]
     B -->|No| F["Presiona vía decretos,<br/>emergencias, referéndums"]
     F --> D

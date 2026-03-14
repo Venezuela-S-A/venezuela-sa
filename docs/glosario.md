@@ -13,10 +13,10 @@ title: Glosario
 
 | Término | Definición |
 |---------|-----------|
-| **Venezuela S.A.** | Holding corporativo de 40 millones de ciudadanos-accionistas. Invierte en JVs, cobra regalías, administra el fondo soberano y distribuye dividendos. NO es el Estado — es la empresa de los ciudadanos |
+| **Venezuela S.A.** | Holding corporativo de 40 millones de ciudadanos-accionistas. Invierte en JVs, cobra regalías, administra el Fondo de Inversión Venezuela S.A. y distribuye dividendos. NO es el Estado — es la empresa de los ciudadanos |
 | **Estado** | Ente regulador y supervisor. Solo 5 funciones: gobierno, salud (supervisa), justicia, educación (supervisa), seguridad. No opera empresas ni servicios |
-| **Fondo Soberano** | Fondo de inversión administrado por Venezuela S.A. que acumula ingresos petroleros, mineros y de diversificación. Meta: USD 250-470B en 15 años. Retornos se distribuyen como dividendo ciudadano |
-| **Dividendo Ciudadano** | Pago anual directo a cada venezolano proveniente de los rendimientos del fondo soberano (10-40% de retornos según fase). Modelo: [Alaska Permanent Fund](https://pfd.alaska.gov/) |
+| **Fondo de Inversión Venezuela S.A.** | Fondo de inversión administrado por Venezuela S.A. que acumula ingresos petroleros, mineros y de diversificación. Meta: USD 250-470B en 15 años. Retornos se distribuyen como dividendo ciudadano |
+| **Dividendo Ciudadano** | Pago anual directo a cada venezolano proveniente de los rendimientos del Fondo de Inversión Venezuela S.A. (10-40% de retornos según fase). Modelo: [Alaska Permanent Fund](https://pfd.alaska.gov/) |
 | **Pre-Seed** | Primera ronda de financiamiento del plan. USD 39,5M de la diáspora (79.000 inversores × USD 500 promedio). Arranca sin gobierno |
 | **PVC** | Paquete de Valor Ciudadano. Combina 7 componentes: salud + educación + empleo + infraestructura + seguridad + título de propiedad + dividendo. El valor real para el ciudadano |
 | **FCV** | Fondo Ciudadano Venezuela. Cuenta personal obligatoria unificada (tipo [Singapur CPF](https://www.cpf.gov.sg/)) con 4 subcuentas: Retiro (8%), Salud (7%), Vivienda (4%), Educación (2%). Total: 21% del salario (10% trabajador + 11% empleador). Una sola institución, una sola cuenta, una sola app. Evoluciona de 14% (fase emergencia) a 25% (madurez) |
@@ -67,7 +67,7 @@ title: Glosario
 | **ZEET** | Zona Económica Especial de Tecnología. Áreas con 0% impuesto corporativo por 10 años + estabilidad regulatoria 30 años. Modelo: [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen), Dubái, [Argentina RIGI](https://www.upi.com/Top_News/World-News/2025/10/30/bcpargentina-RIGI-foreign-invetments-report/1561761834454/) |
 | **Contrato Forward** | Acuerdo de venta anticipada de petróleo a precio fijo. Permite a Venezuela S.A. asegurar ingresos futuros y obtener financiamiento inmediato contra producción futura |
 | **Floor Price** | Precio mínimo garantizado en un contrato forward. El plan usa USD 55/barril como floor |
-| **Precio Base** | USD 60/barril. Todo cálculo del plan se hace a este precio. Lo que esté por encima → al fondo soberano como upside |
+| **Precio Base** | USD 60/barril. Todo cálculo del plan se hace a este precio. Lo que esté por encima → al Fondo de Inversión Venezuela S.A. como upside |
 
 ---
 
@@ -138,7 +138,7 @@ title: Glosario
 | **De Soto** | Perú | Titulación masiva de propiedades informales. Desbloquea capital |
 | **Plan Ceibal** | Uruguay | 1 laptop por niño. 100% de escuelas con internet en 5 años |
 | **Debswana** | Botswana | JV 50/50 con De Beers para diamantes. Transformó al país más pobre de África |
-| **Fondo Noruego** | Noruega | USD 2.2T en fondo soberano petrolero. 30 años. Modelo de gobernanza |
+| **Fondo Noruego** | Noruega | USD 2.2T en fondo de inversión petrolero. 30 años. Modelo de gobernanza |
 
 ---
 

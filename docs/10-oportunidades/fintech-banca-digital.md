@@ -136,7 +136,7 @@ Pix se lanzo en noviembre 2020 y en 3 años tenia 224 millones de usuarios — m
 | **Producto** | Cuentas de ahorro en USD con rendimiento, micro-inversiones (fracciones de ETFs/acciones), stablecoins |
 | **Revenue (ano 5)** | **USD 100-300M/ano** en management fees + spread |
 | **Referencia** | Nu Invest (Nubank): 10M+ inversores. Ualá: cuenta remunerada. GBM (México): inversiones accesibles |
-| **Conexion con el plan** | Vehiculo para la **inversión ciudadana** (bonos VIN) — cada venezolano puede comprar participacion en el fondo soberano via app |
+| **Conexion con el plan** | Vehiculo para la **inversión ciudadana** (bonos VIN) — cada venezolano puede comprar participacion en el Fondo de Inversión Venezuela S.A. via app |
 
 ---
 
@@ -343,7 +343,7 @@ flowchart LR
 | **Formalización de la economía** | +USD 1-3B/ano en recaudación IVA | Pagos digitales = transacciones visibles = base tributaria ampliada |
 | **Remesas baratas** | USD 280M/ano liberados | De 10% comisión a 3% = mas dinero para familias, no intermediarios |
 | **Crédito para PYMEs** | 500K+ negocios con acceso | Sin crédito no hay emprendimiento. Fintech desbloquea scoring alternativo |
-| **Inversión ciudadana** | Bonos VIN via app | Cada venezolano puede comprar participacion en el fondo soberano desde su telefono |
+| **Inversión ciudadana** | Bonos VIN via app | Cada venezolano puede comprar participacion en el Fondo de Inversión Venezuela S.A. desde su telefono |
 | **Talento tech** | 40K+ ingenieros | La demanda de fintech crea la demanda de talento que alimenta los hubs tech |
 | **Economía digital** | E-commerce, gig economy, freelancing | Sin pagos digitales no hay economía digital. Sin economía digital no hay diversificacion |
 

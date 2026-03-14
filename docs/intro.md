@@ -14,7 +14,7 @@ title: "Venezuela S.A. — La Empresa de 40 Millones de Socios"
 
 ## ¿Qué es este documento?
 
-Este no es un plan de gobierno. Es un **modelo de negocio** donde cada venezolano es accionista de **Venezuela S.A.** — el holding corporativo que invierte en infraestructura base, cobra regalías de concesiones, administra el fondo soberano y distribuye dividendos. El Estado solo regula y provee 5 funciones (gobierno, salud, justicia, educación, seguridad). Venezuela S.A. hace negocios en nombre de los 40 millones de ciudadanos. Como toda startup, tiene rondas de financiamiento, un producto, y una visión de salida.
+Este no es un plan de gobierno. Es un **modelo de negocio** donde cada venezolano es accionista de **Venezuela S.A.** — el holding corporativo que invierte en infraestructura base, cobra regalías de concesiones, administra el Fondo de Inversión Venezuela S.A. y distribuye dividendos. El Estado solo regula y provee 5 funciones (gobierno, salud, justicia, educación, seguridad). Venezuela S.A. hace negocios en nombre de los 40 millones de ciudadanos. Como toda startup, tiene rondas de financiamiento, un producto, y una visión de salida.
 
 **El cambio conceptual clave:** el petróleo NO es el negocio. El petróleo es el **combustible** del negocio. El negocio real es convertir a Venezuela en una potencia tecnológica alimentada por la energía más barata del continente.
 
@@ -48,7 +48,7 @@ flowchart TD
     A["<b>1. Reconstruir Energía</b><br/>Petróleo (USD 60/bbl) + Hidro (18 GW)"] --> B["<b>2. Energía Barata Atrae BigTech</b><br/>Data centers, cloud, IA<br/>Mercado LATAM: USD 7.16B → 14.3B"]
     B --> C["<b>3. BigTech Genera Ecosistema</b><br/>Ingenieros, startups, servicios, educación"]
     C --> D["<b>4. Ecosistema Diversifica Economía</b><br/>Petróleo baja de 95% a menos de 40%"]
-    D --> E["<b>5. Venezuela: Startup Nation</b><br/>Fondo soberano + dividendo ciudadano + IPO tech"]
+    D --> E["<b>5. Venezuela: Startup Nation</b><br/>Fondo de Inversión Venezuela S.A. + dividendo ciudadano + IPO tech"]
 
     style A fill:#0D47A1,color:#fff
     style B fill:#0D47A1,color:#fff
@@ -67,5 +67,5 @@ Cada dato tiene una fuente real y verificable. Ver [Referencias Completas](/refe
 :::
 
 :::caution Precio Base USD $60/barril
-La [EIA proyecta](https://www.eia.gov/outlooks/steo/) Brent a ~$64 promedio para 2027. Pre-crisis de Ormuz cotizaba a $67–69. Cada dólar por encima de $60 es upside directo al fondo soberano administrado por Venezuela S.A.
+La [EIA proyecta](https://www.eia.gov/outlooks/steo/) Brent a ~$64 promedio para 2027. Pre-crisis de Ormuz cotizaba a $67–69. Cada dólar por encima de $60 es upside directo al Fondo de Inversión Venezuela S.A. administrado por Venezuela S.A.
 :::

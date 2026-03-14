@@ -235,7 +235,7 @@ It's the same insight as Bitcoin: you don't fix the financial system from within
 :::info Guion recomendado para el video
 **0-10s:** "[Nombre], fundador de Venezuela S.A. — un plan open source donde 40 millones de venezolanos son accionistas."
 
-**10-25s:** "Venezuela tiene las mayores reservas de petróleo del planeta y el 82.8% vive en pobreza. Nuestro plan usa el petróleo como combustible para construir una economía tech. La energía hidro más barata del continente atrae a BigTech. El ecosistema diversifica la economía. Y un fondo soberano paga dividendos a cada ciudadano."
+**10-25s:** "Venezuela tiene las mayores reservas de petróleo del planeta y el 82.8% vive en pobreza. Nuestro plan usa el petróleo como combustible para construir una economía tech. La energía hidro más barata del continente atrae a BigTech. El ecosistema diversifica la economía. Y un Fondo de Inversión Venezuela S.A. paga dividendos a cada ciudadano."
 
 **25-45s:** "Ya tenemos Chevron operando, USD 1B+ generados en ventas controladas por EE.UU., el proyecto Dragon Field con Trinidad firmado, y un plan con 85+ fuentes verificables publicado en GitHub."
 

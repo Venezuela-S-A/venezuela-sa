@@ -83,7 +83,7 @@ Un contrato de mantenimiento de generadores para los 300+ hospitales públicos =
 | **Billetera digital universal** | App de pagos, transferencias, micro-ahorro | 32M de adultos sin banca real | Venezuela como piloto → LATAM | Comercios como puntos de cash-in/cash-out |
 | **Remesas sin fricción** | Transfer + wallet integrada | USD 3-5B/año en remesas | Corredor LATAM-EE.UU. (USD 150B/año) | Diáspora como early adopters |
 | **Micro-crédito con scoring alternativo** | IA evalúa historial de pagos móviles, no historial bancario | 5M+ de microempresarios informales | 200M de no-bancarizados en LATAM | Microempresarios como red de distribución |
-| **Plataforma de inversión ciudadana** | Compra de bonos del fondo soberano desde USD 10 vía app | 40M de potenciales inversores | Modelo replicable a otros fondos soberanos | Bancos digitales como canal |
+| **Plataforma de inversión ciudadana** | Compra de bonos del Fondo de Inversión Venezuela S.A. desde USD 10 vía app | 40M de potenciales inversores | Modelo replicable a otros fondos soberanos | Bancos digitales como canal |
 | **Seguros paramétricos** | Seguro agrícola que paga automáticamente si lluvia < X mm | 500K+ agricultores sin seguro | LATAM agrícola (USD 8B mercado) | Cooperativas agrícolas + estaciones meteorológicas |
 | **Payroll-as-a-Service** | Nómina digital para empresas en ZEETs y concesiones | 50K+ empresas necesitan modernizar nómina | PYMEs de toda LATAM | Contadores como revendedores |
 
@@ -363,7 +363,7 @@ Nubank nació en Brasil cuando la banca era ineficiente y cara. Llegó a **100M 
 3. **Regulación fintech (sandbox)** — reglas claras para operar sin pedir permiso a 5 ministerios
 4. **Reconexión bancaria internacional** — SWIFT + corresponsalía para mover USD
 
-**YC aceptaría** una plataforma de inversión ciudadana (bonos corporativos de Venezuela S.A. desde USD 10) como startup standalone — 40M de usuarios cautivos, USD 250–400B de AUM potencial del fondo soberano, modelo replicable a otros países con fondos soberanos.
+**YC aceptaría** una plataforma de inversión ciudadana (bonos corporativos de Venezuela S.A. desde USD 10) como startup standalone — 40M de usuarios cautivos, USD 250–400B de AUM potencial del Fondo de Inversión Venezuela S.A., modelo replicable a otros países con fondos soberanos.
 
 Fuentes: [Finnovista LATAM Fintech Report](https://www.finnovista.com/) [Requiere investigación: edición más reciente]; [CB Insights Fintech Report 2024](https://www.cbinsights.com/)
 

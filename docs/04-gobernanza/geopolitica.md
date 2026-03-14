@@ -9,13 +9,13 @@ Desde enero 2026, [Wright declaró](https://abcnews.go.com/US/energy-secretary-w
 
 | Realidad | Posición del Plan | Acción |
 |----------|-------------------|--------|
-| EE.UU. controla ventas | Fase de transición, no permanente | Negociar % al fondo soberano |
+| EE.UU. controla ventas | Fase de transición, no permanente | Negociar % al Fondo de Inversión Venezuela S.A. |
 | Cuentas controladas por EE.UU. | Es mecanismo anticorrupción temporal | Exigir transparencia ([demócratas propusieron](https://www.aljazeera.com/news/2026/2/12/us-energy-secretary-chris-wright-touts-oil-production-on-venezuela-visit) Transparency Act) |
 | Majors cautelosas | [Bessent: "las grandes no están interesadas aún"](https://www.cnbc.com/2026/01/09/trump-venezuela-oil-executives-white-house-meeting.html) | Comenzar con Chevron + independientes |
 | China USD 10–12B pendientes | [RAND: China puede ser spoiler](https://www.rand.org/pubs/commentary/2026/01/china-could-play-spoiler-in-venezuelas-debt-restructuring.html) | Incluir como comprador diversificado |
 | **Pre-Seed diáspora** | **NO depende de ningún actor anterior** | **Arrancar inmediatamente** |
 
-Wright dijo que elecciones "probablemente" ocurren durante mandato de Trump. Este plan propone: elecciones = condición para transferir control al fondo soberano ciudadano.
+Wright dijo que elecciones "probablemente" ocurren durante mandato de Trump. Este plan propone: elecciones = condición para transferir control al Fondo de Inversión Venezuela S.A. ciudadano.
 
 ---
 
@@ -32,9 +32,9 @@ El plan asumía originalmente una transición negociada o electoral. La realidad
 | Transición democrática gradual | Intervención militar de EE.UU., Maduro arrestado | Acelerar fases operativas; el gobierno de transición ya existe |
 | Negociación con régimen | Régimen desplazado | Foco en reconstrucción institucional inmediata |
 | Soberanía petrolera negociable | EE.UU. controla ventas directamente | Negociar desde posición de reconstrucción, no de confrontación |
-| Timeline de elecciones incierto | Wright: "probablemente" durante mandato Trump | Ventana 2026-2028 para institucionalizar el fondo soberano |
+| Timeline de elecciones incierto | Wright: "probablemente" durante mandato Trump | Ventana 2026-2028 para institucionalizar el Fondo de Inversión Venezuela S.A. |
 
-**Implicación para el plan:** La ventana de ejecución se aceleró. No hay que esperar transición — hay que ejecutar dentro de ella. Cada mes sin institucionalizar el fondo soberano es un mes donde EE.UU. controla ingresos sin contraparte ciudadana.
+**Implicación para el plan:** La ventana de ejecución se aceleró. No hay que esperar transición — hay que ejecutar dentro de ella. Cada mes sin institucionalizar el Fondo de Inversión Venezuela S.A. es un mes donde EE.UU. controla ingresos sin contraparte ciudadana.
 
 ---
 
@@ -137,31 +137,31 @@ La crisis de Ormuz transforma los supuestos operativos del plan:
 | Parámetro del plan | Pre-crisis (ene. 2026) | Post-crisis (mar. 2026) | Cambio |
 |---------------------|------------------------|-------------------------|--------|
 | **Precio base** | USD 60/barril | **USD 60/barril** (sin cambio — conservador) | El precio actual de USD 120 es upside masivo, pero no asumimos permanencia |
-| **Upside al fondo soberano** | Moderado | **USD 60/barril de upside** → ~USD 20B/año adicional a producción actual | Cada barril genera el doble del ingreso proyectado |
+| **Upside al Fondo de Inversión Venezuela S.A.** | Moderado | **USD 60/barril de upside** → ~USD 20B/año adicional a producción actual | Cada barril genera el doble del ingreso proyectado |
 | **Inversión extranjera comprometida** | Cautelosa ("las grandes no están interesadas") | **USD 100B** de 5 majors autorizadas | De 0 a 100 en un mes |
 | **Acceso a mercado** | EE.UU. como comprador principal | EE.UU. como comprador **desesperado** | Poder de negociación sube para Venezuela S.A. |
 | **Sanciones** | Vigentes con excepciones mínimas | Rollback acelerado para facilitar producción | Desbloqueado por necesidad, no por diplomacia |
-| **Relación política EE.UU.-Venezuela** | Transaccional-coercitiva | "Friend and partner" — alianza energética | Ventana para negociar institucionalización del fondo soberano |
+| **Relación política EE.UU.-Venezuela** | Transaccional-coercitiva | "Friend and partner" — alianza energética | Ventana para negociar institucionalización del Fondo de Inversión Venezuela S.A. |
 | **Timeline de producción** | 15 años (Rystad) | 15 años (plan) / 24 meses (meta EE.UU.) | Mantenemos Rystad; si se acelera, es upside |
 | **Control de marketing** | EE.UU. controla ventas | EE.UU. controla **operaciones de marketing** | Control se profundiza — riesgo de soberanía |
 | **Riesgo de dependencia** | Alto en EE.UU. | **Crítico** en EE.UU. | Un solo comprador = vulnerabilidad existencial |
 
-**Efecto en el fondo soberano (Venezuela S.A.):**
+**Efecto en el Fondo de Inversión Venezuela S.A. (Venezuela S.A.):**
 
 ```mermaid
 xychart-beta
-    title "Ingreso al Fondo Soberano: Escenario Base vs. Crisis Ormuz"
+    title "Ingreso al Fondo de Inversión Venezuela S.A.: Escenario Base vs. Crisis Ormuz"
     x-axis ["Año 1", "Año 3", "Año 5", "Año 10", "Año 15"]
     y-axis "USD Billones acumulados" 0 --> 500
     bar [8, 45, 100, 250, 400]
     bar [20, 90, 180, 380, 500]
 ```
 
-*Barra 1: escenario base (USD 60/bbl). Barra 2: escenario crisis sostenida (USD 100+/bbl). Ambos asumen ramp-up Rystad de 15 años. Todo el ingreso petrolero va al fondo soberano administrado por Venezuela S.A., no al Estado.*
+*Barra 1: escenario base (USD 60/bbl). Barra 2: escenario crisis sostenida (USD 100+/bbl). Ambos asumen ramp-up Rystad de 15 años. Todo el ingreso petrolero va al Fondo de Inversión Venezuela S.A. administrado por Venezuela S.A., no al Estado.*
 
 :::tip Ventana estratégica: negociar desde la fortaleza
-EE.UU. **necesita** el petróleo venezolano más que nunca. Esta es la primera vez en décadas que Venezuela tiene poder de negociación real. La prioridad de Venezuela S.A. no es maximizar producción — es **institucionalizar el fondo soberano** mientras EE.UU. está dispuesto a hacer concesiones. Negociar ahora:
-1. **Cronograma vinculante** de transferencia de control de ventas al fondo soberano
+EE.UU. **necesita** el petróleo venezolano más que nunca. Esta es la primera vez en décadas que Venezuela tiene poder de negociación real. La prioridad de Venezuela S.A. no es maximizar producción — es **institucionalizar el Fondo de Inversión Venezuela S.A.** mientras EE.UU. está dispuesto a hacer concesiones. Negociar ahora:
+1. **Cronograma vinculante** de transferencia de control de ventas al Fondo de Inversión Venezuela S.A.
 2. **Porcentaje garantizado** de ingresos al fondo (mínimo 80%)
 3. **Auditoría internacional** del fondo (Santiago Principles) como condición para las 5 majors
 4. **Diversificación de compradores** post-crisis (Europa, India) para reducir dependencia
@@ -242,17 +242,17 @@ Si EE.UU. está en guerra comercial con Europa, Venezuela podría posicionarse c
 
 | Riesgo | Prob. | Impacto | Mitigación |
 |--------|-------|---------|------------|
-| EE.UU. mantiene control de ventas indefinidamente sin transferir al fondo soberano | Alta | Crítico | Condicionar apoyo político a cronograma de transferencia. Vincular a elecciones |
+| EE.UU. mantiene control de ventas indefinidamente sin transferir al Fondo de Inversión Venezuela S.A. | Alta | Crítico | Condicionar apoyo político a cronograma de transferencia. Vincular a elecciones |
 | Producción colapsa por cierres forzados de pozos (bloqueo naval) | Media-Alta | Alto | Priorizar autorización de equipos para mantenimiento. Evitar cierres de pozos de Faja |
 | Guerra comercial EE.UU.-Europa cierra mercado europeo a crudo venezolano | Media | Medio | Europa no es mercado inmediato; priorizar EE.UU. y Asia |
 | China usa deuda de USD 10-12B como leverage para acceso preferencial | Alta | Alto | Negociar reestructuración de deuda con descuento, incluir a China en consorcio multi-comprador |
 | India no puede comprar crudo venezolano por presión de EE.UU. sobre sanciones | Media | Medio | Solo viable si EE.UU. autoriza — alinear con rollback selectivo de sanciones |
 | Vacío institucional post-intervención genera inestabilidad interna | Alta | Crítico | Ejecutar plan de reconstrucción institucional en paralelo. Ver [seguridad física](/04-gobernanza/seguridad-fisica) |
 | Cuba retalia por pérdida de subsidio petrolero (ver [desconexión Cuba](/04-gobernanza/cuba-desconexion)) | Media | Alto | Desconexión acelerada — Cuba ya perdió leverage con caída del régimen |
-| **Ormuz reabre rápido**, crudo cae a USD 70-80; urgencia por crudo venezolano se reduce | Media | Alto | No asumir precios de crisis como permanentes. Precio base USD 60 ya protege contra este escenario. Usar ventana alta para institucionalizar fondo soberano, no para gastar |
-| **EE.UU. sobreextiende control** operativo; preocupaciones de soberanía venezolana crecen | Media-Alta | Crítico | Negociar cronograma vinculante de transferencia al fondo soberano. Auditoría internacional (Santiago Principles). Transparencia como escudo contra narrativa imperialista |
+| **Ormuz reabre rápido**, crudo cae a USD 70-80; urgencia por crudo venezolano se reduce | Media | Alto | No asumir precios de crisis como permanentes. Precio base USD 60 ya protege contra este escenario. Usar ventana alta para institucionalizar Fondo de Inversión Venezuela S.A., no para gastar |
+| **EE.UU. sobreextiende control** operativo; preocupaciones de soberanía venezolana crecen | Media-Alta | Crítico | Negociar cronograma vinculante de transferencia al Fondo de Inversión Venezuela S.A.. Auditoría internacional (Santiago Principles). Transparencia como escudo contra narrativa imperialista |
 | **Irán retalia asimétricamente**: ciberataques a infraestructura petrolera, activación de proxies en LATAM (Hezbollah, ELN) | Media | Alto | Coordinación de ciberseguridad con EE.UU. para infraestructura crítica de PDVSA. Monitoreo de proxies iraníes en Caribe y frontera colombiana. Ver [seguridad física](/04-gobernanza/seguridad-fisica) [Requiere investigación] |
 
 :::danger Riesgo existencial: la ventana se cierra
-Con petróleo como activo depreciante (solar más barato que Faja para 2040), la intervención de EE.UU. paradójicamente abre la ventana de ejecución del plan. Pero cada mes sin institucionalizar el fondo soberano, sin autorizar inversión masiva, y sin reactivar producción, es un mes perdido de la ventana de 10-15 años. El reloj empezó en enero 2026.
+Con petróleo como activo depreciante (solar más barato que Faja para 2040), la intervención de EE.UU. paradójicamente abre la ventana de ejecución del plan. Pero cada mes sin institucionalizar el Fondo de Inversión Venezuela S.A., sin autorizar inversión masiva, y sin reactivar producción, es un mes perdido de la ventana de 10-15 años. El reloj empezó en enero 2026.
 :::

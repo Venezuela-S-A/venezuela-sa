@@ -15,7 +15,7 @@ xychart-beta
 
 ```mermaid
 xychart-beta
-    title "Fondo Soberano Base USD 60 (USD miles de M)"
+    title "Fondo de Inversión Venezuela S.A. Base USD 60 (USD miles de M)"
     x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
     y-axis "USD miles de millones" 0 --> 250
     bar [0, 20, 95, 190]
@@ -25,7 +25,7 @@ xychart-beta
 |-----------|-----|--------|---------|---------|
 | Producción | ~1 M bpd | 1,5–2 M | 2–2,5 M | 2,5–3 M |
 | PIB | USD 83.000 M | 120–160.000 M | 200–300.000 M | 250–350.000 M |
-| Fondo Soberano | USD 0 | 15–25.000 M | 70–120.000 M | 160–220.000 M |
+| Fondo de Inversión Venezuela S.A. | USD 0 | 15–25.000 M | 70–120.000 M | 160–220.000 M |
 | Dividendo/persona | USD 0 | 5–10 | 15–25 | 22–30 |
 | Rendimiento fondo (5,5%) | USD 0 | 825–1.375 M | 3.850–6.600 M | 8.800–12.100 M |
 
@@ -74,14 +74,14 @@ Aporte al fondo = 30% × USD 14.372 M = USD 4.312 M/año
 
 ```mermaid
 xychart-beta
-    title "Fondo Soberano Año 15 por escenario de precio (USD miles de M)"
+    title "Fondo de Inversión Venezuela S.A. Año 15 por escenario de precio (USD miles de M)"
     x-axis ["$40 Crisis", "$50 Bajo", "$60 Base", "$70 Favorable", "$80 Boom"]
     y-axis "USD miles de millones" 0 --> 500
     bar [17, 95, 190, 295, 410]
 ```
 
 :::danger Escenarios < USD 50: Zona de Riesgo
-A **USD 40/barril**, el margen neto colapsa a USD 2,50/barril — apenas cubre costos operativos. El fondo soberano crece mínimamente y los dividendos ciudadanos son simbólicos. A este precio:
+A **USD 40/barril**, el margen neto colapsa a USD 2,50/barril — apenas cubre costos operativos. El Fondo de Inversión Venezuela S.A. crece mínimamente y los dividendos ciudadanos son simbólicos. A este precio:
 - No hay capital para inversión en infraestructura tech
 - La reestructuración de deuda se vuelve insostenible
 - Se requiere fondo de estabilización + floor de precio en contratos forward
@@ -95,7 +95,7 @@ A **USD 70+**, cada dólar adicional genera ~USD 639 M/año extra en ingresos ne
 - Financiar 100% de la infraestructura tech sin deuda adicional
 - Alcanzar el nivel del [fondo noruego ajustado por población](https://www.nbim.no/en/investments/the-funds-value/) en ~20 años en vez de 30
 
-**Cada USD 1 por encima de USD 60 es upside directo al fondo soberano.**
+**Cada USD 1 por encima de USD 60 es upside directo al Fondo de Inversión Venezuela S.A..**
 :::
 
 ### Nota metodológica

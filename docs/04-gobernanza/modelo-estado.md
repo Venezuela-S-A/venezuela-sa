@@ -5,7 +5,7 @@ title: Modelo de Estado
 
 # Modelo de Estado Eficiente: Impuestos, No Petróleo
 
-> El Estado venezolano debe vivir de impuestos razonables — no del petróleo. El petróleo va al fondo soberano, administrado por **Venezuela S.A.** (el holding corporativo de 40M ciudadanos-accionistas), no por el Estado. Los impuestos cubren lo esencial: Estado, salud, justicia, educación, y seguridad. Todo lo demás lo opera el sector privado con supervisión estatal. Todo lo que pueda automatizarse, se automatiza. El Estado regula. Venezuela S.A. hace negocios.
+> El Estado venezolano debe vivir de impuestos razonables — no del petróleo. El petróleo va al Fondo de Inversión Venezuela S.A., administrado por **Venezuela S.A.** (el holding corporativo de 40M ciudadanos-accionistas), no por el Estado. Los impuestos cubren lo esencial: Estado, salud, justicia, educación, y seguridad. Todo lo demás lo opera el sector privado con supervisión estatal. Todo lo que pueda automatizarse, se automatiza. El Estado regula. Venezuela S.A. hace negocios.
 
 ## Garantías No Negociables
 
@@ -29,7 +29,7 @@ Venezuela tiene [82,8% de pobreza](https://www.cgdev.org/blog/barreling-blindly-
 ```mermaid
 flowchart TD
     OIL["🛢️ Petróleo + Recursos<br/>100% → Venezuela S.A."] --> VSA["🏢 Venezuela S.A.<br/>Holding de 40M accionistas"]
-    VSA --> FUND["💰 Fondo Soberano<br/>Administrado por Venezuela S.A.<br/>Rendimientos 4-5%/año"]
+    VSA --> FUND["💰 Fondo de Inversión Venezuela S.A.<br/>Administrado por Venezuela S.A.<br/>Rendimientos 4-5%/año"]
     TAX["📋 Impuestos Razonables<br/>~18-22% del PIB"] --> STATE["🏛️ Estado Eficiente<br/>Solo regula"]
     FUND --> DIV["👤 Dividendo Ciudadano<br/>USD 125-200/año"]
     FUND --> STAB["🛡️ Estabilización<br/>Crisis de precios"]
@@ -54,7 +54,7 @@ flowchart TD
     style STAB fill:#C62828,color:#fff
 ```
 
-**Regla de oro:** Si un servicio puede operarse privadamente con supervisión estatal y entrega mejor resultado, NO lo opera el Estado. **En salud y educación, el Estado FINANCIA y SUPERVISA — no opera.** La supervisión es tripartita: Estado + comunidad + padres/pacientes. **Venezuela S.A.** — el holding corporativo de los ciudadanos — invierte en infraestructura base, cobra regalías de concesiones, administra el fondo soberano y distribuye dividendos.
+**Regla de oro:** Si un servicio puede operarse privadamente con supervisión estatal y entrega mejor resultado, NO lo opera el Estado. **En salud y educación, el Estado FINANCIA y SUPERVISA — no opera.** La supervisión es tripartita: Estado + comunidad + padres/pacientes. **Venezuela S.A.** — el holding corporativo de los ciudadanos — invierte en infraestructura base, cobra regalías de concesiones, administra el Fondo de Inversión Venezuela S.A. y distribuye dividendos.
 
 ---
 
@@ -153,7 +153,7 @@ A los 18 años, el ciudadano ha recibido **USD 32,400 en inversión** de Venezue
 
 #### FCV para la diáspora: incentivo para volver
 
-| Situación | Dividendo del fondo soberano | FCV (4 subcuentas) | Cómo funciona |
+| Situación | Dividendo del Fondo de Inversión Venezuela S.A. | FCV (4 subcuentas) | Cómo funciona |
 |-----------|-----------------------------|--------------------|--------------|
 | **Venezolano en el exterior — NO contribuye** | ✓ Recibe dividendo como accionista de Venezuela S.A. | ✗ No acumula en FCV | Mantiene sus derechos como ciudadano-accionista. Si vuelve, empieza a contribuir desde ese momento |
 | **Venezolano en el exterior — contribuye voluntariamente** | ✓ Recibe dividendo | ✓ Acumula en las 4 subcuentas | Paga 21% voluntario sobre ingresos declarados. Cuando vuelva, tiene salud, vivienda, pensión y educación para hijos ya acumulados |
@@ -430,7 +430,7 @@ Con ~25.000 centros educativos + miles de proveedores extracurriculares, el sist
 | Fuente | Monto (4 años) | Quién paga |
 |--------|---------------|-----------|
 | **Voucher por mérito** | USD 9.600 | Impuestos (Estado) |
-| **VSA continúa contribuyendo al FCV** | USD 5.760 | Fondo soberano (Venezuela S.A.) |
+| **VSA continúa contribuyendo al FCV** | USD 5.760 | Fondo de Inversión Venezuela S.A. (Venezuela S.A.) |
 | **Subcuenta Educación de los padres** | Variable | FCV de los padres |
 | **Salud + alimentación** | Cubierto | FONASA + JUNAEB |
 | **Total invertido** | **~USD 15.360** | **El estudiante NO se endeuda** |
@@ -559,7 +559,7 @@ xychart-beta
 | **Total tributario** | **USD 10.000 M** | **USD 20.000 M** | **USD 41.000 M** |
 | **% del PIB** | ~10% | ~15% | ~18% |
 | **Presupuesto necesario** | USD 15.000 M | USD 25.000 M | USD 45.000 M |
-| **Déficit cubierto por** | Petróleo (transitorio) | Fondo soberano + otros | Autosuficiente |
+| **Déficit cubierto por** | Petróleo (transitorio) | Fondo de Inversión Venezuela S.A. + otros | Autosuficiente |
 
 :::caution La trampa de los impuestos altos
 Venezuela bajo Maduro cobra [15% de impuesto sobre nómina](https://central-law.com/en/venezuela-law-on-the-protection-of-social-security-pensions/) solo para pensiones. Colombia cobra 19% de IVA. Argentina tiene 100+ impuestos diferentes. Resultado: evasión masiva, informalidad, y fuga de empresas. El modelo Venezuela S.A. apuesta por tasas BAJAS con base AMPLIA (formalización + digitalización fiscal).
@@ -603,7 +603,7 @@ xychart-beta
 
 | Fase | Acción | Plazo |
 |------|--------|-------|
-| Día 1 | Decreto: petróleo al fondo soberano (ver [Transición Fiscal](/02-motor-financiero/transicion-fiscal)) | Inmediato |
+| Día 1 | Decreto: petróleo al Fondo de Inversión Venezuela S.A. (ver [Transición Fiscal](/02-motor-financiero/transicion-fiscal)) | Inmediato |
 | Mes 1–6 | Reforma tributaria express: 15% flat + IVA 12% + digitalización | Semestre 1 |
 | Año 1 | Ley de concesiones: infraestructura + hospitales + vivienda | Año 1 |
 | Año 1–2 | Fondo Ciudadano Venezuela (FCV): 4 subcuentas (retiro + salud + vivienda + educación) + Pilar 1 universal | Año 1–2 |
@@ -753,14 +753,14 @@ Singapur gobierna a 5,9 M de personas con ~150 mil empleados públicos. Estonia 
 | **Acciones legales civiles y penales** | Demandas contra empresas y personas que recibieron fondos y no entregaron | Año 1–5 (no prioritario pero en marcha) |
 | **Cooperación internacional** | Rastreo de activos en el exterior vía INTERPOL, OFAC, Transparencia Internacional | Año 1+ |
 | **Incentivo whistleblower** | 10–30% de lo recuperado para quien denuncie (modelo [SEC Whistleblower](https://www.sec.gov/whistleblower)) | Desde Día 1 |
-| **Destino de lo recuperado** | **100% al fondo soberano** — no al presupuesto corriente | Permanente |
+| **Destino de lo recuperado** | **100% al Fondo de Inversión Venezuela S.A.** — no al presupuesto corriente | Permanente |
 
 ```mermaid
 flowchart LR
     A["Auditoría<br/>Contratos 2000-2025"] --> B["Identificar<br/>Fondos desviados"]
     B --> C["Acciones legales<br/>Civiles + penales"]
     C --> D["Recuperación<br/>Nacional + Internacional"]
-    D --> E["💰 100% al<br/>Fondo Soberano"]
+    D --> E["💰 100% al<br/>Fondo de Inversión Venezuela S.A."]
     style A fill:#0D47A1,color:#fff
     style B fill:#E3F2FD,color:#1B2631
     style C fill:#E3F2FD,color:#1B2631
@@ -782,7 +782,7 @@ Con 82,8% de pobreza, el modelo final no se implementa el Día 1. Se transiciona
 |------|----------------|---------------|-----------------|---------------|
 | **Emergencia (Año 1)** | Pobreza extrema, sin instituciones | Estado provee servicios básicos: salud, alimentos, pensión mínima, empleo temporal. Venezuela S.A. arranca contratos forward y primeras concesiones | Casi nulo — no hay mercado | 100% ingresos Venezuela S.A. (petróleo) + emergencia humanitaria |
 | **Estabilización (Años 2–3)** | Pobreza bajando, dolarización estable | Estado mantiene piso universal. Venezuela S.A. licita concesiones y cobra regalías | Primeras concesiones (telecomunicaciones, puertos) + FCV operativo (14%) | 80% ingresos Venezuela S.A. + 20% impuestos crecientes |
-| **Construcción (Años 4–7)** | Pobreza <50%, economía formal creciendo | Estado reduce operación directa. Supervisa salud y educación. Venezuela S.A. administra concesiones + fondo soberano | FCV al 18% (se abre subcuenta vivienda), ISAPRE arrancando, concesiones en marcha | 50% impuestos + 50% fondo soberano (Venezuela S.A.) |
+| **Construcción (Años 4–7)** | Pobreza <50%, economía formal creciendo | Estado reduce operación directa. Supervisa salud y educación. Venezuela S.A. administra concesiones + Fondo de Inversión Venezuela S.A. | FCV al 18% (se abre subcuenta vivienda), ISAPRE arrancando, concesiones en marcha | 50% impuestos + 50% Fondo de Inversión Venezuela S.A. (Venezuela S.A.) |
 | **Madurez (Años 8–15)** | Pobreza <25%, clase media creciente | Estado solo supervisa las 5 funciones. FCV al 21-25% auto-financiado | FCV maduro. Privado opera infraestructura, hospitales, colegios. ISAPRE activo | 100% impuestos. Petróleo → fondo. FCV auto-financiado |
 
 ### Protección durante la transición
@@ -837,7 +837,7 @@ El objetivo NO es quitar ayuda. Es que la gente YA NO LA NECESITE porque tiene e
 ---
 
 :::danger El objetivo final
-Año 15: Venezuela financia su Estado CON impuestos. El petróleo va al fondo soberano administrado por Venezuela S.A. — no por el Estado. Los rendimientos del fondo (4–5%) complementan vía dividendo ciudadano. El FCV unificado (retiro + salud + vivienda + educación) hace que cada ciudadano sea dueño de su futuro. La infraestructura la opera el sector privado en concesiones donde Venezuela S.A. es accionista. El Estado es pequeño, digital, automatizado, y eficiente — solo supervisa y provee sus 5 funciones. Libertad de vida, económica y religiosa son constitucionales. Nadie depende del gobierno para vivir. Ese es el modelo.
+Año 15: Venezuela financia su Estado CON impuestos. El petróleo va al Fondo de Inversión Venezuela S.A. administrado por Venezuela S.A. — no por el Estado. Los rendimientos del fondo (4–5%) complementan vía dividendo ciudadano. El FCV unificado (retiro + salud + vivienda + educación) hace que cada ciudadano sea dueño de su futuro. La infraestructura la opera el sector privado en concesiones donde Venezuela S.A. es accionista. El Estado es pequeño, digital, automatizado, y eficiente — solo supervisa y provee sus 5 funciones. Libertad de vida, económica y religiosa son constitucionales. Nadie depende del gobierno para vivir. Ese es el modelo.
 :::
 
 ---
@@ -850,7 +850,7 @@ Año 15: Venezuela financia su Estado CON impuestos. El petróleo va al fondo so
 
 | Componente | Quién paga | Costo anual (Año 1) | Costo anual (Año 7) | Costo anual (Año 15) |
 |-----------|-----------|---------------------|---------------------|----------------------|
-| **FCV contribución niños (0-17)** | Venezuela S.A. (fondo soberano + JVs) | USD 5B (parcial, se escala) | USD 10B | USD 14B |
+| **FCV contribución niños (0-17)** | Venezuela S.A. (Fondo de Inversión Venezuela S.A. + JVs) | USD 5B (parcial, se escala) | USD 10B | USD 14B |
 | **FCV contribución trabajadores (21%)** | Trabajadores + empleadores | Auto-financiado | Auto-financiado | Auto-financiado |
 | **Voucher universitario (mérito)** | Impuestos | USD 0,5B | USD 1B | USD 2B |
 | **Pilar 1 pensión (jubilados actuales)** | Impuestos | USD 4B | USD 6B | USD 8B |
@@ -876,7 +876,7 @@ xychart-beta
 | **Petróleo** (Venezuela S.A.) | USD 14B (100%) | USD 16B (80%) | USD 18B (45%) | USD 10B (10% → fondo) |
 | **Impuestos** (Estado) | USD 5B (28%) | USD 8B (35%) | USD 12B (40%) | USD 25B (50%) |
 | **FCV trabajadores** (auto-financiado) | USD 1B | USD 4B | USD 8B | USD 15B |
-| **Fondo soberano retornos** | USD 0 | USD 0,5B | USD 2B | USD 10B |
+| **Fondo de Inversión Venezuela S.A. retornos** | USD 0 | USD 0,5B | USD 2B | USD 10B |
 | **Concesiones + JVs** | USD 0,5B | USD 2B | USD 5B | USD 8B |
 | **TOTAL disponible** | **USD 20,5B** | **USD 30,5B** | **USD 45B** | **USD 68B** |
 
@@ -891,8 +891,8 @@ Con USD 83B de PIB y 82,8% de pobreza, el modelo completo (FCV al 21%, voucher d
 | **Día 1-90** | Pensión Pilar 1 (USD 50/mes). Salud de emergencia. Empleo temporal en infraestructura | 100% petróleo (Venezuela S.A.) + ayuda humanitaria | USD 5-8B/año |
 | **Meses 3-12** | FCV arranca al 14% (retiro 8% + salud 6%). Voucher K-12 básico (USD 163/mes). Salarios docentes x5 | Petróleo 80% + primeros impuestos 20% | USD 15-18B/año |
 | **Años 2-3** | FCV sube a 18% (se agrega vivienda 4%). Voucher crece a USD 214/mes. Primeras concesiones generan ingreso | Petróleo 60% + impuestos 35% + concesiones 5% | USD 22-28B/año |
-| **Años 4-7** | FCV al 21% (se agrega educación 2%). Voucher a USD 265/mes. Universidad con voucher mérito. Fondo soberano crece | Impuestos 40% + petróleo 30% + FCV auto-financiado + fondo 5% | USD 30-40B/año |
-| **Años 8-15** | FCV al 25%. Voucher madurez (USD 295/mes). Pilar 1 sube a USD 200/mes. Salud introduce Medisave individual | Impuestos 50% + fondo soberano 20% + FCV auto-financiado + diversificación | USD 45-55B/año |
+| **Años 4-7** | FCV al 21% (se agrega educación 2%). Voucher a USD 265/mes. Universidad con voucher mérito. Fondo de Inversión Venezuela S.A. crece | Impuestos 40% + petróleo 30% + FCV auto-financiado + fondo 5% | USD 30-40B/año |
+| **Años 8-15** | FCV al 25%. Voucher madurez (USD 295/mes). Pilar 1 sube a USD 200/mes. Salud introduce Medisave individual | Impuestos 50% + Fondo de Inversión Venezuela S.A. 20% + FCV auto-financiado + diversificación | USD 45-55B/año |
 
 ### La clave: el FCV de los trabajadores es AUTO-FINANCIADO
 
@@ -912,7 +912,7 @@ Solo 4 rubros requieren financiamiento público directo:
 
 | Rubro | Año 1 | Año 7 | Año 15 | Fuente |
 |-------|-------|-------|--------|--------|
-| **FCV niños (VSA)**: USD 150/mes × niños | USD 5B | USD 10B | USD 14B | Venezuela S.A. (dividendos JVs + fondo soberano) |
+| **FCV niños (VSA)**: USD 150/mes × niños | USD 5B | USD 10B | USD 14B | Venezuela S.A. (dividendos JVs + Fondo de Inversión Venezuela S.A.) |
 | **Pilar 1 pensión**: jubilados actuales | USD 4B | USD 6B | USD 3B (baja con FCV maduro) | Impuestos |
 | **Solidaridad salud Tramo A/B** | USD 3B | USD 2B | USD 1B (baja con economía) | Impuestos |
 | **Voucher universitario** | USD 0,5B | USD 1B | USD 2B | Impuestos |
@@ -927,7 +927,7 @@ El resto del presupuesto (gobierno, justicia, seguridad) se financia con impuest
 
 **Año 15:** USD 50B de gasto total = 14% de un PIB de USD 350B. El Estado más eficiente de LATAM. Y el FCV de USD 30B/año es auto-financiado — no cuenta como gasto público.
 
-**El modelo se paga porque el petróleo financia la transición y los impuestos toman la posta.** Cada año el petróleo contribuye menos al presupuesto y más al fondo soberano. Para el año 15, el 100% del petróleo va al fondo y el Estado vive de impuestos. Ese es el diseño.
+**El modelo se paga porque el petróleo financia la transición y los impuestos toman la posta.** Cada año el petróleo contribuye menos al presupuesto y más al Fondo de Inversión Venezuela S.A.. Para el año 15, el 100% del petróleo va al fondo y el Estado vive de impuestos. Ese es el diseño.
 :::
 
 ---

@@ -251,7 +251,7 @@ Este sistema convierte a cada venezolano en auditor. Si alguien sabe que el exfu
 | Recuperación de activos desviados | USD 5-20B (de USD 300B+ desviados) | Cooperación DOJ/EU + firmas forenses + **denuncias ciudadanas con recompensa** |
 | Cooperación internacional | USD 500M-1B | ONU, UE, EE.UU. (precedente Colombia: USD 1.2B en justicia transicional) |
 | Presupuesto nacional | USD 100-200 M/año | 0.1-0.2% del PIB |
-| Fondo soberano (retornos) | USD 200-500 M/año (año 5+) | Asignación específica para reparaciones |
+| Fondo de Inversión Venezuela S.A. (retornos) | USD 200-500 M/año (año 5+) | Asignación específica para reparaciones |
 | Recompensas a denunciantes | USD 500M-3B (10-30% de lo recuperado vía denuncia) | Autofinanciado: se paga del monto recuperado, no del presupuesto |
 
 **Referencia:** Colombia ha gastado ~USD 3B en su sistema de justicia transicional (JEP + Comisión de la Verdad + Unidad de Búsqueda) desde 2017 ([Banco Mundial](https://www.worldbank.org/)).
@@ -305,15 +305,15 @@ Sin justicia transicional:
 - No hay reconciliación → no hay cohesión social → no hay gobernabilidad
 - No hay recuperación de activos → se pierde USD 5-20B que podría financiar reparaciones
 
-**Es un prerrequisito del plan, no un complemento.** La [seguridad física](/04-gobernanza/seguridad-fisica) depende de DDR, que depende de amnistías condicionadas. El [fondo soberano](/02-motor-financiero/fondo-soberano) depende de gobernanza, que depende de estado de derecho. Los [inversionistas](/08-pitch/resumen-ejecutivo) necesitan ver que hay reglas que se respetan.
+**Es un prerrequisito del plan, no un complemento.** La [seguridad física](/04-gobernanza/seguridad-fisica) depende de DDR, que depende de amnistías condicionadas. El [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano) depende de gobernanza, que depende de estado de derecho. Los [inversionistas](/08-pitch/resumen-ejecutivo) necesitan ver que hay reglas que se respetan.
 :::
 
 ---
 
 ## Fondo de Reparación a Víctimas
 
-:::danger Los bienes recuperados de corrupción NO van al fondo soberano
-El fondo soberano se alimenta de ingresos petroleros. Los bienes decomisados a funcionarios corruptos tienen un destino diferente: **reparación directa a las víctimas.** Mezclar ambos fondos diluye la justicia y crea incentivos perversos (el gobierno "gana" con la corrupción pasada). Los bienes robados vuelven a quienes fueron robados — punto.
+:::danger Los bienes recuperados de corrupción NO van al Fondo de Inversión Venezuela S.A.
+El Fondo de Inversión Venezuela S.A. se alimenta de ingresos petroleros. Los bienes decomisados a funcionarios corruptos tienen un destino diferente: **reparación directa a las víctimas.** Mezclar ambos fondos diluye la justicia y crea incentivos perversos (el gobierno "gana" con la corrupción pasada). Los bienes robados vuelven a quienes fueron robados — punto.
 :::
 
 ### Gobernanza: 5 miembros, mayoría de víctimas
@@ -377,7 +377,7 @@ Sin justicia transicional:
 - No hay reconciliación → no hay cohesión social → no hay gobernabilidad
 - No hay recuperación de activos → se pierde USD 5-20B que podría financiar reparaciones
 
-**Es un prerrequisito del plan, no un complemento.** La [seguridad física](/04-gobernanza/seguridad-fisica) depende de DDR, que depende de amnistías condicionadas. El [fondo soberano](/02-motor-financiero/fondo-soberano) depende de gobernanza, que depende de estado de derecho. Los [inversionistas](/08-pitch/resumen-ejecutivo) necesitan ver que hay reglas que se respetan.
+**Es un prerrequisito del plan, no un complemento.** La [seguridad física](/04-gobernanza/seguridad-fisica) depende de DDR, que depende de amnistías condicionadas. El [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano) depende de gobernanza, que depende de estado de derecho. Los [inversionistas](/08-pitch/resumen-ejecutivo) necesitan ver que hay reglas que se respetan.
 :::
 
 **Fuentes:** [OHCHR Venezuela](https://www.ohchr.org/en/hr-bodies/hrc/co-i-venezuela/co-i-venezuela) | [ICC Situation in Venezuela](https://www.icc-cpi.int/venezuela) | [Foro Penal](https://foropenal.com/) | [Colombia JEP](https://www.jep.gov.co/) | [ICTJ (International Center for Transitional Justice)](https://www.ictj.org/) | [Unidad de Víctimas Colombia](https://www.unidadvictimas.gov.co/)

@@ -5,7 +5,7 @@ title: "Petróleo y Gas: El Combustible"
 
 # Petróleo y Gas: El Motor que Enciende Todo lo Demás
 
-> **303.000 millones de barriles.** Las reservas más grandes del planeta. Y Venezuela apenas produce **~1 millón de barriles por día** — una fracción de lo que producía en los 90s. El petróleo no es el destino de Venezuela. Es el **combustible**. Cada barril extraído financia viviendas, hospitales, data centers, educación y diversificación. Pero es un activo **depreciante**: para 2040, la energía solar será más barata que extraer crudo de la Faja del Orinoco. La ventana real es **10-15 años, no 30**. Hay que quemarlo rápido, inteligentemente, y con cada dólar yendo al fondo soberano y a la diversificación.
+> **303.000 millones de barriles.** Las reservas más grandes del planeta. Y Venezuela apenas produce **~1 millón de barriles por día** — una fracción de lo que producía en los 90s. El petróleo no es el destino de Venezuela. Es el **combustible**. Cada barril extraído financia viviendas, hospitales, data centers, educación y diversificación. Pero es un activo **depreciante**: para 2040, la energía solar será más barata que extraer crudo de la Faja del Orinoco. La ventana real es **10-15 años, no 30**. Hay que quemarlo rápido, inteligentemente, y con cada dólar yendo al Fondo de Inversión Venezuela S.A. y a la diversificación.
 
 ---
 
@@ -21,12 +21,12 @@ title: "Petróleo y Gas: El Combustible"
 | Inversión requerida para 3M bpd | **USD 183.000 M** | [Rystad Energy](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/) |
 | Precio base | **USD 60/barril** | [EIA STEO, mar. 2026](https://www.eia.gov/outlooks/steo/) |
 | Ingreso bruto a 3M bpd @ USD 60 | **USD 65.700 M/ano** | Calculo: 3M x 365 x 60 |
-| Ingreso bruto @ USD 80 | **USD 87.600 M/ano** | Upside al fondo soberano |
+| Ingreso bruto @ USD 80 | **USD 87.600 M/ano** | Upside al Fondo de Inversión Venezuela S.A. |
 | Gas natural (reservas) | **5.500 BCM** (7mo mundial) | [U.S. CRS](https://www.congress.gov/crs-product/IF12448) |
 | Gas natural (producción actual) | Mayormente quemado/venteado | [Columbia CGEP](https://www.energypolicy.columbia.edu/more-efficient-use-of-venezuelas-natural-gas-could-strengthen-the-regions-energy-security-and-the-countrys-electricity-sector/) |
 
 :::danger Principio inviolable: petróleo es combustible, no destino
-Cada dólar de ingreso petrolero va al **fondo soberano**, administrado por **Venezuela S.A.** (el holding de 40M ciudadaños-accionistas) — no por el Estado. El Estado vive de impuestos (15% flat + 12% IVA), no de petróleo. Venezuela S.A. cobra regalias, administra el fondo, y distribuye dividendos. Esto no es idealismo — es la única forma de evitar la Dutch Disease que destruyo a Venezuela la primera vez. Ver [Enfermedad Holandesa](/02-motor-financiero/enfermedad-holandesa) y [Fondo Soberano](/02-motor-financiero/fondo-soberano).
+Cada dólar de ingreso petrolero va al **Fondo de Inversión Venezuela S.A.**, administrado por **Venezuela S.A.** (el holding de 40M ciudadaños-accionistas) — no por el Estado. El Estado vive de impuestos (15% flat + 12% IVA), no de petróleo. Venezuela S.A. cobra regalias, administra el fondo, y distribuye dividendos. Esto no es idealismo — es la única forma de evitar la Dutch Disease que destruyo a Venezuela la primera vez. Ver [Enfermedad Holandesa](/02-motor-financiero/enfermedad-holandesa) y [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano).
 :::
 
 ### La ecuación simple
@@ -46,7 +46,7 @@ flowchart LR
     style STATE fill:#E3F2FD,color:#1B2631
 ```
 
-**Traducción:** El petróleo no paga al gobierno. El petróleo paga al fondo soberano administrado por Venezuela S.A., que invierte en el futuro. El Estado se paga con impuestos de la economia productiva. Así funciona Noruega. Así debe funcionar Venezuela.
+**Traducción:** El petróleo no paga al gobierno. El petróleo paga al Fondo de Inversión Venezuela S.A. administrado por Venezuela S.A., que invierte en el futuro. El Estado se paga con impuestos de la economia productiva. Así funciona Noruega. Así debe funcionar Venezuela.
 
 ### Contexto Marzo 2026: Crisis del Estrecho de Ormuz
 
@@ -67,7 +67,7 @@ El 28 de febrero de 2026, EE.UU. e Israel ejecutaron un ataque coordinado contra
 *Fuentes: [Requiere investigación]*
 
 :::caution Precio base se mantiene en USD 60 — los USD 120 actuales son upside
-Este plan **NO depende de precios altos**. El precio base sigue siendo **USD 60/barril**. Todo por encima de USD 60 va íntegramente al fondo soberano como upside. Si el Brent se mantiene en USD 120, el fondo soberano acumula el doble de rápido — pero el plan funciona igual a USD 60. La disciplina fiscal no se negocia ni en crisis.
+Este plan **NO depende de precios altos**. El precio base sigue siendo **USD 60/barril**. Todo por encima de USD 60 va íntegramente al Fondo de Inversión Venezuela S.A. como upside. Si el Brent se mantiene en USD 120, el Fondo de Inversión Venezuela S.A. acumula el doble de rápido — pero el plan funciona igual a USD 60. La disciplina fiscal no se negocia ni en crisis.
 :::
 
 ---
@@ -158,7 +158,7 @@ Con **5 majors autorizadas** (Chevron + BP + ENI + Shell + Repsol) y **USD 100.0
 
 ### Producción proyectada
 
-| Ano | Producción (M bpd) | Ingreso bruto (@ USD 60) | Ingreso al fondo soberano | Inversión anual | Fuente principal |
+| Ano | Producción (M bpd) | Ingreso bruto (@ USD 60) | Ingreso al Fondo de Inversión Venezuela S.A. | Inversión anual | Fuente principal |
 |-----|---------------------|--------------------------|--------------------------|-----------------|------------------|
 | **1** | 1.0 | USD 21.900 M | USD 15-18.000 M | USD 8-10.000 M | Campos existentes |
 | **3** | 1.3 | USD 28.500 M | USD 20-23.000 M | USD 12-15.000 M | + Workovers + nuevas JVs |
@@ -168,7 +168,7 @@ Con **5 majors autorizadas** (Chevron + BP + ENI + Shell + Repsol) y **USD 100.0
 | **15** | 3.0 | USD 65.700 M | USD 50-58.000 M | USD 8-10.000 M | Capacidad plena |
 
 :::caution Supuestos conservadores
-- Precio base **USD 60/barril** constante (todo por encima va al fondo soberano como upside)
+- Precio base **USD 60/barril** constante (todo por encima va al Fondo de Inversión Venezuela S.A. como upside)
 - Costo de producción: USD 15-25/barril en convencional, USD 25-35/barril en Faja (incluye upgrading)
 - Descuento por calidad y transporte: USD 5-10/barril vs. Brent
 - No asume levantamiento total de sanciones hasta ano 3-5
@@ -404,7 +404,7 @@ Chevron obtuvo licencia OFAC en noviembre 2022 y ha expandido operaciones a ~200
 | **Estabilidad** | Clausula de estabilización fiscal por 20 años | Guyana: fiscal stability clause |
 | **Transparencia** | EITI, auditorias Big 4, publicacion de contratos | Noruega: modelo de transparencia |
 | **Ring-fencing** | Cada JV es entidad legal separada (SPV) | Estandar en oil & gas |
-| **Gobernanza** | Santiago Principles para ingresos soberanos | Fondo Soberano Noruego |
+| **Gobernanza** | Santiago Principles para ingresos soberanos | Fondo de Inversión Venezuela S.A. Noruego |
 
 ---
 
@@ -432,9 +432,9 @@ flowchart TD
     style STATE2 fill:#E3F2FD,color:#1B2631
 ```
 
-### Ingreso para el fondo soberano (proyección 15 años)
+### Ingreso para el Fondo de Inversión Venezuela S.A. (proyección 15 años)
 
-| Ano | Producción (M bpd) | Ingreso bruto (@ USD 60) | Al fondo soberano | Fondo acumulado |
+| Ano | Producción (M bpd) | Ingreso bruto (@ USD 60) | Al Fondo de Inversión Venezuela S.A. | Fondo acumulado |
 |-----|---------------------|--------------------------|-------------------|-----------------|
 | 1 | 1.0 | USD 21.900 M | USD 8.000 M | USD 8.000 M |
 | 3 | 1.3 | USD 28.500 M | USD 12.000 M | USD 32.000 M |
@@ -443,8 +443,8 @@ flowchart TD
 | 10 | 2.5 | USD 54.800 M | USD 30.000 M | USD 200.000 M |
 | 15 | 3.0 | USD 65.700 M | USD 38.000 M | **USD 350.000 M** |
 
-:::info Meta del fondo soberano: USD 250-400B en el ano 15
-Con ingresos petroleros + mineros + retorno de inversiones, el fondo soberano puede alcanzar **USD 250-400.000 M** en 15 años. Noruega acumuló **USD 2,2 trillones** en 30 años — [NBIM](https://www.nbim.no/en/investments/the-funds-value/). Venezuela tiene reservas 4x mayores. La diferencia será gobernanza. Ver [Fondo Soberano](/02-motor-financiero/fondo-soberano).
+:::info Meta del Fondo de Inversión Venezuela S.A.: USD 250-400B en el ano 15
+Con ingresos petroleros + mineros + retorno de inversiones, el Fondo de Inversión Venezuela S.A. puede alcanzar **USD 250-400.000 M** en 15 años. Noruega acumuló **USD 2,2 trillones** en 30 años — [NBIM](https://www.nbim.no/en/investments/the-funds-value/). Venezuela tiene reservas 4x mayores. La diferencia será gobernanza. Ver [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano).
 :::
 
 ---
@@ -499,8 +499,8 @@ Fuentes: [IRENA — Renewable Cost Trends](https://www.irena.org/); [IEA — Wor
 
 | País | Modelo | Producción | Que funciono | Lección para Venezuela |
 |------|--------|-----------|-------------|------------------------|
-| **Noruega** | Equinor (antes Statoil): NOC que cotiza en bolsa. 67% propiedad estatal. Fondo soberano de USD 2.2T | 2M bpd | Separación absoluta: Ministerio regula, Equinor opera, fondo soberano invierte. Transparencia radical. EITI desde el dia 1 | **El modelo a seguir.** Petroleo financia el fondo, el fondo invierte en el futuro. El Estado no gasta petróleo — lo ahorra |
-| **Guyana** | ExxonMobil opera Stabroek block. Producción de 0 a 650K bpd en 5 años | 650K bpd (2025) | Marco fiscal estable. Operador privado con experiencia. Fondo soberano nuevo (Natural Resource Fund) | **Velocidad.** Si el marco legal es correcto, la producción puede escalar rapidamente. Guyana paso de 0 a 650K bpd en 5 años |
+| **Noruega** | Equinor (antes Statoil): NOC que cotiza en bolsa. 67% propiedad estatal. Fondo de Inversión Venezuela S.A. de USD 2.2T | 2M bpd | Separación absoluta: Ministerio regula, Equinor opera, Fondo de Inversión Venezuela S.A. invierte. Transparencia radical. EITI desde el dia 1 | **El modelo a seguir.** Petroleo financia el fondo, el fondo invierte en el futuro. El Estado no gasta petróleo — lo ahorra |
+| **Guyana** | ExxonMobil opera Stabroek block. Producción de 0 a 650K bpd en 5 años | 650K bpd (2025) | Marco fiscal estable. Operador privado con experiencia. Fondo de Inversión Venezuela S.A. nuevo (Natural Resource Fund) | **Velocidad.** Si el marco legal es correcto, la producción puede escalar rapidamente. Guyana paso de 0 a 650K bpd en 5 años |
 | **Colombia** | Ecopetrol: NOC que cotiza en bolsa. ANH como regulador independiente. 49-51% en JVs | 0.8M bpd | Regulador separado de operador. Rondas de licitación transparentes. Arbitraje internacional. Estabilidad juridica | **Marco institucional.** La ANH licita bloques transparentemente. El regulador no es el operador. Colombia tiene 1/30 de las reservas de Venezuela y atrae mas inversión |
 | **Arabia Saudita** | Aramco IPO (2019). USD 2T valuacion. Producción 9-12M bpd | 10M bpd | Profesionalizacion. Transparencia (requisito para IPO). Inversión en diversificacion (NEOM, Vision 2030) | **Escala + diversificacion.** Aramco demostro que una NOC puede ser la empresa mas valiosa del mundo si se gestiona bien. Y Arabia Saudita ya esta diversificando agresivamente |
 | **Brasil (pre-sal)** | Petrobras como operador unico de pre-sal. Cambio a JVs con competencia | 3.5M bpd (2025) | Pre-sal fue descubierto en 2006. Para 2025, Brasil produce 3.5M bpd. La clave: tecnologia de aguas profundas (Petrobras) + apertura a JVs | **Tecnologia + apertura.** Petrobras invirtio en capacidad tecnica propia Y abrio a competencia. Venezuela necesita ambas cosas |
@@ -512,8 +512,8 @@ Fuentes: [IRENA — Renewable Cost Trends](https://www.irena.org/); [IEA — Wor
 | Riesgo | Probabilidad | Impacto | Mitigación |
 |--------|-------------|---------|-----------|
 | **Sanciones no se levantan** | Media | Critico | Modelo Chevron: licencias OFAC individuales. Majors europeas (Shell, Total, ENI) menos expuestas. Negociacion diplomatica via minerales criticos como palanca |
-| **Precio del petróleo cae por debajo de USD 40** | Media-baja | Alto | Precio base USD 60 es conservador. A USD 40, campos convencionales siguen rentables. Faja necesita >USD 30. Fondo soberano absorbe volatilidad |
-| **Transicion energetica acelera** (EVs, solar) | Media-alta | Alto | Exactamente por eso el fondo soberano recibe 100% de ingresos. Cada ano ganado es diversificacion financiada. La ventana es 10-15 años, no 30 |
+| **Precio del petróleo cae por debajo de USD 40** | Media-baja | Alto | Precio base USD 60 es conservador. A USD 40, campos convencionales siguen rentables. Faja necesita >USD 30. Fondo de Inversión Venezuela S.A. absorbe volatilidad |
+| **Transicion energetica acelera** (EVs, solar) | Media-alta | Alto | Exactamente por eso el Fondo de Inversión Venezuela S.A. recibe 100% de ingresos. Cada ano ganado es diversificacion financiada. La ventana es 10-15 años, no 30 |
 | **Expropiacion / cambio de gobierno** | Media | Critico | Ley anti-expropiacion constitucional. ICSID. BIT. JVs con protección contractual. SPV offshore |
 | **PDVSA no es reformable** | Alta | Alto | Crear entidad nueva (Venezuela Energy Corp o similar) separada de PDVSA. PDVSA puede ser liquidada gradualmente |
 | **Deuda de PDVSA** (USD 35-60B) impide inversión | Alta | Alto | Reestructuración de deuda como prerequisito. Haircut 50-70%. Bonos Brady model. Ver [Deuda](/02-motor-financiero/deuda) |
@@ -521,7 +521,7 @@ Fuentes: [IRENA — Renewable Cost Trends](https://www.irena.org/); [IEA — Wor
 | **Contaminacion ambiental masiva** | Alta | Alto | Remediacion ambiental obligatoria (USD 2-5B). ESG como condicion de JV. Certificacion ambiental internacional |
 | **No se consigue talento petrolero** | Media-alta | Alto | Repatriación de 30K+ profesionales petroleros. Salarios competitivos. Training con majors. Universidades petroleras |
 | **Hormuz reabre, petróleo cae a USD 70-80, urgencia se disipa** | Media | Alto | Pipeline de USD 100.000 M ya comprometido; contratos tienen cláusulas de estabilidad. La inversión ya está en marcha independientemente del precio |
-| **EE.UU. se excede en control de comercialización petrolera** | Alta | Crítico | Negociar transferencia gradual de control a Venezuela S.A. como administrador del fondo soberano. Definir timeline de transición en contratos |
+| **EE.UU. se excede en control de comercialización petrolera** | Alta | Crítico | Negociar transferencia gradual de control a Venezuela S.A. como administrador del Fondo de Inversión Venezuela S.A.. Definir timeline de transición en contratos |
 | **Irán — retaliación asimétrica (proxies en LATAM, cyber)** | Media-Baja | Medio | Alianza de seguridad con EE.UU. cubre este riesgo. Venezuela no es objetivo directo — es beneficiario indirecto de la crisis |
 
 ---
@@ -537,7 +537,7 @@ xychart-beta
     line [8, 12, 18, 24, 30, 38]
 ```
 
-*Barras: ingreso bruto. Línea: contribucion al fondo soberano.*
+*Barras: ingreso bruto. Línea: contribucion al Fondo de Inversión Venezuela S.A..*
 
 ### Resumen ejecutivo
 
@@ -547,15 +547,15 @@ xychart-beta
 | **Producción meta** | 3M bpd en 15 años |
 | **Inversión total** | USD 183.000 M (Rystad Energy) |
 | **Ingreso bruto ano 15** | USD 65.700 M/ano (@ USD 60/bbl) |
-| **Fondo soberano ano 15** | USD 250-400.000 M acumulado |
+| **Fondo de Inversión Venezuela S.A. ano 15** | USD 250-400.000 M acumulado |
 | **Empleos directos** | 150.000-250.000 |
 | **Empleos totales (dir. + ind.)** | 500.000-800.000 |
 | **Gas natural** | 5.500 BCM adicionales (LNG + petroquimica + electricidad) |
 | **Refinerias** | 1M+ bpd rehabilitadas = fin de importación de gasolina |
-| **Riesgo existencial** | Activo depreciante. Ventana 10-15 años. Cada dólar al fondo soberano |
+| **Riesgo existencial** | Activo depreciante. Ventana 10-15 años. Cada dólar al Fondo de Inversión Venezuela S.A. |
 
 :::tip Este es EL motor que enciende todo lo demas
-Sin petróleo no hay forwards que financien la emergencia. Sin forwards no hay estabilización. Sin estabilización no hay inversión. Sin inversión no hay data centers, ni manufactura, ni construcción, ni empleo. **El petróleo es el primer domino.** Pero es un domino que se consume al caer — por eso cada dólar va al fondo soberano y a la diversificacion, no al gasto corriente.
+Sin petróleo no hay forwards que financien la emergencia. Sin forwards no hay estabilización. Sin estabilización no hay inversión. Sin inversión no hay data centers, ni manufactura, ni construcción, ni empleo. **El petróleo es el primer domino.** Pero es un domino que se consume al caer — por eso cada dólar va al Fondo de Inversión Venezuela S.A. y a la diversificacion, no al gasto corriente.
 :::
 
 ---
@@ -581,7 +581,7 @@ Sin petróleo no hay forwards que financien la emergencia. Sin forwards no hay e
 | 5 | [U.S. CRS](https://www.congress.gov/crs-product/IF12448) | Gas natural 5.500 BCM |
 | 6 | [Columbia CGEP](https://www.energypolicy.columbia.edu/more-efficient-use-of-venezuelas-natural-gas-could-strengthen-the-regions-energy-security-and-the-countrys-electricity-sector/) | Gas natural uso y desperdicio |
 | 7 | [Chevron Venezuela](https://www.chevron.com/worldwide/venezuela) | Operaciones con licencia OFAC |
-| 8 | [NBIM — Fondo Soberano Noruega](https://www.nbim.no/en/investments/the-funds-value/) | USD 2.2T acumulados |
+| 8 | [NBIM — Fondo de Inversión Venezuela S.A. Noruega](https://www.nbim.no/en/investments/the-funds-value/) | USD 2.2T acumulados |
 | 9 | [IRENA — Renewable Costs](https://www.irena.org/) | Tendencias de costo solar |
 | 10 | [IEA — World Energy Outlook](https://www.iea.org/reports/world-energy-outlook-2025) | Transicion energetica |
 | 11 | [BloombergNEF — EV Outlook](https://about.bnef.com/electric-vehicle-outlook/) | Adopcion de EVs |

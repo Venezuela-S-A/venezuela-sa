@@ -259,7 +259,7 @@ La inversión en transmisión eléctrica desde Guri beneficia **simultáneamente
 | **Operador** | Socio internacional opera con estándares IRMA | JV permite transferencia tecnológica |
 | **Regalías** | 5-8% del ingreso bruto | Promedio LATAM mining royalties |
 | **Impuesto corporativo** | 15% flat (modelo Estado lean) | Consistente con reforma fiscal |
-| **Fondo soberano** | 100% de regalías mineras → fondo soberano | Igual que petróleo |
+| **Fondo de Inversión Venezuela S.A.** | 100% de regalías mineras → Fondo de Inversión Venezuela S.A. | Igual que petróleo |
 | **Procesamiento local** | Obligatorio para minerales estratégicos | No exportar materia prima sin procesar |
 | **Empleo local** | Mínimo 70% fuerza laboral venezolana | Capacitación incluida en JV |
 | **Duración concesión** | 25-30 años renovables | Con auditoría cada 5 años |
@@ -452,12 +452,12 @@ flowchart TD
     A["PETRÓLEO<br>Combustible financiero<br>USD 183B inversión"] --> B["MINERÍA<br>Segundo motor extractivo<br>USD 22-41B inversión"]
     A --> C["TECH / DATA CENTERS<br>Destino<br>USD 5-10B inversión"]
 
-    B --> D["Regalías mineras<br>→ Fondo Soberano"]
+    B --> D["Regalías mineras<br>→ Fondo de Inversión Venezuela S.A."]
     B --> E["Empleo industrial<br>50.000-100.000 directos"]
     B --> F["Valor agregado<br>Aluminio, acero verde, galio"]
     B --> G["Alianza geopolítica<br>EE.UU. necesita minerales"]
 
-    D --> H["USD 250-400B<br>Fondo Soberano<br>Año 15"]
+    D --> H["USD 250-400B<br>Fondo de Inversión Venezuela S.A.<br>Año 15"]
 
     style A fill:#F9A825,color:#000
     style B fill:#E3F2FD,color:#1B2631
@@ -471,7 +471,7 @@ flowchart TD
 | **% del PIB** (meta año 10: ~USD 200.000 M) | 4-6% |
 | **Empleos directos** | 50.000-100.000 |
 | **Empleos indirectos** | 150.000-300.000 |
-| **Contribución al fondo soberano** (regalías) | USD 400-920 M/año |
+| **Contribución al Fondo de Inversión Venezuela S.A.** (regalías) | USD 400-920 M/año |
 | **Valor agregado local** | >60% del mineral se procesa en Venezuela |
 
 ---

@@ -241,7 +241,7 @@ Toyota opero en Venezuela por **más de 30 años**. GM estuvo mas de **60 años*
 
 | Parámetro | Modelo |
 |-----------|--------|
-| **Estructura JV** | Venezuela 20-49% (via fondo soberano o entidad pública) + operador internacional 51-80% |
+| **Estructura JV** | Venezuela 20-49% (via Fondo de Inversión Venezuela S.A. o entidad pública) + operador internacional 51-80% |
 | **Impuesto corporativo** | 15% flat |
 | **Arancel de importación maquinaria** | 0% por 10 años |
 | **Repatriación de utilidades** | 100% libre en USD |

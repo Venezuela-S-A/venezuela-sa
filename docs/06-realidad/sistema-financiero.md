@@ -86,7 +86,7 @@ Con encaje del 73%, los bancos retienen el 73% de cada depósito. No hay crédit
 | **Pagos** | Cash-heavy, informal, 70%+ en USD físico | **Pagos digitales instantáneos** en USD | Año 1 |
 | **Remesas** | 5–8% de comisión por envío | **1–2% vía app** (modelo Wise/Remitly) | Año 1 |
 | **Crédito** | Inexistente para 80%+ (encaje 73%) | **Scoring algorítmico** — crédito basado en historial digital | Año 2–3 |
-| **Ahorro** | No existe incentivo (inflación destruye) | **Cuentas en USD con rendimiento** del fondo soberano | Año 2–3 |
+| **Ahorro** | No existe incentivo (inflación destruye) | **Cuentas en USD con rendimiento** del Fondo de Inversión Venezuela S.A. | Año 2–3 |
 | **Seguros** | Penetración ~0% | **Seguros paramétricos** vía app (salud, agro, micro) | Año 2–3 |
 
 :::tip La paradoja venezolana: la crisis es la oportunidad

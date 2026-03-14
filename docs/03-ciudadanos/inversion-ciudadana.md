@@ -56,7 +56,7 @@ Cada residente de Alaska recibe **el mismo cheque del PFD** — [USD 1.702 en 20
 ### Ventaja política: 40 millones de defensores
 
 :::tip El dividendo igual es un candado democrático
-Si 40 millones de personas reciben exactamente el mismo dividendo, **40 millones de personas defenderán el fondo soberano**. Si solo 2 millones de inversores reciben el doble, los otros 38 millones lo ven como "el fondo de los que tienen plata". Un fondo soberano sin legitimidad popular no sobrevive al primer populista que prometa repartirlo.
+Si 40 millones de personas reciben exactamente el mismo dividendo, **40 millones de personas defenderán el Fondo de Inversión Venezuela S.A.**. Si solo 2 millones de inversores reciben el doble, los otros 38 millones lo ven como "el fondo de los que tienen plata". Un Fondo de Inversión Venezuela S.A. sin legitimidad popular no sobrevive al primer populista que prometa repartirlo.
 :::
 
 **El incentivo para invertir no desaparece.** Quien compra bonos ciudadanos o participaciones VIN recibe retornos de mercado: intereses, apreciación, dividendos financieros. Ese retorno es proporcional a la inversión — como cualquier instrumento financiero. Lo que **no** es proporcional es la ciudadanía.

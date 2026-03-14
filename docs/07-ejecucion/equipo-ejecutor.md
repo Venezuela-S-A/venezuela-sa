@@ -30,7 +30,7 @@ flowchart TD
     AC -.->|"Audita"| BE
 
     CEO --> DP["<b>Dir. Petrolera</b><br/>JVs, upstream, Rystad"]
-    CEO --> DF["<b>Dir. Financiera</b><br/>Fondo soberano, deuda, fiscal"]
+    CEO --> DF["<b>Dir. Financiera</b><br/>Fondo de Inversión Venezuela S.A., deuda, fiscal"]
     CEO --> DT["<b>Dir. Tech/Digital</b><br/>Estado digital, hubs, data centers"]
     CEO --> DCH["<b>Dir. Capital Humano</b><br/>Educación, diáspora, talento"]
     CEO --> DSL["<b>Dir. Seguridad/Legal</b><br/>Reforma policial, justicia"]
@@ -51,14 +51,14 @@ flowchart TD
 ```
 
 :::info Relación con el PMO existente
-Esta estructura complementa el [organigrama de ejecución (PMO)](/06-realidad/esg-ejecucion) y se alinea con la gobernanza del [fondo soberano](/02-motor-financiero/fondo-soberano). El Board Ejecutivo reporta tanto al Consejo del Fondo como a los ciudadanos.
+Esta estructura complementa el [organigrama de ejecución (PMO)](/06-realidad/esg-ejecucion) y se alinea con la gobernanza del [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano). El Board Ejecutivo reporta tanto al Consejo del Fondo como a los ciudadanos.
 :::
 
 ## Perfiles requeridos por rol
 
 | Rol | Perfil requerido | Experiencia mínima | Origen ideal | Ejemplo de perfil (no personas) |
 |-----|-----------------|-------------------|-------------|-------------------------------|
-| **CEO** | Ex-CEO de corporación grande o fondo soberano | **15+ años** de liderazgo ejecutivo, bilingüe ES/EN | Diáspora venezolana o internacional con conexión al país | Alguien que haya gestionado operaciones de USD 1B+ con accountability pública |
+| **CEO** | Ex-CEO de corporación grande o Fondo de Inversión Venezuela S.A. | **15+ años** de liderazgo ejecutivo, bilingüe ES/EN | Diáspora venezolana o internacional con conexión al país | Alguien que haya gestionado operaciones de USD 1B+ con accountability pública |
 | **Dir. Petrolera** | Ex-VP de major petrolera o consultora energética | **15+ años** en upstream/midstream, conocimiento Faja del Orinoco | Ex-PDVSA pre-2002, Rystad, IHS, Wood Mackenzie | Perfil que entienda tanto la geología como los JVs internacionales |
 | **Dir. Financiera** | Ex-MD de banca de inversión o reestructuración soberana | **12+ años** en deuda soberana, mercados emergentes | Wall Street, City of London, con experiencia LATAM | Alguien que haya liderado reestructuraciones de deuda de USD 10B+ |
 | **Dir. Tech/Digital** | Ex-CTO/VP de BigTech o founder exitoso | **10+ años** en infraestructura cloud, data centers, gobierno digital | Silicon Valley, Europa, con voluntad de relocalización | Perfil que haya escalado plataformas de millones de usuarios |
@@ -115,13 +115,13 @@ flowchart LR
 ## Modelo de compensación
 
 :::info La lección de Singapur
-Lee Kuan Yew pagaba a sus ministros **salarios competitivos con el sector privado** — USD 1M+ anuales. Su argumento: *"Páguenles bien o los perderán ante el sector privado, o peor, ante la corrupción."* El modelo NBIM (fondo soberano de Noruega) sigue la misma lógica [Requiere investigación].
+Lee Kuan Yew pagaba a sus ministros **salarios competitivos con el sector privado** — USD 1M+ anuales. Su argumento: *"Páguenles bien o los perderán ante el sector privado, o peor, ante la corrupción."* El modelo NBIM (Fondo de Inversión Venezuela S.A. de Noruega) sigue la misma lógica [Requiere investigación].
 :::
 
 | Componente | Estructura | Referencia |
 |-----------|-----------|-----------|
 | **Salario base** | Competitivo con sector privado internacional (percentil 75) | Benchmarks de Korn Ferry/Mercer para mercados emergentes [Requiere investigación] |
-| **Bono por desempeño** | 0-100% del salario base, atado a **KPIs trimestrales públicos** | Modelo similar a CEO de fondo soberano noruego (NBIM) |
+| **Bono por desempeño** | 0-100% del salario base, atado a **KPIs trimestrales públicos** | Modelo similar a CEO de Fondo de Inversión Venezuela S.A. noruego (NBIM) |
 | **Equity simbólico** | Bonos ciudadanos equivalentes — su compensación sube si Venezuela sube | Alineación de incentivos startup-style |
 | **Clawback** | Devolución total de bonos si se detecta **misconduct, corrupción o conflicto de interés** | Estándar Dodd-Frank para ejecutivos de empresas públicas |
 | **Pensión** | Contributiva estándar — sin pensiones vitalicias de privilegio | Modelo Estonia/Singapur |
@@ -158,7 +158,7 @@ Ningún miembro del equipo ejecutivo tiene inmunidad judicial. El Fiscal Naciona
 
 | Sección del plan | Relación con el equipo ejecutor |
 |-----------------|-------------------------------|
-| [Fondo Soberano](/02-motor-financiero/fondo-soberano) | El Board Ejecutivo se coordina con el Consejo del Fondo — gobernanza paralela |
+| [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano) | El Board Ejecutivo se coordina con el Consejo del Fondo — gobernanza paralela |
 | [ESG y Ejecución (PMO)](/06-realidad/esg-ejecucion) | El organigrama PMO se integra bajo el CEO del equipo ejecutor |
 | [Anticorrupción](/04-gobernanza/anticorrupcion-checklist) | Los 10 criterios no negociables son la versión ejecutiva del checklist anticorrupción |
 | [Timeline](/07-ejecucion/timeline) | Fase A (2027-2031) requiere equipo completo antes del arranque |

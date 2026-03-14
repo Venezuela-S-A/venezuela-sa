@@ -32,7 +32,7 @@ flowchart LR
     A["🛢️ Reconstruir Energía<br/>Petróleo + Hidro"] --> B["⚡ Energía Barata<br/>Atrae BigTech"]
     B --> C["💻 Ecosistema Tech<br/>Startups + Empleos"]
     C --> D["📈 Economía Diversificada<br/>Petróleo: 95% → <35%"]
-    D --> E["🏦 Fondo Soberano<br/>+ Dividendo Ciudadano"]
+    D --> E["🏦 Fondo de Inversión Venezuela S.A.<br/>+ Dividendo Ciudadano"]
 
     style A fill:#0D47A1,color:#fff
     style B fill:#0D47A1,color:#fff
@@ -88,7 +88,7 @@ xychart-beta
 |-----------|-----|-------|--------|--------|
 | PIB | USD 83.000 M | 140.000 M | 250.000 M | 425.000 M |
 | Producción | 1 M bpd | 1,75 M | 2,25 M | 2,75 M |
-| Fondo Soberano | USD 0 | 30.000 M | 115.000 M | 325.000 M |
+| Fondo de Inversión Venezuela S.A. | USD 0 | 30.000 M | 115.000 M | 325.000 M |
 | Dividendo/persona | USD 0 | USD 20 | USD 50 | USD 162 |
 | Petróleo % export | 95% | 75% | 45% | <35% |
 
@@ -128,7 +128,7 @@ xychart-beta
 | **Capital inicial (años 1–3)** | USD 30.000–50.000 M |
 | **Pre-Seed (diáspora, día 1)** | USD 25–60 M |
 
-**Lo que se entrega:** Un país transformado donde cada venezolano recibe dividendos de un fondo soberano meta USD 250.000–400.000 M, petróleo baja de 95% a <35% de exportaciones, y la economía se diversifica en 6 motores de crecimiento.
+**Lo que se entrega:** Un país transformado donde cada venezolano recibe dividendos de un Fondo de Inversión Venezuela S.A. meta USD 250.000–400.000 M, petróleo baja de 95% a <35% de exportaciones, y la economía se diversifica en 6 motores de crecimiento.
 
 ---
 

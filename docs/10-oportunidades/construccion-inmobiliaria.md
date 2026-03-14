@@ -409,7 +409,7 @@ Fuentes: [Colombia Mi Casa Ya](https://minvivienda.gov.co/); [Chile MINVU](https
 | **Déficit de mano de obra calificada** | Media-alta | Alto | Programa de formación acelerada (SENA Colombia como modelo). Repatriación de diáspora con incentivos. Permisos de trabajo para obreros colombianos/peruanos |
 | **Burbuja inmobiliaria** | Media | Alto | Regulación de precios en vivienda social. Límites de financiamiento. Supervisión bancaria robusta |
 | **Corrupción en permisos y contratos** | Alta | Alto | Ventanilla única digital (sin contacto humano). Licitaciones internacionales transparentes. Auditoría Big 4 |
-| **Capacidad fiscal para subsidios** | Media | Medio | Subsidios financiados con ingresos petroleros vía fondo soberano. Techo de USD 1-2B/año en subsidios |
+| **Capacidad fiscal para subsidios** | Media | Medio | Subsidios financiados con ingresos petroleros vía Fondo de Inversión Venezuela S.A.. Techo de USD 1-2B/año en subsidios |
 
 ---
 

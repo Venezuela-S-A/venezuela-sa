@@ -167,7 +167,7 @@ No apostar todo a un escenario. Si el levantamiento se retrasa o estanca:
 | Escenario | Estrategia | Capital disponible | Limitación |
 |-----------|------------|-------------------|------------|
 | Sanciones se mantienen 5+ años | Pre-Seed con diáspora (**7.9M** personas), operaciones solo Chevron/GL 44 | **USD 3-8B** (diáspora + Chevron) | Sin oil majors, sin mercado de capitales |
-| Levantamiento parcial (solo petróleo) | Maximizar upstream con licencias sectoriales, fondo soberano con ingresos limitados | **USD 15-30B** | Sin tech investment, sin investment grade |
+| Levantamiento parcial (solo petróleo) | Maximizar upstream con licencias sectoriales, Fondo de Inversión Venezuela S.A. con ingresos limitados | **USD 15-30B** | Sin tech investment, sin investment grade |
 | Inversores no-estadounidenses | India (ONGC), Brasil (Petrobras), Golfo (ADNOC, Saudi Aramco) | **USD 10-20B** [Requiere investigación] | Riesgo de sanciones secundarias, menor capital disponible |
 | Finanzas alternativas | Bonos en mercados no-USD (yuan, euro), tokenización de activos, DeFi para remesas | **USD 2-5B** [Requiere investigación] | Liquidez limitada, mayor costo de capital |
 
@@ -200,7 +200,7 @@ La relación costo-beneficio es absurda. Un equipo de compliance y lobbying de p
 |-----------------|-------------------------|
 | [Motor Financiero](/02-motor-financiero/inversion-inicial-fuentes) | Fases 1-3: oil majors, bonos, banca |
 | [Hubs Tech / ZEETs](/05-transformacion/hubs-tech) | Fase 4: tech investment, data centers |
-| [Fondo Soberano](/02-motor-financiero/fondo-soberano) | Fase 3+: estructura VIN, Santiago Principles |
+| [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano) | Fase 3+: estructura VIN, Santiago Principles |
 | [Realidad Geopolítica](/04-gobernanza/geopolitica) | Todas las fases: EE.UU. controla ventas |
 | [Pre-Seed Diáspora](/03-ciudadanos/inversion-ciudadana) | **Fase 0: NO depende de sanciones** |
 

@@ -79,7 +79,7 @@ flowchart TB
         REV2["Impuestos: 15% flat + 12% IVA"]
         REV3["Concesiones (infraestructura, telecom)"]
         REV4["ZEET fees + corporate tax 15%"]
-        REV5["Fondo soberano: 4-7% retorno anual"]
+        REV5["Fondo de Inversión Venezuela S.A.: 4-7% retorno anual"]
         REV6["Gas/LNG: USD 3-5.000M/año"]
         REV7["Turismo: USD 4-8.000M/año"]
     end
@@ -113,7 +113,7 @@ flowchart TB
 ### 2. Propuesta de Valor
 
 **Para ciudadanos:**
-- Dividendo automático del fondo soberano (USD 15→200/año)
+- Dividendo automático del Fondo de Inversión Venezuela S.A. (USD 15→200/año)
 - Salud universal + pensión digna vía el **Fondo Ciudadano Venezuela (FCV):** cuenta unificada retiro + salud + vivienda + educación (21% del salario, tipo Singapur CPF)
 - Estado digital sin burocracia
 - Propiedad real sobre recursos nacionales
@@ -162,7 +162,7 @@ pie title Ingresos anuales — Año 15 (USD miles de M)
     "Concesiones" : 4
     "Petroquímica" : 4.5
     "Agroindustria" : 3.5
-    "Fondo soberano (retorno 4%)" : 13
+    "Fondo de Inversión Venezuela S.A. (retorno 4%)" : 13
 ```
 
 | Fuente | Año 5 | Año 10 | Año 15 |
@@ -170,7 +170,7 @@ pie title Ingresos anuales — Año 15 (USD miles de M)
 | Petróleo (neto) | USD 14.000 M | USD 18.000 M | USD 30.000+ M |
 | Impuestos | USD 5.000 M | USD 12.000 M | USD 20.000 M |
 | Gas natural | USD 500 M | USD 2.000 M | USD 4.000 M |
-| Fondo soberano (retorno) | USD 1.500 M | USD 5.000 M | USD 13.000 M |
+| Fondo de Inversión Venezuela S.A. (retorno) | USD 1.500 M | USD 5.000 M | USD 13.000 M |
 | Tech + turismo + agro | USD 2.000 M | USD 8.000 M | USD 15.000 M |
 
 ### 6. Recursos Clave
@@ -228,7 +228,7 @@ gantt
 pie title Inversión total por categoría (USD miles de M — rango inferior)
     "Petróleo" : 183
     "Deuda" : 75
-    "Fondo soberano (capitalización)" : 50
+    "Fondo de Inversión Venezuela S.A. (capitalización)" : 50
     "Infraestructura" : 41.5
     "Electricidad" : 15
     "Educación" : 15
@@ -242,7 +242,7 @@ pie title Inversión total por categoría (USD miles de M — rango inferior)
 |-----------|-----------|-------------|------------------|
 | Petróleo | USD 183.000 M | 33% | Oil majors (JVs) + forwards |
 | Deuda reestructurada | USD 75–85.000 M | 14% | Haircut 50% (Citigroup model) |
-| Fondo soberano | USD 50–100.000 M | 11% | Ingresos petroleros + rendimientos |
+| Fondo de Inversión Venezuela S.A. | USD 50–100.000 M | 11% | Ingresos petroleros + rendimientos |
 | Infraestructura | USD 41.500–81.000 M | 10% | Concesiones + multilaterales |
 | Electricidad | USD 15–25.000 M | 3% | Concesiones + Venezuela S.A. como accionista |
 | Educación | USD 15–25.000 M | 3% | Presupuesto público |
@@ -262,4 +262,4 @@ pie title Inversión total por categoría (USD miles de M — rango inferior)
 | **Dividendo anual (año 15)** | 10% ingresos fondo ÷ 40 M | **USD 125–200** |
 | **Valor fondo / cápita** | USD 325.000 M ÷ 40 M | **USD 8.125** |
 
-Comparación: Noruega tiene USD 2.2T ÷ 5,5M = **USD 400.000/cápita** en su fondo. Venezuela aspira a USD 8.125/cápita en 15 años. Modesto, pero transforma un país donde hoy el fondo soberano es **USD 0**.
+Comparación: Noruega tiene USD 2.2T ÷ 5,5M = **USD 400.000/cápita** en su fondo. Venezuela aspira a USD 8.125/cápita en 15 años. Modesto, pero transforma un país donde hoy el Fondo de Inversión Venezuela S.A. es **USD 0**.

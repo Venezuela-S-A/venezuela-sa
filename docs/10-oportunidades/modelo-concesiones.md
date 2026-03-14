@@ -14,16 +14,16 @@ Toda obra, toda infraestructura, todo servicio en este plan debe ser de **calida
 Venezuela S.A. no es un gobierno que construye. Es una **plataforma que habilita la construcción más ambiciosa de infraestructura del siglo XXI** — y al mismo tiempo, es el **holding de 40 millones de accionistas** que participa como accionista en joint ventures de infraestructura y recibe dividendos perpetuos.
 
 :::danger Distinción Fundamental: Estado vs. Venezuela S.A.
-**El Estado NO es dueño de ninguna empresa.** Su rol es exclusivamente: gobierno, salud, justicia, educación y seguridad. **Venezuela S.A.** es la entidad corporativa de los ciudadanos — invierte en infraestructura base, cobra regalías, administra el fondo soberano y distribuye dividendos. Cuando una concesión paga, le paga a Venezuela S.A. (los ciudadanos), no al gobierno.
+**El Estado NO es dueño de ninguna empresa.** Su rol es exclusivamente: gobierno, salud, justicia, educación y seguridad. **Venezuela S.A.** es la entidad corporativa de los ciudadanos — invierte en infraestructura base, cobra regalías, administra el Fondo de Inversión Venezuela S.A. y distribuye dividendos. Cuando una concesión paga, le paga a Venezuela S.A. (los ciudadanos), no al gobierno.
 :::
 
 | Rol | Quien | Que Hace |
 |-----|-------|----------|
 | **Estado** | Gobierno de transición | Regula, da permisos, seguridad, justicia, velocidad. **No posee empresas.** |
-| **Venezuela S.A.** | Holding de 40M accionistas | Invierte en infraestructura base, cobra regalías y equity, administra fondo soberano |
+| **Venezuela S.A.** | Holding de 40M accionistas | Invierte en infraestructura base, cobra regalías y equity, administra Fondo de Inversión Venezuela S.A. |
 | **Concesionario internacional** | Capital extranjero | Inversión, tecnología, know-how, ejecución, operación |
 | **Ciudadano** | Accionista de Venezuela S.A. | Trabajo, consumo, supervisión, dividendo soberano |
-| **Fondo Soberano** | Administrado por Venezuela S.A. | Regalías, impuestos, equity, ahorro intergeneracional |
+| **Fondo de Inversión Venezuela S.A.** | Administrado por Venezuela S.A. | Regalías, impuestos, equity, ahorro intergeneracional |
 
 ### Venezuela S.A. como Accionista en Joint Ventures de Infraestructura
 
@@ -106,7 +106,7 @@ Venezuela S.A. no "posee" infraestructura como un Estado socialista. Es **accion
 :::
 
 :::tip El benchmark NO es Latinoamérica — es el mejor del mundo
-Si Noruega tiene el mejor fondo soberano, copiamos a Noruega. Si Singapur tiene el mejor puerto, copiamos a Singapur. Si Japón tiene la mejor ingeniería antisísmica, copiamos a Japón. Si Australia diseña puentes para 300 años, copiamos a Australia. Si Holanda protege contra inundaciones 1-en-100,000 años, copiamos a Holanda. Venezuela no compite con Honduras — **compite con los mejores del planeta en cada categoría.**
+Si Noruega tiene el mejor Fondo de Inversión Venezuela S.A., copiamos a Noruega. Si Singapur tiene el mejor puerto, copiamos a Singapur. Si Japón tiene la mejor ingeniería antisísmica, copiamos a Japón. Si Australia diseña puentes para 300 años, copiamos a Australia. Si Holanda protege contra inundaciones 1-en-100,000 años, copiamos a Holanda. Venezuela no compite con Honduras — **compite con los mejores del planeta en cada categoría.**
 :::
 
 ---
@@ -363,7 +363,7 @@ gantt
 | **Lock anti-populista** | Modificación requiere 2/3 del Parlamento + referéndum | Anti-captura |
 
 :::caution Lección de la historia
-Venezuela expropió **USD 20B+** en activos entre 2007-2014. Cualquier inversor preguntará: "¿por qué esta vez es diferente?" La respuesta: BIT + ICSID + MIGA + cláusula de estabilización + fondo soberano offshore + locks supra-constitucionales. **No es confianza — es arquitectura legal que hace la expropiación económicamente irracional.**
+Venezuela expropió **USD 20B+** en activos entre 2007-2014. Cualquier inversor preguntará: "¿por qué esta vez es diferente?" La respuesta: BIT + ICSID + MIGA + cláusula de estabilización + Fondo de Inversión Venezuela S.A. offshore + locks supra-constitucionales. **No es confianza — es arquitectura legal que hace la expropiación económicamente irracional.**
 :::
 
 ### 7. Transparencia Total — Anti-Corrupción de Clase Mundial
@@ -430,7 +430,7 @@ Adicionalmente:
 | **Empleo local** | Mínimo 70% fuerza laboral venezolana al año 3 |
 | **Precios accesibles** | Tarifas reguladas para servicios esenciales (agua, electricidad, salud) |
 | **Acceso universal** | Ninguna concesión puede excluir poblaciones vulnerables |
-| **Dividendo soberano** | Regalías van al fondo soberano → dividendo ciudadano anual |
+| **Dividendo soberano** | Regalías van al Fondo de Inversión Venezuela S.A. → dividendo ciudadano anual |
 | **Participación comunitaria** | Consulta pública obligatoria (FPIC/ILO 169) antes de cada concesión |
 | **Prioridad de compra** | Venezolanos pueden invertir en cada concesión desde USD 10 |
 | **Capacitación gratuita** | Centro de formación del concesionario abierto a la comunidad |
@@ -462,7 +462,7 @@ flowchart TD
     E --> F[Operacion 25-30 anos<br/>KPIs + auditoria Big 4<br/>+ transferencia tech<br/>+ dashboard publico]
     F --> G[Transferencia a Venezuela S.A.<br/>en condicion optima<br/>certificada por<br/>ingeniero independiente]
 
-    D --> H[Regalias + impuestos<br/>--> Fondo Soberano<br/>Santiago Principles]
+    D --> H[Regalias + impuestos<br/>--> Fondo de Inversión Venezuela S.A.<br/>Santiago Principles]
     D --> I[Empleos + servicios<br/>--> Ciudadanos<br/>70% local ano 3]
     D --> J[Transferencia tech<br/>--> Universidades<br/>UCV USB LUZ UNEXPO]
 
@@ -500,7 +500,7 @@ flowchart TD
 | | **TOTAL** | **USD 338-462B** | **2.6-4.7M** | | | |
 
 :::tip USD 338-462B en concesiones = el plan se financia solo
-El plan total es USD 550-750B en 15 años. Si las concesiones atraen USD 338-462B en capital privado, Venezuela S.A. solo necesita facilitar USD 88-288B — financiable con petróleo a USD 60/barril + multilaterales + fondo soberano. **El capital privado no es un complemento — es el motor principal. Venezuela S.A. participa como accionista en cada JV de infraestructura, recibe dividendos perpetuos, y los distribuye a los 40M ciudadanos-accionistas.**
+El plan total es USD 550-750B en 15 años. Si las concesiones atraen USD 338-462B en capital privado, Venezuela S.A. solo necesita facilitar USD 88-288B — financiable con petróleo a USD 60/barril + multilaterales + Fondo de Inversión Venezuela S.A.. **El capital privado no es un complemento — es el motor principal. Venezuela S.A. participa como accionista en cada JV de infraestructura, recibe dividendos perpetuos, y los distribuye a los 40M ciudadanos-accionistas.**
 :::
 
 ---
@@ -516,7 +516,7 @@ El plan total es USD 550-750B en 15 años. Si las concesiones atraen USD 338-462
 | **Países Bajos** | Delta Programme 1:100,000 | Protección contra inundaciones | Agua, presas, costa |
 | **Singapur** | SAIDI 0.23 min/año + BCA Green Mark | Grid más confiable + construcción verde | Electricidad, edificios |
 | **Chile** | 25+ años de concesiones exitosas (80% autopistas en BOT) | Marco de concesiones | Vialidad, infraestructura |
-| **Noruega** | NBIM (USD 2.2T) + Santiago Principles | Gobernanza de fondo soberano | Fondo soberano |
+| **Noruega** | NBIM (USD 2.2T) + Santiago Principles | Gobernanza de Fondo de Inversión Venezuela S.A. | Fondo de Inversión Venezuela S.A. |
 | **Estonia** | e-Governance, gobierno 100% digital | Ventanilla única, permisos digitales | Estado digital |
 | **Corea del Sur** | 5-year plans + 5G SA + FTTH | Ejecución paralela de infraestructura | Telecoms, industria |
 | **UAE** | Dubai 2040 (USD 177B en paralelo) | Ejecución masiva paralela coordinada | Multi-sector |

@@ -93,7 +93,7 @@ Estos servicios se operan por concesión, contrato o mercado privado regulado. E
 | **Gasolina** | Precio de mercado (transición Arabia Saudita) | Precio de mercado: ~USD 0.50-0.80/litro a USD 60/barril | Ninguno. Transición gradual en 5-10 años |
 | **Telecomunicaciones** | 5G SA competitivo | Tarifa de mercado (operadores compiten) | Puntos de acceso público WiFi en escuelas/plazas |
 
-**La gratuidad destruyó a Venezuela:** gasolina regalada = contrabando masivo, electricidad gratis = desperdicio + apagones. **El modelo es: financiamiento sostenible (contribución solidaria para salud, voucher para educación) + tarifa de mercado para todo lo demás.** [Chile FONASA cubre al 83% de la población](https://www.supersalud.gob.cl/) con contribución solidaria. [Israel recicla 85% de aguas residuales](https://www.haaretz.com/) porque el precio refleja escasez.
+**La gratuidad destruyó a Venezuela:** gasolina regalada = contrabando masivo, electricidad gratis = desperdicio + apagones. **El modelo es: financiamiento sostenible (contribución compartida para salud, voucher para educación) + tarifa de mercado para todo lo demás.** [Chile FONASA cubre al 83% de la población](https://www.supersalud.gob.cl/) con contribución compartida. [Israel recicla 85% de aguas residuales](https://www.haaretz.com/) porque el precio refleja escasez.
 :::
 
 ### Fondo Ciudadano Venezuela (FCV): Una Sola Cuenta, Cero Burocracia
@@ -105,7 +105,7 @@ Venezuela adopta el mismo principio: **el Fondo Ciudadano Venezuela (FCV)** es u
 | Subcuenta | % del salario | Para qué | Propiedad | Modelo |
 |-----------|--------------|----------|-----------|--------|
 | **Retiro** | 8% | Pensión al jubilarse | Del trabajador — nadie se la quita | [Singapur CPF Special Account](https://www.cpf.gov.sg/) |
-| **Salud** | 7% | Hospitalización, medicamentos, copagos. Fase 1-5: 100% solidario. Fase 5+: solidario + ahorro individual | Solidario (fase 1) → individual (fase 3) | [Chile FONASA](https://www.fonasa.cl/) → [Singapur MediSave](https://www.moh.gov.sg/) |
+| **Salud** | 7% | Hospitalización, medicamentos, copagos. Fase 1-5: 100% contributivo. Fase 5+: contributivo + ahorro individual | Solidario (fase 1) → individual (fase 3) | [Chile FONASA](https://www.fonasa.cl/) → [Singapur MediSave](https://www.moh.gov.sg/) |
 | **Vivienda** | 4% | Pago inicial de vivienda propia. Crédito hipotecario | Del trabajador | [Singapur CPF Ordinary Account](https://www.cpf.gov.sg/) |
 | **Educación** | 2% | Universidad propia o de los hijos | Del trabajador | [Singapur CPF Education Scheme](https://www.cpf.gov.sg/) |
 | **TOTAL** | **21%** | | **(10% trabajador + 11% empleador)** | Singapur CPF: 37% |
@@ -149,7 +149,7 @@ A los 18 años, el ciudadano ha recibido **USD 32,400 en inversión** de Venezue
 
 **Lo que complementa el FCV** (financiado con impuestos):
 - **Pensión Pilar 1**: universal, para todo jubilado — incluye a quienes nunca contribuyeron
-- **Salud Tramo A/B**: solidaridad adicional para adultos sin ingresos/extrema pobreza
+- **Salud Tramo A/B**: contribución compartida adicional para adultos sin ingresos/extrema pobreza
 
 #### FCV para la diáspora: incentivo para volver
 
@@ -185,11 +185,11 @@ El FCV del extranjero es **retirable**, pero el Estado recupera lo que invirtió
 | **Subcuenta Vivienda** | Se le devuelve el saldo (si no compró casa) |
 | **Subcuenta Educación** | Se le devuelve el saldo no utilizado |
 | **(-) Inversión de VSA en sus hijos** | Se descuenta lo que Venezuela S.A. invirtió en educación y salud de hijos nacidos en Venezuela (USD 150/mes × meses cubiertos) |
-| **(-) Salud utilizada (solidaridad)** | Se descuenta el costo de atención médica recibida vía componente solidario del FCV (hospitalización, cirugías, tratamientos financiados por el fondo común — no lo que pagó de su bolsillo vía copago) |
+| **(-) Salud utilizada (contribución compartida)** | Se descuenta el costo de atención médica recibida vía componente contributivo del FCV (hospitalización, cirugías, tratamientos financiados por el fondo común — no lo que pagó de su bolsillo vía copago) |
 | **(-) Comisión de administración** | Se descuenta la comisión acumulada del fondo (~0,5% anual sobre el saldo) |
-| **= Monto a recibir** | **Acumulado total − inversión VSA en hijos − salud solidaria utilizada − comisiones** |
+| **= Monto a recibir** | **Acumulado total − inversión VSA en hijos − salud del fondo común utilizada − comisiones** |
 
-**Ejemplo:** Un extranjero trabajó 8 años, acumuló USD 45.000 en FCV. Tuvo 1 hijo (4 años, VSA invirtió USD 7.200). Usó USD 3.500 en salud solidaria (una cirugía + hospitalización). Comisiones: USD 1.200. **Recibe: USD 45.000 − USD 7.200 − USD 3.500 − USD 1.200 = USD 33.100.**
+**Ejemplo:** Un extranjero trabajó 8 años, acumuló USD 45.000 en FCV. Tuvo 1 hijo (4 años, VSA invirtió USD 7.200). Usó USD 3.500 en salud del fondo común (una cirugía + hospitalización). Comisiones: USD 1.200. **Recibe: USD 45.000 − USD 7.200 − USD 3.500 − USD 1.200 = USD 33.100.**
 
 :::info Atraer talento global con el FCV
 El FCV es una ventaja competitiva para atraer talento extranjero. Un ingeniero colombiano, peruano o argentino que trabaje en Venezuela acumula en 4 subcuentas desde el Día 1 — algo que su país de origen probablemente NO ofrece en un solo sistema. Si se queda 10+ años, tiene casa, salud y pensión. Si se va, retira su dinero (menos lo que Venezuela invirtió en sus hijos y comisiones). **Es justo: el sistema te protege mientras contribuyes, y si te vas, te devuelve lo tuyo menos lo que el país invirtió en tu familia.**
@@ -199,7 +199,7 @@ El FCV es una ventaja competitiva para atraer talento extranjero. Un ingeniero c
 
 | Fase | Años | Contribución total | Distribución | Razón |
 |------|------|-------------------|-------------|-------|
-| **Emergencia** | 1-3 | 14% | Retiro 8% + Salud 6% (100% solidario) | 82,8% pobreza. No hay capacidad para vivienda ni educación. Salud es puro fondo solidario |
+| **Emergencia** | 1-3 | 14% | Retiro 8% + Salud 6% (100% contributivo) | 82,8% pobreza. No hay capacidad para vivienda ni educación. Salud es puro fondo contributivo |
 | **Estabilización** | 3-7 | 18% | Retiro 8% + Salud 6% + Vivienda 4% | Ingresos suben. Se abre subcuenta vivienda. Trabajadores empiezan a ahorrar para casa propia |
 | **Construcción** | 7-12 | 21% | Retiro 8% + Salud 7% + Vivienda 4% + Educación 2% | Clase media creciente. Se abre subcuenta educación. Salud introduce componente individual (Medisave) |
 | **Madurez** | 12+ | 25% | Retiro 10% + Salud 7% + Vivienda 5% + Educación 3% | Convergencia al modelo Singapur. Ciudadano es dueño de su ahorro en las 4 áreas |
@@ -252,7 +252,7 @@ El [AFP chileno](https://www.spensiones.cl/) lleva 44 años funcionando pero tie
 | Tasa de reemplazo | [~40%](https://economia.lse.ac.uk/articles/10.31389/eco.420) | ~50–70% | Meta: >50% |
 | Comisiones | ~1,2% del fondo | ~0,1–0,2% | Techo: 0,5% (regulado) |
 | Ranking global | [Grado B](https://www.mercer.com/insights/investments/market-outlook-and-trends/mercer-cfa-global-pension-index/) | [Grado A, #5](https://www.mercer.com/insights/investments/market-outlook-and-trends/mercer-cfa-global-pension-index/) | Meta: Grado B+ |
-| Pilar solidario | PGU (2008, reformada 2025) | Silver Support Scheme | Pilar 1 universal (ver [Pensiones](/06-realidad/pensiones-seguridad-social)) |
+| Pilar contributivo | PGU (2008, reformada 2025) | Silver Support Scheme | Pilar 1 universal (ver [Pensiones](/06-realidad/pensiones-seguridad-social)) |
 
 **Modelo Venezuela:** Tomar lo mejor de ambos:
 - **De Chile:** Cuentas individuales con propiedad del trabajador, libertad de elección de fondo
@@ -262,15 +262,15 @@ El Pilar 1 universal (USD 100–200/mes) lo financia el presupuesto público. Lo
 
 ### Salud: Subcuenta Salud del FCV — Universal, Contributivo, Sin Exclusión
 
-> La salud es la **Subcuenta Salud** del [Fondo Ciudadano Venezuela (FCV)](#fondo-ciudadano-venezuela-fcv-una-sola-cuenta-cero-burocracia). El 7% de contribución va a esta subcuenta. En fase 1-5 es 100% solidario (FONASA). A partir del año 5 se introduce el componente individual (Medisave).
+> La salud es la **Subcuenta Salud** del [Fondo Ciudadano Venezuela (FCV)](#fondo-ciudadano-venezuela-fcv-una-sola-cuenta-cero-burocracia). El 7% de contribución va a esta subcuenta. En fase 1-5 es 100% contributivo (FONASA). A partir del año 5 se introduce el componente individual (Medisave).
 
 **No es "gratis" — es financiado por contribución obligatoria. Pero nadie queda fuera.**
 
 | Componente | Cómo funciona | Financiamiento | Modelo |
 |-----------|--------------|---------------|--------|
-| **FONASA (seguro solidario)** | Seguro universal obligatorio. Todos contribuyen, todos están cubiertos. Tramos por ingreso determinan copago | 7% del salario bruto (cotización obligatoria) | [Chile FONASA](https://www.fonasa.cl/) — cubre [83% de la población](https://www.supersalud.gob.cl/) |
-| **Menores de 18: cobertura automática** | **Todo menor tiene salud garantizada automáticamente** — sin copago, sin trámites, sin depender del estatus laboral de los padres | Financiado por solidaridad del sistema | Constitucional — derecho del menor |
-| **Tramo A (sin ingresos)** | Cobertura total sin copago. Indigentes, desempleados, pensionados mínimos | Financiado por solidaridad del sistema + presupuesto público | [FONASA Tramo A](https://www.fonasa.cl/) |
+| **FONASA (seguro contributivo)** | Seguro universal obligatorio. Todos contribuyen, todos están cubiertos. Tramos por ingreso determinan copago | 7% del salario bruto (cotización obligatoria) | [Chile FONASA](https://www.fonasa.cl/) — cubre [83% de la población](https://www.supersalud.gob.cl/) |
+| **Menores de 18: cobertura automática** | **Todo menor tiene salud garantizada automáticamente** — sin copago, sin trámites, sin depender del estatus laboral de los padres | Financiado por contribución compartida del sistema | Constitucional — derecho del menor |
+| **Tramo A (sin ingresos)** | Cobertura total sin copago. Indigentes, desempleados, pensionados mínimos | Financiado por contribución compartida del sistema + presupuesto público | [FONASA Tramo A](https://www.fonasa.cl/) |
 | **Tramo B (bajos ingresos)** | Cobertura total sin copago | Cotización 7% sobre ingreso bajo | [FONASA Tramo B](https://www.fonasa.cl/) |
 | **Tramo C (ingreso medio)** | Copago 10% en prestaciones | Cotización 7% | Igual que FONASA Chile |
 | **Tramo D (ingreso alto)** | Copago 20% en prestaciones | Cotización 7% | Igual que FONASA Chile |
@@ -278,19 +278,19 @@ El Pilar 1 universal (USD 100–200/mes) lo financia el presupuesto público. Lo
 | **Hospitales** | Concesión BOT (privado construye y opera, Venezuela S.A. como accionista en JV) | Pagos de FONASA/ISAPRE | [Chile: hospitales concesionados](https://www.mop.cl/) |
 
 :::info Cobertura universal al 4-5% del PIB
-FONASA Chile cubre al [83% de la población](https://www.supersalud.gob.cl/) con contribución obligatoria del 7% del salario. Desde 2022, la atención pública es efectivamente sin copago para todos los beneficiarios FONASA. La hidro-energía barata de Venezuela (USD 0.05-0.06/kWh) reduce costos operativos de hospitales. Con telemedicina ([Estonia: 99% recetas digitales](https://e-estonia.com/)) + hospitales concesionados, Venezuela puede lograr cobertura universal al **4-5% del PIB**. La clave: contribución solidaria + gestión privada eficiente + tecnología.
+FONASA Chile cubre al [83% de la población](https://www.supersalud.gob.cl/) con contribución obligatoria del 7% del salario. Desde 2022, la atención pública es efectivamente sin copago para todos los beneficiarios FONASA. La hidro-energía barata de Venezuela (USD 0.05-0.06/kWh) reduce costos operativos de hospitales. Con telemedicina ([Estonia: 99% recetas digitales](https://e-estonia.com/)) + hospitales concesionados, Venezuela puede lograr cobertura universal al **4-5% del PIB**. La clave: contribución compartida + gestión privada eficiente + tecnología.
 :::
 
 #### Transición Gradual: FONASA → Híbrido FONASA + Medisave
 
-Con 82,8% de pobreza, no se puede arrancar con ahorro individual tipo Singapur (nadie tiene con qué ahorrar). Se arranca con solidaridad (FONASA) y se transiciona gradualmente a un modelo híbrido a medida que los ingresos suben:
+Con 82,8% de pobreza, no se puede arrancar con ahorro individual tipo Singapur (nadie tiene con qué ahorrar). Se arranca con contribución compartida (FONASA) y se transiciona gradualmente a un modelo híbrido a medida que los ingresos suben:
 
 | Fase | Años | Contribución 7% | División | Razón |
 |------|------|-----------------|----------|-------|
-| **Emergencia** | 1-5 | 7% → 100% FONASA solidario | Todo al fondo solidario. Cobertura universal inmediata | 82,8% pobreza. No hay ingreso para ahorro individual |
+| **Emergencia** | 1-5 | 7% → 100% FONASA contributivo | Todo al fondo contributivo. Cobertura universal inmediata | 82,8% pobreza. No hay ingreso para ahorro individual |
 | **Introducción Medisave** | 5-10 | 7% → 5% FONASA + 2% Medisave personal | Se crea cuenta de ahorro médico personal para copagos, medicamentos, dental, óptica | Ingresos subiendo. Clase media creciente puede ahorrar |
 | **Maduración** | 10-15 | 7% → 4% FONASA + 3% Medisave | Medisave crece. FONASA se concentra en Tramos A/B y catastrófico | Pobreza <25%. Mayoría tiene ahorro médico propio |
-| **Equilibrio** | 15+ | 7% → 3% FONASA + 4% Medisave | Ciudadano es dueño de su ahorro médico + piso solidario garantizado | Economía madura. Modelo híbrido sostenible |
+| **Equilibrio** | 15+ | 7% → 3% FONASA + 4% Medisave | Ciudadano es dueño de su ahorro médico + piso contributivo garantizado | Economía madura. Modelo híbrido sostenible |
 
 ```mermaid
 flowchart LR
@@ -607,7 +607,7 @@ xychart-beta
 | Mes 1–6 | Reforma tributaria express: 15% flat + IVA 12% + digitalización | Semestre 1 |
 | Año 1 | Ley de concesiones: infraestructura + hospitales + vivienda | Año 1 |
 | Año 1–2 | Fondo Ciudadano Venezuela (FCV): 4 subcuentas (retiro + salud + vivienda + educación) + Pilar 1 universal | Año 1–2 |
-| Año 2–3 | FCV Salud operativo: cobertura universal (solidario). ISAPRE como opción privada | Año 2–3 |
+| Año 2–3 | FCV Salud operativo: cobertura universal (contributivo). ISAPRE como opción privada | Año 2–3 |
 | Año 3–5 | Base tributaria >15% del PIB → Estado autosuficiente sin petróleo | Año 3–5 |
 | Año 7+ | Convergencia a modelo Singapur: gasto público <18% PIB | Largo plazo |
 | Año 15 | **Estado vive 100% de impuestos. Petróleo 100% al fondo.** | Meta final |
@@ -790,7 +790,7 @@ Con 82,8% de pobreza, el modelo final no se implementa el Día 1. Se transiciona
 | Mecanismo | Para quién | Duración |
 |-----------|-----------|----------|
 | **Pensión básica universal** (USD 50→200/mes) | TODO jubilado, desde Día 1 | Permanente (Pilar 1) |
-| **Salud universal: FCV Salud desde Día 1** | TODO ciudadano cubierto desde el Día 1. Contribución 7% del salario (subcuenta Salud del FCV). Tramos A/B: 0% copago | Permanente (FCV Salud solidario + ISAPRE opcional) |
+| **Salud universal: FCV Salud desde Día 1** | TODO ciudadano cubierto desde el Día 1. Contribución 7% del salario (subcuenta Salud del FCV). Tramos A/B: 0% copago | Permanente (FCV Salud contributivo + ISAPRE opcional) |
 | **Voucher alimentos** | Hogares bajo línea de pobreza, verificado por ingreso | Transitorio (Años 1–5) — baja a medida que suben ingresos |
 | **Empleo público temporal** | Desempleados durante reconstrucción | Transitorio (Años 1–3) — infraestructura intensiva en mano de obra |
 | **Voucher vivienda** | Familias sin hogar o hacinamiento, verificado | Permanente (modelo Chile: voucher a demanda, familia elige dónde) |

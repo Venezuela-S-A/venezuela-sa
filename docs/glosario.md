@@ -34,8 +34,8 @@ title: Glosario
 | **Tramo D** | Categoría FONASA para ingresos altos. Copago del 20% en prestaciones |
 | **Copago** | Porcentaje del costo de una prestación médica que paga el paciente de su bolsillo. Tramos A/B: 0%. Tramo C: 10%. Tramo D: 20% |
 | **ISAPRE** | Instituciones de Salud Previsional (modelo Chile). Seguros privados de salud. Opción voluntaria para quienes quieran más cobertura o menos espera. No reemplaza a FONASA — lo complementa |
-| **Medisave** | Componente de ahorro individual de la Subcuenta Salud del FCV (modelo [Singapur](https://www.moh.gov.sg/)). Se introduce gradualmente a partir del año 5: el 7% de contribución salud se divide entre fondo solidario y cuenta individual. No es un sistema separado — es parte del FCV |
-| **Modelo Híbrido FONASA + Medisave** | Transición gradual: Años 1-5 → 100% FONASA solidario. Años 5-10 → 5% FONASA + 2% Medisave. Años 10-15 → 4% FONASA + 3% Medisave. Años 15+ → 3% FONASA + 4% Medisave |
+| **Medisave** | Componente de ahorro individual de la Subcuenta Salud del FCV (modelo [Singapur](https://www.moh.gov.sg/)). Se introduce gradualmente a partir del año 5: el 7% de contribución salud se divide entre fondo contributivo común y cuenta individual. No es un sistema separado — es parte del FCV |
+| **Modelo Híbrido FONASA + Medisave** | Transición gradual: Años 1-5 → 100% FONASA contributivo. Años 5-10 → 5% FONASA + 2% Medisave. Años 10-15 → 4% FONASA + 3% Medisave. Años 15+ → 3% FONASA + 4% Medisave |
 | **Concesión BOT** | Build-Operate-Transfer. Modelo donde el privado construye y opera un hospital (o infraestructura) por 20-30 años y luego lo transfiere al Estado/Venezuela S.A. |
 
 ---

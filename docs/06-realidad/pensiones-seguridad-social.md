@@ -76,7 +76,7 @@ La Subcuenta Retiro NO es un sistema aislado — forma parte del FCV total que t
 
 | Fase | Años | FCV total | Subcuenta Retiro | Otras subcuentas |
 |------|------|-----------|-----------------|-----------------|
-| **Emergencia** | 1-3 | 14% | 8% | Salud 6% (100% solidario) |
+| **Emergencia** | 1-3 | 14% | 8% | Salud 6% (100% contributivo) |
 | **Estabilización** | 3-7 | 18% | 8% | Salud 6% + Vivienda 4% |
 | **Construcción** | 7-12 | 21% | 8% | Salud 7% + Vivienda 4% + Educación 2% |
 | **Madurez** | 12+ | 25% | 10% | Salud 7% + Vivienda 5% + Educación 3% |

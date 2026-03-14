@@ -16,7 +16,7 @@ title: Servicios Públicos
 | IA diagnóstica | Singapur/Corea | IA para zonas rurales |
 | Telemedicina | Estonia: 99% recetas | Plataforma nacional |
 
-**Financiamiento:** Subcuenta Salud del [FCV](/04-gobernanza/modelo-estado#fondo-ciudadano-venezuela-fcv-una-sola-cuenta-cero-burocracia) (7% del salario). Cobertura universal — nadie queda fuera. Tramos A/B: 0% copago. Menores de 18: cobertura automática. Años 1-5: 100% solidario. Años 5+: gradualmente introduce Medisave individual. Estado supervisa calidad, no opera hospitales (concesiones BOT).
+**Financiamiento:** Subcuenta Salud del [FCV](/04-gobernanza/modelo-estado#fondo-ciudadano-venezuela-fcv-una-sola-cuenta-cero-burocracia) (7% del salario). Cobertura universal — nadie queda fuera. Tramos A/B: 0% copago. Menores de 18: cobertura automática. Años 1-5: 100% contributivo compartido. Años 5+: gradualmente introduce Medisave individual. Estado supervisa calidad, no opera hospitales (concesiones BOT).
 
 ## Justicia
 

@@ -424,7 +424,7 @@ El ROI verdadero: **pasar de emigrante a accionista de tu país.**
 Todo lo que sigue del año 15 al 35 es una **aspiración fundamentada**, no una proyección. Los modelos a 35 años no predicen — señalan dirección. Las variables de los años 20-35 (retorno del fondo, IA, transición energética, demografía) tienen márgenes de error tan amplios que cualquier número específico es indicativo. Se incluyen porque un plan sin norte a largo plazo no inspira, pero se leen como: *"si hacemos esto bien durante 15 años, este es el techo alcanzable en los siguientes 20."*
 :::
 
-El dividendo de USD 65/persona en el año 15 es solo el comienzo. A medida que el fondo crece por interés compuesto, la economía se diversifica, el Estado se reduce con IA, las pensiones solidarias se transforman en contributivas, y los impuestos bajan — **más valor fluye directamente al ciudadano.**
+El dividendo de USD 65/persona en el año 15 es solo el comienzo. A medida que el fondo crece por interés compuesto, la economía se diversifica, el Estado se reduce con IA, las pensiones contributiva (Pilar 1)s se transforman en contributivas, y los impuestos bajan — **más valor fluye directamente al ciudadano.**
 
 ### Proyección Poblacional
 
@@ -490,18 +490,18 @@ En los primeros 15 años, solo 10% de retornos se distribuyen — el resto se re
 
 **Ahorro redirigido al fondo:** De USD 1B/año (año 10) a USD 5-8B/año (año 25+). Cada dólar que el Estado no gasta en burocracia puede ir al fondo o devolver al ciudadano.
 
-#### 3. Pensiones solidarias bajan generacionalmente
+#### 3. Pensiones contributiva (Pilar 1)s bajan generacionalmente
 
 El plan implementa el [Fondo Ciudadano Venezuela (FCV)](/04-gobernanza/modelo-estado#fondo-ciudadano-venezuela-fcv-una-sola-cuenta-cero-burocracia) — cuenta unificada tipo [Singapur CPF](https://www.cpf.gov.sg/) con Subcuenta Retiro (8-10% del salario):
 
-| Generación | Pensión solidaria (Pilar 1, impuestos) | Pensión contributiva (FCV Retiro) | Costo fiscal |
+| Generación | Pensión contributiva (Pilar 1) (Pilar 1, impuestos) | Pensión contributiva (FCV Retiro) | Costo fiscal |
 |-----------|-------------------------------|---------------------------|-------------|
-| **Jubilados actuales** (>60 años, 2027) | 100% solidaria — USD 200-300/mes meta | 0% (nunca contribuyeron al FCV) | Alto |
-| **Transición** (40-60 años, 2027) | 50-70% solidaria + 30-50% FCV Retiro | Comienzan a contribuir 15-20 años antes de jubilarse | Medio |
-| **Nueva generación** (<40 años, 2027) | 20% solidaria (solo mínimo garantizado) | 80% FCV Retiro — contribuyen toda su vida laboral | Bajo |
-| **Generación nativa** (nacidos post-2027) | 5-10% solidaria (red de seguridad extrema) | 90-95% FCV Retiro (FCV desde nacimiento) | Mínimo |
+| **Jubilados actuales** (>60 años, 2027) | 100% contributiva (Pilar 1) — USD 200-300/mes meta | 0% (nunca contribuyeron al FCV) | Alto |
+| **Transición** (40-60 años, 2027) | 50-70% contributiva (Pilar 1) + 30-50% FCV Retiro | Comienzan a contribuir 15-20 años antes de jubilarse | Medio |
+| **Nueva generación** (<40 años, 2027) | 20% contributiva (Pilar 1) (solo mínimo garantizado) | 80% FCV Retiro — contribuyen toda su vida laboral | Bajo |
+| **Generación nativa** (nacidos post-2027) | 5-10% contributiva (Pilar 1) (red de seguridad extrema) | 90-95% FCV Retiro (FCV desde nacimiento) | Mínimo |
 
-**Efecto fiscal:** El costo de pensiones solidarias pasa de ~3% del PIB (años 1-10) a ~0.5% del PIB (año 30+). Ese 2.5% del PIB liberado = USD 15-20B/año → más espacio para dividendos o menos impuestos.
+**Efecto fiscal:** El costo de pensiones contributiva (Pilar 1)s pasa de ~3% del PIB (años 1-10) a ~0.5% del PIB (año 30+). Ese 2.5% del PIB liberado = USD 15-20B/año → más espacio para dividendos o menos impuestos.
 
 **Referencia:** [Singapur CPF](https://www.cpf.gov.sg/) — contribución 37% del salario (empleado + empleador), ajuste regular de tasas. Pensiones promedio: USD 1.200-1.500/mes.
 

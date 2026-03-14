@@ -137,3 +137,178 @@ flowchart TD
 - Derivados apalancados o inversiones especulativas
 
 **Fuentes:** [Santiago Principles (IFSWF)](https://www.ifswf.org/santiago-principles) | [NBIM Mandate](https://www.nbim.no/en/organisation/governance-model/management-mandate/) | [Linaburg-Maduell Index (SWFI)](https://www.swfinstitute.org/research/linaburg-maduell-transparency-index)
+
+---
+
+## Locks Supra-Constitucionales: Más Allá de la Constitución
+
+:::danger Las constituciones no protegen fondos soberanos
+Argentina violó su propia constitución decenas de veces. Ecuador la reescribió para disolver su fondo petrolero. Bolivia hizo lo mismo con su fondo de hidrocarburos. **Un populista con 70%+ de aprobación puede convocar una constituyente y reescribir cualquier lock constitucional en 6-12 meses.** Si la única protección del fondo es la constitución, el fondo tiene fecha de vencimiento.
+:::
+
+### El problema: constituciones son papel
+
+Una constitución es una promesa interna. Un gobierno con suficiente apoyo popular puede:
+1. Convocar una Asamblea Constituyente (Venezuela 1999, Ecuador 2008, Bolivia 2009)
+2. Reescribir las reglas del fondo soberano
+3. Vaciar el fondo "legalmente" bajo la nueva constitución
+
+**FONDEN lo demostró:** fue creado por decreto, sin lock constitucional, sin oversight. Resultado: **USD 300.000+ M desviados** en 10 años ([Transparencia Venezuela](https://transparenciave.org/)). Pero incluso con locks constitucionales, el resultado habría sido el mismo — la constituyente de 1999 ya había demostrado que todo es reescribible.
+
+### La solución: locks que existen fuera de la jurisdicción nacional
+
+La protección real viene de mecanismos que un gobierno no puede cambiar unilateralmente, porque las consecuencias de romperlos son internacionales, automáticas e irreversibles.
+
+| # | Lock | Qué previene | Precedente | Dificultad de romper |
+|---|------|-------------|-----------|---------------------|
+| 1 | **Tratados bilaterales de inversión (BITs)** | Expropiación del fondo o cambio de reglas para inversores | [Colombia-EE.UU. BIT (2012)](https://investmentpolicy.unctad.org/): protege contra expropiación sin compensación | **Alta** — romper activa demandas ICSID, pérdida de investment grade, fuga de capital |
+| 2 | **Custodia offshore irrevocable** | Acceso físico a los activos sin múltiples firmas internacionales | [NBIM](https://www.nbim.no/en/the-fund/about-the-fund/): 100% de activos fuera de Noruega; gobierno noruego no puede ordenar transferencias directas | **Muy alta** — los activos están físicamente fuera del país; requiere cooperación de custodios internacionales (JPMorgan, State Street, BNY Mellon) |
+| 3 | **Referéndum ciudadano para retiros >1% del fondo** | Vaciamiento gradual "salami" (1% hoy, 2% mañana, fondo vacío en 10 años) | [Alaska Permanent Fund](https://apfc.org/): protección constitucional estatal + dividendo ciudadano; **42 años intacto** desde 1982 | **Alta** — requiere campaña nacional y 60%+ de votos específicamente sobre el fondo |
+| 4 | **Miembros internacionales del board con poder de veto** | Captura del board por gobierno populista | [Santiago Principles](https://www.ifswf.org/santiago-principles), Principio 6: separación de gestión y gobierno | **Alta** — no pueden ser despedidos por gobierno nacional; remoción requiere 5/7 del board + causa verificable |
+| 5 | **Cláusula sunset de 25 años** | Cambios prematuros de reglas por gobiernos nuevos | Modelo de concesiones de infraestructura a largo plazo; [Chile AFP (1981)](https://www.spensiones.cl/): reformas solo después de 27 años de operación | **Alta** — los locks solo expiran tras 25 años consecutivos de democracia certificada por OEA |
+| 6 | **Trigger automático de sanciones** | Violación "creativa" de reglas sin consecuencias | [FMI condicionalidad](https://www.imf.org/en/About/Factsheets/Sheets/2023/IMF-Conditionality): incumplimiento activa suspensión de desembolsos automáticamente | **Muy alta** — predefinido en tratado; activación automática sin necesidad de decisión política |
+
+### Comparación: 3 modelos de protección
+
+| Dimensión | FONDEN (Venezuela) | NBIM (Noruega) | Alaska PFD (EE.UU.) | **Venezuela S.A.** |
+|-----------|-------------------|----------------|---------------------|-------------------|
+| Locks constitucionales | **Cero** — decreto presidencial | Ley del parlamento | Constitución estatal | Constitucional + referéndum |
+| Locks internacionales | **Cero** | Custodia offshore + tratados UE | N/A (jurisdicción estatal) | BITs + custodia offshore + condicionalidad FMI |
+| Lock ciudadano | **Cero** | Transparencia + presión pública | **Dividendo directo** — tocar el fondo = perder tu cheque | Referéndum 60%+ + dividendo ciudadano |
+| Lock de board | **Cero** — presidente nombra y remueve | Board independiente | Board estatal | Board mixto con veto internacional |
+| Resultado | **USD 300.000+ M robados** | **USD 2,2 T intactos** (25+ años) | **USD 80.000+ M intactos** (42+ años) | Meta: multi-lock irreversible |
+| Fuente | [Transparencia Venezuela](https://transparenciave.org/) | [NBIM](https://www.nbim.no/) | [Alaska Permanent Fund Corp.](https://apfc.org/) | Diseño propio |
+
+:::tip El dividendo ciudadano es el lock más fuerte
+En Alaska, ningún político se atreve a tocar el Permanent Fund porque cada ciudadano recibe un cheque anual (USD 1,312 en 2024, [Alaska PFD](https://pfd.alaska.gov/)). Tocar el fondo = quitarle dinero directamente a cada votante. Es suicidio político. El dividendo del 10% propuesto para Venezuela crea el mismo efecto: **40 millones de guardianes del fondo.**
+:::
+
+---
+
+## Compensación: Pagar Top-Tier o Perder el Fondo
+
+:::caution La paradoja del "ahorro" en compensación
+Pagar USD 5M/año en salarios para gestionar un fondo de USD 100-200B parece caro. No pagar salarios competitivos y perder 1% de rendimiento anual por mala gestión cuesta **USD 1-2B/año**. FONDEN no tenía estándares de compensación, no tenía accountability, no tenía talento. Resultado: USD 300.000+ M perdidos.
+:::
+
+### Por qué pagar USD 1M+ a un CIO
+
+Lee Kuan Yew lo dijo mejor que nadie: *"If you pay peanuts, you get monkeys."* El talento de gestión de fondos soberanos compite con Wall Street, hedge funds y private equity. Si Venezuela ofrece USD 200K cuando GIC ofrece USD 2M, el talento va a GIC — y Venezuela pierde miles de millones en rendimientos subóptimos.
+
+| Rol | Salario de mercado (referencia) | Propuesta Venezuela S.A. | Bonus por rendimiento | Fuente |
+|-----|-------------------------------|--------------------------|----------------------|--------|
+| **CEO / Director Ejecutivo** | USD 1-3M/año (GIC, Temasek) | **USD 800K-1,5M/año** | +50% si rendimiento >5% real | [Temasek Annual Report 2024](https://www.temasek.com.sg/en/our-financials/annual-report) |
+| **CIO (Chief Investment Officer)** | USD 1-5M/año (NBIM CIO: ~USD 1M; hedge funds: USD 5M+) | **USD 500K-1,2M/año** | +100% si rendimiento >benchmark+1% | [NBIM Annual Report 2024](https://www.nbim.no/en/publications/annual-report/) |
+| **Board members (part-time)** | USD 100-300K/año (NBIM, GIC) | **USD 100-200K/año** | No — independencia requiere ingreso fijo | [GIC Governance](https://www.gic.com.sg/governance/) |
+| **Risk Officer** | USD 500K-1M/año (mercado financiero global) | **USD 400-800K/año** | +30% si zero breaches de mandato | Benchmark mercado financiero |
+| **Equipo de inversión (10-15 analistas)** | USD 150-400K/año | **USD 120-300K/año** | Variable por equipo | Benchmark regional ajustado |
+
+**Costo total de compensación: USD 5-8M/año** para gestionar un fondo de **USD 100-200B**.
+
+### ROI de la compensación
+
+| Escenario | Compensación anual | Rendimiento del fondo (USD 150B base) | Valor generado |
+|-----------|-------------------|--------------------------------------|----------------|
+| Talento mediocre (sin compensación competitiva) | USD 1-2M | 3% (debajo de benchmark) | USD 4.500M |
+| Talento competitivo (compensación de mercado) | USD 5-8M | 6% (en benchmark) | USD 9.000M |
+| **Diferencia** | **+USD 4-6M** | **+3 puntos porcentuales** | **+USD 4.500M/año** |
+
+**ROI: ~750x.** Cada dólar extra en compensación genera USD 750 en rendimiento adicional.
+
+**Temasek:** con compensación top-tier, ha generado **14% de rendimiento anualizado durante 50 años** ([Temasek, 2024](https://www.temasek.com.sg/en/our-financials/annual-report)). FONDEN con zero estándares generó **cero rendimiento y USD 300.000+ M en pérdidas**.
+
+### Solución política: compensación atada a resultados
+
+El problema político de pagar USD 1M+ a funcionarios en un país con salario mínimo de USD 3.50/mes se resuelve así:
+
+1. **Salario base moderado** (USD 500-800K) — comparable con sector público de países de ingreso medio-alto
+2. **Bonus solo si rendimiento supera benchmark** — si el fondo pierde, el equipo gana solo el base
+3. **Transparencia total** — compensación publicada en dashboard junto con rendimiento del fondo
+4. **Ciudadano como juez** — si el fondo rinde 6% y el equipo gana USD 1.5M, el ciudadano ve que su dividendo es mayor gracias a esa gestión
+
+---
+
+## Anti-Captura Política: El Ciclo de 8-12 Años
+
+:::danger El patrón LATAM: cada 8-12 años un populista rompe las reglas
+América Latina produce populistas con mayorías arrolladoras en ciclos predecibles. Argentina: Menem (1989) → Kirchner (2003) → Fernández (2019). Ecuador: Correa (2007) disolvió el fondo petrolero FEIREP. Bolivia: Morales (2006) nacionalizó hidrocarburos y vació el fondo de estabilización. **Si el fondo soberano solo tiene locks constitucionales, será vaciado en el primer ciclo populista.**
+:::
+
+### Los 3 casos que demuestran el problema
+
+| País | Fondo | Qué pasó | Lock que falló | Fuente |
+|------|-------|---------|---------------|--------|
+| **Ecuador** | FEIREP (Fondo de Estabilización Petrolera) | Correa (2007) convocó constituyente, disolvió el fondo, redirigió ingresos petroleros a gasto corriente | Lock constitucional: la constituyente reescribió todo | [Banco Central del Ecuador](https://www.bce.fin.ec/) |
+| **Bolivia** | Fondo de estabilización de hidrocarburos | Morales (2006) nacionalizó y redirigió ingresos a bonos sociales directos (Bono Juancito Pinto, Renta Dignidad) | Lock legal: ley ordinaria modificada con mayoría simple | [Banco Central de Bolivia](https://www.bcb.gob.bo/) |
+| **Argentina** | Fondo de Garantía de Sustentabilidad (FGS) | Kirchner (2008) nacionalizó AFJPs y absorbió USD 30.000 M del FGS; Fernández usó el fondo para financiar gasto corriente | Lock institucional: el gobierno controló el board de ANSES | [ANSES](https://www.anses.gob.ar/) |
+
+### Por qué las constituciones fallan
+
+```mermaid
+flowchart TD
+    A["Populista gana elecciones<br/>con 60-70% de votos"] --> B{"¿Tiene mayoría<br/>parlamentaria?"}
+    B -->|Sí| C["Convoca Asamblea<br/>Constituyente"]
+    C --> D["Reescribe reglas<br/>del fondo soberano"]
+    D --> E["Vacía el fondo<br/>'legalmente'"]
+    B -->|No| F["Presiona vía decretos,<br/>emergencias, referéndums"]
+    F --> D
+
+    E --> G["USD 0 en el fondo<br/>en 5-10 años"]
+
+    style E fill:#8B0000,color:#fff
+    style G fill:#8B0000,color:#fff
+```
+
+### Por qué los locks supra-constitucionales son más difíciles de romper
+
+```mermaid
+flowchart TD
+    P["Populista intenta<br/>vaciar el fondo"] --> L1{"Lock 1:<br/>Tratados (BITs)"}
+    L1 -->|Rompe| C1["Demandas ICSID por<br/>USD 5-20B + pérdida<br/>de investment grade +<br/>fuga de capital"]
+    L1 -->|No rompe| S1["Fondo protegido ✓"]
+
+    P --> L2{"Lock 2:<br/>Custodia offshore"}
+    L2 -->|Rompe| C2["Imposible sin cooperación<br/>de JPMorgan/State Street/<br/>BNY Mellon — activos<br/>fuera de jurisdicción"]
+    L2 -->|No rompe| S2["Fondo protegido ✓"]
+
+    P --> L3{"Lock 3:<br/>Referéndum ciudadano"}
+    L3 -->|Rompe| C3["Necesita 60%+ de votos<br/>EN REFERÉNDUM ESPECÍFICO<br/>sobre el fondo —<br/>no elecciones generales"]
+    L3 -->|No rompe| S3["Fondo protegido ✓"]
+
+    P --> L4{"Lock 4:<br/>Board internacional<br/>con veto"}
+    L4 -->|Rompe| C4["No puede destituir<br/>miembros internacionales<br/>sin 5/7 del board +<br/>causa verificable"]
+    L4 -->|No rompe| S4["Fondo protegido ✓"]
+
+    P --> L5{"Lock 5:<br/>Sanciones automáticas"}
+    L5 -->|Rompe| C5["Activación automática:<br/>congelamiento de activos<br/>del gobierno en<br/>jurisdicciones firmantes"]
+    L5 -->|No rompe| S5["Fondo protegido ✓"]
+
+    style C1 fill:#8B0000,color:#fff
+    style C2 fill:#8B0000,color:#fff
+    style C3 fill:#ffa07a
+    style C4 fill:#8B0000,color:#fff
+    style C5 fill:#8B0000,color:#fff
+    style S1 fill:#2d5016,color:#fff
+    style S2 fill:#2d5016,color:#fff
+    style S3 fill:#2d5016,color:#fff
+    style S4 fill:#2d5016,color:#fff
+    style S5 fill:#2d5016,color:#fff
+```
+
+### La diferencia clave: costo de romper
+
+| Lock | Costo de romper para un populista | Tiempo para romper |
+|------|----------------------------------|-------------------|
+| Constitución | Bajo — constituyente en 6-12 meses con mayoría | 6-12 meses |
+| Ley del parlamento | Muy bajo — mayoría simple | 1-3 meses |
+| **Tratado bilateral (BIT)** | **Alto** — demandas ICSID (USD 5-20B), pérdida de FDI, downgrade crediticio | Años de litigio |
+| **Custodia offshore** | **Muy alto** — físicamente imposible sin cooperación de custodios internacionales | Imposible unilateralmente |
+| **Referéndum ciudadano (60%+)** | **Alto** — debe convencer a 60%+ de votar específicamente por vaciar SU fondo (su dividendo) | 6-12 meses de campaña con resultado incierto |
+| **Board internacional con veto** | **Alto** — no puede despedir miembros nombrados por entidades internacionales | Años de batalla legal |
+| **Sanciones automáticas** | **Muy alto** — activación instantánea, consecuencias económicas inmediatas | Inmediato |
+
+:::info La estrategia: hacer que romper el fondo cueste más que respetarlo
+Un populista hace cálculos políticos. Si romper el fondo cuesta demandas internacionales + fuga de capital + sanciones + perder el dividendo ciudadano, el cálculo es claro: **es más barato respetar las reglas que romperlas.** Eso es lo que Noruega logró por cultura. Venezuela debe lograrlo por diseño.
+:::
+
+**Fuentes:** [Santiago Principles (IFSWF)](https://www.ifswf.org/santiago-principles) | [NBIM](https://www.nbim.no/) | [Alaska Permanent Fund Corporation](https://apfc.org/) | [ICSID (World Bank)](https://icsid.worldbank.org/) | [UNCTAD BIT Database](https://investmentpolicy.unctad.org/)

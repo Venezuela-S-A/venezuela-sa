@@ -192,3 +192,98 @@ Ver [Justicia transicional](/04-gobernanza/justicia-transicional) para el marco 
 :::caution Costo de no invertir en seguridad
 El costo de la inseguridad actual se estima en ~22% del PIB entre homicidios, extorsión, inversión perdida, emigración forzada y costos de salud ([UNDP](https://www.undp.org/)). La inversión de USD 10-18B en 10 años se paga sola si reduce esta pérdida en 50%.
 :::
+
+---
+
+## Plan Operativo de Seguridad Territorial
+
+:::danger Condición previa para TODO el plan
+Sin seguridad territorial, nada funciona. No es sección 4 — es la condición previa para TODAS las secciones. Ningún inversor pone USD 500 si le roban saliendo del banco. Ningún data center se construye donde hay riesgo de extorsión. Ningún turista visita un país donde lo secuestran en la carretera. **La seguridad no es un capítulo — es el cimiento.**
+:::
+
+### Mapa de Control Territorial por Tipo de Actor
+
+| Zona | Actor dominante | Tipo | Impacto directo |
+|------|----------------|------|-----------------|
+| **Cárceles (Tocorón, Rodeo)** | Pranes — Tren de Aragua, Yeico Masacre | Criminal organizado transnacional | Extorsión nacional, trata, narcotráfico. Operan desde prisiones como centros de comando |
+| **Barrios urbanos (Caracas, Valencia, Barquisimeto)** | Colectivos — Tupamaros, La Piedrita, Colectivo Alexis Vive | Paramilitar político-criminal | Control territorial urbano, extorsión de comercios, intimidación electoral |
+| **Frontera Colombia (Táchira, Apure, Zulia)** | ELN, disidencias FARC (ex-Segunda Marquetalia) | Guerrilla + narcotráfico | Contrabando de combustible, narcotráfico, minería ilegal, secuestro |
+| **Arco Minero (Bolívar, Amazonas)** | ELN + sindicatos armados + pranatos | Criminal-guerrillero-extractivo | Minería ilegal de oro, coltán. USD 2-4B/año en economía ilícita |
+| **FANB (nacional)** | Altos mandos con intereses económicos | Militar-económico | Contrabando, minería, CLAP, narcotráfico individual. ~USD 3-6B/año en rentas |
+| **Costa (Falcón, Sucre, Nueva Esparta)** | Redes de narcotráfico + pesca ilegal | Criminal marítimo | Bloquea turismo costero, puertos, seguridad marítima |
+
+**Fuente:** [InSight Crime](https://insightcrime.org/venezuela-organized-crime-news/) | [OC Index 2025](https://ocindex.net/assets/downloads/2025/english/ocindex_profile_venezuela_2025.pdf) | [OSAC](https://www.osac.gov/) | [Requiere investigación para cifras exactas de economía ilícita]
+
+### DDR Adaptado a Venezuela: Modelo Híbrido
+
+Venezuela no es ni Colombia ni El Salvador. Es **ambos simultáneamente** — conflicto político (colectivos) + crimen organizado (pranes/megabandas) + guerrilla transfronteriza (ELN). Se necesita un DDR híbrido:
+
+| Dimensión | Colombia (DDR político) | El Salvador (DDR criminal) | **Venezuela (DDR híbrido)** |
+|-----------|------------------------|---------------------------|---------------------------|
+| **Problema central** | Guerrilla ideológica con mando unificado | Pandillas sin ideología, control territorial | Guerrilla + crimen + paramilitares + militares con intereses económicos |
+| **Modelo aplicado** | Negociación → acuerdo de paz → reintegración productiva | Estado de excepción → encarcelamiento masivo → mega-cárceles | **Negociación selectiva para colectivos que desarmen + justicia penal para pranes/ELN + reforma institucional FANB** |
+| **Qué negociar** | Participación política, tierras, verdad | Nada — represión pura | **Colectivos: amnistía condicionada + empleo. FANB: retiro digno + reconversión. Pranes/ELN: justicia + cárceles reformadas** |
+| **Qué NO negociar** | — | — | **Extorsión, narcotráfico, trata de personas. Cero tolerancia.** |
+| **Riesgo principal** | Vacío de poder → disidencias | Autoritarismo + violaciones DDHH | **FANB resiste reforma + vacío en zonas liberadas si no se llena rápido** |
+| **Costo estimado** | USD 1.2B (JEP + reintegración) | USD 2-3B (cárceles + policía) | **USD 3-5B (componente DDR) + USD 2-4B (reforma FANB)** |
+| **Referencia** | [JEP Colombia](https://www.jep.gov.co/) | [Crisis Group El Salvador](https://www.crisisgroup.org/) | Híbrido — ambos modelos + innovación propia |
+
+### Secuencia Operativa de Recuperación
+
+```mermaid
+gantt
+    title Plan Operativo de Seguridad — Años 1-7
+    dateFormat YYYY
+    axisFormat %Y
+
+    section Año 1: Emergencia + Señal
+    Seguridad en 5 ciudades ZEET (Caracas, Valencia, Maracaibo, Barquisimeto, Pto. Ordaz) :a1, 2027, 2028
+    Inicio reforma policial (modelo Georgia: purga + reclutamiento)                       :a2, 2027, 2028
+    Protección infraestructura crítica (Guri, puertos, refinerías)                        :a3, 2027, 2028
+    Reactivación cooperación DEA/Interpol                                                  :a4, 2027, 2028
+
+    section Años 2-3: Prisiones + Inteligencia
+    Reforma penitenciaria (mega-cárceles si necesario, modelo Bukele adaptado)            :b1, 2028, 2030
+    Inteligencia criminal: mapeo de redes, activos, flujos financieros                    :b2, 2028, 2030
+    DDR colectivos urbanos (negociación + amnistía condicionada)                           :b3, 2028, 2030
+    Primeros 10.000 policías nuevos graduados y desplegados                                :b4, 2028, 2030
+
+    section Años 3-5: Recuperación Territorial
+    Control frontera Táchira-Apure (con cooperación Colombia + EE.UU.)                    :c1, 2030, 2032
+    Formalización Arco Minero (desplazamiento de grupos armados)                           :c2, 2030, 2032
+    Seguridad zonas petroleras (Zulia, Faja del Orinoco)                                  :c3, 2029, 2032
+    Zonas turísticas seguras certificadas (Los Roques, Canaima, Mérida)                   :c4, 2030, 2032
+
+    section Años 5-7: Reforma FANB + Profesionalización
+    Reducción FANB: 350K → 120K efectivos (paquetes de retiro + reconversión)             :d1, 2032, 2034
+    Profesionalización: FANB apolítica, modelo Chile/Uruguay                              :d2, 2032, 2034
+    Homicidios menor a 10 por 100k nacional                                                :d3, 2033, 2034
+    Venezuela sale del top 20 de criminalidad global                                       :milestone, m1, 2034, 0d
+```
+
+### Prerrequisitos de Seguridad por Sector Económico
+
+| Sector económico | Prerrequisito de seguridad | Sin seguridad | Timeline requerido |
+|-----------------|---------------------------|---------------|-------------------|
+| **Petróleo** (USD 183B inversión) | Tránsito seguro, protección de oleoductos/refinerías, zona Zulia controlada | Ninguna major invierte más allá de lo mínimo. Producción estancada en 1M bpd | **Año 1** |
+| **Data centers** (USD 3-8B/año) | Seguridad física 24/7, cero riesgo de secuestro, estabilidad eléctrica | Ningún tech giant (Google, Microsoft, Amazon) pone un servidor | **Año 2** |
+| **Turismo** (USD 4-10B/año) | Zonas turísticas seguras 24/7, policía reformada, tasa de homicidios <15/100k | Cero turistas internacionales de alto gasto. Solo aventureros | **Años 3-5** |
+| **Agroindustria** (USD 5-8B/año) | Seguridad de tenencia de tierra, cero invasiones, seguridad rural | Nadie invierte en fincas que pueden ser invadidas mañana | **Años 2-3** |
+| **Minería formal** (USD 8-10B/año) | Desplazamiento de grupos armados del Arco Minero, títulos mineros seguros | La minería sigue siendo ilegal y controlada por criminales | **Años 3-5** |
+| **Mercado de capitales** | Estado de derecho, contratos ejecutables, cero expropiación | Nadie compra un bono venezolano. Rating sigue en default | **Años 3-7** |
+
+### Costo Total del Plan de Seguridad Territorial
+
+**USD 10-18B en 7 años** (ver [tabla detallada arriba](#inversión-actualizada-en-seguridad)).
+
+| Referencia internacional | Inversión | Período | Resultado |
+|-------------------------|-----------|---------|-----------|
+| **Plan Colombia** (EE.UU. + gobierno) | USD 12B+ | 2000-2016 (16 años) | Homicidios: 60 → 24/100k. FARC desmovilizadas. Pero disidencias persisten |
+| **El Salvador (Bukele)** | USD 2-3B (est.) | 2019-2025 (6 años) | Homicidios: 106 → 2.4/100k. Costo: derechos humanos cuestionados |
+| **Georgia (Saakashvili)** | USD 300-500M (est.) | 2004-2008 (4 años) | Crimen: -66%. Policía: institución más confiable. Costo: bajo |
+
+**Fuente:** [Plan Colombia/State Dept](https://www.state.gov/) | [Crisis Group](https://www.crisisgroup.org/) | [ACLED](https://acleddata.com/) | [InSight Crime](https://insightcrime.org/) [Requiere investigación para costos exactos de Georgia y El Salvador]
+
+:::tip Secuencia correcta: seguridad → inversión → crecimiento → más seguridad
+El círculo virtuoso es: seguridad atrae inversión → inversión genera empleo → empleo reduce criminalidad → menos criminalidad atrae más inversión. El círculo vicioso (actual) es exactamente lo opuesto. El Plan Operativo rompe el ciclo vicioso invirtiendo USD 10-18B para crear las condiciones mínimas que permitan los otros USD 550-750B del plan.
+:::

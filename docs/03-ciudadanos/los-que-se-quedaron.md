@@ -210,4 +210,50 @@ La mayor parte de esta inversión (empleo en infraestructura, capacitación) ya 
 
 > *"Un plan que no le habla a la señora que vende empanadas en Petare, al jubilado de Maracaibo con USD 3,50/mes, al estudiante que no tiene internet — no es un plan para Venezuela. Es un plan para el Venezuela que nos gustaría que existiera."*
 
+---
+
+## Las Historias que Importan
+
+> Las tablas convencen a economistas. Las historias mueven a 40 millones de personas.
+
+:::tip Maria, 28 anos — Petare, Caracas
+Maria vende empanadas en Petare desde los 19. Gana USD 80/mes en un buen mes, USD 30 en uno malo. Nunca ha tenido cuenta bancaria. Su cedula es su unico documento.
+
+En marzo del ano 2 del plan, su vecina le muestra la app de Bonos Ciudadanos en el telefono. "Mira, yo meti diez dolares y ya me aparecen." Maria descarga la app, vincula su cedula, abre una cuenta digital en 4 minutos. Invierte USD 10 — lo que gana en un dia bueno de empanadas. La app le muestra su bono, su dividendo proyectado, su estatus: **Accionista de Venezuela**.
+
+Tres meses despues recibe su primera notificacion: "Dividendo trimestral: USD 0,47 depositado." No es nada. Pero es suyo. Lo postea en TikTok con el caption: *"Mi primer dividendo. Empanadas + capitalismo popular."* Tiene 340.000 vistas en 48 horas. Su mama, que nunca ha usado una app financiera, le pide que le abra una cuenta.
+:::
+
+:::tip Carlos, 55 anos — Punto Fijo, Falcon
+Carlos trabajo 22 anos en PDVSA. Sabia operar una planta de craqueo catalitico con los ojos cerrados. Cuando la empresa colapso, se quedo sin empleo, sin pension real, sin opciones. A los 50 anos, nadie contrata a un ingeniero de procesos venezolano con experiencia en equipos de los anos 90.
+
+En el ano 1 del plan, la JV entre PDVSA y Chevron en la Faja del Orinoco lanza un programa de reskilling para exempleados petroleros. Carlos se inscribe en un curso de 4 meses: instalacion y mantenimiento de paneles solares — tecnologia que comparte principios de ingenieria termica que el ya domina. Recibe un estipendio de USD 250/mes durante la capacitacion.
+
+Al graduarse, lo contrata una de las concesionarias del plan de electrificacion rural. Salario: USD 800/mes. En su primer proyecto, instala paneles en una escuela de la Sierra de Falcon que llevaba 3 anos sin electricidad confiable. La directora le da un abrazo. Carlos vuelve a sentir que sabe hacer algo que importa. Tiene 55 anos y acaba de empezar su segunda carrera.
+:::
+
+:::tip Valentina, 22 anos — Ciudad Guayana, Bolivar
+Valentina estudio dos anos de ingenieria en la UNEXPO antes de que la universidad se quedara sin profesores. Se fue a trabajar en una ferreteria ganando USD 60/mes. Sabia que podia mas, pero no habia donde.
+
+En el ano 2 del plan, se abre el primer bootcamp de programacion en Ciudad Guayana — financiado por el fondo de capital humano y operado por una alianza entre Platzi, una startup local y el hub tech de la zona. Valentina pasa la prueba de admision. Durante 9 meses, estudia full-time con un estipendio de USD 200/mes. Aprende Python, bases de datos, desarrollo web.
+
+A los 22 anos, consigue su primer empleo: junior developer en el data center de Ciudad Guayana que opera la concesionaria del hub tech. Salario: **USD 1.200/mes** — mas de lo que su mama ha ganado en su vida en un solo mes. Cuando le depositan el primer sueldo, llama a su mama. No puede hablar. Su mama tampoco. Lloran las dos. Valentina se compra su primera laptop propia y mete USD 50 en bonos ciudadanos. En su perfil de LinkedIn pone: "Software Developer | Ciudad Guayana, Venezuela."
+:::
+
+:::tip Jose, 35 anos — Miami → Maracaibo
+Jose se fue de Maracaibo a Miami en 2017 con una maleta y USD 400. Ocho anos despues tiene residencia, un trabajo en construccion ganando USD 4.500/mes y una hija nacida en Florida. Venezuela es un recuerdo que duele.
+
+Un domingo ve en Instagram un post del programa de retorno: un ingeniero civil venezolano que volvio y ahora lidera la reconstruccion del puerto de Maracaibo con 8% de equity en la concesion. Jose abre la app de inversion ciudadana. Explora el dashboard: produccion petrolera en tiempo real, estado de las concesiones, retorno de los bonos. Invierte USD 5.000 en participaciones VIN.
+
+Seis meses despues, aplica al programa de co-fundacion para la rehabilitacion de la autopista Lara-Zulia — un proyecto que conoce porque la recorrio mil veces de nino. Lo aceptan. Le ofrecen 5% de equity en la concesion, salario de USD 3.000/mes y vivienda subsidiada en Maracaibo por 6 meses. Jose habla con su esposa. Deciden intentarlo un ano. En enero del ano 3, aterriza en Maiquetia con su familia. Su mama lo espera en el aeropuerto. No se habian abrazado en 8 anos.
+:::
+
+:::info Por que las historias importan
+Cada una de estas historias referencia mecanismos reales del plan: la [app de bonos ciudadanos](/03-ciudadanos/inversion-ciudadana), los [bootcamps con estipendio](/05-transformacion/capital-humano), el [reskilling de exempleados PDVSA](/05-transformacion/educacion), los [data centers en Ciudad Guayana](/05-transformacion/hubs-tech), el [programa de retorno con equity](/03-ciudadanos/retorno-diaspora) y el [Paquete de Valor Ciudadano](#el-dividendo-real-cómo-llegar-a-usd-400mes). No son fantasia — son la concatenacion logica de lo que el plan ya contempla. Lo que faltaba era ponerles cara.
+
+**Si Maria, Carlos, Valentina y Jose no son reales en 5 anos, el plan fracaso.**
+:::
+
+---
+
 **Fuentes:** [ENCOVI/UCAB 2023](https://www.proyectoencovi.com/) | [De Soto — El Misterio del Capital](https://www.ild.org.pe/) | [India NREGA](https://nrega.nic.in/) | [Grameen Foundation](https://grameenfoundation.org/) | [Colombia SGR](https://www.sgr.gov.co/)

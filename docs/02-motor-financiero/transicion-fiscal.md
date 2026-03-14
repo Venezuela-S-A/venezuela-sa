@@ -176,3 +176,39 @@ xychart-beta
 | 15 | USD 38.000 M | Retiro 3–4% fondo | USD 38.000 M | USD 300.000+ M |
 
 **Año 15, el fondo genera ~USD 12.000–15.000 M/año en rendimientos (4–5%). Eso cubre el 25–30% del presupuesto SIN TOCAR el petróleo. El petróleo se acumula. El fondo crece. Los dividendos fluyen.**
+
+---
+
+## Flat Tax y Regresividad: Cómo Proteger al 82,8%
+
+:::caution La crítica legítima
+[Stiglitz](https://www.josephstiglitz.com/) y [Piketty](https://www.pikettylab.pse.ens.fr/) argumentan que un **15% flat + 12% IVA** es regresivo: le cobra el mismo porcentaje al que gana USD 200/mes que al que gana USD 20.000/mes. Con **82,8% de la población en pobreza** ([ENCOVI 2023](https://crisisresponse.iom.int/response/venezuela-bolivarian-republic-crisis-response-plan-2024)), esta crítica no se puede ignorar.
+:::
+
+**El problema es real:** un flat tax por definición toma el mismo % de ingresos de todos. Combinado con IVA del 12% (que es regresivo porque los pobres gastan 100% de su ingreso en consumo), la carga efectiva sobre los más pobres puede ser brutal.
+
+**La solución: 4 mecanismos de mitigación que no rompen el modelo lean.**
+
+| # | Mecanismo | Quién se beneficia | Costo estimado | Referencia |
+|---|-----------|-------------------|----------------|------------|
+| 1 | **IVA 0% en canasta básica** (alimentos, medicinas, educación, transporte) | 82,8% en pobreza — gastan 60–80% de ingreso en estos rubros | USD 1.500–3.000 M/año en recaudación no cobrada | [Chile: IVA exento en salud y educación](https://www.sii.cl/); la mayoría de países OECD eximen alimentos básicos |
+| 2 | **Impuesto negativo / EITC** bajo línea de pobreza — si ganas < USD 300/mes, recibes transferencia | 82,8% (33M personas), decreciendo con el tiempo | USD 2.000–5.000 M/año (decrece a medida que sube ingreso) | [EE.UU.: Earned Income Tax Credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc) — USD 60B/año, saca a 5M de pobreza |
+| 3 | **PVC (Paquete de Valor Ciudadano)** — salud gratuita + educación gratuita + infraestructura = transferencia progresiva en especie | Todos, pero proporcionalmente más valor para los más pobres | Ya incluido en presupuesto del plan (salud USD 15–25B, educación USD 15–25B) | [Modelo nórdico](https://www.oecd.org/): servicios universales como redistribución |
+| 4 | **Impuesto progresivo a la propiedad** (no al ingreso) — > USD 1M en bienes raíces = 0,5–1% anual | Top 5% de riqueza | Genera USD 500–1.500 M/año | [Estonia: flat income tax + property tax progresivo](https://www.emta.ee/) |
+
+### Efecto neto: Tasa efectiva por nivel de ingreso
+
+| Nivel de ingreso | Flat tax 15% | IVA efectivo | Impuesto negativo / EITC | IVA 0% canasta | **Tasa efectiva neta** |
+|------------------|-------------|-------------|--------------------------|---------------|----------------------|
+| < USD 300/mes (pobreza) | 15% | ~12% sobre consumo | **Recibe** USD 50–100/mes | Exento en 60–80% de gasto | **~0% o negativo** |
+| USD 300–1.000/mes (clase media baja) | 15% | ~8% (parte exenta) | No aplica | Exento parcial | **~15–18%** |
+| USD 1.000–5.000/mes (clase media) | 15% | ~10% | No aplica | Mínimo impacto | **~20–22%** |
+| > USD 5.000/mes (clase alta) | 15% | ~12% | No aplica | No aplica | **~25–27%** (+ propiedad) |
+
+:::info El resultado es progresivo, no regresivo
+Con los 4 mecanismos, los más pobres pagan **0% efectivo** (IVA exento + impuesto negativo). La clase media paga **~15–20%**. Los más ricos pagan **~25–27%** (flat + IVA + propiedad). Es un sistema **de facto progresivo** sin la complejidad de 7 tramos de impuesto sobre la renta que requieren 50 funcionarios para administrar.
+:::
+
+**La ventaja del modelo lean:** En vez de 7 tramos impositivos + 200 deducciones + ejército de fiscalizadores (que en Venezuela se convirtieron en una mafia de extorsión), se tiene: un flat tax simple + 4 mecanismos automatizados. **Menos burocracia = menos corrupción = más recaudación efectiva.**
+
+Fuentes: [OECD Tax Policy Reviews](https://www.oecd.org/tax/tax-policy/) [Requiere investigación: review específico de flat tax + mecanismos compensatorios]; [Estonia Tax and Customs Board](https://www.emta.ee/); [IRS EITC](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc)

@@ -22,6 +22,7 @@ const sidebars = {
         "02-motor-financiero/transicion-fiscal",
         "02-motor-financiero/enfermedad-holandesa",
         "02-motor-financiero/cashflow-20-trimestres",
+        "02-motor-financiero/citgo",
       ],
     },
     {

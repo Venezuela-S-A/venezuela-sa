@@ -99,3 +99,85 @@ xychart-beta
 | Pérdida de Citgo por litigio | CRÍTICO | Negociación urgente con acreedores PDVSA 2020 |
 | Sin programa FMI | CRÍTICO | Reforma fiscal + transparencia como pre-condición |
 | Falta de gobierno reconocido | CRÍTICO | Elecciones como condición para restructurar |
+
+---
+
+## Deuda con China: Un Acreedor Diferente
+
+> China no es un acreedor convencional. Es un acreedor geopolítico.
+
+[AidData (2021)](https://www.aiddata.org/publications/banking-on-the-belt-and-road) documenta **USD 60.000+ M** en préstamos chinos a Venezuela, mayoritariamente oil-for-loans. La deuda pendiente se estima en **USD 19.000+ M** ([Brookings, 2023](https://www.brookings.edu/articles/how-china-lends/)). No es deuda convencional — no hay bonos, no hay CACs, no hay comité de acreedores. Es bilateral, opaca, y colateralizada con crudo.
+
+### Por qué China es diferente
+
+| Característica | Acreedor convencional | China |
+|----------------|----------------------|-------|
+| Instrumento | Bonos, préstamos sindicados | Oil-for-loans bilaterales |
+| Reestructuración | Club de París, CACs | **No participa en marcos multilaterales** |
+| Objetivo | Recuperar capital + intereses | Influencia + acceso a recursos + infraestructura |
+| Precedente negativo | Argentina holdouts | [Sri Lanka — Puerto Hambantota](https://www.nytimes.com/2018/06/25/world/asia/china-sri-lanka-port.html) |
+| Transparencia | Calificadoras, SEC filings | Contratos secretos, cláusulas confidenciales |
+
+### Patrón de comportamiento chino en reestructuraciones
+
+- **Sri Lanka (2017):** Incapacidad de pago → [arriendo del puerto de Hambantota por 99 años](https://www.nytimes.com/2018/06/25/world/asia/china-sri-lanka-port.html) a China Merchants Port Holdings.
+- **Zambia (2020-2023):** Default soberano → China retrasó 2 años la reestructuración del [G20 Common Framework](https://www.brookings.edu/articles/how-china-lends/), exigiendo trato preferencial.
+- **Ecuador (2020):** Renegoció con China swaps petroleros con [condiciones menos onerosas](https://www.brookings.edu/articles/how-china-lends/), pero mantuvo dependencia del crudo.
+
+### Líneas rojas para Venezuela
+
+:::danger Activos que NO se negocian con China
+1. **Puertos** — No repetir Hambantota. Cero concesiones portuarias.
+2. **Telecomunicaciones** — Infraestructura crítica de seguridad nacional. No Huawei/ZTE en backbone.
+3. **Infraestructura energética** — Represas, redes eléctricas, oleoductos son soberanía.
+4. **Tierras agrícolas** — Precedente: restricciones de Australia y Canadá a compras chinas de tierra.
+:::
+
+### Estrategia de negociación con China
+
+1. **Reconvertir deuda en forward contracts** — En vez de pagar en efectivo, ofrecer contratos forward de crudo a precio fijo (USD 60/barril) con volumen limitado (máx 15% de producción).
+2. **Diversificar compradores** — Reducir dependencia de China como comprador de crudo de 85% histórico a <20%.
+3. **Equipo negociador especializado** — Mandarín obligatorio, experiencia en BRI (Belt and Road Initiative).
+4. **Firewall legal** — Cualquier acuerdo pasa por revisión de seguridad nacional (modelo CFIUS de EE.UU.).
+
+**Fuentes:** [AidData — Banking on the Belt and Road (2021)](https://www.aiddata.org/publications/banking-on-the-belt-and-road) | [Brookings — How China Lends (2023)](https://www.brookings.edu/articles/how-china-lends/) | [RAND — China Could Play Spoiler (2026)](https://www.rand.org/pubs/commentary/2026/01/china-could-play-spoiler-in-venezuelas-debt-restructuring.html)
+
+---
+
+## Equipo Negociador de Deuda
+
+> ¿Quién negocia USD 150-170.000 M? No un ministerio — un equipo de élite.
+
+Reestructurar la deuda más compleja de América Latina requiere un equipo con experiencia directa en negociaciones soberanas de escala similar. No burócratas — negociadores profesionales con track record verificable.
+
+### Precedentes: Quién Negoció y Cómo Les Fue
+
+| País | Negociador | Resultado | Lección |
+|------|-----------|-----------|---------|
+| **Argentina (2020)** | Martín Guzmán (Columbia/Stiglitz) | [Haircut ~45% NPV](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2023)753938), acuerdo en 6 meses | Credibilidad académica + mandato político claro = velocidad |
+| **Ecuador (2020)** | Simón Cueva (ex-BM) | [Ahorro USD 11.300 M](https://www.clearygottlieb.com/news-and-insights/news-listing/ecuadors-successful-17-4-billion-sovereign-debt-restructuring) en 5 años | Pragmatismo + asesores de primer nivel (Lazard + Cleary Gottlieb) |
+| **Grecia (fracaso, 2015)** | Yanis Varoufakis | Confrontación → capitulación → peor acuerdo | Ideología sin pragmatismo = desastre |
+| **Grecia (éxito, 2012-2018)** | Yannis Stournaras (Banco Central) | Retorno a mercados, spread cayó de 3.000 a 150 bps | Técnico, callado, cumplidor — opuesto a Varoufakis |
+
+### Estructura del Equipo Venezuela
+
+| Rol | Perfil requerido | Referencia |
+|-----|-----------------|------------|
+| **Chief Restructuring Officer** | Ex-socio de Lazard, Rothschild o Houlihan Lokey con 3+ reestructuraciones soberanas | David Martínez (Fintech Advisory) en Argentina |
+| **Asesor legal internacional** | Firm Cleary Gottlieb, Sullivan & Cromwell o White & Case | Cleary en Ecuador, S&C en Argentina |
+| **Negociador bilateral China** | Experiencia BRI, mandarín, ex-embajador o banquero en Asia | [Requiere investigación] |
+| **Representante FMI** | Ex-funcionario FMI con red en el directorio | Alejandro Werner (ex-WHD) como referencia |
+| **Coordinador ICSID** | Abogado de arbitraje internacional, experiencia CIADI | Freshfields, King & Spalding |
+| **Director de comunicaciones** | Control narrativo: mercados + ciudadanos + geopolítica | Modelo: equipo de comunicaciones de Guzmán |
+
+### Mandato del Equipo
+
+1. **Haircut mínimo 50%** del valor nominal total
+2. **Proteger activos críticos** — Citgo, infraestructura petrolera, puertos
+3. **Firewall China** — Ningún activo estratégico como colateral
+4. **Plazo máximo de negociación:** 18 meses para acuerdo principal, 36 meses para resolución completa
+5. **Transparencia:** Reportes trimestrales públicos al ciudadano sobre estado de negociaciones
+
+:::caution Sin equipo, no hay reestructuración
+El error más común en reestructuraciones fallidas es asignar la tarea a funcionarios sin experiencia. Venezuela necesita los mejores negociadores del mundo — y puede pagarlos con los ahorros que generen.
+:::

@@ -50,17 +50,17 @@ Dia 1        Ano 1-2  Ano 2-4      Ano 4-8      Ano 8-12
 
 ### Estructura del plan
 
-**37 secciones** organizadas en 9 categorias, con **40+ graficos interactivos** (Mermaid):
+**50+ secciones** organizadas en 9 categorias, con **60+ graficos interactivos** (Mermaid):
 
 | # | Categoria | Secciones |
 |---|-----------|-----------|
-| 1 | **Fundamentos** | Tesis Central - Diagnostico - Fase 0 Emergencia |
-| 2 | **Motor Financiero** | Contratos Forward - Fondo Soberano - Deuda - Inversion y Fuentes - Transicion Fiscal - Enfermedad Holandesa |
-| 3 | **Ciudadanos y Diaspora** | Inversion Ciudadana - Diaspora - Retorno - Los que se Quedaron |
-| 4 | **Gobernanza y Seguridad** | Sistema Anti-Fragil - Anticorrupcion - Geopolitica - Estado de Derecho - Seguridad Fisica - Modelo de Estado - Justicia Transicional - Blindaje de Integridad |
-| 5 | **Transformacion** | Hubs Tech - Startups - Diversificacion - Impacto IA - Educacion - Comercio Exterior - Capital Humano - Oportunidades Startups - Oportunidades Empresas |
-| 6 | **Estado y Servicios** | Estado Digital - Servicios Publicos - Infraestructura - ESG - Pensiones - Sistema Financiero |
-| 7 | **Ejecucion** | Timeline - Proyecciones - Riesgos - El Sueno - Evaluacion Multi-Perspectiva |
+| 1 | **Fundamentos** | Tesis Central - Diagnostico (1 pagina accionable + comparables reales) - Fase 0 Emergencia (Sprint 100 dias) |
+| 2 | **Motor Financiero** | Contratos Forward (split Venezuela vs. majors) - Fondo Soberano (locks supra-constitucionales, compensacion top-tier, anti-captura) - Deuda (China, equipo negociador) - Citgo (USD 8-13B) - Inversion y Fuentes (senalizacion creible) - Cashflow 20 Trimestres - Transicion Fiscal (flat tax + proteccion 82.8%) - Enfermedad Holandesa (ventana 10-15 anos) |
+| 3 | **Ciudadanos y Diaspora** | Inversion Ciudadana (dividendo igualitario, anti-concentracion) - Diaspora (co-fundadores con equity) - Retorno - Los que se Quedaron (PVC USD 400/mes, 4 user stories) |
+| 4 | **Gobernanza y Seguridad** | Sistema Anti-Fragil - Anticorrupcion - Blindaje de Integridad (anti-intermediarios) - Geopolitica - Estado de Derecho - Seguridad Fisica (plan operativo territorial) - Modelo de Estado - Justicia Transicional (Fondo Reparacion Victimas) - Roadmap Sanciones (BIT EE.UU.) - Cuba Desconexion |
+| 5 | **Transformacion** | Hubs Tech (pais startup-friendly, e-Residency) - Startups - Diversificacion - Impacto IA - Educacion - Comercio Exterior - Capital Humano (50K ingenieros) - Oportunidades Startups (Bitcoin mining, fintech USD 50-100B) - Oportunidades Empresas |
+| 6 | **Estado y Servicios** | Estado Digital (blockchain + IA anti-corrupcion) - Servicios Publicos - Infraestructura (calidad mundial, Starlink, telecoms aliados) - ESG (net-zero data centers) - Pensiones - Sistema Financiero (banca digital, ICSID, leapfrogging fintech) |
+| 7 | **Ejecucion** | Timeline (sprints 100 dias) - Proyecciones - Riesgos (stress test post-petroleo, Guyana) - El Sueno - Evaluacion 19 Perspectivas - Equipo Ejecutor |
 | 8 | **Anexo: Inversionistas (ES)** | Resumen Ejecutivo - Business Model Canvas - TAM/SAM/SOM - YC Application - Pitch Deck |
 | 9 | **Annex: Investors (EN)** | Executive Summary - Business Model Canvas - TAM/SAM/SOM - YC Application - Pitch Deck |
 
@@ -77,7 +77,7 @@ Venezuela desvio **USD 300.000+ M** via FONDEN entre 2005-2015. Este plan mapea 
 
 ### Evaluacion multi-perspectiva
 
-El plan ha sido evaluado por un panel de **9 perspectivas ideologicas** (de Milei a Piketty) y **14 expertos de dominio**. Score actual: **6.2/10** — con fortalezas reconocidas en anticorrupcion y transparencia, y debilidades identificadas en secuenciacion y capacidad institucional.
+El plan ha sido evaluado por un panel de **19 perspectivas** (9 ideologicas + 10 operativas/inversoras) y **14 expertos de dominio**. Score actual: **6.8/10** — con fortalezas reconocidas en anticorrupcion (7.5) y transparencia, y debilidades identificadas en condiciones de inversion (5.3-5.8). 43 de 48 recomendaciones ya integradas.
 
 Ademas, el script `skills/evaluate.sh` envia cualquier seccion a **7 IAs de frontera** (GPT-5.2, Claude Opus 4.6, Gemini 3.1, DeepSeek V3.2, Grok 4.20, Qwen 3.5, Mistral Large) en paralelo para evaluacion independiente.
 
@@ -91,6 +91,7 @@ Ademas, el script `skills/evaluate.sh` envia cualquier seccion a **7 IAs de fron
 | **Libertad de vida, economica y religiosa** | El Estado es plataforma, no patron |
 | **Automatizar todo lo posible** | Gobierno digital (modelo Estonia), menos burocracia, menos corrupcion |
 | **Reforma quirurgica** | Fusionar ministerios (34→15), recuperar fondos desviados → al fondo soberano |
+| **Petroleo es activo depreciante** | Solar sera mas barato que Faja para 2040. Ventana real: 10-15 anos. Diversificar desde dia 1 |
 
 ### Como contribuir?
 
@@ -150,7 +151,7 @@ Venezuela diverted **USD 300B+** via FONDEN between 2005-2015. This plan maps **
 
 ### Multi-perspective evaluation
 
-Evaluated by a panel of **9 ideological perspectives** (from libertarian to progressive) and **14 domain experts**. Current score: **6.2/10** — strong on anti-corruption and transparency, with identified weaknesses in sequencing and institutional capacity.
+Evaluated by a panel of **19 perspectives** (9 ideological + 10 operational/investor) and **14 domain experts**. Current score: **6.8/10** — strong on anti-corruption (7.5) and transparency, with identified weaknesses in investment conditions (5.3-5.8). 43 of 48 recommendations already integrated.
 
 ### Model philosophy
 
@@ -162,6 +163,7 @@ Evaluated by a panel of **9 ideological perspectives** (from libertarian to prog
 | **Freedom of life, economic and religious** | The State is your platform, not your parent |
 | **Automate everything possible** | Digital government (Estonia model), less bureaucracy, less corruption |
 | **Surgical reform** | Merge ministries (34→15), recover diverted funds → to sovereign fund |
+| **Oil is a depreciating asset** | Solar will be cheaper than Faja by 2040. Real window: 10-15 years. Diversify from day 1 |
 
 ### How to contribute
 
@@ -178,7 +180,7 @@ venezuela-sa/
 ├── CONTRIBUTING.md              ← How to contribute
 ├── CODE_OF_CONDUCT.md           ← Community standards
 ├── LICENSE                      ← CC BY-SA 4.0
-├── docs/                        ← Plan completo (37 secciones)
+├── docs/                        ← Plan completo (50+ secciones)
 │   ├── intro.md                 ← Vision general + embudo energetico
 │   ├── 01-fundamentos/          ← Tesis, diagnostico, emergencia
 │   ├── 02-motor-financiero/     ← Forwards, fondo, deuda, fiscal, Dutch Disease
@@ -193,12 +195,12 @@ venezuela-sa/
 │   └── conclusion.md
 ├── skills/                      ← Prompts especializados (formato universal)
 │   ├── experts/                 ← 14 analistas de dominio
-│   ├── perspectives/            ← 9 voces ideologicas (Milei a Piketty)
+│   ├── perspectives/            ← 19 voces (9 ideologicas + 10 operativas/inversoras)
 │   ├── tools/                   ← 10 herramientas (research, charts, copy, etc.)
 │   ├── project/                 ← Quality control skill
 │   └── evaluate.sh              ← Evaluacion con 7 IAs de frontera en paralelo
 ├── docusaurus.config.js         ← Site config (v3, Mermaid, PWA, search, graph)
-├── sidebars.js                  ← Navigation (37 sections)
+├── sidebars.js                  ← Navigation (50+ sections)
 └── .github/
     ├── workflows/deploy.yml     ← Auto-deploy to GitHub Pages
     ├── ISSUE_TEMPLATE/

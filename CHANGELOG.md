@@ -6,6 +6,59 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
 ---
 
+## [1.6.0] — 2026-03-14
+
+### Anadido — 28 Recomendaciones de Evaluacion Integradas
+
+**Motor Financiero (6 items)**
+- **Citgo** (`citgo.md`): nuevo doc — USD 8-13B en trust, acreedores, 4 opciones estrategicas
+- **Deuda con China** + **equipo negociador**: lineas rojas, patron Sri Lanka, 6 roles de negociacion
+- **Senalizacion creible** (chicken-and-egg): secuencia de 3 fases para desbloquear USD 183B
+- **Split Venezuela vs. majors**: tabla por tipo de contrato (JV, PSA, concesion), modelo Noruega
+- **Petroleo como activo depreciante**: ventana 10-15 anos, pivot hydro→compute, gas→LNG/H2
+
+**Fondo Soberano y Gobernanza (6 items)**
+- **Locks supra-constitucionales**: 6 mecanismos (BIT, custodia offshore, referendum ciudadano, board internacional, sunset 25 anos, sanciones automaticas)
+- **Compensacion top-tier**: tabla salarial GIC/Temasek/NBIM, ROI 750x
+- **Anti-captura politica**: ciclo 8-12 anos, 3 casos LATAM (Ecuador FEIREP, Bolivia, Argentina)
+- **Fondo de Reparacion a Victimas**: gobernanza ciudadana, separado del fondo soberano
+- **BIT Venezuela-EE.UU.**: proteccion ICSID, timeline alineado con roadmap sanciones
+- **Anti-intermediarios by design**: 8 programas rediseñados sin intermediarios, stack tecnologico
+
+**Ciudadanos y Diaspora (4 items)**
+- **Reforma dividendo 2x**: dividendo igualitario para todos (modelo Alaska PFD)
+- **Anti-concentracion voucher**: 5 mecanismos (lock-up, cap, smart contracts, KYC, impuesto progresivo)
+- **Diaspora como co-fundadores**: equity model en concesiones/startups/SOE turnarounds
+- **4 user stories**: Maria/Petare, Carlos/PDVSA, Valentina/bootcamp, Jose/Miami
+
+**Diagnostico y Seguridad (5 items)**
+- **Diagnostico accionable**: tabla de oportunidad en 1 pagina (activos al 3-30% de capacidad)
+- **Sprint 0 (100 dias)**: 16 acciones concretas + scorecard medible
+- **Seguridad territorial**: mapa de control, DDR hibrido, Gantt anos 1-7, prerequisitos por sector
+- **Guyana como competencia**: tabla 7 dimensiones + mitigacion
+- **Comparables reales**: Irak, Angola, Kazajistan, UAE, Georgia (no Noruega ni Singapur)
+
+**Oportunidades e Infraestructura (7 items)**
+- **Bitcoin mining**: USD 0.03/kWh → BTC a USD 10-15K, oportunidad sector privado
+- **Fintech USD 50-100B**: 40M sin fintech, 6 verticales, YC/Kaszek
+- **Banca digital**: cuenta en 10 min, neo-banking, 4 prerrequisitos Stripe
+- **ICSID + leapfrogging fintech**: Kenya/India/Brazil como modelo
+- **Starlink**: conectividad inmediata en 6 meses, tabla de soluciones
+- **Telecoms aliados**: Ericsson/Nokia/Samsung, no Huawei (condicion Rubio)
+- **Flat tax regresividad**: 4 mecanismos de mitigacion, tasa efectiva 0% para los mas pobres
+
+### Cambiado
+- **README**: actualizado a 50+ secciones, 19 perspectivas, score 6.8/10, principio #6
+- **TODO.md**: reorganizado — 43 completados, 5 pendientes (3 operativos + 1 research + 1 diferido)
+
+### Estadisticas
+- **769 documentos** en el indice de busqueda
+- **~1,320 lineas** anadidas en 21 archivos
+- **1 archivo nuevo** (citgo.md)
+- **Build**: 0 errores
+
+---
+
 ## [1.5.0] — 2026-03-13
 
 ### Añadido — 10 Nuevas Perspectivas

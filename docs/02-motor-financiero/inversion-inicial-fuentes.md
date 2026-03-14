@@ -100,3 +100,57 @@ xychart-beta
 | Reunificación Alemana | ~USD 750.000 M | 20 años | PIB Este creció 250% |
 | Corea del Sur (1960–90) | ~USD 350.000 M | 30 años | De USD 79 a USD 6.500 PIB/cápita |
 | **Venezuela S.A.** | **USD 550–750.000 M** | **15 años** | **Meta: PIB/cápita USD 5.000→15.000** |
+
+---
+
+## Señalización Creíble: Resolver el Chicken-and-Egg
+
+> USD 183.000 M en inversión petrolera requieren condiciones que no existen. Esas condiciones requieren inversión para crearse. ¿Quién se mueve primero?
+
+### El Problema
+
+Ninguna major petrolera invierte USD 183.000 M en un país con:
+- Default activo desde 2017
+- Sanciones de EE.UU. (parcialmente vigentes)
+- Sin estado de derecho verificable
+- PDVSA colapsada operativamente
+
+Pero las condiciones para levantar sanciones, reestructurar deuda y reformar instituciones requieren capital que no llega sin inversión. Es un **chicken-and-egg clásico** descrito por [Hausmann, Rodrik & Velasco (2005)](https://drodrik.scholar.harvard.edu/publications/growth-diagnostics) en su marco de diagnósticos de crecimiento.
+
+### La Solución: Señalización Secuencial
+
+La clave es **señalización creíble** — acciones verificables que demuestran compromiso antes de pedir dinero. Cada fase desbloquea la siguiente.
+
+```mermaid
+flowchart LR
+    A["Fase 1
+    Instituciones"] --> B["Fase 2
+    Primeros contratos"]
+    B --> C["Fase 3
+    Ejecución demostrada"]
+    C --> D["Acceso pleno
+    a capital"]
+
+    style A fill:#1B3A5C,stroke:#C49A2A,color:#fff
+    style B fill:#1B3A5C,stroke:#C49A2A,color:#fff
+    style C fill:#1B3A5C,stroke:#C49A2A,color:#fff
+    style D fill:#C49A2A,stroke:#1B3A5C,color:#fff
+```
+
+| Fase | Señal creíble | Inversión que desbloquea | Monto estimado |
+|------|--------------|--------------------------|----------------|
+| **1: Instituciones** (Año 0-1) | Dashboard anticorrupción público, reglas fiscales legisladas, nombramiento de equipo negociador de deuda, acuerdo stand-by FMI | Chevron expande operaciones, primeras licencias OFAC | **USD 3.000–5.000 M** |
+| **2: Primeros contratos** (Año 1-3) | Primeros forward contracts firmados, JV con 2-3 majors, Citgo estabilizado | Oil majors amplían JVs (TotalEnergies, Shell, Repsol), multilaterales desembolsan | **USD 10.000–20.000 M** |
+| **3: Ejecución demostrada** (Año 3-5) | 2 años de cumplimiento fiscal, producción subiendo (1.5M+ bpd), primer desembolso del fondo soberano | Full upstream investment, sector financiero, BigTech data centers | **USD 50.000–100.000 M** |
+
+### Por Qué Funciona
+
+1. **Chevron ya está operando** — [Licencia OFAC #44](https://www.reuters.com/business/energy/chevron-begins-shipping-venezuelan-oil-us-after-license-2022-11-26/) permitió a Chevron reanudar operaciones. Esto demuestra que el mecanismo de "licencia condicionada" funciona.
+2. **El costo de la Fase 1 es casi cero** — Legislar reglas fiscales, publicar un dashboard y nombrar asesores no requiere capital. Requiere voluntad política.
+3. **Cada fase genera evidencia verificable** — No se pide confianza ciega. Se pide verificación de resultados concretos antes de desbloquear el siguiente tramo.
+
+:::info Precedente: Rwanda post-genocidio
+Rwanda aplicó señalización secuencial entre 1994-2010: primero tribunales gacaca (señal de justicia), luego reformas anti-corrupción (señal de gobernanza), luego apertura a inversión (capital). Resultado: [crecimiento promedio de 7,5% anual por 20 años](https://data.worldbank.org/country/rwanda). El mecanismo es el mismo: acción verificable antes de pedir dinero.
+:::
+
+**Fuentes:** [Hausmann, Rodrik & Velasco — Growth Diagnostics (2005)](https://drodrik.scholar.harvard.edu/publications/growth-diagnostics) | [Reuters — Chevron OFAC License (2022)](https://www.reuters.com/business/energy/chevron-begins-shipping-venezuelan-oil-us-after-license-2022-11-26/) | [World Bank — Rwanda Data](https://data.worldbank.org/country/rwanda)

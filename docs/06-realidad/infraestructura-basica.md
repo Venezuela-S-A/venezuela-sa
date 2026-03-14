@@ -28,6 +28,56 @@ Venezuela tiene [velocidad promedio de descarga estancada por debajo de 1 Mbps](
 
 Fuentes: [Freedom House 2024](https://freedomhouse.org/country/venezuela/freedom-net/2024); [SIGCOMM/Northwestern 2024](https://estcarisimo.github.io/assets/pdf/papers/2024-sigcomm-venezuela.pdf)
 
+### Starlink + Conectividad Inmediata
+
+**Problema:** CANTV ofrece ~**5–10 Mbps** promedio en zonas urbanas. En zonas rurales y estados como Amazonas, Delta Amacuro y Bolívar, **la conectividad es cero o cercana a cero**. Esperar 3–5 años a construir fibra troncal no es opción cuando los data centers, ZEETs y hubs tech necesitan internet **ahora**.
+
+**Solución:** [Starlink](https://www.starlink.com/) como puente inmediato + fibra como backbone a mediano plazo.
+
+| Solución | Velocidad | Costo | Timeline de despliegue | Cobertura |
+|----------|-----------|-------|----------------------|-----------|
+| **Starlink Residencial** | 100–200 Mbps | USD 120/mes + USD 599 hardware | **6 meses** | Nacional (cualquier punto con cielo) |
+| **Starlink Business** | 350+ Mbps | USD 250/mes + USD 2.500 hardware | **6 meses** | ZEETs + hubs + hospitales |
+| **Fibra troncal nacional** | 1–10 Gbps | USD 500M–1B inversión total | 3–5 años | Urbano (80% de población) |
+| **5G (Ericsson/Nokia)** | 1+ Gbps | USD 2–5B inversión total | 5–7 años | Urbano + suburbano |
+
+**Costos de cobertura Starlink:**
+
+| Segmento | Terminales | Costo anual | Impacto |
+|----------|-----------|-------------|---------|
+| 5 ciudades ZEET + 50 hubs tech | ~500 terminales Business | **USD 3–5M/año** | Internet de alta velocidad para ecosistema tech |
+| 1.000+ puntos de acceso comunitario (rural) | 1.000 terminales | **USD 10–20M/año** | Conectividad básica para zonas sin infraestructura |
+| Hospitales y escuelas prioritarias | ~2.000 terminales | **USD 5–10M/año** | Telemedicina + educación digital |
+| **Total cobertura inmediata** | ~3.500 terminales | **USD 18–35M/año** | — |
+
+:::info Complementar, no reemplazar
+Starlink es el **puente**, no el destino. La fibra troncal y 5G son la infraestructura permanente. Pero Starlink permite que las ZEETs, data centers y hospitales operen con internet de primer mundo **desde el mes 6**, mientras se construye la fibra. Es la diferencia entre esperar 5 años o empezar mañana.
+:::
+
+Fuentes: [Starlink](https://www.starlink.com/) (precios actualizados 2025); [ITU Broadband Commission](https://www.broadbandcommission.org/) [Requiere investigación: datos más recientes de cobertura satelital LATAM]
+
+### Proveedores de Telecoms: Aliados, No Huawei
+
+**Realidad geopolítica:** La relación con EE.UU. es condición sine qua non para el levantamiento de sanciones. Usar equipos **Huawei** para 5G o infraestructura crítica es un **deal-breaker** para Washington.
+
+> Marco Rubio (Secretario de Estado): La infraestructura de telecomunicaciones con equipos chinos en países del hemisferio occidental es una amenaza de seguridad nacional para EE.UU.
+
+| Proveedor | País | Qué provee | Estatus con EE.UU. |
+|-----------|------|-----------|-------------------|
+| **Ericsson** | Suecia | 5G RAN, core network, fibra | Aprobado — proveedor preferido de EE.UU. |
+| **Nokia** | Finlandia | 5G, fibra, networking empresarial | Aprobado — contratos con Pentágono |
+| **Samsung** | Corea del Sur | 5G RAN, equipos de red | Aprobado — proveedor de Verizon/AT&T |
+| ~~Huawei~~ | ~~China~~ | ~~5G, equipos de red~~ | **Prohibido** — Entity List desde 2019 |
+| ~~ZTE~~ | ~~China~~ | ~~Telecoms, equipos~~ | **Prohibido** — Entity List |
+
+**Cables submarinos:** Venezuela necesita nuevas conexiones de fibra submarina. Los acuerdos deben pasar por negociación con EE.UU. — no es técnico, es geopolítico.
+
+:::danger Esto no es opcional
+Elegir Huawei/ZTE = perder el roadmap de sanciones completo. No hay negociación. Ericsson/Nokia/Samsung son los únicos proveedores viables para un país que busca reintegrarse a la economía occidental. El costo puede ser 10–20% mayor, pero el costo de elegir mal es **perder USD 550–750B en inversión**.
+:::
+
+Fuentes: [FCC Clean Network Initiative](https://www.fcc.gov/) [Requiere investigación: status actualizado del programa]; [State Department Telecommunications Security](https://www.state.gov/) [Requiere investigación]
+
 ---
 
 ## Agua Potable

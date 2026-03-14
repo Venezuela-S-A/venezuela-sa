@@ -364,4 +364,60 @@ Si el sistema previene **1% de corrupción** sobre USD 50B/año en gasto públic
 
 ---
 
+## Principio Anti-Intermediarios: Zero Middlemen by Design
+
+:::danger El patrón CLAP es el patrón de TODA la corrupción venezolana
+CLAP no fue una excepción — fue la regla. **Cada programa social, contrato público y servicio gubernamental en Venezuela fue capturado por intermediarios que extrajeron 40-70% del valor.** CADIVI: intermediarios compraban dólares a Bs. 6,30 y los vendían a Bs. 100+. Misiones sociales: intermediarios cobraban por "beneficiarios" que no existían. PDVSA: intermediarios facturaban servicios a 3-10x precio de mercado. **El intermediario es el vector principal de corrupción en Venezuela.**
+:::
+
+### El principio de diseño
+
+**Toda transacción del Estado con ciudadanos, proveedores o inversores debe tener arquitectura anti-intermediarios por defecto.** No es un control adicional — es un requisito de diseño. Si un mecanismo requiere un intermediario humano para funcionar, el diseño está mal.
+
+### Tabla de rediseño anti-intermediarios
+
+| Programa / Área | Diseño tradicional (CON intermediario) | Diseño anti-intermediarios | Tecnología habilitante | Ahorro estimado | Cross-ref |
+|-----------------|---------------------------------------|---------------------------|----------------------|----------------|-----------|
+| **Transferencias sociales** | Vía comité local (CLAP) — intermediario decide quién recibe, cuánto, cuándo. Extracción: **40-70%** | Directo a billetera digital del ciudadano — sin comité, sin intermediario, verificación biométrica | Blockchain + biometría + identidad digital ([India Aadhaar-DBT](https://dbtbharat.gov.in/): USD 33B ahorrados) | **40-60%** del costo actual | [Fase 0](/01-fundamentos/fase-0-emergencia) · [Ciudadanos](/03-ciudadanos/los-que-se-quedaron) |
+| **Compras públicas (procurement)** | Vía broker o "empresa amiga" — precio inflado 3-10x, kickback al funcionario | Marketplace abierto tipo [ProZorro](https://prozorro.gov.ua/en) — precios públicos, cualquier proveedor calificado puede ofertar, adjudicación automática | Plataforma e-procurement + IA anti-colusión + precios referenciales automáticos | **30-50%** en sobreprecios eliminados | [Infraestructura](/06-realidad/infraestructura-basica) · [Salud](/06-realidad/servicios-publicos) |
+| **Inversión ciudadana (VIN)** | Vía sucursal bancaria — banco cobra comisión, trámites lentos, acceso limitado a zonas con sucursal | App directa — KYC digital, compra de VIN desde el celular, custodia en bolsa internacional | Fintech + smart contracts + custodia digital ([Robinhood](https://robinhood.com/) / [eToro](https://www.etoro.com/) model) | **80-90%** en comisiones bancarias | [Inversión ciudadana](/03-ciudadanos/inversion-ciudadana) |
+| **Contratos de infraestructura** | Vía empresa intermediaria que subcontrata al constructor real — margen del intermediario: **20-40%** | Directo al constructor, desembolso por hito verificado con smart contract — pago automático cuando drone/satélite confirma avance | Smart contracts + verificación satelital + drones + milestone-based payments | **20-35%** del costo total del proyecto | [Infraestructura](/06-realidad/infraestructura-basica) · [PPP](#4-infraestructura-y-ppp) |
+| **Salud: insumos y medicamentos** | Vía distribuidor farmacéutico con marca-up de **50-200%** (patrón CLAP-salud) | Compra directa vía PAHO/OMS a fabricante + supply chain blockchain de lote a lote hasta hospital | Blockchain supply chain + compra centralizada vía organismos multilaterales + trazabilidad | **40-60%** en sobreprecios de insumos | [Servicios públicos](/06-realidad/servicios-publicos) · [Salud](#7-salud) |
+| **Educación: materiales y equipos** | Vía proveedor "autorizado" — equipos facturados y no entregados, o entregados sin funcionar | Compra directa a fabricante vía licitación abierta + verificación de entrega en destino con foto/video | E-procurement + verificación en destino + garantía de funcionamiento vinculada al pago | **25-40%** en compras fantasma eliminadas | [Educación](/05-transformacion/educacion) · [Educación](#6-educación) |
+| **Reparaciones a víctimas** | Vía ONG intermediaria o abogado que cobra 30-50% del monto de reparación | Pago directo a cuenta digital de víctima verificada biométricamente | Identidad digital + pago directo + auditoría automática | **30-50%** en extracción de intermediarios | [Justicia transicional](/04-gobernanza/justicia-transicional) |
+| **Pensiones** | Vía administradora con fees opacos de **2-4% AUM** | Administradora con fee máximo **1.5% AUM** por ley + rendimiento público + cambio libre entre administradoras | Plataforma digital de pensiones + benchmark público + portabilidad | **50-70%** en fees excesivos | [Pensiones](/06-realidad/pensiones-seguridad-social) · [Pensiones](#10-pensiones-y-seguridad-social) |
+
+### El stack tecnológico anti-intermediarios
+
+```mermaid
+flowchart TD
+    A["Capa 1: Identidad Digital<br/>Biometría + blockchain = cada ciudadano<br/>es verificable sin intermediario"] --> B["Capa 2: Pagos Directos<br/>Billetera digital + smart contracts =<br/>dinero llega sin manos intermedias"]
+    B --> C["Capa 3: Procurement Abierto<br/>ProZorro-style = cualquier proveedor<br/>calificado compite en transparencia"]
+    C --> D["Capa 4: Verificación Automática<br/>Drones + satélites + IA = verificación<br/>sin inspector corruptible"]
+    D --> E["Capa 5: Auditoría en Tiempo Real<br/>Dashboard público + IA anti-colusión =<br/>anomalías detectadas en horas, no años"]
+
+    style A fill:#1B3A5C,color:#fff
+    style B fill:#1B3A5C,color:#fff
+    style C fill:#2d5016,color:#fff
+    style D fill:#2d5016,color:#fff
+    style E fill:#C49A2A,color:#fff
+```
+
+### Precedente: India Aadhaar-DBT
+
+El caso más exitoso de eliminación de intermediarios a escala nacional:
+
+| Métrica | Antes de Aadhaar-DBT | Después de Aadhaar-DBT | Fuente |
+|---------|---------------------|----------------------|--------|
+| Beneficiarios fantasma | **30-40%** de beneficiarios no existían | **<3%** filtrados automáticamente | [World Bank, 2023](https://www.worldbank.org/en/country/india) |
+| Intermediarios en transferencias | 3-5 niveles de intermediarios | **Zero** — pago directo a cuenta Aadhaar | [DBT Bharat](https://dbtbharat.gov.in/) |
+| Ahorro acumulado | — | **USD 33B+** en transferencias directas (2014-2024) | [Government of India, DBT Dashboard](https://dbtbharat.gov.in/) |
+| Cobertura | ~50% de la población | **1.400 M** de personas con identidad digital | [UIDAI](https://uidai.gov.in/) |
+
+:::tip Si India pudo eliminar intermediarios para 1.400 M de personas, Venezuela puede hacerlo para 40 M
+La tecnología existe. Los modelos están probados. La diferencia entre USD 5 que llegan al ciudadano y USD 5 que desaparecen en intermediarios es una decisión de diseño, no de presupuesto.
+:::
+
+---
+
 > **La corrupción es un problema de diseño, no de cultura. Si diseñas el sistema para que robar sea difícil, caro y visible, la gente deja de robar. Si lo diseñas para que robar sea fácil, barato e invisible — como Venezuela 2000-2025 — todo el mundo roba.**

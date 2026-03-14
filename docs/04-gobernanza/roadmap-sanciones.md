@@ -188,4 +188,47 @@ La relación costo-beneficio es absurda. Un equipo de compliance y lobbying de p
 | [Realidad Geopolítica](/04-gobernanza/geopolitica) | Todas las fases: EE.UU. controla ventas |
 | [Pre-Seed Diáspora](/03-ciudadanos/inversion-ciudadana) | **Fase 0: NO depende de sanciones** |
 
+---
+
+## BIT Venezuela-EE.UU.: Protección Legal para Inversores
+
+:::info No existe un BIT entre Venezuela y EE.UU.
+A diferencia de Colombia ([BIT con EE.UU. vigente desde 2012](https://investmentpolicy.unctad.org/)), Perú (firmado pero no ratificado) o Argentina (vigente desde 1994), **Venezuela nunca ha firmado un tratado bilateral de inversión con Estados Unidos.** Esto significa que los **500.000+ venezolano-americanos en Florida** y los inversores estadounidenses no tienen protección legal formal contra expropiación, trato discriminatorio o denegación de justicia en Venezuela.
+:::
+
+### Qué provee un BIT
+
+| Protección | Qué significa | Relevancia para Venezuela |
+|-----------|--------------|--------------------------|
+| **Acceso a arbitraje ICSID** | Si el gobierno viola derechos del inversor, este puede demandar ante el [ICSID (Banco Mundial)](https://icsid.worldbank.org/) — tribunal neutral | Venezuela salió del ICSID en 2012; un BIT requeriría reingresar o aceptar jurisdicción ad hoc |
+| **Protección contra expropiación** | Expropiación solo con compensación justa, pronta y efectiva | Crítico: 1.500+ empresas expropiadas sin compensación (2005-2015) |
+| **Trato justo y equitativo (FET)** | Gobierno no puede aplicar reglas arbitrarias o discriminatorias al inversor | Elimina riesgo de "cambiar las reglas del juego" post-inversión |
+| **Libre transferencia de capitales** | Inversores pueden repatriar ganancias sin restricciones cambiarias | Crítico dado el historial de controles cambiarios (CADIVI, CENCOEX) |
+| **Cláusula de nación más favorecida (MFN)** | Inversores estadounidenses reciben trato al menos igual al de cualquier otro país | Previene deals preferenciales con China/Rusia en detrimento de inversores US |
+
+### Timeline propuesto
+
+| Fase del roadmap | Acción BIT | Dependencia |
+|-----------------|-----------|-------------|
+| **Fase 2-3** (2028-2032) | Iniciar negociaciones formales del BIT durante proceso de levantamiento de sanciones financieras | Gobierno democrático instalado + reformas judiciales iniciadas |
+| **Fase 3-4** (2030-2034) | Firma del BIT + ratificación por Senado de EE.UU. y Parlamento venezolano | Track record de 2+ años de respeto a propiedad privada |
+| **Fase 4-5** (2032-2036) | BIT operativo + reingreso a ICSID o mecanismo arbitral equivalente | Normalización plena de relaciones |
+
+### Precedentes regionales
+
+| País | BIT con EE.UU. | Año | Impacto en FDI | Fuente |
+|------|---------------|-----|---------------|--------|
+| **Colombia** | Vigente | 2012 | FDI de USD 10B a **USD 17B/año** post-BIT | [UNCTAD BIT Database](https://investmentpolicy.unctad.org/) |
+| **Perú** | Firmado, no ratificado | 2006 | FDI creció con TLC (que incluye capítulo de inversión) | [UNCTAD](https://investmentpolicy.unctad.org/) |
+| **Argentina** | Vigente | 1994 | Protegió inversores durante crisis 2001; 62 demandas ICSID contra Argentina | [ICSID](https://icsid.worldbank.org/) |
+| **Ecuador** | Terminado | 2018 (terminado por Correa) | FDI cayó; Correa enfrentó USD 2B+ en demandas ICSID | [UNCTAD](https://investmentpolicy.unctad.org/) |
+
+:::tip El BIT es la señal más fuerte para la diáspora inversora
+Para los **500.000+ venezolano-americanos** que quieren invertir en la reconstrucción pero temen una nueva expropiación, el BIT es la diferencia entre "quiero invertir" y "voy a invertir". Con BIT, si el gobierno expropia, el inversor demanda ante ICSID y cobra. Sin BIT, el inversor queda a merced de tribunales venezolanos — que históricamente han fallado a favor del gobierno.
+:::
+
+**Fuentes:** [UNCTAD BIT Database](https://investmentpolicy.unctad.org/) | [ICSID (World Bank)](https://icsid.worldbank.org/) [Requiere investigación: URLs específicas de BITs Colombia-US y Argentina-US]
+
+---
+
 > **Las sanciones no son un muro. Son una puerta con condiciones escritas en la cerradura. Este roadmap es la llave.**

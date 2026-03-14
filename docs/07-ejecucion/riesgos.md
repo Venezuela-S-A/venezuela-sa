@@ -295,6 +295,45 @@ Monitorear trimestralmente para activar el pivote:
 
 ---
 
+## Competencia Regional: Guyana
+
+:::caution La ventana se cierra
+Mientras Venezuela debate, Guyana ejecuta. Cada año de retraso es inversión que se redirige permanentemente.
+:::
+
+Guyana pasó de producir **cero petróleo** en 2019 a **~600.000+ bpd** en 2025, con proyecciones de **1,2M bpd para 2027** ([Requiere investigación para cifras exactas de producción Guyana 2025-2027]). Es la economía de mayor crecimiento del mundo: **62% PIB en 2022** ([FMI](https://www.imf.org/)).
+
+| Dimensión | Guyana | Venezuela | Ventaja |
+|-----------|--------|-----------|---------|
+| **Reservas probadas** | ~11B barriles (Stabroek Block) | **303B barriles** | Venezuela 28x |
+| **Producción actual** | ~600K+ bpd (2025) | ~1M bpd (2025) | Comparable — y Guyana crece más rápido |
+| **Marco legal** | Common law, contratos estables, arbitraje internacional | Expropiaciones históricas, litigios ICSID, sanciones activas | Guyana |
+| **Riesgo país** | Bajo-medio. English-speaking. Sin sanciones | Crítico. Sanciones OFAC, default de deuda, inestabilidad | Guyana |
+| **Operadores activos** | ExxonMobil, Hess, CNOOC — las majors ya están | Chevron (limitado por licencia OFAC) | Guyana |
+| **Costo de extracción** | USD 25-35/barril (offshore, crudo liviano) | USD 35-40/barril (Faja, crudo pesado) | Guyana |
+| **Crecimiento PIB** | **62% (2022)**, ~30% (2023-2024) | ~5-8% (2025 est.) | Guyana |
+
+### Por qué importa
+
+El capital petrolero global es finito. Las majors eligen dónde poner sus próximos USD 50B. Hoy eligen Guyana porque:
+- **Cero riesgo de sanciones**
+- **Contratos respetados** (no hay historial de expropiación)
+- **Crudo liviano offshore** (más barato de extraer, mayor margen)
+- **Gobierno en inglés** con marco legal anglosajón
+
+### Mitigación: Escala + Velocidad
+
+Venezuela tiene una ventaja que Guyana nunca tendrá: **escala**. 303B barriles vs. 11B. Pero la escala solo importa si se ejecuta. La mitigación es:
+
+1. **Ejecutar rápido** — cada año de retraso es USD 5-10B que va a Guyana
+2. **Ofrecer mejores términos** — contratos forward atractivos, licencias claras, arbitraje internacional
+3. **Diferenciarse** — Venezuela ofrece petróleo + gas + hidro + ubicación. Guyana solo ofrece petróleo offshore
+4. **No competir en riesgo** — competir en oportunidad. Las majors irán donde hay más barrels, pero solo si el riesgo es manejable
+
+**Fuente:** [IMF World Economic Outlook](https://www.imf.org/) | [EIA Guyana Analysis](https://www.eia.gov/) | [Rystad Energy](https://www.rystadenergy.com/) [Requiere investigación para cifras exactas de producción Guyana 2025-2027]
+
+---
+
 ## Condición Sine Qua Non
 
 **Instituciones independientes + transparencia radical + reglas constitucionales que ningún gobierno pueda cambiar.**

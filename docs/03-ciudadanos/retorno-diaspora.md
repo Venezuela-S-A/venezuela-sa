@@ -60,3 +60,46 @@ No todo retornante vuelve físicamente. El modelo bilateral permite contribuir d
 | Inversores diáspora activos | 79.000 (1% Pre-Seed) | 400.000 | 2.000.000 |
 
 **Inversión total programa de retorno:** USD 500–1.500 M en 7 años (bonos de repatriación + plataforma + subsidios).
+
+---
+
+## Co-Fundadores, No Inversores Pasivos
+
+:::danger El patriotismo no es un modelo de retorno
+La diáspora no va a volver por amor a la patria. Requarth (VivaReal, fundador venezolano que construyó un unicornio en Brasil) lo dijo claro: "Los venezolanos en el exterior ya reconstruyeron sus vidas. Para que vuelvan necesitan **equity** — participación real, no un bono de USD 5.000 y un discurso." Si el programa ofrece solo salario + vivienda, compite contra empleos estables en Madrid, Miami, Santiago y Bogotá. **Pierde.** Si ofrece equity — ser co-fundador de la reconstrucción — cambia la ecuación.
+:::
+
+### Modelo de equity para retornantes
+
+La diferencia entre un empleado que vuelve y un co-fundador que vuelve es abismal. El empleado se va cuando le ofrecen más en otro lado. El co-fundador tiene skin in the game — su patrimonio está atado al éxito del proyecto.
+
+| Programa | Qué obtienes | Compromiso requerido | Referencia |
+|----------|-------------|---------------------|-----------|
+| **Equity en concesiones** | 5-15% de equity en concesiones de infraestructura (puertos, autopistas, telecoms) para el retornante que lidera el proyecto | 3 años de residencia + liderazgo operativo | Israel — emprendedores del programa [Talpiot](https://en.wikipedia.org/wiki/Talpiot_program) reciben equity en empresas de defensa/tech que co-fundan |
+| **Co-fundación de startups** | Matched equity (el fondo iguala la inversión del fundador) + visa tech fast-track + USD 50-100K en capital semilla | Fundar y operar la empresa en Venezuela | Chile — [Start-Up Chile](https://www.startupchile.org/) otorga USD 40-80K equity-free; Venezuela S.A. va más allá con matched equity |
+| **Liderazgo técnico en SOEs** | Equity stake (2-8%) en divisiones de PDVSA, CVG, CANTV que el retornante reestructura y lleva a rentabilidad | 5 años de compromiso ejecutivo | Singapur — ejecutivos de [Temasek Holdings](https://www.temasek.com.sg/) reciben equity en empresas del portafolio que gestionan |
+| **Retorno académico** | Equity en spin-offs de laboratorio + tenure track + presupuesto de investigación | 5 años en universidad venezolana | China — [Thousand Talents Plan](https://en.wikipedia.org/wiki/Thousand_Talents_Plan) (sin las controversias de espionaje): lab + funding + posición permanente para investigadores que retornan |
+
+### Los primeros 50 importan más que los siguientes 5.000
+
+Lee Kuan Yew documentó este patrón en la construcción de Singapur: cuando los primeros 50 profesionales de alto calibre retornaron y **les fue bien visiblemente** — salario competitivo, equity real, calidad de vida — los siguientes 5.000 vinieron solos. El efecto es exponencial, no lineal.
+
+| Fase | Meta | Estrategia |
+|------|------|-----------|
+| **Los primeros 50** (año 1) | 50 líderes técnicos de alto perfil | Reclutamiento directo, paquetes de equity agresivos, cobertura mediática de cada retorno |
+| **Los primeros 500** (año 2) | 500 profesionales calificados | Programa estructurado, matchmaking con concesiones y startups |
+| **Los primeros 5.000** (año 3-5) | 5.000 retornantes con equity | El efecto red ya funciona: los primeros 500 reclutan desde sus redes internacionales |
+
+:::tip El efecto TikTok del retorno
+Cuando el ingeniero #23 publica en redes que tiene 10% de equity en la concesión del puerto de La Guaira y que su patrimonio se triplicó en 2 años, no hace falta programa de reclutamiento. La historia se vende sola. **Las historias de éxito de co-fundadores son el mejor marketing de retorno.**
+:::
+
+### Integración con el plan
+
+El modelo de co-fundación se conecta directamente con:
+- **[Equipo ejecutor](/07-ejecucion/equipo-ejecutor):** los retornantes con equity son candidatos naturales para posiciones de liderazgo en VIN
+- **[Startups](/05-transformacion/startup-programs):** el programa Ignite Venezuela ya contempla capital semilla; el matched equity lo potencia
+- **[Concesiones](/06-realidad/infraestructura-basica):** cada concesión de infraestructura reserva 5-15% de equity para el equipo ejecutor retornante
+- **[Inversión ciudadana](/03-ciudadanos/inversion-ciudadana):** los retornantes también participan como ciudadanos en bonos y dividendos — el equity de co-fundación es **adicional**
+
+**Costo incremental:** USD 200-500 M en 5 años (equity es participación en valor futuro, no gasto directo). El costo real es el riesgo de que el retornante no rinda — mitigado por vesting a 3-5 años y métricas de desempeño.

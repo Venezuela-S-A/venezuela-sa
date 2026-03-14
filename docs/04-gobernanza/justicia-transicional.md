@@ -290,4 +290,76 @@ Sin justicia transicional:
 **Es un prerrequisito del plan, no un complemento.** La [seguridad física](/04-gobernanza/seguridad-fisica) depende de DDR, que depende de amnistías condicionadas. El [fondo soberano](/02-motor-financiero/fondo-soberano) depende de gobernanza, que depende de estado de derecho. Los [inversionistas](/08-pitch/resumen-ejecutivo) necesitan ver que hay reglas que se respetan.
 :::
 
-**Fuentes:** [OHCHR Venezuela](https://www.ohchr.org/en/hr-bodies/hrc/co-i-venezuela/co-i-venezuela) | [ICC Situation in Venezuela](https://www.icc-cpi.int/venezuela) | [Foro Penal](https://foropenal.com/) | [Colombia JEP](https://www.jep.gov.co/) | [ICTJ (International Center for Transitional Justice)](https://www.ictj.org/)
+---
+
+## Fondo de Reparación a Víctimas
+
+:::danger Los bienes recuperados de corrupción NO van al fondo soberano
+El fondo soberano se alimenta de ingresos petroleros. Los bienes decomisados a funcionarios corruptos tienen un destino diferente: **reparación directa a las víctimas.** Mezclar ambos fondos diluye la justicia y crea incentivos perversos (el gobierno "gana" con la corrupción pasada). Los bienes robados vuelven a quienes fueron robados — punto.
+:::
+
+### Gobernanza: 5 miembros, mayoría de víctimas
+
+| Miembro | Quién elige | Mandato | Restricción |
+|---------|------------|---------|-------------|
+| **2 representantes de víctimas** | Elegidos por organizaciones de víctimas registradas (Foro Penal, PROVEA, COFAVIC) | 4 años, 1 renovación | Deben ser víctimas documentadas o familiares directos |
+| **1 representante OHCHR** | Oficina del Alto Comisionado de Naciones Unidas para los DDHH | 3 años, renovable | Garante internacional de estándares de DDHH |
+| **1 representante sociedad civil** | Seleccionado por coalición de ONG (Transparencia Venezuela, Sinergia, UCAB) | 3 años, no renovable | No puede ser funcionario público activo ni candidato |
+| **1 ciudadano rotativo** | Sorteo cívico de pool precalificado (profesionales con experiencia en auditoría/finanzas) | 2 años, no renovable | Selección aleatoria elimina captura política |
+
+**Principio rector:** la mayoría del board (3 de 5) son víctimas o sociedad civil. Ningún gobierno controla el fondo de reparaciones.
+
+### Fuentes de financiamiento y destino
+
+| Fuente de fondos | Monto estimado | Destino |
+|-----------------|---------------|---------|
+| Bienes decomisados a funcionarios corruptos (inmuebles, cuentas, empresas) | **USD 5-20B** en 15 años | Reparación directa a víctimas documentadas |
+| Bienes recuperados de testaferros (rastreo intergeneracional) | **USD 2-5B** en 15 años | Reparación directa + fondo de becas para hijos de víctimas |
+| Cooperación DOJ/EU (activos congelados en el exterior) | **USD 1-3B** | Compensación a expropiados + familias de ejecuciones extrajudiciales |
+| Multas a empresas cómplices (intermediarios CLAP, proveedores de armas/vigilancia) | **USD 500M-2B** [Requiere investigación] | Programas de salud mental + reconstrucción comunitaria |
+| Contribución del presupuesto nacional | **USD 100-200M/año** | Operación del fondo + reparaciones simbólicas |
+
+### Categorías de víctimas y tipo de reparación
+
+| Categoría de víctima | Nro. estimado | Tipo de reparación | Monto estimado por víctima |
+|---------------------|--------------|-------------------|--------------------------|
+| **Presos políticos** (2014-presente) | **1.900+** actuales + miles previos | Compensación económica + salud + reinserción laboral | USD 50.000-200.000 según tiempo de detención |
+| **Familias de ejecuciones extrajudiciales** | **19.000+** familias | Compensación por muerte + pensión a dependientes + salud mental | USD 100.000-500.000 por familia |
+| **Empresas expropiadas** | **1.500+** empresas | Devolución o compensación a valor justo pre-expropiación | Variable (USD 100K-50M por empresa) |
+| **Torturados y víctimas de tratos crueles** | Miles [Requiere investigación] | Compensación + tratamiento médico/psicológico de por vida | USD 50.000-300.000 |
+| **Desplazados forzados** (persecución directa) | [Requiere investigación: subset de 7.9M] | Asistencia de retorno + compensación + acceso a vivienda | USD 10.000-50.000 |
+
+### Precedentes internacionales
+
+| País | Fondo/Mecanismo | Monto disbursado | Resultado | Fuente |
+|------|----------------|-----------------|-----------|--------|
+| **Colombia** | Fondo de Reparación a Víctimas (Ley 1448/2011) | **~USD 5B** en 12 años (2012-2024) | 9,5 M de víctimas registradas; compensaciones directas + restitución de tierras | [Unidad de Víctimas](https://www.unidadvictimas.gov.co/) |
+| **Sudáfrica** | TRC Reparations | **~USD 500M** (limitado) | 22.000 víctimas recibieron reparaciones; insuficiente para la escala del daño | [TRC Report](https://www.justice.gov.za/trc/) |
+| **Alemania** | Compensación a víctimas del Holocausto | **USD 80B+** en 70 años | Programa más extenso de la historia; incluye pensiones vitalicias | [Claims Conference](https://www.claimscon.org/) |
+
+### Mecanismos anti-intermediarios
+
+Los fondos de reparación son vulnerables a captura por intermediarios (abogados que cobran 40%, ONG fantasma, funcionarios que desvían). Protecciones:
+
+- **Pago directo** a cuenta digital de la víctima — sin intermediarios financieros
+- **Verificación biométrica** del beneficiario — evita reparaciones a personas falsas
+- **Auditoría trimestral** por firma Big 4 + OHCHR — doble verificación
+- **Dashboard público** de reparaciones pagadas — nombre de víctima (con consentimiento), monto, fecha, estado
+- **Whistleblower** con recompensa 10-20% si detecta fraude en reparaciones
+
+**Cross-ref:** Ver [Blindaje de integridad](/04-gobernanza/blindaje-integridad) para mecanismos anti-intermediarios aplicables a todos los programas del plan.
+
+---
+
+## Conexión con el Plan
+
+:::info La justicia transicional no es opcional
+Sin justicia transicional:
+- No hay estado de derecho → no hay seguridad jurídica → no hay inversión extranjera
+- No hay reconciliación → no hay cohesión social → no hay gobernabilidad
+- No hay recuperación de activos → se pierde USD 5-20B que podría financiar reparaciones
+
+**Es un prerrequisito del plan, no un complemento.** La [seguridad física](/04-gobernanza/seguridad-fisica) depende de DDR, que depende de amnistías condicionadas. El [fondo soberano](/02-motor-financiero/fondo-soberano) depende de gobernanza, que depende de estado de derecho. Los [inversionistas](/08-pitch/resumen-ejecutivo) necesitan ver que hay reglas que se respetan.
+:::
+
+**Fuentes:** [OHCHR Venezuela](https://www.ohchr.org/en/hr-bodies/hrc/co-i-venezuela/co-i-venezuela) | [ICC Situation in Venezuela](https://www.icc-cpi.int/venezuela) | [Foro Penal](https://foropenal.com/) | [Colombia JEP](https://www.jep.gov.co/) | [ICTJ (International Center for Transitional Justice)](https://www.ictj.org/) | [Unidad de Víctimas Colombia](https://www.unidadvictimas.gov.co/)

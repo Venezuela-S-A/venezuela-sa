@@ -138,3 +138,80 @@ Venezuela opera en dolarización de facto (~60% de transacciones en USD, [ENCOVI
 | REER aprecia > 15% en 24 meses | Cualquier año | Intervención fiscal + revisión de flujos |
 
 **Fuentes:** [IMF — The Dutch Disease: Causes and Effects (WP/2003/12)](https://www.imf.org/external/pubs/ft/wp/2003/wp0312.pdf) | [World Bank — Resource Curse or Blessing?](https://documents.worldbank.org/) | [Hausmann & Rodríguez — Venezuela Before Chávez (2014)](https://www.hup.harvard.edu/books/9780674072848) | [NBIM](https://www.nbim.no/)
+
+---
+
+## La Ventana se Cierra: Petróleo como Activo Depreciante
+
+> El petróleo no desaparece mañana. Pero su ventana de valor máximo es 10-15 años, no 30. Cada año de retraso destruye valor.
+
+### La Competencia ya Ganó en Costo
+
+| Fuente de energía | LCOE 2024 (USD/MWh) | LCOE proyectado 2035 | Tendencia | Fuente |
+|-------------------|---------------------|----------------------|-----------|--------|
+| **Solar utility** | **USD 29** | USD 15-20 | ↓ acelerando | [IRENA — Renewable Power Costs 2024](https://www.irena.org/publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023) |
+| Eólica onshore | USD 33 | USD 20-25 | ↓ estable | [IRENA, 2024](https://www.irena.org/publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023) |
+| Gas natural (CCGT) | USD 45-65 | USD 50-70 | → estable | [IEA WEO 2024](https://www.iea.org/reports/world-energy-outlook-2024) |
+| **Faja del Orinoco (extra-heavy)** | **USD 40-50** | **USD 40-50** | → sin mejora | [Rystad Energy](https://www.rystadenergy.com/) |
+
+El crudo extra-pesado de la Faja ya es **más caro que solar** como fuente de energía. Para 2035, la brecha será 2-3x.
+
+### Demanda de Petróleo: El Pico se Acerca
+
+| Indicador | Proyección | Fuente |
+|-----------|-----------|--------|
+| **Pico de demanda global de petróleo** | **2028-2030** | [IEA — World Energy Outlook 2024](https://www.iea.org/reports/world-energy-outlook-2024) |
+| Participación de EVs en ventas globales | 80% para 2040 (escenario NZE) | [IEA — Global EV Outlook 2024](https://www.iea.org/reports/global-ev-outlook-2024) |
+| Demanda de petróleo para transporte | -45% para 2040 vs. 2023 (NZE) | [IEA WEO 2024](https://www.iea.org/reports/world-energy-outlook-2024) |
+| Inversión global en energía limpia | **USD 2T/año** (2024) vs. USD 1T en fósiles | [BloombergNEF, 2024](https://about.bnef.com/energy-transition-investment/) |
+
+:::danger La ventana es 10-15 años, no 30
+Si el pico de demanda es 2028-2030 y la caída es gradual (-2-3% anual post-pico), Venezuela tiene **~10-15 años de demanda fuerte**. Después, el crudo extra-pesado de la Faja — con alto costo de extracción y alta huella de carbono — será el **primero en salir del mercado**. No es el petróleo saudí (USD 10/barril de extracción) el que pierde. Es el venezolano.
+:::
+
+### Estrategia de Pivote: De Petróleo a Valor Permanente
+
+```mermaid
+flowchart TD
+    A["PETRÓLEO
+    Activo depreciante
+    Ventana: 10-15 años"] --> B["Hidroeléctrica 18 GW
+    → Compute / IA / Data Centers"]
+    A --> C["Gas natural
+    → LNG export + Hidrógeno verde"]
+    A --> D["Geografía estratégica
+    → Hub logístico + cables submarinos"]
+    A --> E["Crudo extra-pesado
+    → Petroquímicos (no combustible)"]
+
+    B --> F["VALOR PERMANENTE
+    Post-petróleo"]
+    C --> F
+    D --> F
+    E --> F
+
+    style A fill:#8B0000,stroke:#C49A2A,color:#fff
+    style F fill:#006400,stroke:#C49A2A,color:#fff
+    style B fill:#1B3A5C,stroke:#C49A2A,color:#fff
+    style C fill:#1B3A5C,stroke:#C49A2A,color:#fff
+    style D fill:#1B3A5C,stroke:#C49A2A,color:#fff
+    style E fill:#1B3A5C,stroke:#C49A2A,color:#fff
+```
+
+| Activo actual | Pivote estratégico | Por qué funciona | Valor post-petróleo |
+|---------------|-------------------|------------------|---------------------|
+| **Hidroeléctrica (18 GW Caroní)** | Compute, IA, data centers | Energía limpia + barata = ventaja competitiva para hyperscalers (AWS, Google, Microsoft) | USD 5-10.000 M/año en servicios cloud |
+| **Gas natural (200 TCF reservas)** | LNG export + hidrógeno verde | Gas es combustible de transición; H2 verde con hidro es competitivo a 2030 | USD 8-15.000 M/año en LNG+H2 |
+| **Geografía (Caribe, cercanía a EE.UU.)** | Hub logístico + cables submarinos de datos | [Requiere investigación] — costo estimado de hub portuario caribeño | USD 3-5.000 M/año en servicios logísticos |
+| **Crudo extra-pesado** | Petroquímicos (plásticos, asfalto, lubricantes) — no combustible | La demanda petroquímica crece +30% a 2040 aun en escenario NZE ([IEA, 2024](https://www.iea.org/reports/the-future-of-petrochemicals)) | USD 10-20.000 M/año en petroquímicos |
+
+### La Urgencia es Real
+
+Cada año de retraso en la ejecución del plan tiene un costo doble:
+
+1. **Costo de oportunidad:** ~USD 35.000-40.000 M/año en ingresos petroleros no generados (diferencia entre 0.9M y 3M bpd a USD 60).
+2. **Costo de depreciación:** El valor presente de las reservas cae ~2-3% anual conforme la transición energética avanza y los descuentos por carbono aumentan.
+
+En 5 años de retraso, Venezuela pierde **~USD 175.000-200.000 M** en valor combinado. El petróleo es combustible — pero es combustible con fecha de vencimiento.
+
+**Fuentes:** [IEA — World Energy Outlook 2024](https://www.iea.org/reports/world-energy-outlook-2024) | [IEA — Global EV Outlook 2024](https://www.iea.org/reports/global-ev-outlook-2024) | [IRENA — Renewable Power Generation Costs 2024](https://www.irena.org/publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023) | [BloombergNEF — Energy Transition Investment 2024](https://about.bnef.com/energy-transition-investment/) | [IEA — Future of Petrochemicals](https://www.iea.org/reports/the-future-of-petrochemicals)

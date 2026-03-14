@@ -135,6 +135,19 @@ Cuando el ciudadano llega a la edad de jubilación, **todos los fondos no utiliz
 **Efecto:** un trabajador disciplinado que compró casa temprano, nunca quedó desempleado, y sus hijos pagaron universidad con mérito, llega a la jubilación con un fondo de retiro **significativamente mayor** porque recibe los saldos de 3 subcuentas adicionales. El sistema premia el esfuerzo y la planificación.
 :::
 
+:::danger Si el ciudadano muere: el FCV es heredable — 100%
+El FCV es **propiedad del trabajador**, no del Estado. Si muere antes de jubilarse o durante la jubilación:
+
+| Situación | Qué pasa con el FCV |
+|-----------|---------------------|
+| **Muere antes de jubilarse** | El saldo completo de las 5 subcuentas pasa a sus **beneficiarios designados** (cónyuge, hijos, padres). Sin trámites complejos — es transferencia automática a la cuenta FCV de los beneficiarios |
+| **Muere durante la jubilación** | El saldo restante de Retiro + Salud (Medisave) pasa a beneficiarios. No se pierde ni un centavo |
+| **Sin beneficiarios designados** | Se aplica el orden legal de sucesión (cónyuge → hijos → padres → hermanos). Nunca vuelve al Estado |
+| **Menores como beneficiarios** | El saldo se deposita en el FCV del menor. VSA sigue administrándolo hasta que cumpla 18 años |
+
+**Esto NO es una pensión estatal que muere con el jubilado.** Es patrimonio personal heredable. En el sistema actual (IVSS), cuando el pensionado muere, la pensión desaparece. En el FCV, el ahorro de toda una vida pasa a la siguiente generación. [Singapur CPF](https://www.cpf.gov.sg/) funciona exactamente así — el saldo es del ciudadano, no del gobierno.
+:::
+
 ```mermaid
 flowchart TB
     FCV["🏦 FONDO CIUDADANO VENEZUELA (FCV)<br/>23% del salario (11% trabajador + 12% empleador)<br/>UNA cuenta, UNA institución, 5 subcuentas"]

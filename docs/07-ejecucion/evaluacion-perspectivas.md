@@ -1,29 +1,34 @@
-# Evaluación Multi-Perspectiva del Plan (19 Perspectivas)
+# Evaluación Multi-Perspectiva del Plan (20 Perspectivas)
 
 :::info Metadatos de la evaluación
-- **Fecha:** 14 de marzo de 2026 (tercera evaluación, post-integración)
-- **Evaluación anterior:** Score 6.8/10 con 19 perspectivas (pre-integración de 28 recomendaciones)
-- **Evaluador:** Claude Opus 4.6 aplicando 19 skills de perspectiva (`skills/perspectives/`)
-- **Secciones evaluadas:** 7 secciones, 50+ documentos (28 items integrados desde la evaluación anterior)
-- **Perspectivas aplicadas:** 19 (9 ideológicas + 10 operativas/inversoras)
-- **Items integrados:** 28 recomendaciones de la evaluación anterior ahora incluidas en el plan
+- **Fecha:** 14 de marzo de 2026 (cuarta evaluación, post-FCV + modelo educativo + 10 ministerios)
+- **Evaluación anterior:** Score 7.0/10 con 19 perspectivas (post-integración de 28 recomendaciones)
+- **Evaluador:** Claude Opus 4.6 aplicando 20 skills de perspectiva (`skills/perspectives/`)
+- **Secciones evaluadas:** 7 secciones, 50+ documentos + FCV unificado, voucher educativo, salud FONASA+Medisave, 10 ministerios, financiamiento, ciclo de vida, diáspora/extranjeros
+- **Perspectivas aplicadas:** 20 (10 ideológicas + 10 operativas/inversoras) — nueva: Gerver Torres
+- **Cambios principales evaluados:** FCV (4 subcuentas, desde nacimiento), voucher K-12 con puntos, universidad por mérito, colegios como empresas, 34→10 ministerios (265K empleados), Estado como supervisor
 :::
 
 ## Resumen Ejecutivo
 
-**Score global: 7.0/10** (anterior: 6.8/10, **+0.2 puntos, +3%**)
+**Score global: 7.4/10** (anterior: 7.0/10, **+0.4 puntos, +6%**)
 
-La integración de 28 recomendaciones cierra brechas significativas. **Ciudadanos** registra el mayor salto (+0.7) gracias a la reforma del dividendo igualitario (eliminando el 2x criticado por Piketty y Acemoglu), el modelo de diáspora como co-fundadores con equity (exigido por Unicornios), y 4 user stories que humanizan el plan (pedidas por Oppenheimer). **Realidad** sube +0.5 con Starlink como solución inmediata de conectividad (Musk), banca digital en 10 minutos (Stripe), telecoms aliados no-Huawei (Rubio), e ICSID + leapfrogging fintech (VCs).
+La implementación del **Fondo Ciudadano Venezuela (FCV)** — cuenta unificada tipo Singapur CPF con 4 subcuentas (retiro + salud + vivienda + educación = 21% del salario) — es el cambio más impactante desde la creación del plan. El FCV desde nacimiento (VSA invierte USD 150/mes por niño), el voucher educativo K-12 con sistema de puntos, la salud FONASA+Medisave gradual, y la reducción de 34 a 10 ministerios (265K empleados) generaron el mayor salto de puntuación en una sola iteración.
 
-**La brecha inversora se reduce pero persiste:** Las perspectivas inversoras (VCs 6.8, Unicornios 6.6, Tech Giants 6.1) suben en promedio +1.0 punto, reconociendo mejoras concretas. Pero el gap con las perspectivas analíticas (Rallo 7.5, MCM 7.7, Hausmann 7.5) se reduce de ~1.5 a ~1.1 puntos. La brecha restante es estructural: **el plan es un documento, no una organización**. Ningún documento puede cerrar esa brecha — solo un equipo ejecutor real.
+**Lo que más impactó los scores:**
 
-**5 cambios que más impactaron los scores:**
+1. **FCV unificado** — Torres 8.5, LKY 8.0, Dalio 8.0, Oppenheimer 8.5. "Reconozco mi CPF en este FCV" (Lee Kuan Yew). "Mejor mecanismo anti-ciclo populista" (Dalio)
+2. **Voucher educativo con puntos** — Oppenheimer 8.5, Unicornios 7.5, Rallo 7.5. "Marketplace de miles de millones" (Rappi). Colegios como empresas + 1 deporte + 1 arte obligatorio
+3. **FCV desde nacimiento** — Stiglitz 7.5, Oppenheimer 8.5. "New Deal encubierto" (Stiglitz). USD 32.400 invertidos por VSA antes de que el ciudadano produzca
+4. **10 ministerios con 265K empleados** — VisualPolitik 8.5, Bukele 7.0. "Singapur tropicalizado" (VPolitik). Ratio 1:151 más agresivo que Singapur
+5. **Ciclo de vida FCV** — Rallo 7.5, VisualEconomik 8.0. Salario mínimo → USD 463K a los 65, pensión USD 1.408/mes. Números verificables con 5% compuesto
 
-1. **Dividendo igualitario** — Piketty sube +0.8, Acemoglu +0.3. Eliminar el 2x resuelve la crítica de "desigualdad diseñada"
-2. **Roadmap sanciones con condiciones verificables** — Rubio sube +0.7. Ahora hay un roadmap condición → licencia OFAC → inversión
-3. **Starlink + telecoms aliados** — Musk sube +1.1, Rubio +0.7. Conectividad inmediata y proveedores alineados con EE.UU.
-4. **Cuba desconexión** — Rubio +0.7, MCM +0.4. Sección dedicada con cuantificación y plan de desconexión
-5. **Cashflow 20 trimestres** — VisualEconomik +0.3, Dalio +0.3. Modelo trimestral que responde "¿cómo se financian los primeros 5 años?"
+**La brecha inversora persiste pero cambia de naturaleza:** Ya no es "falta de estructura" (el FCV resuelve eso) sino "falta de equipo ejecutor" — como dice Lee Kuan Yew: "Dejen de escribir documentos y encuentren al equipo."
+
+**Top 3 recomendaciones transversales que se repiten:**
+1. **Gobernanza del FCV** — quién lo dirige, cómo se evita captura (Acemoglu, Dalio, LKY, VC Panel)
+2. **Ministerio Digital como núcleo** — 5K es poco, necesita 15-20K (Musk, Tech Giants, VC, Andreessen)
+3. **Seguridad primero** — sin control territorial no hay reforma (María Corina, Rubio, Bukele)
 
 ### Cambios evaluados (28 items integrados)
 
@@ -39,41 +44,42 @@ La integración de 28 recomendaciones cierra brechas significativas. **Ciudadano
 
 ## Scores por Sección
 
-| Sección | Anterior (19p) | Actual (post-integ.) | Delta | Principal impulsor |
-|---------|---------------|---------------------|-------|-------------------|
-| **1. Fundamentos** | 7.0 | 7.2 | +0.2 | Diagnóstico accionable en 1 página + Sprint 0 con 16 acciones + comparables reales (no Noruega, sí Irak/Angola/Georgia) |
-| **2. Motor Financiero** | 6.8 | 7.1 | +0.3 | Citgo posicionado, señalización creíble resuelve chicken-and-egg, cashflow 20 trimestres, flat tax con protección al 82.8% |
-| **3. Ciudadanos** | 6.2 | **6.9** | **+0.7** | Dividendo igualitario elimina crítica de desigualdad diseñada; diáspora co-fundadores con equity; 4 user stories humanizan |
-| **4. Gobernanza** | 7.5 | **7.8** | +0.3 | Fondo Reparación Víctimas, BIT EE.UU., roadmap sanciones OFAC, Cuba desconexión, seguridad territorial con DDR |
-| **5. Transformación** | 6.9 | 7.0 | +0.1 | País startup-friendly (ZEETs → todo el país), Bitcoin mining, fintech USD 50-100B. Mejora marginal — falta ecosistema real |
-| **6. Realidad** | 6.0 | **6.5** | **+0.5** | Starlink conectividad inmediata, banca digital 10 min, telecoms aliados, ICSID + leapfrogging fintech |
-| **7. Ejecución** | 6.2 | 6.5 | +0.3 | Sprints 100 días, stress test post-petróleo USD 20/barril, Guyana como competencia regional |
+| Sección | Eval 2 | Eval 3 | **Eval 4 (post-FCV)** | Delta | Principal impulsor |
+|---------|--------|--------|----------------------|-------|-------------------|
+| **1. Fundamentos** | 7.0 | 7.2 | 7.3 | +0.1 | FCV desde nacimiento refuerza la narrativa de inversión en capital humano |
+| **2. Motor Financiero** | 6.8 | 7.1 | 7.3 | +0.2 | FCV auto-financiado (21% salario) reduce presión sobre presupuesto público. Sección "Cómo se financia todo" |
+| **3. Ciudadanos** | 6.2 | 6.9 | **7.5** | **+0.6** | FCV como contrato social tangible (USD 463K con salario mínimo). Diáspora FCV voluntario. Extranjeros con FCV retirable |
+| **4. Gobernanza (Modelo Estado)** | 7.5 | 7.8 | **8.5** | **+0.7** | FCV unificado, 10 ministerios, voucher con puntos, salud FONASA+Medisave, Estado supervisor, supervisión tripartita |
+| **5. Transformación** | 6.9 | 7.0 | **7.5** | +0.5 | Voucher educativo crea mercado edtech de miles de millones. Colegios como empresas = ecosistema de negocios |
+| **6. Realidad** | 6.0 | 6.5 | **7.0** | +0.5 | FCV Salud reemplaza sistema fragmentado. FCV Vivienda como mecanismo de acceso a vivienda propia |
+| **7. Ejecución** | 6.2 | 6.5 | **7.0** | +0.5 | Ciclo de vida FCV con números verificables. Financiamiento fase por fase desde situación actual |
 
 ---
 
 ## Scores por Perspectiva
 
-| # | Perspectiva | Espectro | Anterior | Actual | Delta | Cita clave |
-|---|------------|----------|----------|--------|-------|-----------|
-| 1 | Milei | Derecha radical | 5.2 | 5.8 | +0.6 | "El flat tax con tasa efectiva 0% para los más pobres es lo menos malo posible. Los anti-intermediarios eliminan 8 oportunidades de rent-seeking. Pero sigue siendo un plan estatal." |
-| 2 | Esc. Austríaca | Derecha | 5.5 | 6.0 | +0.5 | "Starlink es orden espontáneo: un privado resuelve lo que el Estado no pudo en 25 años. El país startup-friendly en año 7 es mejor que 5 ZEETs permanentes. Hayek aprobaría la convergencia." |
-| 3 | Rallo | Centro-derecha | 7.3 | 7.5 | +0.2 | "El cashflow de 20 trimestres cierra la brecha que señalé. La señalización creíble con secuencia de 3 fases es exactamente lo que faltaba. Los comparables reales (Irak, Angola) son más honestos que Noruega." |
-| 4 | MCM | Centro | 7.3 | **7.7** | **+0.4** | "Cuba por fin aparece con cuantificación y plan de desconexión. El Fondo de Reparación a Víctimas con gobernanza ciudadana es justicia real. Las 4 historias — María, Carlos, Valentina, José — son Venezuela." |
-| 5 | Hausmann | Centro | 7.0 | 7.5 | +0.5 | "La señalización creíble con secuencia de 3 fases aborda el chicken-and-egg que identifiqué. Los comparables reales (Kazajistán, Georgia) son los counterfactuals correctos para growth diagnostics." |
-| 6 | LKY | Centro | 7.1 | 7.5 | +0.4 | "Los locks supra-constitucionales con 6 mecanismos son singapurenses en diseño. La compensación top-tier GIC/Temasek para el fondo es exactamente lo que recomendé. Pero sigo sin ver las 50 personas." |
-| 7 | Acemoglu | Centro | 7.0 | 7.3 | +0.3 | "El dividendo igualitario elimina la institución extractiva del 2x. Los anti-intermediarios son inclusivos por diseño. El BIT con EE.UU. crea un mecanismo externo de enforcement — The Narrow Corridor lo requiere." |
-| 8 | Stiglitz | Centro-izquierda | 5.8 | **6.7** | **+0.9** | "El flat tax con tasa efectiva 0% para el 82.8% es la corrección que pedí. El Fondo de Reparación separado del fondo soberano es redistribución justa. Las 4 user stories muestran conciencia social." |
-| 9 | Piketty | Izquierda | 5.2 | **6.0** | **+0.8** | "El dividendo igualitario elimina la desigualdad diseñada del 2x. Los 5 mecanismos anti-concentración de vouchers son lo más progresista del plan financiero. Pero r > g sigue sin abordarse estructuralmente." |
-| 10 | **Rubio** | Geopolítica EE.UU. | 6.0 | **6.7** | **+0.7** | "Ahora hay roadmap de sanciones con condiciones verificables — eso es lo que necesito para trabajar con OFAC. Cuba aparece con plan de desconexión. Telecoms aliados, no Huawei. BIT bilateral. Esto es negociable." |
-| 11 | **Musk** | Tech disruptivo | 5.5 | **6.6** | **+1.1** | "Starlink en 6 meses resuelve conectividad. Bitcoin mining con hidro a USD 0.03/kWh es first principles correcto. Petróleo como activo depreciante con ventana de 10-15 años — por fin alguien lo entiende. Sprints de 100 días es urgencia real." |
-| 12 | **Bukele** | Seguridad-primero | 5.8 | **6.6** | **+0.8** | "Sprint 0 con 16 acciones en 100 días es velocidad real. La seguridad territorial con DDR y Gantt de 7 años es un plan, no un párrafo. Pero seguridad sigue sin ser la Sección 1 del sidebar." |
-| 13 | **Dalio** | Macro inversor | 7.2 | 7.5 | +0.3 | "Cashflow 20 trimestres responde mi pregunta central. La deuda con China ahora tiene equipo negociador con líneas rojas — patrón Sri Lanka identificado. Los locks supra-constitucionales con ciclo anti-captura de 8-12 años son innovadores." |
-| 14 | **Oppenheimer** | Periodismo LATAM | 7.0 | **7.6** | **+0.6** | "¡Ahora hay historias! María en Petare, Carlos el ingeniero PDVSA, Valentina la del bootcamp, José en Miami. Eso es lo que un TikTok necesita. El diagnóstico accionable en 1 página es perfecto para divulgación." |
-| 15 | **VisualPolitik** | Geopolítica divulgativa | 7.3 | 7.5 | +0.2 | "Guyana como competencia regional — eso faltaba. Los comparables reales (Irak, Angola, Kazajistán) son exactamente nuestra metodología. Un video sobre 'Venezuela vs. Guyana: la carrera por la inversión' ya tiene guión." |
-| 16 | **VisualEconomik** | Economía data-driven | 7.0 | 7.3 | +0.3 | "El cashflow de 20 trimestres es lo que pedí. Los números del puente financiero cuadran con los forwards + multilaterales. El stress test a USD 20/barril es honestidad radical — pocos planes lo incluyen." |
-| 17 | **Unicornios LATAM** | Founders ecosistema | 5.5 | **6.6** | **+1.1** | "País startup-friendly en año 7 en vez de 5 ZEETs permanentes — Vélez aprueba. Diáspora como co-fundadores con equity es skin in the game real. Fintech USD 50-100B con 40M sin bancarizar es la oportunidad. Pero sigo sin ver al CTO." |
-| 18 | **Tech Giants** | CEOs Big Tech | 5.3 | **6.1** | **+0.8** | "Starlink + fibra + telecoms aliados es un stack de conectividad real. Los 4 prerrequisitos para la plataforma de inversiones están identificados. ESG net-zero para data centers con hidro. Pero 99.9% uptime sigue sin medirse — es promesa, no dato." |
-| 19 | **VCs** | Inversores globales | 5.8 | **6.8** | **+1.0** | "Citgo posicionado con 4 opciones estratégicas. Cashflow 20 trimestres verificable. BIT + ICSID da protección legal. Invertiría en deuda distressed hoy y en VIN año 5. Pero la página 1 del pitch sigue vacía: no hay equipo." |
+| # | Perspectiva | Espectro | Eval 2 | Eval 3 | **Eval 4 (post-FCV)** | Delta | Cita clave (post-FCV) |
+|---|------------|----------|--------|--------|----------------------|-------|----------------------|
+| 1 | Milei | Derecha radical | 5.2 | 5.8 | **6.0** | +0.2 | "El voucher Friedman y 10 ministerios son correctos. Pero el FCV obligatorio del 21% es un impuesto encubierto. Mises se revuelca." |
+| 2 | Esc. Austríaca | Derecha | 5.5 | 6.0 | **6.5** | +0.5 | "La transición FONASA→Medisave reconoce la superioridad del ahorro individual. Pero porcentajes fijos 8-7-4-2 destruyen información de preferencias — Hayek 1945." |
+| 3 | Rallo | Centro-derecha | 7.3 | 7.5 | **7.5** | — | "Probablemente el modelo de Estado más serio para un país petrolero en crisis. FCV unificado institucionalmente superior a 4 burocracias. Ratio 1:151 necesita plan B." |
+| 4 | MCM | Centro | 7.3 | 7.7 | **7.5** | -0.2 | "FCV es dignidad hecha sistema. USD 463K con salario mínimo. Pero sin seguridad primero no hay nada. ELN en Arco Minero, pranes en cárceles — primero la vida, después la cuenta de ahorro." |
+| 5 | Hausmann | Centro | 7.0 | 7.5 | **7.5** | — | "FCV ataca la binding constraint de capital humano. Pero falta mapa de complejidad económica — ¿dónde están los pasos intermedios entre petróleo y tech?" |
+| 6 | LKY | Centro | 7.1 | 7.5 | **8.0** | +0.5 | "Reconozco mi CPF en este FCV. La transición gradual demuestra que entienden que no se copia PIB USD 65K en país de PIB USD 2K. Pero dejen de escribir y encuentren al equipo." |
+| 7 | Acemoglu | Centro | 7.0 | 7.3 | **7.0** | -0.3 | "La supervisión tripartita es Leviatán Encadenado genuino. Pero ¿quién administra el FCV? Sin gobernanza quirúrgica, se crea una institución potencialmente extractiva con excelente branding." |
+| 8 | Stiglitz | Centro-izquierda | 5.8 | 6.7 | **7.5** | +0.8 | "FCV desde nacimiento es un New Deal encubierto. FONASA con tramos solidarios es progresismo bien ejecutado. Pero flat tax 15% sigue siendo regresivo." |
+| 9 | Piketty | Izquierda | 5.2 | 6.0 | **6.5** | +0.5 | "FCV estructuralmente igualitario — cada ciudadano recibe lo mismo desde nacimiento. Pero flat tax = cáncer distributivo. Falta impuesto patrimonio." |
+| 10 | **Rubio** | Geopolítica EE.UU. | 6.0 | 6.7 | **7.0** | +0.3 | "Separación petróleo/Estado elimina herramienta de control autoritario. FFAA despolitizadas. Pero el plan asume un Estado que no existe — sin condiciones políticas cumplidas, no hay licencias OFAC." |
+| 11 | **Musk** | Tech disruptivo | 5.5 | 6.6 | **7.0** | +0.4 | "FCV como una app es exactamente como debería funcionar. Voucher educativo = App Store de la educación. Pero el Ministerio Digital con 5K debería ser 15K+ ingenieros." |
+| 12 | **Bukele** | Seguridad-primero | 5.8 | 6.6 | **7.0** | +0.4 | "34→10 ministerios es correcto. Pero demasiada gradualidad — 12 años para FCV completo. ¿Dónde está la mano dura contra colectivos? Necesito resultados visibles en 90 días." |
+| 13 | **Dalio** | Macro inversor | 7.2 | 7.5 | **8.0** | +0.5 | "FCV es el mejor mecanismo anti-ciclo populista visto en una reconstrucción post-colapso. Cuando el ciudadano tiene USD 463K en su cuenta, NO vota por un populista. Vincular reducción a trigger de empleo." |
+| 14 | **Oppenheimer** | Periodismo LATAM | 7.0 | 7.6 | **8.5** | +0.9 | "El FCV como contrato social tangible — USD 32.400 invertidos por VSA en cada niño — es la narrativa más poderosa del plan. Colegios como ecosistema de negocios es innovación LATAM. Ahora falta el alma." |
+| 15 | **VisualPolitik** | Geopolítica divulg. | 7.3 | 7.5 | **8.5** | +1.0 | "Separación Estado/VSA es lo que funciona. FCV = CPF tropicalizado. 10 ministerios = Singapur puro. Pero si la digitalización falla, el ratio 1:151 tumba el modelo. Plan B." |
+| 16 | **VisualEconomik** | Economía data-driven | 7.0 | 7.3 | **8.0** | +0.7 | "Los números del FCV cuadran. USD 155K contribuidos → USD 463K por interés compuesto. El financiamiento fase por fase es riguroso. Pero faltan los primeros 36 meses en detalle." |
+| 17 | **Unicornios** | Founders ecosistema | 5.5 | 6.6 | **7.5** | +0.9 | "Voucher educativo como marketplace = Rappi de la educación. FCV desde nacimiento = UX de producto que Nubank celebra. Falta monotributo digital para el 60% informal." |
+| 18 | **Tech Giants** | CEOs Big Tech | 5.3 | 6.1 | **6.5** | +0.4 | "FCV como plataforma digital + Estado Estonia es el entorno que necesitamos. Pero cero mención a cables submarinos, ley de datos, ni SLA de energía para data centers." |
+| 19 | **VCs** | Inversores globales | 5.8 | 6.8 | **7.0** | +0.2 | "FCV como fintech soberana = USD 10-20B valuación. Asset pool de USD 30B/año necesita gestión profesional. Separar FCV como entidad tech independiente con CTO de clase mundial." |
+| 20 | **Gerver Torres** | Centro (ordoliberal) | — | — | **8.5** | NUEVA | "FCV es superior a lo que propusimos en 'Un Sueño para Venezuela'. Unifica pensiones, salud, vivienda y educación con propiedad del trabajador. Economía social de mercado en su mejor expresión." |
 
 ---
 

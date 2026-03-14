@@ -6,6 +6,27 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
 
 ---
 
+## [1.7.0] — 2026-03-14
+
+### Cambiado — Re-evaluacion 19 Perspectivas Post-Integracion
+- **evaluacion-perspectivas.md**: reescrito completo con scores post-integracion de 28 recomendaciones
+- Score: **6.8 → 7.0/10** (+3%)
+- Ciudadanos mayor salto: +0.7 (dividendo igualitario, co-fundadores, user stories)
+- Realidad sube +0.5 (Starlink, banca digital, telecoms aliados)
+- Brecha inversora se reduce de ~1.5 a ~1.1 puntos
+- 7 de 10 puntos ciegos resueltos (todos documentales)
+- 5 puntos ciegos pendientes son operativos (equipo, MVP, datos terreno)
+- Hallazgo: techo documental alcanzado — siguiente paso es organizacion + producto
+- **TODO.md**: actualizado — 44 completados, 5 pendientes
+- **README.md**: score actualizado a 7.0/10
+
+### Estadisticas
+- **768 documentos** en el indice de busqueda
+- **~500 lineas** reescritas en evaluacion-perspectivas.md
+- **Build**: 0 errores
+
+---
+
 ## [1.6.0] — 2026-03-14
 
 ### Anadido — 28 Recomendaciones de Evaluacion Integradas

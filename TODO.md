@@ -1,12 +1,13 @@
 # TODO — Venezuela S.A.
 
 > Registro centralizado de pendientes. Actualizar conforme se resuelvan.
-> Score actual: **6.8/10** (19 perspectivas). Meta: **8.0/10**.
-> Brecha clave: académico 7.0+ vs. inversor 5.3-5.8.
+> Score actual: **7.0/10** (19 perspectivas, post-integración de 28 recomendaciones).
+> Meta: **8.0/10**.
+> Brecha clave: analítico 7.4 vs. inversor 6.3 (~1.1 puntos). Techo documental alcanzado.
 
 ---
 
-## PRIORIDAD CRÍTICA (Score inversor < 6.0)
+## PRIORIDAD CRÍTICA
 
 | # | Tarea | Origen | Archivo | Estado |
 |---|-------|--------|---------|--------|
@@ -37,6 +38,7 @@
 
 | # | Tarea | Archivo | Fecha |
 |---|-------|---------|-------|
+| C44 | Re-evaluación 19 perspectivas post-integración (6.8→7.0) | `07-ejecucion/evaluacion-perspectivas.md` (reescrito) | 2026-03-14 |
 | C1 | Cashflow primeros 20 trimestres | `02-motor-financiero/cashflow-20-trimestres.md` | 2026-03-13 |
 | C2 | Roadmap de sanciones con condiciones verificables | `04-gobernanza/roadmap-sanciones.md` | 2026-03-13 |
 | C3 | Cuba: desconexión del aparato de seguridad | `04-gobernanza/cuba-desconexion.md` | 2026-03-13 |
@@ -83,6 +85,7 @@
 
 ---
 
-*5 pendientes (3 operativos + 1 research + 1 diferido) | 43 completados*
-*Build: 769 documentos, sin errores*
+*5 pendientes (1 sidebar + 2 operativos + 1 research + 1 diferido) | 44 completados*
+*Build: 768 documentos, sin errores*
+*Score: 7.0/10 (meta 8.0). Techo documental alcanzado — siguiente paso es organización.*
 *Última actualización: 2026-03-14*

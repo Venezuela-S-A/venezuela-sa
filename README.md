@@ -77,7 +77,7 @@ Venezuela desvio **USD 300.000+ M** via FONDEN entre 2005-2015. Este plan mapea 
 
 ### Evaluacion multi-perspectiva
 
-El plan ha sido evaluado por un panel de **19 perspectivas** (9 ideologicas + 10 operativas/inversoras) y **14 expertos de dominio**. Score actual: **6.8/10** — con fortalezas reconocidas en anticorrupcion (7.5) y transparencia, y debilidades identificadas en condiciones de inversion (5.3-5.8). 43 de 48 recomendaciones ya integradas.
+El plan ha sido evaluado por un panel de **19 perspectivas** (9 ideologicas + 10 operativas/inversoras) y **14 expertos de dominio**. Score actual: **7.0/10** — con fortalezas reconocidas en anticorrupcion (7.8) y transparencia, y debilidades identificadas en condiciones de inversion (6.1-6.8). 44 de 49 recomendaciones integradas. Techo documental alcanzado — siguiente paso es equipo + producto.
 
 Ademas, el script `skills/evaluate.sh` envia cualquier seccion a **7 IAs de frontera** (GPT-5.2, Claude Opus 4.6, Gemini 3.1, DeepSeek V3.2, Grok 4.20, Qwen 3.5, Mistral Large) en paralelo para evaluacion independiente.
 
@@ -151,7 +151,7 @@ Venezuela diverted **USD 300B+** via FONDEN between 2005-2015. This plan maps **
 
 ### Multi-perspective evaluation
 
-Evaluated by a panel of **19 perspectives** (9 ideological + 10 operational/investor) and **14 domain experts**. Current score: **6.8/10** — strong on anti-corruption (7.5) and transparency, with identified weaknesses in investment conditions (5.3-5.8). 43 of 48 recommendations already integrated.
+Evaluated by a panel of **19 perspectives** (9 ideological + 10 operational/investor) and **14 domain experts**. Current score: **7.0/10** — strong on anti-corruption (7.5) and transparency, with identified weaknesses in investment conditions (6.1-6.8). 44 of 49 recommendations integrated. Document ceiling reached — next step is team + product.
 
 ### Model philosophy
 

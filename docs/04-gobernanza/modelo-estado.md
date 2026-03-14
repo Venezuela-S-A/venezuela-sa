@@ -148,6 +148,24 @@ El FCV es **propiedad del trabajador**, no del Estado. Si muere antes de jubilar
 **Esto NO es una pensión estatal que muere con el jubilado.** Es patrimonio personal heredable. En el sistema actual (IVSS), cuando el pensionado muere, la pensión desaparece. En el FCV, el ahorro de toda una vida pasa a la siguiente generación. [Singapur CPF](https://www.cpf.gov.sg/) funciona exactamente así — el saldo es del ciudadano, no del gobierno.
 :::
 
+#### Deudas y seguros: protección integrada al FCV
+
+Toda deuda vinculada al FCV (crédito hipotecario vía Subcuenta Vivienda, crédito educativo vía Subcuenta Educación) incluye **seguro obligatorio** incorporado:
+
+| Tipo de seguro | Qué cubre | Cómo se paga | Qué pasa si ocurre |
+|---------------|-----------|-------------|---------------------|
+| **Seguro de cesantía** | Si pierdes el empleo, las cuotas de deudas FCV se congelan por 3-6 meses | Incluido en la Subcuenta Cesantía (2%) | Las cuotas se pausan automáticamente. La Subcuenta Cesantía cubre el mínimo. Sin penalización ni reporte negativo |
+| **Seguro de vida** | Si el titular muere, la deuda se cancela completamente | Prima incluida en la tasa del crédito (~0.3-0.5% adicional) | **Deuda = cero.** La familia hereda la vivienda/activo libre de deuda + el saldo restante del FCV |
+| **Seguro de invalidez** | Si el titular queda incapacitado permanentemente | Prima incluida en la tasa del crédito | Deuda se cancela. FCV sigue generando retornos. Subcuenta Salud cubre tratamiento |
+
+**Ejemplo concreto:** Un trabajador compra casa con Subcuenta Vivienda + crédito hipotecario. A los 40 años muere en un accidente. Resultado:
+- Hipoteca → **cancelada por el seguro de vida** (la familia NO hereda deuda)
+- Casa → **propiedad de la familia** (libre de gravamen)
+- FCV restante → **heredado por beneficiarios** (retiro + salud + educación + cesantía)
+- Hijos menores → siguen recibiendo USD 150/mes de VSA en su FCV + voucher K-12
+
+**Nadie hereda deuda. Solo hereda patrimonio.** El sistema de seguros integrado al FCV garantiza que la muerte o la pérdida de empleo no destruyan a una familia. El costo del seguro es mínimo (~0.3-0.5% en la tasa) porque se distribuye entre millones de contribuyentes — economía de escala.
+
 ```mermaid
 flowchart TB
     FCV["🏦 FONDO CIUDADANO VENEZUELA (FCV)<br/>23% del salario (11% trabajador + 12% empleador)<br/>UNA cuenta, UNA institución, 5 subcuentas"]

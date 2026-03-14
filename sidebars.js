@@ -83,6 +83,7 @@ const sidebars = {
       type: "category",
       label: "📊 Ejecución y Proyecciones",
       items: [
+        "07-ejecucion/kpis-activacion",
         "07-ejecucion/timeline",
         "07-ejecucion/proyecciones",
         "07-ejecucion/riesgos",

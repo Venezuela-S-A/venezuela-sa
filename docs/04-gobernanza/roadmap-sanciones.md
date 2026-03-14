@@ -61,8 +61,8 @@ Esta es la tabla central del documento. Cada fase requiere que la anterior esté
 
 | Fase | Condición verificable | Licencia OFAC esperada | Inversión desbloqueada | Monto estimado | Timeline |
 |------|----------------------|------------------------|------------------------|----------------|----------|
-| **0: Pre-transición** (ahora) | Status quo: EE.UU. controla ventas, Chevron opera | GL 44 expandida a más operadores | Chevron + independientes (Maurel & Prom, Repsol) | **USD 3-5B** | 2026-2027 |
-| **1: Transición + elecciones anunciadas** | Gobierno de transición instalado, cronograma electoral con fecha, observadores invitados | Licencias sectoriales para petróleo upstream | Oil majors JVs (TotalEnergies, Shell, ENI) | **USD 10-20B** | 2027-2028 |
+| **0: Pre-transición** ~~(ahora)~~ **COMPLETADA** | ~~Status quo~~ → [Licencia 46B emitida 14-mar-2026](https://www.infobae.com/venezuela/2026/03/14/eeuu-autorizo-a-las-empresas-estadounidenses-realizar-negocios-con-el-sector-petrolero-venezolano/) | **Licencia 46B: TODAS las empresas de EE.UU. autorizadas** (explotación, comercio, inversión, suministro, transporte, refinación) + oro + fertilizantes | **Todas las empresas estadounidenses** — ya no solo Chevron | **USD 3-5B** (ya en marcha) | **ACTIVA** |
+| **1: Transición + elecciones anunciadas** | Gobierno de transición instalado, cronograma electoral con fecha, observadores invitados | Licencias sectoriales ampliadas (ya parcialmente cubiertas por 46B) | Oil majors JVs (ExxonMobil, ConocoPhillips, TotalEnergies, Shell) | **USD 10-30B** | Próxima fase |
 | **2: Elecciones + presos liberados** | Elecciones celebradas (certificadas por OEA/UE), presos políticos liberados | Licencias amplias para oil & gas (upstream + downstream + gas) | Full upstream, gas natural (LNG), refinerías | **USD 20-30B** | 2028-2030 |
 | **3: Gobierno democrático + reformas** | Gobierno electo operando, reformas judiciales iniciadas, cooperación antinarcóticos | Licencias del sector financiero | Banca internacional, bonos, estructura VIN | **USD 15-25B** | 2030-2032 |
 | **4: Democracia sostenida (2+ años)** | Dos años de gobierno democrático, DDHH verificados, Cuba desconectada | Reducción de lista SDN, licencias tech/services | Tech investment, data centers, VC/PE | **USD 6-16B** | 2032-2034 |
@@ -70,8 +70,8 @@ Esta es la tabla central del documento. Cada fase requiere que la anterior esté
 
 **Total acumulado: USD 74-146B** desbloqueados progresivamente en ~10 años.
 
-:::tip Cada fase genera momentum
-La Fase 0 ya está ocurriendo. Chevron produce, Wright visitó Caracas, hay **USD 5B+** en acuerdos. No se parte de cero. Cada fase exitosa reduce el riesgo percibido y acelera la siguiente.
+:::tip Fase 0 COMPLETADA — Licencia 46B cambia todo (14-mar-2026)
+Ya no es solo Chevron. **Toda empresa estadounidense puede operar en el sector petrolero, de oro y fertilizantes.** La Fase 0 se completó más rápido de lo proyectado. Ahora la carrera es por la Fase 1: elecciones + inversión masiva. Condiciones: contratos bajo ley de EE.UU., disputas en territorio de EE.UU., prohibido involucrar Irán/Corea del Norte/Rusia/Cuba.
 :::
 
 ## Timeline visual

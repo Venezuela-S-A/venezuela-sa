@@ -11,11 +11,43 @@ Desde enero 2026, [Wright declaró](https://abcnews.go.com/US/energy-secretary-w
 |----------|-------------------|--------|
 | EE.UU. controla ventas | Fase de transición, no permanente | Negociar % al Fondo de Inversión Venezuela S.A. |
 | Cuentas controladas por EE.UU. | Es mecanismo anticorrupción temporal | Exigir transparencia ([demócratas propusieron](https://www.aljazeera.com/news/2026/2/12/us-energy-secretary-chris-wright-touts-oil-production-on-venezuela-visit) Transparency Act) |
-| Majors cautelosas | [Bessent: "las grandes no están interesadas aún"](https://www.cnbc.com/2026/01/09/trump-venezuela-oil-executives-white-house-meeting.html) | Comenzar con Chevron + independientes |
+| ~~Majors cautelosas~~ **RESUELTO 14-mar-2026** | [Licencia 46B de OFAC](https://www.infobae.com/venezuela/2026/03/14/eeuu-autorizo-a-las-empresas-estadounidenses-realizar-negocios-con-el-sector-petrolero-venezolano/) autoriza a TODAS las empresas estadounidenses a operar en el sector petrolero | **Barrera eliminada.** Explotar, comerciar, invertir, suministrar — todo autorizado |
 | China USD 10–12B pendientes | [RAND: China puede ser spoiler](https://www.rand.org/pubs/commentary/2026/01/china-could-play-spoiler-in-venezuelas-debt-restructuring.html) | Incluir como comprador diversificado |
 | **Pre-Seed diáspora** | **NO depende de ningún actor anterior** | **Arrancar inmediatamente** |
 
 Wright dijo que elecciones "probablemente" ocurren durante mandato de Trump. Este plan propone: elecciones = condición para transferir control al Fondo de Inversión Venezuela S.A. ciudadano.
+
+---
+
+## Licencia 46B: EE.UU. Abre el Sector Petrolero (14 de marzo de 2026)
+
+:::tip BREAKING — La barrera más grande del plan se acaba de eliminar
+El 14 de marzo de 2026, [OFAC emitió la Licencia 46B](https://www.infobae.com/venezuela/2026/03/14/eeuu-autorizo-a-las-empresas-estadounidenses-realizar-negocios-con-el-sector-petrolero-venezolano/) autorizando a **todas las empresas estadounidenses** a realizar negocios con el sector petrolero venezolano: explotación, comercio, inversión, suministro de materiales, almacenamiento, transporte y refinación. También se autorizó extracción/comercialización de oro y exportación de fertilizantes a EE.UU.
+:::
+
+| Aspecto | Detalle |
+|---------|---------|
+| **Licencia** | 46B de OFAC (Departamento del Tesoro) |
+| **Alcance** | Explotación, comercio, inversión, suministro, almacenamiento, marketing, transporte y refinación de crudo y derivados |
+| **Quién puede operar** | Cualquier empresa estadounidense establecida |
+| **Restricciones** | Prohibido involucrar personas de Irán, Corea del Norte, Rusia o Cuba. Contratos bajo ley de EE.UU. Disputas resueltas en territorio de EE.UU. |
+| **Adicional** | Autorización para extracción/comercialización de oro + exportación de fertilizantes a EE.UU. |
+| **Producción actual** | >1M bpd (+10% crecimiento) |
+| **Cita OFAC** | *"La Administración Trump ha estado cumpliendo rápidamente la promesa de ayudar a restaurar la economía venezolana para beneficio tanto del pueblo estadounidense como del venezolano"* |
+
+### Impacto en el Plan Venezuela S.A.
+
+| Antes de Licencia 46B | Después de Licencia 46B |
+|----------------------|------------------------|
+| Solo Chevron operaba (licencia individual) | **Todas** las empresas de EE.UU. pueden operar |
+| Majors cautelosas (Bessent: "no están interesadas") | Barrera legal eliminada — la decisión es comercial, no regulatoria |
+| Inversión limitada a ~USD 5B (Chevron) | Potencial de USD 30-100B (ExxonMobil, ConocoPhillips, Halliburton, Baker Hughes, Schlumberger) |
+| Oro restringido | Autorizado — Arco Minero puede atraer mineras formales |
+| Fertilizantes bloqueados | Exportación directa a EE.UU. — agro venezolano tiene mercado |
+
+:::danger Lo que esto significa para el timeline
+La Licencia 46B **acelera dramáticamente** la Fase 2 (Seed) del plan. Los contratos forward con empresas estadounidenses ahora son legalmente viables sin licencia individual. La producción puede escalar más rápido porque las empresas de servicios petroleros (Halliburton, Schlumberger, Baker Hughes) pueden operar sin restricciones. **La ventana está abierta — cada día sin ejecutar es un día perdido.**
+:::
 
 ---
 

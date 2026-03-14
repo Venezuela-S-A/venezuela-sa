@@ -78,6 +78,8 @@ title: Referencias
 50. [Al Jazeera, feb. 2026](https://www.aljazeera.com/news/2026/2/12/us-energy-secretary-chris-wright-touts-oil-production-on-venezuela-visit) — Demócratas proponen Venezuela Oil Transparency Act
 51. [CGDev, ene. 2026](https://www.cgdev.org/blog/barreling-blindly-ahead-seizure-venezuelas-oil) — 80% pobreza, ONU 17% solicitud
 52. [Brookings Institution](https://insideclimatenews.org/news/07012026/billions-needed-to-pump-more-venezuela-oil/) — Riesgos políticos
+53. [Infobae, 14-mar-2026](https://www.infobae.com/venezuela/2026/03/14/eeuu-autorizo-a-las-empresas-estadounidenses-realizar-negocios-con-el-sector-petrolero-venezolano/) — **Licencia 46B OFAC: EE.UU. autoriza a TODAS las empresas estadounidenses a operar en sector petrolero venezolano** (explotación, comercio, inversión, suministro, transporte, refinación + oro + fertilizantes)
+54. [El Nacional, 14-mar-2026](https://www.elnacional.com/2026/03/ee-uu-emite-licencia-para-permitir-a-sus-empresas-explotar-y-comercializar-crudo-venezolano/) — Licencia 46B: detalles de alcance y restricciones
 
 ## Reestructuración de Deuda (Comparaciones)
 53. [Argentine debt restructuring — Wikipedia](https://en.wikipedia.org/wiki/Argentine_debt_restructuring) — Haircut 75% NPV, GDP warrants

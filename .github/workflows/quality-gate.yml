@@ -1,0 +1,39 @@
+name: Quality Gate — Plan Venezuela S.A.
+
+on:
+  pull_request:
+    paths:
+      - 'docs/**'
+      - 'CLAUDE.md'
+      - 'i18n/en/docusaurus-plugin-content-docs/**'
+
+jobs:
+  quality-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get diff of docs changes
+        id: diff
+        run: |
+          DIFF=$(git diff origin/${{ github.base_ref }}...HEAD -- docs/ CLAUDE.md | head -500)
+          echo "diff<<EODIFF" >> $GITHUB_OUTPUT
+          echo "$DIFF" >> $GITHUB_OUTPUT
+          echo "EODIFF" >> $GITHUB_OUTPUT
+          LINES=$(echo "$DIFF" | wc -l)
+          echo "lines=$LINES" >> $GITHUB_OUTPUT
+
+      - name: Evaluate with AI Quality Gate
+        if: steps.diff.outputs.lines > 0
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          chmod +x scripts/quality-gate.sh
+          ./scripts/quality-gate.sh
+
+      - name: Build verification
+        run: |
+          npm ci
+          npm run build

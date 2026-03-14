@@ -65,8 +65,9 @@ Oil generates revenue → Hydro generates cheap electricity → BigTech comes fo
 | **Customers** | 40M citizens + 7.9M diaspora + oil majors + BigTech |
 | **Value prop** | Dividends + cheap energy + tax-free zones + return program |
 | **Revenue** | Oil + taxes + gas + tech + tourism + fund returns |
+| **Value proposition** | Citizen Fund (CFV) from birth (retirement+health+housing+education) + cheap energy + education voucher + tax-free zones |
 | **Key resources** | 303B bbl + 18GW hydro + 7.9M diaspora + geography |
-| **Moat** | Cheapest energy in LATAM + reserves #1 + greenfield tech |
+| **Moat** | Cheapest energy in LATAM + reserves #1 + greenfield tech + CFV (Singapore CPF model) |
 
 ---
 

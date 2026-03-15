@@ -105,6 +105,10 @@ No hay que esperar a construir escuelas nuevas. Con **Starlink en cada escuela**
 | Capacitación docente básica en tech | 50.000 maestros formados en herramientas digitales | USD 20-50M | 6-12 meses |
 | **TOTAL SPRINT** | | **USD 400-650M** | |
 
+:::caution Starlink en escuelas no basta — falta conectividad en casa
+Si el estudiante tiene internet en la escuela pero no en casa, no puede practicar, no puede hacer tareas, no puede usar plataformas online fuera de horario escolar. Solución: (1) WiFi comunitario en plazas y centros vecinales (USD 10-20M), (2) planes de datos subsidiados para familias con estudiantes — Tramo A/B del FCV (USD 5-10/mes por familia), (3) contenido offline precargado en tablets (Khan Academy funciona sin internet). La conectividad domiciliaria se activa cuando la formalización supere 40% y haya operadores de telecoms en competencia.
+:::
+
 ### Reforma curricular (Año1-3)
 
 | Componente actual | Problema | Reforma propuesta | Referencia |
@@ -130,6 +134,21 @@ Ningún curriculum, ninguna tablet, ninguna plataforma funciona si el maestro ga
 | **TOTAL** | | | **USD 2,5-4B/ano** | 5-6% del PIB |
 
 **Referencia:** Chile gastó 5,4% del PIB en educación y es el país con mejores resultados PISA en LATAM. Costa Rica gasta 7,4%. Venezuela gasta ~2%. Subir a 5-6% del PIB financia salarios + infraestructura + tech.
+
+### Formar a los formadores: prerrequisito #2
+
+:::danger Sin formadores no hay reforma curricular
+El plan propone coding desde 3er grado, inglés 10 hrs/semana, robótica, STEM. Pero 100.000+ profesores emigraron y los que quedan no saben escribir un if-else. **Antes de reformar el currículo, hay que formar 50.000 docentes en las herramientas del currículo nuevo.**
+:::
+
+| Programa | Duración | Meta | Costo | Aliados |
+|----------|----------|------|-------|---------|
+| Certificación docente en herramientas digitales | 6 meses | 30.000 docentes | USD 50-80M | [Platzi](https://platzi.com/) + [Google for Education](https://edu.google.com/) |
+| Certificación en coding básico para maestros K-12 | 3-6 meses | 10.000 docentes | USD 20-30M | [Code.org](https://code.org/) + [freeCodeCamp](https://www.freecodecamp.org/) |
+| Certificación en inglés funcional (B2+) para docentes | 12 meses | 10.000 docentes | USD 30-50M | [Duolingo](https://www.duolingo.com/) + profesores nativos vía video |
+| **TOTAL Train the Trainers** | **12-18 meses** | **50.000 docentes** | **USD 100-160M** | |
+
+**Secuencia correcta:** (1) Subir salarios → (2) Train the Trainers → (3) Reforma curricular. No al revés.
 
 ---
 
@@ -203,6 +222,10 @@ La UCV, la USB y la ULA formaban ingenieros de nivel mundial en los 80-90. Hoy n
 | **Inversión** | USD 200-500M por campus |
 | **Modelo** | Universidad internacional pone marca + curriculum + profesores. Venezuela pone terreno + infraestructura + incentivos fiscales |
 | **Incentivos** | Exención de impuestos por 10 años para campus universitarios internacionales |
+
+:::tip Online primero, campus después
+Con USD 500M por campus satélite (10K-20K estudiantes), se atiende a 50K-100K personas en 5 años. Con USD 50-80M/año en licencias ilimitadas de plataformas online (Platzi + Coursera + freeCodeCamp + edX), se atiende a **5 millones** de personas desde el Día 1. Propuesta: arrancar con 2 campus satélite (no 5) y redirigir USD 300-600M a una **mega-plataforma online nacional** con acceso gratuito para todo venezolano menor de 30 años. Los campus físicos se agregan cuando los KPIs de empleabilidad online superen el 70%.
+:::
 
 ---
 
@@ -377,7 +400,28 @@ India produce **1,5 millones de ingenieros/año**. Su industria de servicios IT 
 
 ---
 
-## 11. Inversión Requerida
+## 11. VenDev: Marketplace Nacional de Talento Tech
+
+El plan produce developers y técnicos, pero necesita conectarlos con empleo. **VenDev** es la plataforma que cierra el ciclo: educas → certificas → colocas.
+
+| Componente | Detalle |
+|-----------|---------|
+| **Qué es** | Marketplace que conecta developers/técnicos venezolanos con empresas de nearshoring (EE.UU., Europa, LATAM) |
+| **Modelo** | Comisión de colocación 10-15% del primer año de salario |
+| **Propiedad** | Venezuela S.A. como accionista minoritario + operador privado (concurso) |
+| **Credenciales** | Cada graduado tiene badge digital verificable (blockchain/Open Badges) — las empresas validan competencias en 5 segundos |
+| **Meta Año 3** | 5.000 developers colocados/año |
+| **Meta Año 7** | 20.000 developers + 30.000 técnicos colocados/año |
+| **Revenue Año 7** | USD 100-200M/año (20K × USD 1.500 salario promedio × 12 meses × 12% comisión) |
+| **Referencia** | [Turing.com](https://www.turing.com/) (USD 1.1B valuación), [Andela](https://www.andela.com/) (USD 1.5B), [Torre.ai](https://torre.ai/) (LATAM) |
+
+:::tip Sin placement, el ecosistema no genera valor
+Puedes producir 25.000 developers por año, pero si no saben dónde buscar trabajo o las empresas no saben que existen, el talento se pierde. VenDev cierra ese gap. Es la diferencia entre "tenemos developers" y "tenemos una industria de servicios tech de USD 5-10B/año."
+:::
+
+---
+
+## 12. Inversión Requerida
 
 | Componente | Inversión (10 años) | Revenue asociado | ROI |
 |------------|---------------------|-----------------|-----|
@@ -394,7 +438,7 @@ USD 23-37B en 10 años = USD 2,3-3,7B/ano. Eso es **3-5% del PIB proyectado** (U
 
 ---
 
-## 12. Comparables Internacionales
+## 13. Comparables Internacionales
 
 | País | Modelo | Resultado | Lección para Venezuela |
 |------|--------|-----------|----------------------|
@@ -410,7 +454,7 @@ Fuentes: [IIT System](https://www.iitsystem.ac.in/); [Rwanda ICT Chamber](https:
 
 ---
 
-## 13. Riesgos y Mitigaciones
+## 14. Riesgos y Mitigaciones
 
 | # | Riesgo | Prob. | Impacto | Mitigación |
 |---|--------|-------|---------|-----------|
@@ -425,7 +469,7 @@ Fuentes: [IIT System](https://www.iitsystem.ac.in/); [Rwanda ICT Chamber](https:
 
 ---
 
-## 14. Resumen Ejecutivo
+## 15. Resumen Ejecutivo
 
 | Parámetro | Valor |
 |-----------|-------|

@@ -217,6 +217,10 @@ Cada KPI se mide con frecuencia y fuente definida:
 | Cuentas FCV activas | Tiempo real | Ente administrador FCV | App FCV del ciudadano |
 | Fondo de Inversión VSA | Trimestral | Auditoría externa (Santiago Principles) | Dashboard público |
 | Colegios autónomos (%) | Semestral | Agencia de Calidad Educativa | Portal educación |
+| Graduados bootcamp empleados en 6 meses | Trimestral | Bootcamps (reporte de colocación) | Dashboard público |
+| Salario promedio primer empleo tech | Trimestral | Plataforma VenDev + bootcamps | Dashboard público |
+| Estudiantes K-12 con inglés B2+ | Anual | Examen estandarizado nacional | Portal educación |
+| Retención de talento tech (% que se queda) | Anual | Registros FCV + migración | Dashboard público |
 
 :::tip Transparencia = accountability
 **Todo KPI es público, en tiempo real, auditable.** Si un KPI no se cumple, no se activa la siguiente fase — punto. No hay "decreto presidencial que acelere fases." No hay "situación especial que justifique saltarse condiciones." **Las condiciones son las condiciones.** Si Venezuela puede publicar un dashboard de producción petrolera en tiempo real, puede publicar uno de pobreza.

@@ -306,17 +306,17 @@ function TabFinanciero() {
   const [precio, setPrecio] = useState(60);
   const [prodFinal, setProdFinal] = useState(3.0);
   const [retornoFondo, setRetornoFondo] = useState(5.5);
-  const [transicion, setTransicion] = useState(2); // 1=rapida, 2=media, 3=lenta
+  const [transición, setTransición] = useState(2); // 1=rápida, 2=media, 3=lenta
   const [tasaImp, setTasaImp] = useState(18);
 
-  const transLabels = { 1: "Rapida", 2: "Media", 3: "Lenta" };
+  const transLabels = { 1: "Rápida", 2: "Media", 3: "Lenta" };
   const pctAlFondoByYear = useCallback(
     (year) => {
-      if (transicion === 1) return Math.min(90, 50 + year * 4);
-      if (transicion === 2) return Math.min(80, 30 + year * 3.5);
+      if (transición === 1) return Math.min(90, 50 + year * 4);
+      if (transición === 2) return Math.min(80, 30 + year * 3.5);
       return Math.min(70, 15 + year * 3);
     },
-    [transicion],
+    [transición],
   );
 
   const data = useMemo(() => {
@@ -349,16 +349,16 @@ function TabFinanciero() {
         gdp: gdpEstimate,
       };
     });
-  }, [precio, prodFinal, retornoFondo, transicion, tasaImp, pctAlFondoByYear]);
+  }, [precio, prodFinal, retornoFondo, transición, tasaImp, pctAlFondoByYear]);
 
   const finalFund = data[data.length - 1]?.fundAccum || 0;
 
   return (
     <div>
       <p style={{ color: C.textLight, fontSize: 14, marginBottom: 20 }}>
-        Modela el flujo de caja de Venezuela S.A. a 15 anos. Ajusta los
+        Modela el flujo de caja de Venezuela S.A. a 15 años. Ajusta los
         supuestos y observa como cambian los resultados. Base: USD 60/barril, 3M
-        bpd en 15 anos (Rystad Energy).
+        bpd en 15 años (Rystad Energy).
       </p>
 
       <div
@@ -374,7 +374,7 @@ function TabFinanciero() {
             Supuestos
           </h4>
           <SliderInput
-            label="Precio petroleo"
+            label="Precio petróleo"
             min={40}
             max={120}
             step={5}
@@ -384,7 +384,7 @@ function TabFinanciero() {
             suffix="/bbl"
           />
           <SliderInput
-            label="Produccion ano 15"
+            label="Producción año 15"
             min={1.5}
             max={3.5}
             step={0.1}
@@ -411,10 +411,10 @@ function TabFinanciero() {
               }}
             >
               <span style={{ fontWeight: 600, color: C.text }}>
-                Transicion al fondo
+                Transición al fondo
               </span>
               <span style={{ fontWeight: 700, color: C.blue }}>
-                {transLabels[transicion]}
+                {transLabels[transición]}
               </span>
             </div>
             <input
@@ -422,8 +422,8 @@ function TabFinanciero() {
               min={1}
               max={3}
               step={1}
-              value={transicion}
-              onChange={(e) => setTransicion(Number(e.target.value))}
+              value={transición}
+              onChange={(e) => setTransición(Number(e.target.value))}
               style={{ width: "100%", accentColor: C.blue }}
             />
             <div
@@ -434,7 +434,7 @@ function TabFinanciero() {
                 color: C.textLight,
               }}
             >
-              <span>Rapida</span>
+              <span>Rápida</span>
               <span>Media</span>
               <span>Lenta</span>
             </div>
@@ -460,17 +460,17 @@ function TabFinanciero() {
             }}
           >
             <BigNumber
-              label="Fondo Ano 15"
+              label="Fondo Año 15"
               value={fmtUSD(finalFund)}
               color={C.green}
             />
             <BigNumber
-              label="PIB Ano 15"
+              label="PIB Año 15"
               value={fmtUSD(data[data.length - 1]?.gdp || 0)}
               color={C.blue}
             />
             <BigNumber
-              label="Ingreso petrolero Ano 15"
+              label="Ingreso petrolero Año 15"
               value={fmtUSD(data[data.length - 1]?.oilRev || 0)}
               color={C.gold}
             />
@@ -479,7 +479,7 @@ function TabFinanciero() {
           <SimpleTable
             headers={[
               "Ano",
-              "Produccion",
+              "Producción",
               "Ingreso petrolero",
               "Ingreso fiscal",
               "Al fondo",
@@ -487,7 +487,7 @@ function TabFinanciero() {
               "PIB est.",
             ]}
             rows={data.map((d) => [
-              `Ano ${d.year}`,
+              `Año ${d.year}`,
               `${d.prod}M bpd`,
               fmtUSD(d.oilRev),
               fmtUSD(d.taxRev),
@@ -500,7 +500,7 @@ function TabFinanciero() {
           <SectionTitle>Crecimiento del Fondo</SectionTitle>
           <BarChart
             data={data.map((d) => ({
-              label: `Ano ${d.year}`,
+              label: `Año ${d.year}`,
               value: d.fundAccum,
               color: d.year <= 5 ? C.red : d.year <= 10 ? C.blue : C.green,
             }))}
@@ -517,11 +517,11 @@ function TabFinanciero() {
 // ============================================================
 
 const CONDITIONS = [
-  { name: "Transicion politica pacifica", prob: 0.7 },
+  { name: "Transición política pacifica", prob: 0.7 },
   { name: "Brent >= USD 70-80/bbl", prob: 0.75 },
   { name: "Ramp-up a 3M bpd (Rystad)", prob: 0.55 },
-  { name: "Seguridad juridica (rule of law)", prob: 0.5 },
-  { name: "Formalizacion minera", prob: 0.25 },
+  { name: "Seguridad jurídica (rule of law)", prob: 0.5 },
+  { name: "Formalización minera", prob: 0.25 },
   { name: "Guri rehabilitado", prob: 0.5 },
   { name: "Acuerdos de gas (Dragon+LNG)", prob: 0.65 },
   { name: "Demanda global data centers", prob: 0.75 },
@@ -563,7 +563,7 @@ const SCENARIOS = [
     color: C.green,
   },
   {
-    name: "El Sueno",
+    name: "El Sueño",
     minC: 9,
     maxC: 10,
     gdpLow: 450,
@@ -629,8 +629,8 @@ function TabMonteCarlo() {
   return (
     <div>
       <p style={{ color: C.textLight, fontSize: 14, marginBottom: 20 }}>
-        Simulacion probabilistica: 10 condiciones de "El Sueno", cada una con su
-        probabilidad real. Corre miles de simulaciones para ver la distribucion
+        Simulación probabilística: 10 condiciónes de "El Sueño", cada una con su
+        probabilidad real. Corre miles de simulaciónes para ver la distribución
         de resultados.
       </p>
 
@@ -687,15 +687,15 @@ function TabMonteCarlo() {
       {/* Conditions table */}
       <Card style={{ marginBottom: 24 }}>
         <h4 style={{ margin: "0 0 12px", color: C.blue, fontWeight: 700 }}>
-          10 Condiciones del Sueno
+          10 Condiciónes del Sueño
         </h4>
         <SimpleTable
           compact
           headers={[
             "#",
-            "Condicion",
+            "Condición",
             "Probabilidad",
-            results ? "Se cumplio" : "",
+            results ? "Se cumplió" : "",
           ]}
           rows={CONDITIONS.map((c, i) => [
             `${i + 1}`,
@@ -719,18 +719,18 @@ function TabMonteCarlo() {
             }}
           >
             <BigNumber
-              label="PIB esperado (Ano 15)"
+              label="PIB esperado (Año 15)"
               value={`USD ${results.expectedGDP.toFixed(0)}B`}
               color={C.blue}
             />
             <BigNumber
               label="Prob. Plan Base o mejor"
-              value={`${(((results.scenarioCounts["Plan Base"] + results.scenarioCounts["Muy favorable"] + results.scenarioCounts["El Sueno"]) / results.numSims) * 100).toFixed(1)}%`}
+              value={`${(((results.scenarioCounts["Plan Base"] + results.scenarioCounts["Muy favorable"] + results.scenarioCounts["El Sueño"]) / results.numSims) * 100).toFixed(1)}%`}
               color={C.green}
             />
             <BigNumber
-              label="Prob. El Sueno"
-              value={`${((results.scenarioCounts["El Sueno"] / results.numSims) * 100).toFixed(1)}%`}
+              label="Prob. El Sueño"
+              value={`${((results.scenarioCounts["El Sueño"] / results.numSims) * 100).toFixed(1)}%`}
               color={C.gold}
             />
           </div>
@@ -825,13 +825,13 @@ function TabCiudadano() {
   const [crecSalarial, setCrecSalarial] = useState(3);
 
   const fcvData = useMemo(() => {
-    // Subcuentas: Retiro 8%, Salud 7%, Vivienda 4%, Educacion 2%, Cesantia 2% = 23%
+    // Subcuentas: Retiro 8%, Salud 7%, Vivienda 4%, Educación 2%, Cesantia 2% = 23%
     const rates = {
       retiro: 0.08,
       salud: 0.07,
       vivienda: 0.04,
-      educacion: 0.02,
-      cesantia: 0.02,
+      educación: 0.02,
+      cesantía: 0.02,
     };
     const totalRate = 0.23;
     const vsaContrib = 150; // USD/month for child (up to 18), as placeholder VSA contributes from fund
@@ -843,8 +843,8 @@ function TabCiudadano() {
       retiro: 0,
       salud: 0,
       vivienda: 0,
-      educacion: 0,
-      cesantia: 0,
+      educación: 0,
+      cesantía: 0,
       total: 0,
     };
     const milestones = [];
@@ -893,9 +893,9 @@ function TabCiudadano() {
   return (
     <div>
       <p style={{ color: C.textLight, fontSize: 14, marginBottom: 20 }}>
-        Calcula tu Fondo Ciudadano Venezuela (FCV) personal. Modelo tipo
+        Calcula tu Fondo Ciudadaño Venezuela (FCV) personal. Modelo tipo
         Singapur CPF: 5 subcuentas (Retiro 8% + Salud 7% + Vivienda 4% +
-        Educacion 2% + Cesantia 2% = 23% del salario). Retorno anual compuesto:
+        Educación 2% + Cesantia 2% = 23% del salario). Retorno anual compuesto:
         5,5%.
       </p>
 
@@ -918,7 +918,7 @@ function TabCiudadano() {
             step={1}
             value={edad}
             onChange={setEdad}
-            suffix=" anos"
+            suffix=" años"
           />
           <SliderInput
             label="Salario mensual"
@@ -962,7 +962,7 @@ function TabCiudadano() {
               { name: "Retiro", pct: "8%", color: C.blue },
               { name: "Salud", pct: "7%", color: C.green },
               { name: "Vivienda", pct: "4%", color: C.gold },
-              { name: "Educacion", pct: "2%", color: "#7B1FA2" },
+              { name: "Educación", pct: "2%", color: "#7B1FA2" },
               { name: "Cesantia", pct: "2%", color: C.red },
             ].map((s) => (
               <div
@@ -1021,7 +1021,7 @@ function TabCiudadano() {
               label="FCV total a los 65"
               value={fmtUSD(fcvData.totalAccum)}
               color={C.green}
-              sub={`${fcvData.yearsToRetire} anos contribuyendo`}
+              sub={`${fcvData.yearsToRetire} años contribuyendo`}
             />
             <BigNumber
               label="Pension mensual estimada"
@@ -1089,13 +1089,13 @@ function TabCiudadano() {
                 color: C.gold,
               },
               {
-                label: "Educacion (2%)",
-                value: fcvData.accum.educacion,
+                label: "Educación (2%)",
+                value: fcvData.accum.educación,
                 color: "#7B1FA2",
               },
               {
                 label: "Cesantia (2%)",
-                value: fcvData.accum.cesantia,
+                value: fcvData.accum.cesantía,
                 color: C.red,
               },
             ]}
@@ -1131,12 +1131,12 @@ const WAR_GAMES = {
     steps: [
       {
         id: "start",
-        text: "China propone: acceso exclusivo a 3 zonas del Arco Minero por 30 anos a cambio de condonar USD 20B de deuda.",
+        text: "China propone: acceso exclusivo a 3 zonas del Arco Minero por 30 años a cambio de condonar USD 20B de deuda.",
         options: [
           {
             text: "Aceptar exclusividad",
-            give: "Acceso exclusivo 30 anos a 3 zonas mineras",
-            get: "Condonacion USD 20B deuda",
+            give: "Acceso exclusivo 30 años a 3 zonas mineras",
+            get: "Condonación USD 20B deuda",
             risk: "Alto",
             riskColor: C.red,
             next: "china_accept",
@@ -1145,7 +1145,7 @@ const WAR_GAMES = {
           {
             text: "Contraproponer: JV con equity para Venezuela S.A.",
             give: "49% equity en JVs, acceso no-exclusivo a 2 zonas",
-            get: "Reestructuracion USD 15B + transferencia tecnologica",
+            get: "Reestructuración USD 15B + transferencia tecnologica",
             risk: "Medio",
             riskColor: C.gold,
             next: "china_counter",
@@ -1153,8 +1153,8 @@ const WAR_GAMES = {
           },
           {
             text: "Rechazar y ofrecer gas en su lugar",
-            give: "Contratos de suministro GNL 15 anos",
-            get: "Reestructuracion USD 10B",
+            give: "Contratos de suministro GNL 15 años",
+            get: "Reestructuración USD 10B",
             risk: "Bajo",
             riskColor: C.green,
             next: "china_gas",
@@ -1164,7 +1164,7 @@ const WAR_GAMES = {
       },
       {
         id: "china_accept",
-        text: "China acepta rapidamente (mala senal). EE.UU. reacciona negativamente, condiciona rollback de sanciones. Los bonistas occidentales se alarman.",
+        text: "China acepta rápidamente (mala señal). EE.UU. reacciona negativamente, condicióna rollback de sanciones. Los bonistas occidentales se alarman.",
         options: [
           {
             text: "Renegociar para incluir a EE.UU.",
@@ -1177,7 +1177,7 @@ const WAR_GAMES = {
           },
           {
             text: "Mantener acuerdo con China",
-            give: "Relacion con EE.UU. danada",
+            give: "Relacion con EE.UU. dañada",
             get: "USD 20B condonados, pero sanciones persisten",
             risk: "Muy alto",
             riskColor: C.red,
@@ -1191,8 +1191,8 @@ const WAR_GAMES = {
         text: "China contraoferta: JV 51/49 (China mayoritario) con transferencia tecnologica parcial y USD 12B reestructurados.",
         options: [
           {
-            text: "Aceptar 51/49 con clausula de reversion a 10 anos",
-            give: "51% control chino por 10 anos, luego 50/50",
+            text: "Aceptar 51/49 con cláusula de reversión a 10 años",
+            give: "51% control chino por 10 años, luego 50/50",
             get: "USD 12B reestructurados + tech transfer + empleos",
             risk: "Medio",
             riskColor: C.gold,
@@ -1201,7 +1201,7 @@ const WAR_GAMES = {
           },
           {
             text: "Insistir en 50/50 desde el inicio",
-            give: "Posible quiebre de negociacion",
+            give: "Posible quiebre de negociación",
             get: "Control igualitario si aceptan",
             risk: "Medio-Alto",
             riskColor: C.gold,
@@ -1212,11 +1212,11 @@ const WAR_GAMES = {
       },
       {
         id: "china_gas",
-        text: "China muestra interes moderado en gas pero insiste en acceso minero. Ofrece USD 8B en reestructuracion por gas + 1 zona minera no-exclusiva.",
+        text: "China muestra interes moderado en gas pero insiste en acceso minero. Ofrece USD 8B en reestructuración por gas + 1 zona minera no-exclusiva.",
         options: [
           {
             text: "Aceptar gas + 1 zona no-exclusiva",
-            give: "GNL 15 anos + 1 zona minera compartida",
+            give: "GNL 15 años + 1 zona minera compartida",
             get: "USD 8B reestructurados + relacion balanceada",
             risk: "Bajo",
             riskColor: C.green,
@@ -1240,13 +1240,13 @@ const WAR_GAMES = {
         title: "Resultado: Desfavorable",
         score: -4,
         color: C.red,
-        text: "Cediste demasiado a China. EE.UU. mantiene sanciones, inversionistas occidentales huyen, y China controla activos estrategicos. Leccion: la exclusividad a 30 anos a una potencia sin contrapeso es una trampa.",
+        text: "Cediste demasiado a China. EE.UU. mantiene sanciones, inversiónistas occidentales huyen, y China controla activos estrategicos. Leccion: la exclusividad a 30 años a una potencia sin contrapeso es una trampa.",
       },
       end_mediocre: {
         title: "Resultado: Rescate parcial",
         score: -1,
         color: "#E57373",
-        text: "Lograste salvar la relacion con EE.UU. pero China queda insatisfecha y la renegociacion costo credibilidad. USD 10B netos reestructurados, pero futuras negociaciones seran mas dificiles.",
+        text: "Lograste salvar la relacion con EE.UU. pero China queda insatisfecha y la renegociación costo credibilidad. USD 10B netos reestructurados, pero futuras negociaciónes seran mas dificiles.",
       },
       end_ok: {
         title: "Resultado: Aceptable",
@@ -1264,7 +1264,7 @@ const WAR_GAMES = {
         title: "Resultado: Favorable",
         score: 4,
         color: C.green,
-        text: "JV 51/49 con reversion + tech transfer + USD 12B reestructurados. China obtiene acceso pero con limites, Venezuela S.A. obtiene capital + tecnologia + empleo. La clausula de reversion protege soberania a largo plazo.",
+        text: "JV 51/49 con reversión + tech transfer + USD 12B reestructurados. China obtiene acceso pero con limites, Venezuela S.A. obtiene capital + tecnologia + empleo. La cláusula de reversión protege soberania a largo plazo.",
       },
       end_bueno_plus: {
         title: "Resultado: Muy Favorable (si no quiebra)",
@@ -1275,7 +1275,7 @@ const WAR_GAMES = {
     },
   },
   bonistas: {
-    title: "Bonistas ICSID: Reestructuracion de Deuda",
+    title: "Bonistas ICSID: Reestructuración de Deuda",
     description:
       "Los bonistas internacionales (USD 60B en bonos defaulteados + intereses) demandan pago via ICSID. Venezuela S.A. negocia un acuerdo.",
     steps: [
@@ -1285,7 +1285,7 @@ const WAR_GAMES = {
         options: [
           {
             text: "Ofrecer 30 centavos por dolar + bonos petroleros",
-            give: "USD 18B cash + bonos indexados a produccion petrolera",
+            give: "USD 18B cash + bonos indexados a producción petrolera",
             get: "Cierre del litigio, liberacion de activos",
             risk: "Medio",
             riskColor: C.gold,
@@ -1295,16 +1295,16 @@ const WAR_GAMES = {
           {
             text: "Proponer swap deuda-por-equity en Venezuela S.A.",
             give: "Participacion minoritaria en infraestructura via bonos convertibles",
-            get: "Reduccion de deuda a USD 25B + bonistas como socios alineados",
+            get: "Reducción de deuda a USD 25B + bonistas como socios alineados",
             risk: "Medio-Alto",
             riskColor: C.gold,
             next: "bonistas_swap",
             score: 2,
           },
           {
-            text: "Pedir mediacion FMI con haircut del 65%",
+            text: "Pedir mediación FMI con haircut del 65%",
             give: "USD 21B (35% del total)",
-            get: "Legitimidad internacional + acceso a credito",
+            get: "Legitimidad internacional + acceso a crédito",
             risk: "Medio",
             riskColor: C.gold,
             next: "bonistas_fmi",
@@ -1314,11 +1314,11 @@ const WAR_GAMES = {
       },
       {
         id: "bonistas_30",
-        text: "Los bonistas rechazan 30 centavos pero muestran interes en bonos petroleros. Contraofrecen 45 centavos + bonos con floor de produccion.",
+        text: "Los bonistas rechazan 30 centavos pero muestran interes en bonos petroleros. Contraofrecen 45 centavos + bonos con floor de producción.",
         options: [
           {
             text: "Aceptar 45 centavos + bonos petroleros",
-            give: "USD 27B + bonos indexados 5 anos",
+            give: "USD 27B + bonos indexados 5 años",
             get: "Cierre definitivo, acceso a mercados",
             risk: "Medio",
             riskColor: C.gold,
@@ -1327,7 +1327,7 @@ const WAR_GAMES = {
           },
           {
             text: "Insistir en 35 centavos con bonos mejores",
-            give: "USD 21B + bonos premium 10 anos",
+            give: "USD 21B + bonos premium 10 años",
             get: "Menor carga inicial, pero mayor compromiso futuro",
             risk: "Medio",
             riskColor: C.gold,
@@ -1342,7 +1342,7 @@ const WAR_GAMES = {
         options: [
           {
             text: "Aceptar hibrido swap + cash",
-            give: "USD 24B cash + participacion en 3 proyectos infraestructura",
+            give: "USD 24B cash + participación en 3 proyectos infraestructura",
             get: "Bonistas alineados como socios, deuda manageable",
             risk: "Medio",
             riskColor: C.gold,
@@ -1353,19 +1353,19 @@ const WAR_GAMES = {
       },
       {
         id: "bonistas_fmi",
-        text: "FMI acepta mediar. Propone haircut 55% (no 65%) con programa de reformas estructurales como condicion.",
+        text: "FMI acepta mediar. Propone haircut 55% (no 65%) con programa de reformas estructurales como condición.",
         options: [
           {
             text: "Aceptar 55% haircut + reformas FMI",
             give: "USD 28B + compromisos de reforma fiscal",
-            get: "Legitimidad total, acceso a credito a tasas bajas, rollback sanciones",
+            get: "Legitimidad total, acceso a crédito a tasas bajas, rollback sanciones",
             risk: "Bajo",
             riskColor: C.green,
             next: "end_bonistas_excelente",
             score: 5,
           },
           {
-            text: "Rechazar condiciones del FMI, negociar directo",
+            text: "Rechazar condiciónes del FMI, negociar directo",
             give: "Perder mediador neutral",
             get: "Autonomia en reformas",
             risk: "Alto",
@@ -1381,7 +1381,7 @@ const WAR_GAMES = {
         title: "Resultado: Aceptable",
         score: 3,
         color: C.blue,
-        text: "Deuda resuelta a ~40-45 centavos por dolar. Es el rango historico para reestructuraciones de petroestados. No es brillante, pero cierra el capitulo.",
+        text: "Deuda resuelta a ~40-45 centavos por dolar. Es el rango historico para reestructuraciónes de petroestados. No es brillante, pero cierra el capitulo.",
       },
       end_bonistas_bueno: {
         title: "Resultado: Favorable",
@@ -1393,22 +1393,22 @@ const WAR_GAMES = {
         title: "Resultado: Excelente",
         score: 5,
         color: C.gold,
-        text: "Mediacion FMI + haircut 55% + reformas = la mejor combinacion posible. USD 28B en deuda vs USD 85B original. Acceso a credito barato. Credibilidad maxima ante inversionistas.",
+        text: "Mediacion FMI + haircut 55% + reformas = la mejor combinacion posible. USD 28B en deuda vs USD 85B original. Acceso a crédito barato. Credibilidad maxima ante inversiónistas.",
       },
     },
   },
   fmi: {
-    title: "FMI: Programa de Estabilizacion",
+    title: "FMI: Programa de Estabilización",
     description:
-      "Venezuela solicita un programa Stand-By del FMI (SBA) para estabilizar la economia. El FMI pone condiciones.",
+      "Venezuela solicita un programa Stand-By del FMI (SBA) para estabilizar la economia. El FMI pone condiciónes.",
     steps: [
       {
         id: "start",
-        text: "FMI ofrece: SBA de USD 15B a 3 anos, condicionado a reformas fiscales, monetarias y estructurales.",
+        text: "FMI ofrece: SBA de USD 15B a 3 años, condiciónado a reformas fiscales, monetarias y estructurales.",
         options: [
           {
-            text: "Aceptar con todas las condiciones",
-            give: "Reforma fiscal inmediata + eliminacion subsidios + independencia BCV",
+            text: "Aceptar con todas las condiciónes",
+            give: "Reforma fiscal inmediata + eliminación subsidios + independencia BCV",
             get: "USD 15B + credibilidad + acceso a mercados",
             risk: "Medio",
             riskColor: C.gold,
@@ -1416,16 +1416,16 @@ const WAR_GAMES = {
             score: 3,
           },
           {
-            text: "Negociar condiciones mas graduales",
-            give: "Reforma en 5 anos (no 3) + subsidios focalizados (no eliminados)",
-            get: "USD 10B + flexibilidad politica",
+            text: "Negociar condiciónes mas graduales",
+            give: "Reforma en 5 años (no 3) + subsidios focalizados (no eliminados)",
+            get: "USD 10B + flexibilidad política",
             risk: "Medio",
             riskColor: C.gold,
             next: "fmi_gradual",
             score: 4,
           },
           {
-            text: "Rechazar: financiarse solo con petroleo",
+            text: "Rechazar: financiarse solo con petróleo",
             give: "No hay reformas impuestas",
             get: "Autonomia total, pero sin red de seguridad",
             risk: "Alto",
@@ -1450,7 +1450,7 @@ const WAR_GAMES = {
           },
           {
             text: "Revertir parcialmente ante protestas",
-            give: "Credibilidad ante FMI danada",
+            give: "Credibilidad ante FMI dañada",
             get: "Calma social temporal",
             risk: "Alto",
             riskColor: C.red,
@@ -1461,7 +1461,7 @@ const WAR_GAMES = {
       },
       {
         id: "fmi_gradual",
-        text: "FMI acepta gradualismo pero reduce monto a USD 8B y extiende a 5 anos. Reforma fiscal en fases.",
+        text: "FMI acepta gradualismo pero reduce monto a USD 8B y extiende a 5 años. Reforma fiscal en fases.",
         options: [
           {
             text: "Aceptar USD 8B graduales",
@@ -1476,11 +1476,11 @@ const WAR_GAMES = {
       },
       {
         id: "fmi_reject",
-        text: "Sin FMI, los mercados desconfian. Los bonistas endurece su posicion. Solo el petroleo financia la transicion.",
+        text: "Sin FMI, los mercados desconfian. Los bonistas endurece su posicion. Solo el petróleo financia la transición.",
         options: [
           {
-            text: "Doblar apuesta: all-in en produccion petrolera",
-            give: "Toda la apuesta en petroleo",
+            text: "Doblar apuesta: all-in en producción petrolera",
+            give: "Toda la apuesta en petróleo",
             get: "Independencia total, si funciona",
             risk: "Muy Alto",
             riskColor: C.red,
@@ -1504,31 +1504,31 @@ const WAR_GAMES = {
         title: "Resultado: Favorable",
         score: 4,
         color: C.green,
-        text: "Dolor a corto plazo, ganancia a largo. El programa FMI da credibilidad, rating mejora, inversion fluye. El FCV compensa a los mas vulnerables durante la transicion. En 2 anos, la economia esta estabilizada.",
+        text: "Dolor a corto plazo, ganancia a largo. El programa FMI da credibilidad, rating mejora, inversión fluye. El FCV compensa a los mas vulnerables durante la transición. En 2 años, la economia esta estabilizada.",
       },
       end_fmi_mediocre: {
         title: "Resultado: Mediocre",
         score: 0,
         color: C.textLight,
-        text: "Ni full reformas ni full autonomia. Credibilidad danada, programa parcial. Funciona, pero lento y con friccion constante.",
+        text: "Ni full reformas ni full autonomia. Credibilidad dañada, programa parcial. Funciona, pero lento y con friccion constante.",
       },
       end_fmi_gradual_ok: {
         title: "Resultado: Bueno",
         score: 3,
         color: C.blue,
-        text: "USD 8B en 5 anos con reformas graduales. Menos shock, menos resistencia social, mas tiempo para construir consenso. No es el maximo, pero es sostenible politicamente.",
+        text: "USD 8B en 5 años con reformas graduales. Menos shock, menos resistencia social, mas tiempo para construir consenso. No es el maximo, pero es sostenible políticamente.",
       },
       end_fmi_solo: {
         title: "Resultado: Arriesgado",
         score: -2,
         color: C.red,
-        text: "Sin FMI y dependiendo 100% del petroleo. Si el precio cae a USD 50, no hay colchon. Autonomia total pero vulnerabilidad maxima. Solo funciona si el petroleo esta por encima de USD 75 durante 10+ anos.",
+        text: "Sin FMI y dependiendo 100% del petróleo. Si el precio cae a USD 50, no hay colchon. Autonomia total pero vulnerabilidad maxima. Solo funciona si el petróleo esta por encima de USD 75 durante 10+ años.",
       },
     },
   },
 };
 
-function TabNegociacion() {
+function TabNegociación() {
   const [selectedGame, setSelectedGame] = useState("china");
   const [currentStep, setCurrentStep] = useState("start");
   const [history, setHistory] = useState([]);
@@ -1563,7 +1563,7 @@ function TabNegociacion() {
   return (
     <div>
       <p style={{ color: C.textLight, fontSize: 14, marginBottom: 20 }}>
-        Simulacion de negociacion tipo "war game". Elige un escenario, toma
+        Simulación de negociación tipo "war game". Elige un escenario, toma
         decisiones y ve el resultado. Cada opcion muestra que das, que recibes y
         el nivel de riesgo.
       </p>
@@ -1643,7 +1643,7 @@ function TabNegociacion() {
                 marginBottom: 12,
               }}
             >
-              <span style={{ fontSize: 14, fontWeight: 600 }}>Puntuacion:</span>
+              <span style={{ fontSize: 14, fontWeight: 600 }}>Puntuación:</span>
               {[...Array(5)].map((_, i) => (
                 <span
                   key={i}
@@ -1806,10 +1806,10 @@ function TabNegociacion() {
 
 function TabSeguridad() {
   const [presupuesto, setPresupuesto] = useState(8);
-  const [velocidad, setVelocidad] = useState(2); // 1=lenta, 2=media, 3=rapida
+  const [velocidad, setVelocidad] = useState(2); // 1=lenta, 2=media, 3=rápida
   const [fanbCoopera, setFanbCoopera] = useState(2); // 1=no, 2=parcial, 3=si
 
-  const velLabels = { 1: "Lenta", 2: "Media", 3: "Rapida" };
+  const velLabels = { 1: "Lenta", 2: "Media", 3: "Rápida" };
   const fanbLabels = { 1: "No", 2: "Parcial", 3: "Si" };
 
   const timeline = useMemo(() => {
@@ -1856,7 +1856,7 @@ function TabSeguridad() {
   return (
     <div>
       <p style={{ color: C.textLight, fontSize: 14, marginBottom: 20 }}>
-        Sin seguridad no hay inversion. Este simulador muestra como el
+        Sin seguridad no hay inversión. Este simulador muestra como el
         presupuesto de seguridad, la velocidad de reforma policial y la
         cooperacion militar determinan cuando llegan los data centers y
         turistas. Referencia: Georgia elimino la corrupcion policial en 2 anos
@@ -1876,7 +1876,7 @@ function TabSeguridad() {
             Variables
           </h4>
           <SliderInput
-            label="Presupuesto seguridad (ano 1-3)"
+            label="Presupuesto seguridad (año 1-3)"
             min={3}
             max={15}
             step={0.5}
@@ -1921,7 +1921,7 @@ function TabSeguridad() {
             >
               <span>Lenta</span>
               <span>Media</span>
-              <span>Rapida</span>
+              <span>Rápida</span>
             </div>
           </div>
 
@@ -1976,13 +1976,13 @@ function TabSeguridad() {
           >
             <BigNumber
               label="Data center viable"
-              value={`Ano ${timeline.dcYear}`}
+              value={`Año ${timeline.dcYear}`}
               sub="Homicidios <15/100K + territorio >80%"
               color={typeof timeline.dcYear === "number" ? C.green : C.red}
             />
             <BigNumber
               label="Turismo masivo"
-              value={`Ano ${timeline.touristYear}`}
+              value={`Año ${timeline.touristYear}`}
               sub="Homicidios <10/100K + territorio >90%"
               color={typeof timeline.touristYear === "number" ? C.blue : C.red}
             />
@@ -1995,10 +1995,10 @@ function TabSeguridad() {
               "Homicidios/100K",
               "Policia desplegada",
               "Territorio %",
-              "Inversion (USD B)",
+              "Inversión (USD B)",
             ]}
             rows={timeline.years.map((y) => [
-              `Ano ${y.year}`,
+              `Año ${y.year}`,
               y.homicideRate,
               fmtNum(y.policeDeployed),
               `${y.territoryControlled}%`,
@@ -2006,10 +2006,10 @@ function TabSeguridad() {
             ])}
           />
 
-          <SectionTitle>Reduccion de Homicidios</SectionTitle>
+          <SectionTitle>Reducción de Homicidios</SectionTitle>
           <BarChart
             data={timeline.years.map((y) => ({
-              label: `Ano ${y.year}`,
+              label: `Año ${y.year}`,
               value: Number(y.homicideRate),
               display: `${y.homicideRate}/100K`,
               color:
@@ -2022,10 +2022,10 @@ function TabSeguridad() {
             maxValue={40}
           />
 
-          <SectionTitle>Inversion Atraida</SectionTitle>
+          <SectionTitle>Inversión Atraida</SectionTitle>
           <BarChart
             data={timeline.years.map((y) => ({
-              label: `Ano ${y.year}`,
+              label: `Año ${y.year}`,
               value: Number(y.investmentAttracted),
               display: `USD ${y.investmentAttracted}B`,
               color: C.blue,
@@ -2046,7 +2046,7 @@ const TABS = [
   { id: "financiero", label: "Modelo Financiero", icon: null },
   { id: "montecarlo", label: "Monte Carlo", icon: null },
   { id: "ciudadano", label: "Mi FCV", icon: null },
-  { id: "negociacion", label: "Negociacion", icon: null },
+  { id: "negociación", label: "Negociación", icon: null },
   { id: "seguridad", label: "Seguridad", icon: null },
 ];
 
@@ -2056,7 +2056,7 @@ export default function SimuladorPage() {
   return (
     <Layout
       title="Simulador Interactivo"
-      description="Explora los modelos de Venezuela S.A. con simulaciones interactivas: financiero, Monte Carlo, FCV ciudadano, negociacion y seguridad."
+      description="Explora los modelos de Venezuela S.A. con simulaciónes interactivas: financiero, Monte Carlo, FCV ciudadano, negociación y seguridad."
     >
       <main
         style={{ maxWidth: 1100, margin: "0 auto", padding: "32px 20px 60px" }}
@@ -2089,7 +2089,7 @@ export default function SimuladorPage() {
             resultados. Todos los modelos parten de la base conservadora del
             plan:{" "}
             <strong>
-              USD 60/barril, 3M bpd en 15 anos (Rystad Energy), retorno 5,5%
+              USD 60/barril, 3M bpd en 15 años (Rystad Energy), retorno 5,5%
             </strong>
             .
           </p>
@@ -2136,8 +2136,8 @@ export default function SimuladorPage() {
         <div>
           {activeTab === "financiero" && <TabFinanciero />}
           {activeTab === "montecarlo" && <TabMonteCarlo />}
-          {activeTab === "ciudadano" && <TabCiudadano />}
-          {activeTab === "negociacion" && <TabNegociacion />}
+          {activeTab === "ciudadano" && <TabCiudadaño />}
+          {activeTab === "negociación" && <TabNegociación />}
           {activeTab === "seguridad" && <TabSeguridad />}
         </div>
 
@@ -2154,10 +2154,10 @@ export default function SimuladorPage() {
             lineHeight: 1.6,
           }}
         >
-          <strong style={{ color: C.blue }}>Nota metodologica:</strong> Estas
-          simulaciones son herramientas exploratorias, no predicciones. Los
+          <strong style={{ color: C.blue }}>Nota metodológica:</strong> Estas
+          simulaciónes son herramientas exploratorias, no predicciones. Los
           modelos usan simplificaciones (ramp-up lineal, retornos constantes,
-          condiciones independientes). Los datos base provienen de fuentes
+          condiciónes independientes). Los datos base provienen de fuentes
           verificables:{" "}
           <a
             href="https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/"

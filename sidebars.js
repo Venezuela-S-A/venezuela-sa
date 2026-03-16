@@ -50,6 +50,7 @@ const sidebars = {
         "04-gobernanza/blindaje-integridad",
         "04-gobernanza/roadmap-sanciones",
         "04-gobernanza/cuba-desconexion",
+        "04-gobernanza/estrategia-china",
         "10-oportunidades/modelo-concesiones",
       ],
     },

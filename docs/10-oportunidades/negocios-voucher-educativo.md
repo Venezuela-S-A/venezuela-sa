@@ -132,7 +132,7 @@ Aplica a **todo:**
 
 | Métrica | Valor |
 |---------|-------|
-| **Inversión inicial** | USD 200-500 (balones + conos + silbato + registro como proveedor acreditado) |
+| **Inversión inicial** | USD 200-500 (balones + conos + silbato + registro como proveedor acreditado). Usa cancha municipal (administrada por comunidad/municipio — debe estar en óptimas condiciones para acreditarse) |
 | **Estudiantes** | 30-60 (2-4 grupos de 15) |
 | **Ingreso por estudiante** | USD 15-25/mes (puntos extracurriculares) |
 | **Ingreso mensual** | USD 450-1.500 |
@@ -155,7 +155,7 @@ Aplica a **todo:**
 
 | Métrica | Valor |
 |---------|-------|
-| **Inversión inicial** | USD 20.000-80.000 (cancha/dojo en concesión o alquiler + equipos en leasing + oficina). Crédito emprendimiento a tasa preferencial |
+| **Inversión inicial** | USD 5.000-80.000. Canchas municipales las administra la comunidad/municipio (no VSA) — el instructor solo las usa si cumplen estándares de acreditación. Si necesita cancha propia: alquiler o concesión. Equipos en leasing |
 | **Deportes** | 3-5 (fútbol, béisbol, natación, karate, boxeo) |
 | **Estudiantes** | 200-500 |
 | **Ingreso por estudiante** | USD 20-40/mes (puntos extracurriculares) |

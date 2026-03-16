@@ -201,7 +201,7 @@ flowchart TD
 
 ## 4. Qué Provee Cada Actor
 
-| El Estado provee (regula) | Venezuela S.A. provee (invierte) | El capital privado provee (opera) |
+| El Estado financia y supervisa (regula) | Venezuela S.A. provee (invierte) | El capital privado provee (opera) |
 |--------------------------|----------------------------------|----------------------------------|
 | Designación de zona industrial especial | Terrenos para parques industriales como equity en JVs | Inversión en plantas y maquinaria |
 | Incentivos fiscales (15% flat, 0% arancel maquinaria 10 años) | Infraestructura base (carreteras, electricidad, agua) | Capital de trabajo y operación |

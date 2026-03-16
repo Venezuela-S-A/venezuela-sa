@@ -47,8 +47,8 @@ Venezuela tiene la **mayor población sin acceso a fintech** en las Americas. Lo
 ```mermaid
 flowchart TB
     subgraph CORE["INFRAESTRUCTURA CORE"]
-        ID["Identidad Digital<br/><b>Gov provee</b>"]
-        REG["Regulación FinTech<br/><b>Gov provee</b>"]
+        ID["Identidad Digital<br/><b>Gov financia</b>"]
+        REG["Regulación FinTech<br/><b>Gov financia</b>"]
         RAIL["Rieles de Pago<br/>(tipo Pix/UPI)"]
     end
 
@@ -143,10 +143,10 @@ Pix se lanzo en noviembre 2020 y en 3 años tenia 224 millones de usuarios — m
 ## 3. Lo Que el Estado Provee (y Lo Que NO Hace)
 
 :::info Ni el Estado ni Venezuela S.A. operan fintechs. El Estado crea las reglas del juego. Venezuela S.A. facilita la infraestructura de pagos.
-El rol del Estado es exactamente el mismo que en Estonia, Singapur o India: proveer identidad digital, regulación moderna, y rieles de pago. Venezuela S.A. puede invertir en la infraestructura base (rieles de pago, identidad digital) como accionista. El sector privado construye las apps, los productos y la experiencia de usuario. **Cero burocracia operando bancos.**
+El rol del Estado es exactamente el mismo que en Estonia, Singapur o India: financiar identidad digital, regulación moderna, y rieles de pago. Venezuela S.A. puede invertir en la infraestructura base (rieles de pago, identidad digital) como accionista. El sector privado construye las apps, los productos y la experiencia de usuario. **Cero burocracia operando bancos.**
 :::
 
-| El Estado provee | Detalle | Referencia |
+| El Estado financia y supervisa | Detalle | Referencia |
 |-------------------|---------|-----------|
 | **Identidad digital** | Cedula biométrica + firma electrónica. Base de datos unica verificable via API. Sin esto, no hay KYC digital | Estonia: [e-Residency](https://e-resident.gov.ee/), India: [Aadhaar](https://uidai.gov.in/) (1.4B registros) |
 | **Regulación fintech** | Sandbox regulatorio para nuevos productos. Licencias de pago, lending, seguros digitales. Proteccion al consumidor | UK: [FCA Sandbox](https://www.fca.org.uk/firms/innovation/regulatory-sandbox), Brasil: [BCB regulación Pix](https://www.bcb.gov.br/), México: [Ley Fintech 2018](https://www.gob.mx/) |
@@ -369,7 +369,7 @@ flowchart LR
 | País| Modelo | Resultado | Lección para Venezuela |
 |------|--------|-----------|----------------------|
 | **Brasil (Pix)** | Sistema de pagos instantáneos del banco central. Gratis para personas. Lanzado nov. 2020 | **224M usuarios, 4B transacciones/mes** en 3 años. Caida del 30% en uso de efectivo | Venezuela puede replicar con "Pix-VE". Empezar de cero es ventaja: no hay legacy que migrar |
-| **India (UPI + Aadhaar)** | Identidad biométrica (1.4B registros) + pagos instantáneos. Gobierno provee rieles, privados construyen apps | **16B transacciones/mes**, inclusion financiera paso de 35% a 80% en 10 años | Identidad digital primero, fintech despues. Sin Aadhaar no habia UPI. Sin cedula digital no hay KYC |
+| **India (UPI + Aadhaar)** | Identidad biométrica (1.4B registros) + pagos instantáneos. Gobierno financia rieles, privados construyen apps | **16B transacciones/mes**, inclusion financiera paso de 35% a 80% en 10 años | Identidad digital primero, fintech despues. Sin Aadhaar no habia UPI. Sin cedula digital no hay KYC |
 | **Kenya (M-Pesa)** | Dinero movil via SMS (sin smartphone). Safaricom opero, gobierno regulo despues | **50M+ usuarios** en Africa. 65% del PIB de Kenya fluye por M-Pesa. De 26% inclusion financiera a 83% | En mercados sin bancos, el movil ES el banco. Venezuela con smartphones tiene mas capacidad que Kenya con SMS |
 | **Filipinas (GCash)** | Wallet digital + remesas + lending. Globe Telecom + Ant Financial | **90M+ usuarios registrados** (de 110M población). USD 100B+ transacciones/ano | Remesas como gancho de adopción. OFWs (filipinos en exterior) adoptaron primero, luego el país|
 | **México (Ley Fintech 2018)** | Primera ley fintech de LATAM. Sandbox regulatorio, licencias para crypto, open banking | 650+ fintechs operando, USD 10B+ mercado | Regulación clara desde el inicio atrae capital. México tiene mas fintechs que países con PIB 5x mayor |

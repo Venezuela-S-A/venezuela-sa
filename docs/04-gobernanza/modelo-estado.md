@@ -853,7 +853,7 @@ Con 82,8% de pobreza, el modelo final no se implementa el Día 1. Se transiciona
 
 | Fase | Estado del país | Rol del Estado | Rol del privado | Financiamiento |
 |------|----------------|---------------|-----------------|---------------|
-| **Emergencia (Año 1)** | Pobreza extrema, sin instituciones | Estado provee servicios básicos: salud, alimentos, pensión mínima, empleo temporal. Venezuela S.A. arranca contratos forward y primeras concesiones | Casi nulo — no hay mercado | 100% ingresos Venezuela S.A. (petróleo) + emergencia humanitaria |
+| **Emergencia** | Pobreza extrema, sin instituciones | Estado financia servicios básicos: FCV Salud, Pilar 1, voucher alimentos. Venezuela S.A. arranca contratos forward y concesiones. Privados operan desde el inicio | Casi nulo — arrancando | 100% ingresos Venezuela S.A. (petróleo) + emergencia humanitaria |
 | **Estabilización (Años 2–3)** | Pobreza bajando, dolarización estable | Estado mantiene piso universal. Venezuela S.A. licita concesiones y cobra regalías | Primeras concesiones (telecomunicaciones, puertos) + FCV operativo (14%) | 80% ingresos Venezuela S.A. + 20% impuestos crecientes |
 | **Construcción (Años 4–7)** | Pobreza <50%, economía formal creciendo | Estado reduce operación directa. Supervisa salud y educación. Venezuela S.A. administra concesiones + Fondo de Inversión Venezuela S.A. | FCV al 18% (se abre subcuenta vivienda), ISAPRE arrancando, concesiones en marcha | 50% impuestos + 50% Fondo de Inversión Venezuela S.A. (Venezuela S.A.) |
 | **Madurez (Años 8–15)** | Pobreza <25%, clase media creciente | Estado solo supervisa las 5 funciones. FCV al 21-25% auto-financiado | FCV maduro. Privado opera infraestructura, hospitales, colegios. ISAPRE activo | 100% impuestos. Petróleo → fondo. FCV auto-financiado |
@@ -910,7 +910,7 @@ El objetivo NO es quitar ayuda. Es que la gente YA NO LA NECESITE porque tiene e
 ---
 
 :::danger El objetivo final
-Año 15: Venezuela financia su Estado CON impuestos. El petróleo va al Fondo de Inversión Venezuela S.A. administrado por Venezuela S.A. — no por el Estado. Los rendimientos del fondo (4–5%) complementan vía dividendo ciudadano. El FCV unificado (retiro + salud + vivienda + educación) hace que cada ciudadano sea dueño de su futuro. La infraestructura la opera el sector privado en concesiones donde Venezuela S.A. es accionista. El Estado es pequeño, digital, automatizado, y eficiente — solo supervisa y provee sus 5 funciones. Libertad de vida, económica y religiosa son constitucionales. Nadie depende del gobierno para vivir. Ese es el modelo.
+Año 15: Venezuela financia su Estado CON impuestos. El petróleo va al Fondo de Inversión Venezuela S.A. administrado por Venezuela S.A. — no por el Estado. Los rendimientos del fondo (4–5%) complementan vía dividendo ciudadano. El FCV unificado (retiro + salud + vivienda + educación) hace que cada ciudadano sea dueño de su futuro. La infraestructura la opera el sector privado en concesiones donde Venezuela S.A. es accionista. El Estado es pequeño, digital, automatizado, y eficiente — solo financia y supervisa sus 5 funciones. Libertad de vida, económica y religiosa son constitucionales. Nadie depende del gobierno para vivir. Ese es el modelo.
 :::
 
 ---

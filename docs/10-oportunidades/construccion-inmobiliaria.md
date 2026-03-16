@@ -96,7 +96,7 @@ flowchart LR
 
 ### Principio rector
 
-> Ni el Estado ni Venezuela S.A. construyen directamente. El Estado provee el marco legal y la seguridad. Venezuela S.A. aporta terrenos como equity en JVs de construcción y cobra regalías como accionista del holding ciudadano. El capital privado financia. Las constructoras internacionales ejecutan. La tecnología modular/prefab acelera.
+> Ni el Estado ni Venezuela S.A. construyen directamente. El Estado regula el marco legal y la seguridad. Venezuela S.A. aporta terrenos como equity en JVs de construcción y cobra regalías como accionista del holding ciudadano. El capital privado financia. Las constructoras internacionales ejecutan. La tecnología modular/prefab acelera.
 
 ### Por qué construcción modular
 

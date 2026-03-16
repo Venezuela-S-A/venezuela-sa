@@ -243,7 +243,7 @@ La industria farmacéutica venezolana se destruyó por expropiaciones, controles
 
 ## 8. Lo Que el Estado Provee (y Lo Que Venezuela S.A. Invierte)
 
-| El Estado provee (regula) | Detalle | Referencia |
+| El Estado financia y supervisa (regula) | Detalle | Referencia |
 |-------------------|---------|-----------|
 | **Reforma del código sanitario** | Marco legal para telemedicina, prescripción digital, historia clínica electrónica | Colombia: [Ley 2015 de 2020 (telemedicina)](https://www.minsalud.gov.co/) |
 | **Marco de concesiones hospitalarias** | Contratos PPP de 20-30 años. KPIs de calidad. Penalidades por incumplimiento | UK: [NHS PPP model](https://www.gov.uk/). Chile: concesiones hospitalarias |

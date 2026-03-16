@@ -66,64 +66,76 @@ gantt
 Los evaluadores coinciden: un plan de 15 años sin resultados visibles en los primeros 365 días pierde legitimidad. Bukele transformó la percepción de El Salvador en 1.000 días. Musk comprime timelines 3-5x. El plan necesita **sprints de 100 días** con entregables medibles y visibles.
 :::
 
-### Sprint 0: Días 1–100 — Emergencia y Señales
+### Sprint 0: Días 1–100 — Emergencia + Señales + FCV
 
-| # | Entregable | Métrica | Responsable |
-|---|-----------|---------|-------------|
-| 1 | **Hospital funcional** — al menos 1 hospital público rehabilitado con estándares internacionales | Camas operativas, quirófanos, insumos | Min. Salud + OPS |
-| 2 | **Calle segura** — 3 zonas piloto con seguridad 24/7 (Caracas, Maracaibo, Valencia) | Homicidios -50% en zona piloto | Policía reformada + cooperación internacional |
-| 3 | **Mercado abastecido** — cadena de suministro de alimentos rehabilitada en 10 ciudades | Precios estables, estantes llenos, 0 CLAP | Sector privado + importación emergencia |
-| 4 | **Internet funcional** — Starlink en 50 puntos públicos (plazas, escuelas, hubs) | 100+ Mbps disponible (puntos de acceso público) | Starlink + gobierno |
-| 5 | **Dashboard público** — plataforma web con presupuesto, gastos, avance en tiempo real | Online, accesible, actualizado diariamente | Equipo tech |
-| 6 | **Primer contrato forward firmado** — señal al mercado de que el plan es real | USD 1-3B en adelantos | Agencia Petrolera |
+**4 carriles en PARALELO** — no secuencial:
 
-### Sprint 1: Días 101–200 — Infraestructura Crítica
+| Carril | Entregables | Métrica |
+|--------|-----------|---------|
+| **Humanitario** | 3 hospitales operativos (OPS/MSF). Cadena de alimentos en 10 ciudades. Medicinas importadas | Camas operativas. Precios estables. Cero CLAP |
+| **Seguridad** | 3 zonas piloto seguras 24/7 (Caracas, Maracaibo, Valencia). Emergencia declarada | Homicidios -50% en zonas piloto |
+| **Económico** | Primer forward firmado (USD 1-3B). Dolarización formal anunciada. Dashboard transparencia online | USD comprometidos. Inflación bajando |
+| **Institucional** | **Ley FCV aprobada. App FCV en desarrollo. Regulación open banking publicada.** Starlink en 50+ puntos. Censo diáspora lanzado | Cuentas FCV creadas. Mbps verificados |
 
-| # | Entregable | Métrica |
-|---|-----------|---------|
-| 1 | **Guri rehabilitado** — primera turbina reparada, uptime > 80% | MW recuperados |
-| 2 | **5 coworkings tech** operativos con Starlink + fibra | Puestos disponibles, velocidad Mbps |
-| 3 | **Primer bootcamp** de software lanzado (1.000 estudiantes) | Inscritos, tasa de permanencia |
-| 4 | ~~Licencia OFAC expandida~~ **CUMPLIDO:** [Licencia 46B emitida 14-mar-2026](https://www.infobae.com/venezuela/2026/03/14/eeuu-autorizo-a-las-empresas-estadounidenses-realizar-negocios-con-el-sector-petrolero-venezolano/) — todas las empresas de EE.UU. autorizadas | COMPLETADO |
-| 5 | **Censo digital** de diáspora lanzado | Registrados en plataforma |
+### Sprint 1: Días 101–200 — Infraestructura + Educación (en paralelo)
 
-### Sprint 2: Días 201–365 — Primeros Retornos
+| Carril | Entregables | Métrica |
+|--------|-----------|---------|
+| **Energía** | Primera turbina Guri reparada (uptime >80%). 3+ JVs petroleras firmadas (Licencia 46B activa) | MW recuperados. USD invertidos |
+| **Educación** | **Salarios docentes x5 implementados. Primer voucher piloto en 3 ciudades. Train the Trainers arranca (5.000 docentes).** Primer bootcamp lanzado (1.000 estudiantes) | Docentes pagando. Vouchers activos. Inscritos |
+| **Digital** | 5 coworkings tech operativos. App FCV en piloto (100K cuentas). Censo diáspora >500K registrados | Puestos. Cuentas. Registrados |
+| **Seguridad** | Expansión a 5 zonas piloto. 5.000 policías nuevos en formación | Cobertura territorial |
 
-| # | Entregable | Métrica |
-|---|-----------|---------|
-| 1 | **Producción a 1.1-1.2M bpd** | bpd verificados |
-| 2 | **Primer JV con major** firmado (post-Chevron) | USD invertidos |
-| 3 | **10.000 policías** nuevos graduados y desplegados | Cobertura territorial |
-| 4 | **Primer bono ciudadano** emitido (piloto USD 10-50) | Ciudadanos participantes |
-| 5 | **3 bootcamps** operativos en 3 ciudades | Graduados primer cohorte |
+### Sprint 2: Días 201–365 — Primeros Retornos (todo sigue en paralelo)
 
-### Sprint 3-10: Días 366–1.000
+| Carril | Entregables | Métrica |
+|--------|-----------|---------|
+| **Petróleo** | Producción >1.1M bpd. 5+ JVs activas. Primeros ingresos al Fondo de Inversión VSA | bpd verificados. USD al fondo |
+| **Educación** | **Voucher K-12 nacional (8M estudiantes). 50+ colegios acreditados como empresas autónomas.** 3 bootcamps operativos. Train the Trainers: 10.000 docentes certificados | Vouchers activos. Colegios acreditados. Graduados |
+| **FCV** | **FCV al 14% operativo (retiro 8% + salud 6%). >2M cuentas activas. Primer pago de pensión Pilar 1 (USD 50/mes)** | Cuentas. Contribuyentes. Pensionados pagados |
+| **Seguridad** | 10.000 policías desplegados. Homicidios bajando en 5 ciudades | Cobertura. Tasa homicidios |
+| **Inversión ciudadana** | App de bonos ciudadanos operativa (desde USD 10). >50K inversores | Ciudadanos participantes. USD captados |
+
+### Días 366–1.000 — Aceleración (todo en paralelo)
 
 ```mermaid
 gantt
-    title Sprints de 100 dias — Primeros 1.000 dias
+    title Primeros 1.000 dias — 4 carriles en PARALELO
     dateFormat YYYY-MM-DD
     axisFormat %b %Y
 
-    section Emergencia
-    Sprint 0 - Senales visibles       :s0, 2027-01-01, 100d
+    section Energia
+    Estabilizar 1M bpd + forwards     :e0, 2027-01-01, 100d
+    Guri + 3 JVs firmadas             :e1, after e0, 100d
+    Produccion 1.1M bpd               :e2, after e1, 165d
+    Produccion 1.2-1.3M bpd           :e3, after e2, 200d
+    Meta 1.4M bpd                     :milestone, me, after e3, 0d
 
-    section Infraestructura
-    Sprint 1 - Infra critica           :s1, after s0, 100d
-    Sprint 2 - Primeros retornos       :s2, after s1, 65d
+    section Educacion + FCV
+    Ley FCV + salarios docentes x5    :ed0, 2027-01-01, 100d
+    Voucher piloto + Train Trainers   :ed1, after ed0, 100d
+    Voucher nacional + FCV 14%        :ed2, after ed1, 165d
+    50+ colegios autonomos + 10K docs :ed3, after ed2, 200d
+    Evaluacion educativa              :milestone, med, after ed3, 0d
 
-    section Aceleracion
-    Sprint 3 - Produccion 1.2M bpd     :s3, 2027-12-01, 100d
-    Sprint 4 - Primer data center      :s4, after s3, 100d
-    Sprint 5 - 5.000 devs formados     :s5, after s4, 100d
+    section Seguridad
+    3 zonas piloto + emergencia       :s0, 2027-01-01, 100d
+    5 zonas + 5K policias formando    :s1, after s0, 100d
+    10K policias desplegados          :s2, after s1, 165d
+    Homicidios -50% nacional          :s3, after s2, 200d
+    Evaluacion seguridad              :milestone, ms, after s3, 0d
 
-    section Consolidacion
-    Sprint 6 - 1.5M bpd + fondo activo :s6, after s5, 100d
-    Sprint 7 - Primer unicornio venez  :s7, after s6, 100d
-    Sprint 8 - Investment grade path   :s8, after s7, 100d
-    Sprint 9 - 50K ingenieros          :s9, after s8, 100d
-    Sprint 10 - Evaluacion 1.000 dias  :milestone, m10, after s9, 0d
+    section Digital + Inversion
+    Starlink + dashboard + open bank  :d0, 2027-01-01, 100d
+    App FCV + coworkings + censo      :d1, after d0, 100d
+    Bonos ciudadanos + VenDev piloto  :d2, after d1, 165d
+    Data center feasibility + fintech :d3, after d2, 200d
+    Evaluacion 1.000 dias             :milestone, m1000, after d3, 0d
 ```
+
+:::tip 4 carriles, no 10 sprints secuenciales
+El plan anterior tenía 10 sprints en fila (uno después de otro). Eso es lento. **Ahora hay 4 carriles que corren en paralelo desde el Día 1:** energía, educación/FCV, seguridad, y digital/inversión. Cada carril tiene sus propios hitos. La evaluación de 1.000 días mide los 4 simultáneamente. Si un carril avanza más rápido, acelera. Si uno se atrasa, no frena a los demás.
+:::
 
 ### Compresión del timeline: 15 → 10 años operativos
 

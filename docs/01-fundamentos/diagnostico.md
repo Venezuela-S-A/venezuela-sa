@@ -5,6 +5,10 @@ title: "Diagnóstico: Dónde Estamos"
 
 # Diagnóstico: Dónde Estamos (Datos Duros)
 
+:::tip En pocas palabras
+¿Dónde estamos hoy? Venezuela tiene la mayor reserva de petróleo del mundo pero 82,8% de pobreza. Esta sección muestra los números reales — sin maquillaje — para entender de dónde partimos.
+:::
+
 ## Venezuela en 1 Página: La Oportunidad
 
 > "No empieces con 10 páginas de lo que salió mal. Empieza con la oportunidad." — La crítica Musk a todo pitch que abre con el problema.

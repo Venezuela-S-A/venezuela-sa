@@ -5,6 +5,10 @@ title: "Realidad Geopolítica"
 
 # Realidad Geopolítica: EE.UU. Controla el Petróleo
 
+:::tip En pocas palabras
+La relación con Estados Unidos define todo. EE.UU. controla el petróleo venezolano desde enero 2026. Esta sección explica cómo se negocia esa realidad para beneficio de Venezuela — no para confrontar.
+:::
+
 Desde enero 2026, [Wright declaró](https://abcnews.go.com/US/energy-secretary-wright-details-plans-us-control-venezuelan/story?id=128979604) que EE.UU. controlará ventas petroleras "indefinidamente". [Ventas >USD 1.000 M a feb. 2026](https://www.cnbc.com/2026/02/13/venezuela-oil-sales-qatar-chris-wright-trump.html), acuerdos por USD 5.000 M adicionales. [Wright visitó Caracas](https://www.cnn.com/2026/02/12/americas/venezuela-oil-wright-rodriguez-latam-intl) y recorrió instalaciones de Chevron con Rodríguez.
 
 | Realidad | Posición del Plan | Acción |

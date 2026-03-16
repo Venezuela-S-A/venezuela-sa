@@ -5,6 +5,10 @@ title: "Roadmap de Sanciones"
 
 # Roadmap de Sanciones: De OFAC a Investment Grade
 
+:::tip En pocas palabras
+Venezuela está sancionada por EE.UU. y Europa. Las sanciones se levantan paso a paso cuando se cumplen condiciones: elecciones, presos liberados, reformas. Cada condición cumplida desbloquea más inversión.
+:::
+
 :::danger Sin roadmap de sanciones = sin inversión
 Las sanciones de EE.UU. bloquean **USD 6-20B** en inversión tech y **USD 4-20B** en VC/PE. Sin una hoja de ruta verificable para su levantamiento progresivo, el plan de reconstrucción queda limitado a operaciones Chevron y capital de diáspora. Este documento cierra ese vacío.
 :::

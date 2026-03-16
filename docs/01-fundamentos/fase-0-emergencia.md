@@ -5,6 +5,10 @@ title: "Fase 0: Emergencia Humanitaria"
 
 # Fase 0: Emergencia Humanitaria (Primeros 180 Días)
 
+:::tip En pocas palabras
+Los primeros 100 días del plan. Lo que se hace inmediatamente para que la gente sienta el cambio: pensión desde el Día 1, seguridad en las calles, internet en las escuelas, salarios docentes multiplicados.
+:::
+
 :::danger Prioridad Absoluta
 Ningún ciudadano creerá en un Fondo de Inversión Venezuela S.A. si no tiene agua, comida o medicinas. 80% de la población bajo la línea de pobreza. La [ONU recaudó solo 17%](https://www.cgdev.org/blog/barreling-blindly-ahead-seizure-venezuelas-oil) de su solicitud de USD 600 M.
 :::

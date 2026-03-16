@@ -5,6 +5,10 @@ title: Justicia Transicional
 
 # Justicia Transicional: El Dilema que Nadie Quiere Abordar
 
+:::tip En pocas palabras
+¿Qué pasa con los que robaron, torturaron y destruyeron el país? Justicia transicional es el proceso de rendir cuentas sin venganza — para que el país pueda pasar la página y reconstruirse.
+:::
+
 > ¿Cómo se construye un estado de derecho cuando los que deben construirlo fueron parte del problema? ¿Cómo se hace justicia sin bloquear la transición?
 
 :::caution El dilema

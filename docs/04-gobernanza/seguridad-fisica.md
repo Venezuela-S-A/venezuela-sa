@@ -5,6 +5,10 @@ title: Seguridad Física
 
 # Seguridad Física: Sin Seguridad No Hay Inversión
 
+:::tip En pocas palabras
+Sin seguridad no hay nada. Venezuela es el país más violento del mundo. Esta sección propone cómo reformar la policía, desarmar a los grupos armados, y hacer que caminar por la calle sea seguro otra vez.
+:::
+
 > Ningún BigTech pone un data center donde hay riesgo de secuestro. Ningún turista visita un país con la tasa de homicidios más alta del continente.
 
 ```mermaid

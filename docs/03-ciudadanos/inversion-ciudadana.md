@@ -5,6 +5,10 @@ title: Inversión Ciudadana
 
 # Inversión Ciudadana Universal: Todos Somos Socios
 
+:::tip En pocas palabras
+Cada venezolano puede invertir desde USD 10 en bonos del plan. No es caridad — es inversión con retorno. La diáspora arranca la primera ronda sin necesidad de gobierno.
+:::
+
 > Artículo 1, ICCPR (ONU, 1966): “Todos los pueblos pueden disponer libremente de sus riquezas y recursos naturales.” La palabra clave es **pueblos**, no Estados.
 
 ## 4 Capas de Participación

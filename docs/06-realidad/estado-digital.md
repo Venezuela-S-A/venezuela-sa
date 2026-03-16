@@ -5,6 +5,10 @@ title: Estado Digital
 
 # Estado Digital: Reducir, Digitalizar, Automatizar
 
+:::tip En pocas palabras
+Un gobierno donde todo se hace por internet: registrar una empresa en 15 minutos, declarar impuestos en 3 minutos, sacar una cita médica sin hacer cola. Estonia lo logró con 1,3 millones de personas. Venezuela puede hacerlo con 40 millones.
+:::
+
 [Estonia](https://e-estonia.com/): 100% servicios digitales (dic. 2024), [ahorro 2% PIB](https://centreforpublicimpact.org/public-impact-fundamentals/e-estonia-the-information-society-since-1997/), 820 años de tiempo ahorrado, [#1 ONU e-gobierno 2024](https://e-estonia.com/estonia-is-at-the-top-of-the-un-e-government-ranking/), [82% satisfacción ciudadana](https://www.socialeurope.eu/estonias-digital-frontier-when-perfect-e-government-meets-the-paradox-of-trust) (OECD 2024).
 
 ## Hoja de Ruta

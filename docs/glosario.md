@@ -147,6 +147,7 @@ title: Glosario
 
 | Sigla | Significado |
 |-------|------------|
+| **KPI** | Key Performance Indicator — una **condición medible** que tiene que cumplirse para que se active la siguiente fase del plan. Ejemplo: "cuando el PIB per cápita supere USD 3.000, se abre la subcuenta vivienda del FCV." No es una fecha — es una meta verificable |
 | **VSA** | Venezuela S.A. |
 | **PDVSA** | Petróleos de Venezuela S.A. |
 | **PIB** | Producto Interno Bruto |

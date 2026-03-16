@@ -5,6 +5,10 @@ title: Hubs Tecnológicos
 
 # De 5 Zonas Especiales a 1 País Startup-Friendly
 
+:::tip En pocas palabras
+Zonas del país donde las empresas de tecnología pagan cero impuestos por 10 años. La idea: atraer data centers, startups y empresas globales con la energía más barata del continente. Venezuela como el Singapur de América Latina.
+:::
+
 :::caution La crítica de Vélez (Nubank)
 "5 ZEETs suena a zonas francas de los 90. Lo que funciona hoy es un PAÍS entero que sea startup-friendly. Estonia no tiene zonas especiales — TODO el país es una zona especial."
 

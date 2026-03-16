@@ -5,6 +5,10 @@ title: "Cuba: Desconexión del Aparato de Seguridad"
 
 # Cuba: Desconexión del Aparato de Seguridad
 
+:::tip En pocas palabras
+Cuba controla parte del aparato de seguridad venezolano desde hace 25 años. Esta sección explica cómo se desconecta esa influencia — paso a paso, sin crear un vacío de poder.
+:::
+
 > Sin desconectar a Cuba del aparato de seguridad venezolano, no hay reforma institucional viable, no hay alivio de sanciones y no hay soberanía real. Esto no es geopolítica teórica — es un prerrequisito operativo.
 
 Cuba no "asesora" al aparato de seguridad venezolano. Lo **diseñó, lo opera y lo supervisa**. SEBIN fue modelado sobre la G-2 cubana. DGCIM fue creada con asistencia directa de La Habana. La doctrina de la FANB incorpora control político al estilo cubano. Mientras esta estructura exista, cualquier reforma de seguridad que proponga este plan — desde la [purga policial modelo Georgia](/04-gobernanza/seguridad-fisica) hasta la reforma de la FANB — enfrenta un actor con incentivos directos para sabotearla.

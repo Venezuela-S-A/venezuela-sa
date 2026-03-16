@@ -5,6 +5,10 @@ title: Programa de Retorno
 
 # Programa de Retorno: Traer el Talento de Vuelta
 
+:::tip En pocas palabras
+7,9 millones de venezolanos se fueron. Este plan les ofrece una razón concreta para volver: su cuenta FCV los espera, el mercado laboral necesita su experiencia, y pueden ser co-fundadores — no empleados.
+:::
+
 > La diáspora no es solo capital. Son 7,9 millones de personas que adquirieron habilidades, idiomas, redes y experiencia que Venezuela necesita desesperadamente.
 
 ## El Capital Humano Perdido

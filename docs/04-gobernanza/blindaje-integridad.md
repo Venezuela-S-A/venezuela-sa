@@ -5,6 +5,10 @@ title: "Blindaje de Integridad"
 
 # Blindaje de Integridad: Mapa Completo de Vulnerabilidades
 
+:::tip En pocas palabras
+¿Cómo se evita que roben otra vez? Anticorrupción con tecnología: blockchain para rastrear cada dólar, dashboards públicos, denuncias con recompensa, y cero intermediarios donde puedan meter mano.
+:::
+
 > Cada área del plan tiene vectores de corrupción específicos. No basta con reglas generales — hay que cerrar cada puerta, una por una. Este documento mapea **14 áreas × 12 patrones de corrupción** con mitigaciones concretas.
 
 :::danger Lección de Venezuela 2000-2025

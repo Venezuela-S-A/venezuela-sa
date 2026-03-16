@@ -5,6 +5,10 @@ title: Tesis Central
 
 # Tesis Central: Por Qué Este Plan Es Diferente
 
+:::tip En pocas palabras
+Este plan trata a Venezuela como una empresa de 40 millones de socios. El petróleo paga la transformación, pero el negocio real es tecnología, educación y turismo. Cada ciudadano es accionista — no beneficiario de un político.
+:::
+
 > Este no es un plan de gobierno. Es un modelo de negocio donde cada venezolano es accionista de **Venezuela S.A.** — el holding corporativo que invierte, cobra regalías, administra el Fondo de Inversión Venezuela S.A. y distribuye dividendos. El Estado solo regula.
 
 ## El Cambio Conceptual

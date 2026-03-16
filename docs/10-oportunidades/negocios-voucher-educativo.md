@@ -7,6 +7,23 @@ title: "Negocios del Voucher Educativo"
 
 > El voucher educativo no es solo un mecanismo de financiamiento escolar — es un **mercado de USD 10-30B/año** que crea oportunidades de negocio para cualquier venezolano con una habilidad enseñable. Desde el profesor de básquet del barrio hasta una cadena de colegios bilingües. Todos compiten por los puntos del voucher.
 
+:::danger Principio: NADA es regalado — todo es inversión recuperable
+Todo apoyo tiene **dos modalidades** — nunca es regalo:
+
+| Modalidad | Cómo funciona | Para quién |
+|-----------|--------------|-----------|
+| **Crédito preferencial** | Tasa baja, plazo largo, periodo de gracia. Se paga con ingresos del voucher | Emprendedores que quieren ser 100% dueños |
+| **Participación (venture capital)** | Venezuela S.A. entra como accionista minoritario (10-30%) a cambio de capital + instalaciones + asistencia. Cobra dividendos. El emprendedor puede recomprar la participación cuando pueda | Emprendedores que prefieren socio capitalista a deuda |
+
+Aplica a **todo:**
+- **Instalaciones** de colegios → concesión/comodato (mantener en óptimas condiciones) o JV con Venezuela S.A.
+- **Fondos de modernización** → crédito preferencial O participación VSA
+- **Equipos y tablets** → leasing hasta amortizar
+- **Academias, comedores, transporte** → mismas 2 modalidades
+
+**Esto es venture capital aplicado a educación.** Venezuela S.A. invierte en colegios como un VC invierte en startups — si el colegio crece, VSA gana dividendos. Si quiebra, VSA pierde la inversión (no el emprendedor). El emprendedor siempre puede recomprar la participación de VSA cuando sea rentable.
+:::
+
 :::info El mercado más grande que nadie ve
 8 millones de estudiantes × USD 300-500/mes de voucher = **USD 29-48B/año** fluyendo por el sistema educativo. Eso es más grande que el mercado petrolero doméstico. Cada dólar de ese voucher es un ingreso para alguien: un colegio, un cocinero, un chofer, un profesor de música, un instructor de karate. **El voucher convierte la educación en el sector económico más grande del país.**
 :::
@@ -30,9 +47,9 @@ title: "Negocios del Voucher Educativo"
 | **Payback** | 1-2 meses |
 | **Empleos directos** | 20-25 (docentes + admin + mantenimiento + cocina) |
 
-**Cómo arranca:** El director y 5 profesores forman una cooperativa o SAS. Postulan ante la Agencia de Calidad para acreditación. Reciben fondos de modernización + asistencia técnica. Empiezan a recibir vouchers de los estudiantes del barrio. Si son buenos, atraen estudiantes de otros barrios.
+**Cómo arranca:** El director y 5 profesores forman una cooperativa o SAS. Postulan ante la Agencia de Calidad para acreditación. Reciben el edificio escolar en **concesión/comodato** (deben mantenerlo en óptimas condiciones). Los fondos de modernización (USD 10-30K) son un **crédito a tasa preferencial** pagadero con ingresos del voucher (ej: 5% del ingreso mensual por 3-5 años). Cuando pueden, adquieren el inmueble.
 
-**Riesgo principal:** Si la calidad baja, los padres mueven el voucher. Sin estudiantes = sin ingresos.
+**Riesgo principal:** Si la calidad baja, los padres mueven el voucher. Sin estudiantes = sin ingresos = no pueden pagar el crédito.
 
 ---
 
@@ -42,7 +59,7 @@ title: "Negocios del Voucher Educativo"
 
 | Métrica | Valor |
 |---------|-------|
-| **Inversión por colegio** | USD 100.000-300.000 (terreno + construcción modular + tech) |
+| **Inversión por colegio** | USD 100.000-300.000 (terreno en concesión + construcción modular + tech). Terreno: concesión 20-30 años del Estado o Venezuela S.A. Construcción: crédito de infraestructura |
 | **Red inicial** | 5 colegios (1.875 estudiantes total) |
 | **Inversión total** | USD 500.000-1.500.000 |
 | **Ingreso mensual (5 colegios)** | USD 281.000-469.000 |
@@ -66,7 +83,7 @@ title: "Negocios del Voucher Educativo"
 
 | Métrica | Valor |
 |---------|-------|
-| **Inversión inicial** | USD 5.000-15.000 (cocina industrial + transporte + permisos) |
+| **Inversión inicial** | USD 5.000-15.000 (cocina industrial en leasing + transporte + permisos). Crédito microempresa a tasa preferencial |
 | **Colegios atendidos** | 3-5 |
 | **Estudiantes** | 1.000-1.875 |
 | **Ingreso por almuerzo** | USD 2.00-3.50 (pagado con puntos del voucher) |
@@ -91,7 +108,7 @@ title: "Negocios del Voucher Educativo"
 
 | Métrica | Valor |
 |---------|-------|
-| **Inversión inicial** | USD 15.000-40.000 (2-3 minibuses usados + GPS + seguro) |
+| **Inversión inicial** | USD 15.000-40.000 (2-3 minibuses en leasing + GPS + seguro). Crédito vehicular a tasa preferencial |
 | **Estudiantes por ruta** | 30-40 por bus |
 | **Total estudiantes** | 60-120 |
 | **Ingreso por estudiante** | USD 25-40/mes (pagado con puntos del voucher) |
@@ -138,7 +155,7 @@ title: "Negocios del Voucher Educativo"
 
 | Métrica | Valor |
 |---------|-------|
-| **Inversión inicial** | USD 20.000-80.000 (cancha/dojo + equipos + oficina + marketing) |
+| **Inversión inicial** | USD 20.000-80.000 (cancha/dojo en concesión o alquiler + equipos en leasing + oficina). Crédito emprendimiento a tasa preferencial |
 | **Deportes** | 3-5 (fútbol, béisbol, natación, karate, boxeo) |
 | **Estudiantes** | 200-500 |
 | **Ingreso por estudiante** | USD 20-40/mes (puntos extracurriculares) |
@@ -172,7 +189,7 @@ title: "Negocios del Voucher Educativo"
 
 | Métrica | Valor |
 |---------|-------|
-| **Inversión inicial** | USD 10.000-40.000 (instrumentos + local + insonorización) |
+| **Inversión inicial** | USD 10.000-40.000 (instrumentos en leasing + local en alquiler/concesión + insonorización). Crédito cultural a tasa preferencial |
 | **Estudiantes** | 100-300 |
 | **Programas** | Guitarra, piano, batería, violín, canto, teoría musical |
 | **Ingreso por estudiante** | USD 25-45/mes |

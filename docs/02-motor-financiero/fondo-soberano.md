@@ -6,7 +6,7 @@ title: Fondo de Inversión Venezuela S.A.
 # Fondo de Inversión Venezuela S.A.: El Modelo Noruega
 
 :::danger Distinción clave: El Fondo de Inversión Venezuela S.A. NO es del Estado
-El Fondo de Inversión Venezuela S.A. es administrado por **Venezuela S.A.** — el holding corporativo de los 40 millones de ciudadanos-accionistas. El Estado NO administra el fondo, NO cobra regalías, NO opera empresas. Venezuela S.A. cobra regalías de concesiones y JVs, alimenta el fondo, y distribuye dividendos. El Estado solo regula y provee sus 5 funciones (gobierno, salud, justicia, educación, seguridad).
+El Fondo de Inversión Venezuela S.A. es administrado por **Venezuela S.A.** — el holding corporativo de los 40 millones de ciudadanos-accionistas. El Estado NO administra el fondo, NO cobra regalías, NO opera empresas. Venezuela S.A. cobra regalías de concesiones y JVs, alimenta el fondo, y distribuye dividendos. El Estado solo financia y supervisa sus 5 funciones (gobierno, salud, justicia, educación, seguridad).
 :::
 
 El fondo noruego: [USD 2,2 T a fines de 2025](https://www.nbim.no/en/investments/the-funds-value/), [USD 247.000 M de beneficio en 2025](https://www.cnbc.com/2026/01/29/norway-sovereign-wealth-fund-2025-return-nbim-trillion-oil-stocks-tech-ai-banks-silver.html), 7.200+ empresas, 1,5% de todas las acciones globales, [25% del presupuesto noruego](https://fortune.com/europe/2025/07/30/how-sparsely-populated-norway-amassed-1-8-trillion-sovereign-wealth-fund/).

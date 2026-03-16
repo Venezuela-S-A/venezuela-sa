@@ -49,12 +49,15 @@ El petróleo genera ingresos. La hidroeléctrica genera electricidad barata. Big
 
 ## Las Rondas de Financiamiento
 
+:::caution Fechas ilustrativas — las rondas se activan por KPIs y condiciones, no por calendario
+:::
+
 ```mermaid
 flowchart LR
-    PS["<b>Pre-Seed</b><br/>Diáspora<br/>USD 25-60M<br/>Día 1<br/><i>SIN GOBIERNO</i>"] --> S["<b>Seed</b><br/>Bonos + Forwards<br/>USD 1-5B<br/>Años 1-2"]
-    S --> A["<b>Series A</b><br/>Forwards + Majors<br/>USD 30-50B<br/>Años 2-4"]
-    A --> B["<b>Series B</b><br/>Petróleo + BigTech<br/>USD 50-100B<br/>Años 4-8"]
-    B --> IPO["<b>IPO</b><br/>VIN a mercados<br/>USD 10-30B+<br/>Años 8-12"]
+    PS["<b>Pre-Seed</b><br/>Diáspora<br/>USD 25-60M<br/>Día 1<br/><i>SIN GOBIERNO</i>"] --> S["<b>Seed</b><br/>Licencia 46B + Forwards<br/>USD 5-15B<br/><i>EN PARALELO</i>"]
+    S --> A["<b>Series A</b><br/>Majors + Multilaterales<br/>USD 30-80B<br/><i>EN PARALELO</i>"]
+    A --> B["<b>Series B</b><br/>BigTech + Diversificación<br/>USD 50-100B"]
+    B --> IPO["<b>IPO</b><br/>VIN a mercados<br/>USD 10-30B+"]
 
     style PS fill:#00897B,color:#fff
     style S fill:#0D47A1,color:#fff
@@ -63,13 +66,17 @@ flowchart LR
     style IPO fill:#F9A825,color:#000
 ```
 
-| Ronda | Fuente | Monto | Uso | Plazo |
-|-------|--------|-------|-----|-------|
-| **Pre-Seed** | Diáspora (privada) | USD 25–60 M | Plataformas, censo, legal, app | Día 1 (sin gobierno) |
-| **Seed** | Bonos + forwards | USD 1–5.000 M | Estabilización + energía | Años 1–2 |
-| **Series A** | Forwards + majors | USD 30–50.000 M | Producción 1,4M bpd + Guri | Años 2–4 |
-| **Series B** | Ingresos + BigTech | USD 50–100.000 M | Hubs tech, data centers | Años 4–8 |
-| **IPO** | VIN a mercados | USD 10–30.000 M+ | Portafolio tech listado | Años 8–12 |
+| Ronda | KPI de activación | Fuente | Monto | Uso | Paralelo con |
+|-------|------------------|--------|-------|-----|-------------|
+| **Pre-Seed** | Inmediato — no necesita gobierno | Diáspora (privada) | USD 25–60 M | Plataformas FCV, censo digital, legal, app | — |
+| **Seed** | [Licencia 46B activa](https://www.infobae.com/venezuela/2026/03/14/eeuu-autorizo-a-las-empresas-estadounidenses-realizar-negocios-con-el-sector-petrolero-venezolano/) (ya cumplida) + gobierno de transición operativo | Forwards + primeras JVs + bonos ciudadanos | USD 5–15.000 M | Estabilización + energía + FCV operativo + salarios docentes + seguridad básica | **Educación + Salud + Infraestructura arrancan en paralelo** |
+| **Series A** | Producción >1.3M bpd + formalización >40% + 3+ JVs firmadas | Majors (Licencia 46B permite a todas) + multilaterales (FMI post-reestructuración) | USD 30–80.000 M | Producción a 2M+ bpd + Guri rehabilitado + concesiones de infraestructura + data centers | **Turismo + agro + minería formalizada en paralelo** |
+| **Series B** | Producción >2M bpd + PIB/cápita >USD 5K + formalización >55% | Ingresos propios + BigTech + VC internacional | USD 50–100.000 M | Hubs tech, diversificación, FCV al 23%, VenDev operativo | **Todo el portafolio crece simultáneamente** |
+| **IPO** | PIB/cápita >USD 8K + fondo >USD 100B + investment grade path | VIN a mercados internacionales | USD 10–30.000 M+ | Portafolio tech listado, acciones ciudadanas en bolsa | — |
+
+:::info La Licencia 46B cambia la secuencia
+Antes de la Licencia 46B (14-mar-2026), las rondas eran secuenciales: primero Chevron, luego licencias individuales, luego majors. **Ahora son paralelas:** todas las empresas de EE.UU. pueden operar simultáneamente. Eso significa que petróleo, servicios petroleros, oro, fertilizantes y infraestructura asociada arrancan al mismo tiempo — no en secuencia. El Seed y la Series A se superponen.
+:::
 
 ---
 

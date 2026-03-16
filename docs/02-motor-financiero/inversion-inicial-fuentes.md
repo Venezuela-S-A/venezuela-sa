@@ -137,11 +137,11 @@ flowchart LR
     style D fill:#F9A825,color:#000
 ```
 
-| Fase | Señal creíble | Inversión que desbloquea | Monto estimado |
-|------|--------------|--------------------------|----------------|
-| **1: Instituciones** (Año 0-1) | Dashboard anticorrupción público, reglas fiscales legisladas, nombramiento de equipo negociador de deuda, acuerdo stand-by FMI | Chevron expande operaciones, primeras licencias OFAC | **USD 3.000–5.000 M** |
-| **2: Primeros contratos** (Año 1-3) | Primeros forward contracts firmados, JV con 2-3 majors, Citgo estabilizado | Oil majors amplían JVs (TotalEnergies, Shell, Repsol), multilaterales desembolsan | **USD 10.000–20.000 M** |
-| **3: Ejecución demostrada** (Año 3-5) | 2 años de cumplimiento fiscal, producción subiendo (1.5M+ bpd), primer desembolso del Fondo de Inversión Venezuela S.A. | Full upstream investment, sector financiero, BigTech data centers | **USD 50.000–100.000 M** |
+| Fase | KPI de activación | Qué se desbloquea | Monto | Qué corre en paralelo |
+|------|-------------------|-------------------|-------|----------------------|
+| **1: Instituciones** | Dashboard anticorrupción, reglas fiscales, equipo negociador, FCV operativo | [Licencia 46B ya activa](https://www.infobae.com/venezuela/2026/03/14/eeuu-autorizo-a-las-empresas-estadounidenses-realizar-negocios-con-el-sector-petrolero-venezolano/): TODAS las empresas de EE.UU. autorizadas. Forwards + primeras JVs | **USD 5.000–15.000 M** | Educación (voucher + salarios docentes) + Salud (FCV Salud) + Seguridad básica |
+| **2: Primeros resultados** | Producción >1.3M bpd, formalización >40%, 3+ JVs firmadas, Citgo estabilizado | Majors amplían JVs, multilaterales desembolsan, concesiones de infraestructura | **USD 30.000–80.000 M** | Turismo + agro + minería + data centers — todo en paralelo |
+| **3: Ejecución demostrada** | Producción >2M bpd, PIB/cápita >USD 5K, formalización >55%, fondo >USD 30B | Full upstream, BigTech, VC internacional, diversificación completa | **USD 50.000–100.000 M** | Economía diversificada — petróleo <50% de ingresos |
 
 ### Por Qué Funciona
 

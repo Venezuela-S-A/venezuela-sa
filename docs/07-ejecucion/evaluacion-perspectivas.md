@@ -688,6 +688,64 @@ Las nuevas perspectivas del equipo ejecutor (promedio 6.4/10) son más duras que
 
 **Seguridad (5.7/10) es ahora el nuevo cuello de botella** — reemplazó a China (que subió de 5.0 a 8.5). El plan tiene la arquitectura correcta pero necesita detalle operativo de seguridad para ser creíble ante inversores que preguntan: "¿es seguro poner USD 1B en un data center junto a Guri?"
 
-*1.518 documentos en el índice. Build: 0 errores. 28 perspectivas activas.*
-*Score histórico: 6.2 → 6.8 → 7.0 → 7.4 → 7.4 → **7.5/10***
-*Meta: 8.0/10. Brecha: seguridad operativa + CFIUS/MSP + FMI legal + equipo nombrado.*
+---
+
+## Evaluación 7: Score Final Post-Gaps + Anticorrupción Militar (16 mar. 2026)
+
+:::info Metadatos
+- **Fecha:** 16 de marzo de 2026 (séptima evaluación — cierre de sesión)
+- **Cambios evaluados:** 10 gaps resueltos + framework anticorrupción militar (6 mecanismos) + estrategia-china.md + forwards recalibrados + ICSID laudos + FMI SMP→EFF + CEO perfil + 11 perfiles referencia + presupuesto seguridad USD 18-25B
+:::
+
+### Scores por sección (final)
+
+| Sección | Eval 6 | **Eval 7** | Delta |
+|---|---|---|---|
+| Fundamentos | 7.3 | **7.5** | +0.2 |
+| **Motor Financiero** | 7.3 | **7.8** | **+0.5** |
+| Ciudadanos | 7.5 | **7.7** | +0.2 |
+| **Gobernanza** | 8.5 | **8.8** | **+0.3** |
+| Transformación | 7.5 | **7.7** | +0.2 |
+| Realidad | 7.0 | **7.2** | +0.2 |
+| **Ejecución** | 7.0 | **7.6** | **+0.6** |
+
+### Re-evaluación Seguridad/DDR (la mayor mejora)
+
+| Dimensión | Eval 6 | **Eval 7** | Delta |
+|---|---|---|---|
+| Reforma FANB | 5.0 | **7.5** | +2.5 |
+| DDR colectivos | 5.0 | **7.0** | +2.0 |
+| Control territorial | 6.5 | **8.0** | +1.5 |
+| Policía | 6.0 | **7.0** | +1.0 |
+| Seguridad primero | 5.0 | **7.5** | +2.5 |
+| Costo | 5.5 | **7.0** | +1.5 |
+| Cuba desconexión | 7.0 | **8.0** | +1.0 |
+| **Promedio Seguridad** | **5.7** | **7.4** | **+1.7** |
+
+> *"El framework anticorrupción militar con sus 6 mecanismos es genuinamente innovador — tratar a la FANB como una reestructuración corporativa en vez de una reforma militar es el modelo mental correcto."* — Experto DDR
+
+### Scores por grupo de perspectivas (final)
+
+| Grupo | Eval 6 | **Eval 7** | Delta |
+|---|---|---|---|
+| Ideológicas (21) | 7.4 | **7.5** | +0.1 |
+| Equipo ejecutor (5) | 7.6 | **8.0** | +0.4 |
+| Estratégicas (2) | 6.6 | **7.4** | +0.8 |
+| **Global (28)** | **7.5** | **7.7** | **+0.2** |
+
+### Score global: **7.7/10**
+
+### Para llegar a 8.0/10 (+0.3):
+
+| Acción | Tipo | Impacto |
+|---|---|---|
+| Nombres comprometidos en equipo ejecutor | **Operativo** | +0.15 |
+| MVP plataforma ciudadana (prototipo) | **Producto** | +0.10 |
+| CFIUS + Minerals Security Partnership | **Documental** | +0.05 |
+| Datos duros infraestructura (Guri %, fibra km) | **Datos** | +0.05 |
+
+**El plan ha alcanzado el techo documental.** El próximo salto requiere personas reales, producto real y datos de campo reales.
+
+*1.530 documentos en el índice. Build: 0 errores. 28 perspectivas activas.*
+*Score histórico: 6.2 → 6.8 → 7.0 → 7.4 → 7.4 → 7.5 → **7.7/10***
+*Meta: 8.0/10. Brecha: equipo nombrado + MVP + CFIUS/MSP + datos de campo.*

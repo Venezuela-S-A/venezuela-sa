@@ -275,7 +275,7 @@ Aplica a **todo:**
 | **Payback** | 5-24 meses |
 | **Empleos** | 4-8 |
 
-**Modelo híbrido:** Profesores nativos por video (USD 10-15/hora desde Filipinas o Nigeria) + tutor local presencial. Reduce costos, aumenta calidad.
+**Modelo híbrido:** Profesores de la **diáspora venezolana** por video (USD 10-15/hora desde EE.UU., España, Chile, Colombia) + tutor local presencial. Prioridad: venezolanos bilingües en el exterior — conocen el contexto, hablan español, y es ingreso para la diáspora + conexión con el país. Si no hay suficientes venezolanos para cubrir la demanda, se complementa con nativos de otros países. **7,9M de venezolanos afuera = pool de talento docente inexplorado.**
 
 ---
 

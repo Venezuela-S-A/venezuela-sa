@@ -228,11 +228,15 @@ A diferencia de Colombia ([BIT con EE.UU. vigente desde 2012](https://investment
 
 ### Timeline propuesto
 
+:::caution Corrección post-evaluación legal: el BIT debe arrancar en Fase 1, no en Fase 2
+La perspectiva Legal ICSID (score 7.5/10) identificó que posponer el BIT a 2028-2032 desperdicia 6-8 años de protección jurídica cuando más se necesita — justo cuando las majors están entrando con USD 10-30B. La negociación del BIT no requiere levantamiento total de sanciones y la negociación misma es una señal de credibilidad ante OFAC.
+:::
+
 | Fase del roadmap | Acción BIT | Dependencia |
 |-----------------|-----------|-------------|
-| **Fase 2-3** (2028-2032) | Iniciar negociaciones formales del BIT durante proceso de levantamiento de sanciones financieras | Gobierno democrático instalado + reformas judiciales iniciadas |
-| **Fase 3-4** (2030-2034) | Firma del BIT + ratificación por Senado de EE.UU. y Parlamento venezolano | Track record de 2+ años de respeto a propiedad privada |
-| **Fase 4-5** (2032-2036) | BIT operativo + reingreso a ICSID o mecanismo arbitral equivalente | Normalización plena de relaciones |
+| **Fase 1** (Año 1) | **Iniciar negociaciones del BIT simultáneamente con reingreso a ICSID.** La negociación es la señal — no esperar a que todo esté listo | Reingreso a ICSID (90 días) + nombramiento de equipo legal internacional |
+| **Fase 1-2** (Año 1-3) | Firma del BIT + ratificación. Incluir capítulo de inversión en cualquier acuerdo comercial que se negocie | Gobierno de transición + apoyo de EE.UU. (ya existente post-Ormuz) |
+| **Fase 2-3** (Año 3-5) | BIT operativo + primeros casos bajo el nuevo marco. Señal a inversores de que los contratos se respetan | Track record verificable de 1-2 años |
 
 ### Precedentes regionales
 

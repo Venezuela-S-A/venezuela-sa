@@ -835,6 +835,28 @@ xychart-beta
 Singapur gobierna a 5,9 M de personas con ~150 mil empleados públicos. Estonia a 1,3 M con ~130 mil. Venezuela con 40 M NO necesita 2,5 M de funcionarios. Con automatización + concesiones, la meta es ~700 mil empleados públicos al Año 7 — los mejores pagados de LATAM, en las 5 funciones esenciales.
 :::
 
+#### Costeo de las 3 opciones — USD 4.500-8.000 M en 5 años
+
+| Opción | Beneficiarios est. | Costo unitario | Costo total | Período |
+|--------|-------------------|---------------|-------------|---------|
+| **Jubilación anticipada** | ~500.000 (funcionarios >50 años) | USD 3.000-6.000 (bonificación 6-12 meses salario) | **USD 1.500-3.000 M** | Años 1-3 |
+| **Reconversión laboral** | ~1.000.000 (funcionarios <50 años) | USD 2.000-3.000 (programa 6 meses: capacitación + estipendio) | **USD 2.000-3.000 M** | Años 1-5 |
+| **Emprendimiento** | ~200.000 (con vocación emprendedora) | USD 5.000-10.000 (capital semilla + exención fiscal) | **USD 1.000-2.000 M** | Años 1-5 |
+| **Total** | **~1.700.000** | — | **USD 4.500-8.000 M** | **5 años** |
+
+:::tip Financiamiento: la fusión 34 → 10 ministerios libera USD 2-4B/año
+La consolidación de **34 ministerios a 10** genera ahorros operativos de **USD 2.000-4.000 M/año** por eliminación de duplicidades, nóminas paralelas, sedes redundantes y gastos de representación. En 5 años, los ahorros acumulados (**USD 10.000-20.000 M**) cubren con holgura el costo de transición laboral (**USD 4.500-8.000 M**). El programa se autofinancia.
+
+| Año | Ahorro por consolidación | Gasto en transición laboral | Neto |
+|-----|------------------------|-----------------------------|------|
+| 1 | USD 2.000-4.000 M | USD 2.000-3.000 M (pico: jubilaciones + primeras cohortes) | USD -1.000 a +1.000 M |
+| 2 | USD 2.000-4.000 M | USD 1.500-2.500 M | USD +500 a +1.500 M |
+| 3 | USD 2.000-4.000 M | USD 1.000-1.500 M | USD +1.000 a +2.500 M |
+| 4-5 | USD 2.000-4.000 M/año | USD 500-1.000 M/año (últimas cohortes) | USD +1.500 a +3.000 M/año |
+
+Referencia: [Georgia 2004-2008](https://www.worldbank.org/en/country/georgia) redujo empleados públicos un 35% con programas de reconversión financiados por ahorros de la propia reforma. [Estonia](https://e-estonia.com/) eliminó el 50% de la burocracia en 10 años con digitalización.
+:::
+
 ---
 
 ### Recuperación de Fondos Públicos Desviados

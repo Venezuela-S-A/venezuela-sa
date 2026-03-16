@@ -168,6 +168,24 @@ Ningún miembro del equipo ejecutivo tiene inmunidad judicial. El Fiscal Naciona
 
 > No se trata de contratar a estas personas. Se trata de reclutar perfiles **equivalentes** — gente que ha hecho exactamente esto en otro contexto.
 
+### Rol 0: CEO / Administrador General de Venezuela S.A.
+
+:::danger El rol más importante y el más difícil de llenar
+LKY (7.5/10): *"Tienes un CRO, un abogado, un negociador China, un representante FMI y un director de comms — pero ¿a quién le reportan? Una startup con cinco VPs y cero CEO es un comité, y los comités no reconstruyen naciones."*
+:::
+
+El CEO es quien lidera la ejecución del plan completo. No es un político — es un ejecutivo de clase mundial que opera Venezuela S.A. como un holding corporativo de USD 500B+ con 40M accionistas.
+
+| Perfil de referencia | Logro verificable | Relevancia para Venezuela |
+|---------------------|-------------------|--------------------------|
+| **Kakha Bendukidze** (modelo histórico) — Empresario ruso-georgiano → Ministro de Reforma, Georgia 2004 | Georgia de puesto 137 a 11 en Ease of Doing Business. Flat tax 12%. Eliminó 90% de licencias. Dijo: *"Vender todo excepto el honor"* | **El arquetipo exacto.** Empresario exitoso que acepta el reto de reconstruir un Estado. No político de carrera, no burócrata — ejecutor con track record |
+| Perfil tipo: **Ex-CEO de fondo soberano o corporación extractiva en mercado emergente** | Gestión de operaciones de USD 10B+, múltiples países, rendición de cuentas pública. Bilingüe. Dispuesto a relocalización | Perfiles tipo: ex-CEO de [Equinor](https://www.equinor.com/) (NOC noruega), ex-Director de [Temasek](https://www.temasek.com.sg/) (holding estatal de Singapur), ex-CEO de operación LATAM de major petrolera |
+| Perfil tipo: **Fundador/CEO de unicornio LATAM con experiencia en regulación** | Alguien que haya construido una empresa de USD 1B+ en LATAM navegando regulación compleja, informalidad y riesgo país | Perfiles tipo: fundadores de [Nubank](https://www.nu.com.br/), [MercadoLibre](https://www.mercadolibre.com/), [Globant](https://www.globant.com/) — entienden escala, regulación y capital en LATAM |
+
+**Compensación:** Percentil 95 del mercado (no 75). LKY pagaba USD 1M+ a sus ministros. Para un CEO que gestiona USD 500B+ en activos, la compensación debe ser competitiva con CEOs de fondos soberanos (NBIM: ~USD 1-2M/año + bono por desempeño). Ver [modelo de compensación](#modelo-de-compensación).
+
+---
+
 ### Rol 1: Chief Restructuring Officer (CRO) / Dir. Financiera
 
 El CRO es quien negocia con acreedores, estructura los forwards petroleros, y diseña la arquitectura financiera del plan. Necesita haber reestructurado deuda soberana de USD 10B+.

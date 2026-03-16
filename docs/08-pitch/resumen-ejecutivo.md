@@ -105,7 +105,7 @@ xychart-beta
 
 | Stakeholder | Inversión | Retorno | Horizonte |
 |-------------|-----------|---------|-----------|
-| **Ciudadano** (40M) | USD 0 (FCV desde nacimiento) | FCV: USD 463K a los 65 (salario mín.) + pensión USD 1.408/mes + casa propia + dividendo | Desde el Día 1 |
+| **Ciudadano** (40M) | USD 0 (FCV desde nacimiento) | FCV: USD 463K a los 65 (23% salario × 40 años × 5% compuesto. [Ver cálculo](/04-gobernanza/modelo-estado#anexo-ejemplo--ciclo-de-vida-del-fcv-con-salario-mínimo)) + pensión USD 1.408/mes + casa propia + dividendo | Desde el Día 1 |
 | **Diáspora** (7,9M) | USD 10–5.000 (bonos/VIN) | 4–8% anual + dividendo + programa retorno | Año 1→15 |
 | **Oil Major** (Chevron, Shell, etc.) | USD 30–50.000 M (JVs) | Acceso a 303.000 M barriles | Año 2→30 |
 | **BigTech** (AWS, Google, etc.) | USD 5–10.000 M (data centers) | Energía más barata de LATAM | Año 4→20 |

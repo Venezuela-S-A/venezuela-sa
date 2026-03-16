@@ -197,6 +197,73 @@ Venezuela [se retiró del ICSID](https://icsid.worldbank.org/) (Centro Internaci
 
 **Acción:** Reincorporarse a ICSID en los primeros **90 días**. Es un trámite + señal política de máximo impacto.
 
+### Reestructuración de Laudos ICSID Pendientes
+
+:::danger El elefante en la sala: USD 10–20B en arbitrajes pendientes
+Venezuela enfrenta **USD 19.000+ M en reclamos ICSID registrados** — resultado directo de las expropiaciones de 2007–2014. No se puede reentrar a ICSID ni atraer inversión seria sin confrontar estos laudos. Ignorarlos no los hace desaparecer: los acreedores ya persiguen activos venezolanos en tribunales de Delaware, Países Bajos y Singapur.
+:::
+
+#### Laudos Principales Pendientes
+
+| Caso | Demandante | Monto (USD) | Estado | Activo en juego |
+|------|-----------|-------------|--------|-----------------|
+| **ConocoPhillips** | ConocoPhillips (EE.UU.) | **~8.700 M** | [Laudo firme 2019](https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB/07/30), pendiente de cobro | Participación en Petrozuata y Hamaca |
+| **Crystallex** | Crystallex International (Canadá) | **~1.400 M** | [Laudo firme 2016](https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB(AF)/11/2). Tribunal de Delaware autorizó embargo de Citgo | Mina Las Cristinas + Citgo como garantía |
+| **OI European** | OI European Group (Países Bajos) | **~500 M** | Laudo firme. En fase de ejecución | Planta de vidrio expropiada |
+| **Gold Reserve** | Gold Reserve (Canadá) | **~740 M** | [Laudo firme 2014](https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB(AF)/09/1). Acuerdo parcial de pago incumplido | Minas Brisas del Cuyuní |
+| **Tidewater** | Tidewater (EE.UU.) | **~56 M** | Laudo firme 2015, impago | Embarcaciones de soporte offshore |
+| **Koch Minerals** | Koch (EE.UU.) | **~400 M** | En litigio activo | Fertilizantes |
+| **Otros (~15 casos)** | Múltiples | **~5.000–8.000 M** | Varios estados | Diverso |
+| **TOTAL estimado** | — | **~USD 15.000–20.000 M** | — | — |
+
+> Fuentes: [ICSID Case Database](https://icsid.worldbank.org/cases/case-database); [CNBC — Venezuela Distressed Debt](https://www.cnbc.com/2026/01/04/venezuelas-billions-in-distressed-debt-who-is-in-line-to-collect.html); [Investment Arbitration Reporter](https://www.iareporter.com/)
+
+#### Estrategia de Resolución: Haircut Negociado + Citgo como Palanca
+
+```mermaid
+flowchart TD
+    A[Nombrar Coordinador ICSID<br>Perfil Buchheit/Figueroa] --> B[Auditoría de laudos:<br>clasificar por monto, ejecutabilidad, jurisdicción]
+    B --> C{Clasificación}
+    C --> D[Tier 1: ConocoPhillips + Crystallex<br>USD 10B — negociar primero]
+    C --> E[Tier 2: Gold Reserve, OI, Koch<br>USD 1.5B — negociar en bloque]
+    C --> F[Tier 3: Casos menores<br>USD 3-8B — settlement global]
+    D --> G[Oferta: 30-50% en bonos VSA<br>a 10-15 años + participación<br>en nuevas concesiones]
+    E --> G
+    F --> G
+    G --> H[Acuerdo marco vinculado a<br>reestructuración general de deuda]
+```
+
+**Principios de negociación:**
+
+| Principio | Detalle |
+|-----------|---------|
+| **Citgo como palanca, no como sacrificio** | Citgo vale ~USD 13B. Los acreedores ICSID compiten con bonistas PDVSA 2020 por ese activo. Venezuela S.A. usa esa competencia: "negocien haircut o pierdan ante otros acreedores en Delaware". Ver [Citgo](/02-motor-financiero/citgo) |
+| **Haircut objetivo: 50–70%** | ConocoPhillips con laudo de USD 8.7B acepta USD 3–4B en bonos de infraestructura de Venezuela S.A. a 15 años. Precedente: Argentina pagó 25–30% a holdouts después de 15 años |
+| **Pago en instrumentos, no en cash** | Bonos de infraestructura de Venezuela S.A. (deuda corporativa, no soberana). Participación minoritaria en nuevas concesiones petroleras. Derechos preferentes en licitaciones futuras |
+| **Vinculación a deuda general** | Los laudos ICSID se negocian DENTRO de la reestructuración general de USD 150–170B (ver [Deuda](/02-motor-financiero/deuda)), no por separado. Fragmentar debilita la posición |
+| **Oferta mejorada por renuncia a ejecución** | Quien acepte primero obtiene mejores términos. Quien insista en ejecución forzada de Citgo enfrenta litigio de 5–10 años y recupera menos |
+
+#### Secuencia y Timeline
+
+| Fase | Acción | Timeline | Prerequisito |
+|------|--------|----------|-------------|
+| **0** | Nombrar Coordinador ICSID ([perfil Buchheit/Figueroa](/07-ejecucion/equipo-ejecutor)) | Día 1–30 | Gobierno de transición |
+| **1** | Auditoría completa: 40+ casos, clasificación por tier | Mes 1–6 | Coordinador nombrado |
+| **2** | Moratoria negociada: solicitar suspensión de ejecuciones mientras se negocia framework | Mes 3–9 | Señal de buena fe (reingreso a ICSID) |
+| **3** | Oferta marco a Tier 1 (ConocoPhillips, Crystallex) | Mes 6–18 | Programa FMI en marcha |
+| **4** | Settlement de Tier 2 y 3 en bloque | Mes 12–36 | Acuerdo con Tier 1 como precedente |
+| **5** | Resolución completa | **Año 3–5** | Vinculado a reestructuración general |
+
+:::tip Costo de la resolución vs. costo de no resolver
+**Resolver** (con haircut 50–70%): Venezuela S.A. paga USD 5–10B en bonos a largo plazo. Ese costo se absorbe en la reestructuración general de deuda.
+
+**No resolver**: Los laudos acumulan intereses (~5% anual = USD 750M–1B/año). Los acreedores embargan activos en el exterior (Citgo, cuentas PDVSA, cargamentos de crudo). Ningún inversor serio entra a un país con USD 20B en laudos impagos. **El costo de no resolver es infinitamente mayor que el costo de resolver.**
+:::
+
+**Cross-ref:** Perfiles del equipo legal en [Equipo Ejecutor](/07-ejecucion/equipo-ejecutor) (Rol 2: Buchheit, Figueroa, Clark). Estrategia de deuda general en [Deuda](/02-motor-financiero/deuda). Citgo como activo estratégico en [Citgo](/02-motor-financiero/citgo).
+
+---
+
 ### Leapfrogging: Saltar la Banca del Siglo XX
 
 Venezuela no necesita reconstruir el sistema bancario tradicional. Puede **saltarlo**.

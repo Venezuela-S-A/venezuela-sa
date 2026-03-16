@@ -104,7 +104,9 @@
     "linkTo": [
       "fondo-soberano"
     ],
-    "referencedBy": []
+    "referencedBy": [
+      "sistema-financiero"
+    ]
   },
   {
     "id": "fondo-soberano",
@@ -112,6 +114,7 @@
     "linkTo": [],
     "referencedBy": [
       "citgo",
+      "contratos-forward",
       "enfermedad-holandesa",
       "los-que-se-quedaron",
       "blindaje-integridad",
@@ -130,6 +133,7 @@
     "referencedBy": [
       "blindaje-integridad",
       "estado-derecho-moneda",
+      "sistema-financiero",
       "riesgos",
       "petroleo-gas"
     ]
@@ -195,6 +199,16 @@
     "referencedBy": [
       "fondo-soberano",
       "proyecciones"
+    ]
+  },
+  {
+    "id": "equipo-ejecutor",
+    "title": "Equipo Ejecutor",
+    "linkTo": [],
+    "referencedBy": [
+      "transicion-fiscal",
+      "retorno-diaspora",
+      "sistema-financiero"
     ]
   },
   {
@@ -323,7 +337,8 @@
     "title": "Programa de Retorno: Traer el Talento de Vuelta",
     "linkTo": [],
     "referencedBy": [
-      "los-que-se-quedaron"
+      "los-que-se-quedaron",
+      "hubs-tech"
     ]
   },
   {
@@ -337,14 +352,6 @@
       "diversificacion",
       "oportunidades-empresas",
       "oportunidades-negocio"
-    ]
-  },
-  {
-    "id": "equipo-ejecutor",
-    "title": "Equipo Ejecutor",
-    "linkTo": [],
-    "referencedBy": [
-      "retorno-diaspora"
     ]
   },
   {
@@ -816,7 +823,10 @@
     "linkTo": [
       "estado-derecho-moneda",
       "estado-digital",
-      "inversion-ciudadana"
+      "inversion-ciudadana",
+      "citgo",
+      "deuda",
+      "equipo-ejecutor"
     ],
     "referencedBy": [
       "timeline"
@@ -841,7 +851,7 @@
   },
   {
     "id": "evaluacion-perspectivas",
-    "title": "Evaluación Multi-Perspectiva del Plan (20 Perspectivas)",
+    "title": "Evaluación Multi-Perspectiva del Plan (26 Perspectivas)",
     "linkTo": [],
     "referencedBy": []
   },

@@ -182,11 +182,28 @@ flowchart LR
 
 **La ventaja competitiva es la adversidad.** Las startups de Silicon Valley no pueden testear en estas condiciones — no las tienen. Venezuela sí. Cada solución que funcione en Venezuela funciona en el 60% del planeta.
 
+### El binding constraint: talento ML
+
+:::caution Hausmann (5/10): "¿Dónde están los ingenieros de ML?"
+Venezuela necesita **500-1.000 ingenieros de ML** para que este vertical funcione. Estimación doméstica actual: **<50**. La diáspora aporta quizás 200-300 más. Eso deja un gap del 50-70% que aceleradoras no cierran en 3 años.
+:::
+
+| Fuente de talento | Cantidad estimada | Timeline | Mecanismo |
+|---|---|---|---|
+| **Diáspora tech** (ML/AI en Google, Meta, Amazon, etc.) | 200-300 | Año 1-3 | Programa de co-fundación con equity (ver [Retorno Diáspora](/03-ciudadanos/retorno-diaspora)) |
+| **Reskilling intensivo** (ingenieros, matemáticos, físicos → ML) | 300-500 en 5 años | Año 1-5 | Bootcamps 6-12 meses financiados con voucher FCV Educación. Alianza con [Platzi](https://platzi.com/), [Holberton](https://www.holbertonschool.com/), universidades |
+| **Talento extranjero** (fast-track visa tech) | 100-200 | Año 2-5 | Visa tech 30 días + salario competitivo + equity en startups. Modelo [Start-Up Chile](https://startupchile.org/) |
+| **Partnerships corporativos** (secondments de Google/Meta/Microsoft Research) | 50-100 | Año 1-3 | Venezuela como campo de pruebas → corporativos envían investigadores a cambio de datos y acceso |
+| **Total** | **650-1.100** en 5 años | | |
+
+**Sin este talento, el vertical de IA offline-first no existe.** Es la inversión más importante después de la infraestructura física.
+
 **Integración con ZEETs:** Las 5 ZEETs incluyen un vertical de "IA para mercados emergentes" con:
 - Aceleradoras especializadas en offline-first AI
 - Partnerships con Google Research, Meta AI, Microsoft Research (que ya invierten en esto)
 - Acceso a Venezuela como campo de pruebas real (no simulado)
 - Exportación vía la red de distribución de la diáspora (7.9M en 40+ países)
+- **Pipeline de talento ML**: 500-1.000 ingenieros en 5 años vía diáspora + reskilling + extranjeros
 
 ---
 

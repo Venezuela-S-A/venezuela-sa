@@ -32,16 +32,83 @@ Las referencias a "Año X" en este documento son **ilustrativas**. Las fases rea
 
 > Fuentes: [AidData](https://www.aiddata.org/blog/how-chinas-oil-backed-lending-in-venezuela-fell-into-distress); [Columbia CGEP](https://www.energypolicy.columbia.edu/venezuela-china-oil-ties-severely-impacted-by-us-action/); [RAND](https://www.rand.org/pubs/commentary/2026/01/china-could-play-spoiler-in-venezuelas-debt-restructuring.html)
 
-## Proyección a USD 60/barril
+## Proyección Realista: Forwards por Tranches
 
-| Escenario | Barriles | Precio | Valor Contractual | Adelanto (20–25%) |
-|-----------|----------|--------|-------------------|-------------------|
-| Conservador | 40.000 M | USD 55 | USD 2,2 T | USD 440–550.000 M |
-| **Base** | **60.000 M** | **USD 60** | **USD 3,6 T** | **USD 720–900.000 M** |
-| Optimista | 80.000 M | USD 65 | USD 5,2 T | USD 1,04–1,3 T |
+:::danger Por qué la tabla anterior estaba mal
+Un forward prepagado de USD 720B no existe en ningún mercado del mundo. Los forwards petroleros reales se estructuran en **tranches de USD 5–15B** por operación. El mercado total de prepaid forwards de commodities mueve ~USD 50–80B/año globalmente. Venezuela no puede absorber más que una fracción de eso. Los números anteriores confundían "valor contractual total de 60.000M de barriles" con "adelanto disponible hoy" — son cosas radicalmente distintas.
+:::
+
+### Nota sobre el Valor Presente Neto (NPV)
+
+El "adelanto" de un forward **no es 20–25% del valor facial**. Es el **NPV del flujo de entrega descontado al costo de oportunidad del comprador**. Un barril a USD 60 entregado en el año 10, con tasa de descuento del 10%, vale hoy:
+
+> **NPV = USD 60 / (1.10)^10 = ~USD 23**
+
+El comprador no paga USD 12–15 (20–25% de USD 60) como "adelanto". Paga **~USD 23 por cada barril futuro**, pero exige cobertura de riesgo país, riesgo operativo y margen de trading. En la práctica, para Venezuela con su perfil de riesgo actual, el descuento efectivo puede ser **60–70%** del valor nominal. Cada tranche se negocia con su propio descuento según el plazo de entrega y la credibilidad acumulada.
+
+### Estructura por Tranches
+
+| Tranche | Período | Volumen comprometido | Precio base | Valor nominal | Adelanto estimado (NPV ajustado) | Perfil de riesgo |
+|---------|---------|---------------------|-------------|---------------|----------------------------------|-------------------|
+| **T1** | Año 1–2 | 150–250 M bbl | USD 55–60 | USD 9–15B | **USD 5–8B** | Máximo riesgo → máximo descuento (45–55% del nominal) |
+| **T2** | Año 3–5 | 300–500 M bbl | USD 60 | USD 18–30B | **USD 10–15B** | Riesgo medio → descuento moderado (50–60% del nominal) |
+| **T3** | Año 5–10 | 500–800 M bbl | USD 60 | USD 30–48B | **USD 15–25B** | Riesgo bajo → descuento estándar (55–65% del nominal) |
+| **TOTAL** | **15 años** | **950–1.550 M bbl** | **USD 60** | **USD 57–93B** | **USD 30–48B** | Promedio ponderado |
+
+:::info Contexto de mercado
+- **Vitol** (mayor commodity trader del mundo) mueve ~USD 400B/año en volumen. Un tranche de USD 5–10B es grande pero no descabellado para un consorcio de traders.
+- **Chad (2014):** Glencore prepagó ~USD 1.5B por forward de crudo. Venezuela tiene 300x más reservas.
+- **Ghana (2015):** Forward con traders por USD 1B para estabilizar balanza.
+- **Iraq (post-2003):** Múltiples forwards de USD 2–5B con traders durante reconstrucción.
+- El total de **USD 30–48B en 15 años** es ambicioso pero estructurable — equivale a 3–4 operaciones de USD 5–15B escalonadas.
+:::
+
+### Contrapartes Potenciales
+
+| Tipo | Empresa | Capacidad estimada | Interés estratégico |
+|------|---------|-------------------|---------------------|
+| **Commodity Traders** | [Vitol](https://www.vitol.com/), [Trafigura](https://www.trafigura.com/), [Glencore](https://www.glencore.com/) | USD 3–10B por tranche | Acceso a crudo pesado de la Faja (escaso, alta demanda en refinerías especializadas). Ya operan en Venezuela vía licencias OFAC |
+| **Majors (JV-linked)** | Chevron, Shell, Repsol, ENI | USD 2–5B como prepago vinculado a JV | Asegurar volumen de sus propias JVs. Chevron ya opera Petropiar/Petroboscán bajo GL44 |
+| **Bilateral soberano** | China (CDB/CITIC), India (OVL) | USD 5–15B por tranche bilateral | China: continuidad de relación (USD 60B+ históricos). India: diversificar fuera de Medio Oriente |
+| **Trading arms de NOCs** | Saudi Aramco Trading, ADNOC Trading | USD 1–3B | Blending con crudo pesado venezolano para optimizar refinación |
+
+:::caution Regla de diversificación: ningún comprador > 25% del volumen total
+El error con China fue concentrar el 85% en un solo acreedor. Cada tranche debe tener **mínimo 3 contrapartes** y ninguna puede superar el 25% del volumen comprometido total. Esto se estructura vía cuentas escrow con auditoría Big 4.
+:::
+
+### Flujo del Forward Prepagado
+
+```mermaid
+flowchart LR
+    A[Venezuela S.A. compromete volumen] --> B[Escrow con Big 4]
+    B --> C{Contrapartes depositan adelanto}
+    C --> D[Vitol/Trafigura: USD 3-5B]
+    C --> E[Chevron JV-linked: USD 2-3B]
+    C --> F[China CDB: USD 5-8B]
+    C --> G[Otros: USD 2-5B]
+    D --> H[Fondos liberados por KPIs]
+    E --> H
+    F --> H
+    G --> H
+    H --> I[Inversión en producción + infraestructura]
+    I --> J[Entrega de crudo según calendario]
+    J --> B
+```
+
+### Comparación: Tabla Anterior vs. Recalibrada
+
+| Métrica | Versión anterior | Versión recalibrada | Por qué |
+|---------|-----------------|---------------------|---------|
+| Barriles comprometidos | 60.000 M (60B) | 950–1.550 M (~1–1.5B) | No se comprometen 20% de las reservas totales en forwards. Se compromete producción incremental de 15 años |
+| Valor facial | USD 3,6 T | USD 57–93B | Proporcional al volumen realista |
+| Adelanto total | USD 720–900B | **USD 30–48B** | NPV ajustado por riesgo, no 20% de facial |
+| Número de contrapartes | No especificado | **Mínimo 3 por tranche, cap 25%/contraparte** | Lección China |
+| Estructura | Un solo contrato masivo | **3 tranches escalonados** por plazo y riesgo | Así funcionan los forwards reales |
 
 :::info Precio actual vs. base del plan
-Brent hoy: ~USD 100 (crisis Ormuz). [EIA proyecta](https://www.eia.gov/outlooks/steo/) ~$64 para 2027. Usamos $60 para eliminar riesgo. Todo por encima es upside.
+Brent hoy: ~USD 100 (crisis Ormuz). [EIA proyecta](https://www.eia.gov/outlooks/steo/) ~$64 para 2027. Usamos $60 para eliminar riesgo. Todo por encima es upside al [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano)
+
+**Fuentes:** [Vitol Annual Review 2024](https://www.vitol.com/); [Glencore Annual Report 2024](https://www.glencore.com/investors/reports-and-results); [AidData — China loans](https://www.aiddata.org/blog/how-chinas-oil-backed-lending-in-venezuela-fell-into-distress); [Natural Resource Governance Institute — Commodity-Backed Loans](https://resourcegovernance.org/)
 :::
 
 ---

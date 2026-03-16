@@ -111,8 +111,22 @@ La transición fiscal NO funciona si el presupuesto sigue dependiendo del petró
 | Ingresos petroleros al presupuesto | USD 10.100 M (53%) | USD 12.000 M (40%) | USD 5.000 M* (10%) | *vía retiro 3-4% del fondo |
 | Otros ingresos (dividendos, turismo, gas) | USD 2.000 M (10%) | USD 5.000 M (15%) | USD 15.000 M (30%) | Diversificación |
 | Remesas/contribuciones diáspora | ~USD 500 M (3%) | USD 1.500 M (5%) | USD 5.000 M (10%) | Plataforma M-Pesa |
-| **Total presupuesto** | **USD 22.700 M** | **~USD 30.000 M** | **~USD 50.000 M** | — |
-| **% petrolero directo** | **53%** | **40%** | **10%** | — |
+| **Impuestos selectivos (excise)** | **~USD 0** | **USD 1.000–2.000 M (3–5%)** | **USD 2.500–4.000 M (5–7%)** | Alcohol, tabaco, combustibles, carbono (ver nota abajo) |
+| **Total presupuesto** | **USD 22.700 M** | **~USD 31.000–32.000 M** | **~USD 52.500–54.000 M** | — |
+| **% petrolero directo** | **53%** | **37–39%** | **9–10%** | — |
+
+:::tip Impuestos selectivos (excise taxes) — recomendación estándar FMI
+Los **excise taxes** sobre alcohol, tabaco, combustibles y emisiones de carbono son una recomendación recurrente del FMI para economías en transición. Generan **1-2% del PIB** con baja distorsión económica y beneficios colaterales en salud pública y medio ambiente.
+
+| Excise tax | Base imponible | Recaudación estimada (año 7) | Referencia |
+|------------|---------------|------------------------------|------------|
+| Tabaco | ~4M fumadores, impuesto USD 0,50-1,00/cajetilla | USD 300-500 M | [OMS: WHO Framework Convention](https://fctc.who.int/) — recomienda impuestos >75% del precio retail |
+| Alcohol | Impuesto ad valorem 20-30% sobre bebidas alcohólicas | USD 200-400 M | [OECD Tax Policy](https://www.oecd.org/tax/tax-policy/) |
+| Combustibles | Impuesto de USD 0,10-0,20/litro (gasolina y diésel) | USD 400-800 M | Subsidio actual es negativo — cualquier impuesto es ganancia neta |
+| Carbono | USD 5-10/ton CO₂ (fase inicial, sube gradualmente) | USD 200-400 M | [Banco Mundial: Carbon Pricing Dashboard](https://carbonpricingdashboard.worldbank.org/) — 73 jurisdicciones ya lo aplican |
+
+Estos impuestos cierran la **brecha fiscal de los años 3-7** — el período donde los ingresos tributarios crecen pero todavía no compensan la reducción del aporte petrolero al presupuesto. Son fáciles de administrar (se cobran en origen, no al consumidor final) y políticamente viables porque gravan externalidades negativas, no trabajo ni inversión.
+:::
 
 ### Comparación con modelo Milei (Argentina): Esto NO es shock
 
@@ -174,6 +188,65 @@ Para que ningún gobierno futuro revierta la transición:
 | 7 | Constitucional blindado | 45% | 55% |
 | 10 | Automático | 30% | 70% |
 | 15 | **Regla Noruega activa** | **Retiro 3–4% del fondo** | **100%** |
+
+---
+
+## Secuencia FMI: Del Documento al Programa
+
+:::danger Sin el FMI, no hay acceso a nada
+Sin el sello del FMI, Venezuela no puede acceder al Banco Mundial, al BID, al Club de París ni a los mercados internacionales de deuda. El FMI es la **puerta de entrada** al sistema financiero multilateral. Venezuela no ha tenido una consulta del [Artículo IV](https://www.imf.org/en/About/Factsheets/Sheets/2023/Article-IV-Consultations) desde **~2004** — más de 20 años sin supervisión formal.
+:::
+
+### La ruta: SMP → EFF → Artículo IV permanente
+
+No se entra al FMI pidiendo dinero. Se entra demostrando disciplina. La secuencia es:
+
+```mermaid
+flowchart LR
+    A["Artículo IV<br/>(retomar supervisión)"] --> B["SMP<br/>12-18 meses<br/>Sin desembolso"]
+    B --> C["EFF<br/>3-4 años<br/>USD 5-10B"]
+    C --> D["Artículo IV<br/>Permanente<br/>(vigilancia anual)"]
+    style A fill:#E3F2FD,color:#1B2631
+    style B fill:#F9A825,color:#000
+    style C fill:#00897B,color:#fff
+    style D fill:#0D47A1,color:#fff
+```
+
+| Etapa | Duración | Desembolso | Acciones previas / Condiciones | Qué desbloquea |
+|-------|----------|------------|-------------------------------|----------------|
+| **Artículo IV** (retomar) | 3-6 meses preparación | USD 0 | Invitar misión del FMI, proveer datos macroeconómicos, transparentar cuentas fiscales | Diagnóstico oficial. Señal al mercado de que Venezuela vuelve al sistema |
+| **Staff-Monitored Program (SMP)** | 12-18 meses | USD 0 — no es un préstamo | **Prior actions:** regla fiscal promulgada, gobernanza del fondo establecida, reingreso a [ICSID](https://icsid.worldbank.org/), publicación de DSA preliminar, plan de reestructuración de deuda presentado | Track record verificable. Habilita negociación con Club de París y acreedores privados |
+| **Extended Fund Facility (EFF)** | 3-4 años | USD 5-10B (desembolsos trimestrales condicionados) | **Structural benchmarks:** tasa de formalización >40%, tax-to-GDP >15%, debt-to-GDP en trayectoria descendente, fondo soberano operativo con gobernanza Santiago Principles, auditoría externa de PDVSA | Acceso pleno a Banco Mundial, BID, CAF, mercados de bonos soberanos |
+| **Artículo IV permanente** | Anual | N/A | Consultas anuales, publicación de datos, cumplimiento de benchmarks | Credibilidad sostenida. Rating soberano mejora progresivamente |
+
+### Debt Sustainability Analysis (DSA) — requisito sine qua non
+
+Antes de cualquier programa formal, el FMI requiere un **Análisis de Sostenibilidad de Deuda** en su formato estándar. Con USD 150-170B de deuda externa (incluyendo ~USD 60B de deuda con China y Rusia), el DSA debe demostrar:
+
+| Variable DSA | Valor actual estimado | Meta año 5 (post-reestructuración) | Umbral FMI |
+|--------------|----------------------|-------------------------------------|------------|
+| Deuda/PIB | ~180-200% | <80% (post-haircut + crecimiento) | <70% (benchmark países petroleros) |
+| Servicio de deuda/exportaciones | Impagable (default desde 2017) | <15% | <20% |
+| Servicio de deuda/ingresos fiscales | Impagable | <20% | <25% |
+| Reservas internacionales | ~USD 10B | >USD 25B (6 meses importaciones) | >3 meses importaciones |
+
+:::info El DSA es negociación, no castigo
+El DSA no dice "pague todo". Dice "con estos supuestos de crecimiento y estas reformas, esta es la deuda que puede servir". Es la base técnica para negociar haircuts con acreedores. [Grecia](https://www.imf.org/en/Countries/GRC) obtuvo restructuración del 53% del valor nominal en 2012 basado en su DSA. Venezuela, con un caso objetivamente peor, puede negociar más.
+:::
+
+### Timeline integrado: FMI + Transición fiscal
+
+| Año | Acción FMI | Acción fiscal interna | Resultado |
+|-----|-----------|----------------------|-----------|
+| 0-1 | Retomar Artículo IV. Invitar misión. Publicar datos | Regla fiscal por decreto. Fondo creado | Diagnóstico oficial |
+| 1-2 | **SMP activo.** Revisiones semestrales | Regla fiscal a ley ordinaria. 15% al fondo. DSA publicado | Track record. Negociación con acreedores inicia |
+| 2-3 | SMP completado. Solicitud de EFF | Regla fiscal a ley orgánica. 25% al fondo. Formalización >30% | Club de París negocia. Rating mejora |
+| 3-5 | **EFF activo.** Desembolsos trimestrales USD 1-2B | Tax-to-GDP >15%. Excise taxes implementados. 40% al fondo | BID + Banco Mundial + CAF financian infraestructura |
+| 5-7 | EFF concluido. Artículo IV permanente | Regla constitucional blindada. 55% al fondo | Acceso pleno a mercados. Bonos soberanos emitidos |
+
+**Referencia cruzada:** El [Equipo Ejecutor](/07-ejecucion/equipo-ejecutor) incluye un representante ante organismos multilaterales (FMI/BM/BID) como rol permanente del holding.
+
+Fuentes: [IMF Lending Overview](https://www.imf.org/en/About/Factsheets/IMF-Lending); [IMF — Staff-Monitored Programs](https://www.imf.org/en/About/Factsheets/Sheets/2023/Staff-Monitored-Programs); [IMF — EFF Factsheet](https://www.imf.org/en/About/Factsheets/Sheets/2023/Extended-Fund-Facility); [IMF — Article IV Consultations](https://www.imf.org/en/About/Factsheets/Sheets/2023/Article-IV-Consultations)
 
 ---
 

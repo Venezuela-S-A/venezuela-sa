@@ -203,7 +203,7 @@ Este plan es open source. El equipo se construye con el Pre-Seed. La diáspora t
 | PIB | USD 350–500.000 M (top 3 LATAM) |
 | PIB/cápita | USD 10.000–14.000 (nivel Chile/Colombia) |
 | Fondo soberano | USD 250–400.000 M |
-| FCV acumulado (salario mín.) | USD 463.508 a los 65 años (5 subcuentas, 23% salario) |
+| FCV acumulado (salario mín.) | USD 463.508 a los 65 años (23% de salario × 40 años × 5% compuesto anual. [Cálculo detallado](/04-gobernanza/modelo-estado#anexo-ejemplo--ciclo-de-vida-del-fcv-con-salario-mínimo)) |
 | Pensión (salario mín.) | USD 1.408/mes (FCV Retiro + Pilar 1) |
 | Ministerios | 10 (hoy: 34). Empleados: 265K (hoy: 2,7M) |
 | Petróleo % exportaciones | <35% (hoy: 95%) |

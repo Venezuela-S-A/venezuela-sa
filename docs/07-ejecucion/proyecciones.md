@@ -5,6 +5,10 @@ title: Proyecciones
 
 # Proyecciones Consolidadas (Base USD 60/barril)
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 ```mermaid
 xychart-beta
     title "Crecimiento del PIB (USD miles de M)"

@@ -5,6 +5,10 @@ title: El Sueño
 
 # El Sueño: Escenario Optimista Integrado
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > ¿Qué pasa si todo funciona? Esta sección consolida TODAS las fuentes de ingreso del plan — petróleo a precio favorable, gas natural, turismo, minería, energías, tecnología, startups, estado eficiente — y muestra el escenario donde Venezuela maximiza su potencial. El vehículo que hace posible el sueño no es un gobierno — es **Venezuela S.A.**, el holding corporativo de 40 millones de ciudadanos-accionistas que invierte, cobra regalías, administra el Fondo de Inversión Venezuela S.A. y distribuye dividendos. El Estado solo regula.
 
 :::caution Base de datos, no fantasía

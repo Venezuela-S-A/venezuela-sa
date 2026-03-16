@@ -5,6 +5,10 @@ title: "Cashflow: Primeros 20 Trimestres"
 
 # Cashflow Trimestral: Los Primeros 5 Años
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Los inversores no financian planes a 15 años. Financian los primeros 20 trimestres. Aquí está cada dólar, cada trimestre.
 
 ## Por Qué Importan los Primeros 5 Años

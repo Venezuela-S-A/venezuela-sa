@@ -5,6 +5,10 @@ title: Transición Fiscal
 
 # Transición Fiscal: Del Petroestado al Fondo de Inversión Venezuela S.A.
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > El petróleo no puede financiar SIMULTÁNEAMENTE el presupuesto de hoy y el fondo del mañana. La transición fiscal es el mecanismo que resuelve esa tensión.
 
 ## Dónde Estamos: El Presupuesto Actual

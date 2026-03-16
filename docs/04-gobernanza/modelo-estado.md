@@ -24,6 +24,10 @@ Antes del modelo económico, los derechos fundamentales:
 Venezuela tiene [82,8% de pobreza](https://www.cgdev.org/blog/barreling-blindly-ahead-seizure-venezuelas-oil) y un Estado que da USD 3,50/mes de pensión. No se puede pasar de golpe a un modelo de "cada quien se las arregla". La transición requiere un piso de protección social MIENTRAS se construyen las instituciones privadas. El Pilar 1 universal (pensiones, salud) existe para esto: nadie queda atrás mientras el sistema madura.
 :::
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 ## El Principio Rector
 
 ```mermaid

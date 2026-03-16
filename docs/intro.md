@@ -8,6 +8,10 @@ title: "Venezuela S.A. — La Empresa de 40 Millones de Socios"
 
 > **Plan de Reconstrucción Nacional v1.0 — Marzo 2026**
 
+:::caution Las fechas de este plan son ilustrativas — lo que importa son las condiciones
+Cuando el plan dice "Año 5" o "Año 10", NO es una promesa de calendario. Es una **referencia ilustrativa** basada en escenarios. Lo que activa cada fase son **KPIs verificables**: PIB per cápita, nivel de formalización, tasa de pobreza, producción petrolera — no el paso del tiempo. Si las condiciones se cumplen en 3 años, se acelera. Si tardan 12, se espera. **El plan se adapta a la realidad, no al revés.** Ver [KPIs de Activación](/07-ejecucion/kpis-activacion) para las condiciones exactas de cada fase.
+:::
+
 ---
 
 ## El Objetivo — En Palabras Simples

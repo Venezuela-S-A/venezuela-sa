@@ -1,4 +1,4 @@
-# Evaluación Multi-Perspectiva del Plan (20 Perspectivas)
+# Evaluación Multi-Perspectiva del Plan (26 Perspectivas)
 
 :::info Metadatos de la evaluación
 - **Fecha:** 14 de marzo de 2026 (cuarta evaluación, post-FCV + modelo educativo + 10 ministerios)
@@ -541,6 +541,82 @@ El plan Venezuela S.A. ha mejorado de **6.8 a 7.0/10** con la integración de 28
 
 ---
 
-*Score histórico: 6.2/10 (9 perspectivas, v1.2) → 6.8/10 (19 perspectivas, v1.5) → **7.0/10** (19 perspectivas post-integración, v1.6)*
-*769 documentos en el índice de búsqueda. Build: 0 errores.*
-*Meta: 8.0/10. Brecha: equipo + producto + datos.*
+*Score histórico: 6.2/10 (9 perspectivas, v1.2) → 6.8/10 (19 perspectivas, v1.5) → 7.0/10 (19 perspectivas, v1.6) → 7.4/10 (21 perspectivas, v1.7) → **7.4/10** (26 perspectivas, v1.8)*
+
+---
+
+## Evaluación 5: Secciones Nuevas + Perspectivas Equipo Ejecutor (16 mar. 2026)
+
+:::info Metadatos
+- **Fecha:** 16 de marzo de 2026 (quinta evaluación, post-Milei comparison, equipo ejecutor con perfiles, Parra Carrillo)
+- **Evaluador:** Claude Opus 4.6 aplicando 26 skills de perspectiva
+- **Secciones evaluadas:** Recorte ≠ Milei, FCV como fintech, IA offline-first, diáspora como distribución, equipo ejecutor con perfiles reales, deuda/forwards, sanciones/ICSID, geopolítica China, macro/fiscal, narrativa/pitch
+- **Perspectivas nuevas:** CRO (deuda soberana), Legal ICSID, Negociador China, Representante FMI, Director Comms
+- **Contribución externa:** [Andrés José Parra Carrillo](https://www.linkedin.com/in/andresparracarrillo/) — Guri SLA, 3 activos subestimados
+:::
+
+### Scores — Secciones Nuevas
+
+| Sección | Perspectivas | Score promedio |
+|---------|-------------|---------------|
+| Recorte ≠ Milei | Milei 6, Austrian 7, Rallo **8** | **7.0** |
+| FCV como plataforma fintech | Vega 7, Musk **8**, VCs 7, Hausmann 6 | **7.0** |
+| IA offline-first (lab exportable) | Vega 7, Musk **8**, VCs 6, Hausmann **5** | **6.5** |
+| Diáspora como red de distribución | Vega 7, Musk 7, VCs 7, Hausmann 6 | **6.8** |
+| Equipo ejecutor con perfiles reales | LKY **7.5**, Hausmann 7, VCs 6.5 | **7.0** |
+
+### Scores — Perspectivas del Equipo Ejecutor (nuevas)
+
+| Perspectiva | Secciones evaluadas | Score | Cita clave |
+|---|---|---|---|
+| **CRO** | Forwards, inversión, fiscal | **6.5** | "Forwards sobredimensionados 10-20x. USD 720B en prepaid forwards no existe en ningún mercado. Recalibrar a tranches USD 10-20B" |
+| **Legal ICSID** | Sanciones, fondo, ICSID | **7.2** | "Gobernanza del fondo = 8/10, superior a la mayoría de fondos soberanos reales. Pero USD 10-20B en laudos ICSID pendientes es el elefante no confrontado" |
+| **China** | Geopolítica, Cuba | **5.0** | "China aparece exactamente 2 veces en la sección de geopolítica. Para un acreedor de USD 19B, eso es inaceptable. Necesita doc standalone como Cuba desconexión" |
+| **FMI** | Fiscal, tributario, proyecciones | **6.5** | "PIB CAGR de 7-10% excede normas FMI para post-crisis. No hay secuencia SMP→EFF. Falta DSA. Esto es un buen policy paper, no un programa fundable — todavía" |
+| **Comms** | Pitch, resumen, intro | **7.0** | "Intro ciudadana = 8/10, lo mejor del plan. Pero 'USD 463K a los 65' será el titular de cada ataque. Team slide vacía resta credibilidad. 5 líneas vulnerables a uso fuera de contexto" |
+
+### Hallazgos Clave de las Nuevas Perspectivas
+
+**Lo mejor del plan (según equipo ejecutor):**
+- Gobernanza del fondo (Legal: 8/10) — locks supra-constitucionales son superiores a fondos existentes
+- Intro ciudadana "En Palabras Simples" (Comms: 8/10) — pasa el test del taxista en Caracas
+- Transición fiscal (CRO: 7.5/10) — Noruega model bien aplicado, locks constitucionales sofisticados
+- Cuba desconexión (China: 7/10) — bien estructurado, phased, con precedentes
+
+**Lo peor del plan (según equipo ejecutor):**
+- China como punto ciego (5/10) — no hay sección dedicada, cifra inconsistente, minerales no abordados como moneda de negociación
+- Forwards sobredimensionados (CRO) — USD 720B en prepaid forwards no existe; recalibrar a USD 10-20B por tranche
+- ICSID laudos pendientes (Legal) — USD 10-20B en arbitrajes sin estrategia de resolución
+- IMF pathway ausente (FMI) — sin secuencia SMP→EFF, sin DSA, sin prior actions
+
+### Top 10 Gaps Accionables
+
+| # | Gap | Score | Acción requerida |
+|---|---|---|---|
+| 1 | No hay sección China | 5/10 | Crear `estrategia-china.md` |
+| 2 | ICSID laudos sin estrategia | 6/10 | Sección de reestructuración de laudos |
+| 3 | Forwards sobredimensionados | 6/10 | Recalibrar a tranches USD 10-20B |
+| 4 | Sin secuencia SMP→EFF | 5.5/10 | Pathway FMI explícito |
+| 5 | Falta modelo financiero integrado | CRO | Cash flow 15 años consolidado |
+| 6 | Gap de talento ML | 5/10 | 500-1000 necesarios, <50 existen |
+| 7 | BIT en Fase 1, no 2-5 | 7.5/10 | Adelantar en roadmap |
+| 8 | Costear desplazados | 8/10 | USD 5-15B presupuesto explícito |
+| 9 | "USD 463K" superficie de ataque | 5/10 | Mostrar cálculo inline |
+| 10 | Falta perfil CEO | 7.5/10 | Definir referencia |
+
+### Impacto en Score Global
+
+Las nuevas perspectivas del equipo ejecutor (promedio 6.4/10) son más duras que las perspectivas ideológicas/inversoras (7.4/10) porque evalúan **ejecutabilidad**, no **arquitectura**. Esto es esperable y deseable — indica que el plan es intelectualmente sólido pero operativamente incompleto.
+
+**Score global se mantiene en 7.4/10** — las nuevas secciones (Milei, Parra, equipo) refuerzan sin elevar porque los gaps operativos identificados por las perspectivas del equipo (China, ICSID, forwards, FMI) compensan las mejoras.
+
+**Para subir a 8.0/10 se necesita:**
+1. Sección dedicada a estrategia China (cierra gap #1)
+2. Modelo financiero integrado (cierra gaps #3 y #5)
+3. Secuencia FMI explícita (cierra gap #4)
+4. Nombres reales comprometidos (no referencias)
+
+**El plan ha alcanzado el techo de lo que un documento puede lograr.** Las perspectivas del equipo ejecutor confirman que el próximo salto es **operativo, no documental.**
+
+*1.473 documentos en el índice. Build: 0 errores. 26 perspectivas activas.*
+*Meta: 8.0/10. Brecha: China doc + modelo financiero + FMI pathway + equipo nombrado.*

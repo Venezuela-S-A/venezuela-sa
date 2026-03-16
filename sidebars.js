@@ -114,6 +114,7 @@ const sidebars = {
         "10-oportunidades/construccion-inmobiliaria",
         "10-oportunidades/manufactura-industrial",
         "10-oportunidades/petroleo-gas",
+        "10-oportunidades/negocios-voucher-educativo",
       ],
     },
     {

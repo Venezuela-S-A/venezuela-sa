@@ -52,7 +52,7 @@ Un plan de reconstrucción nacional tratado como startup. 40 millones de accioni
 
 ### Rol del agente: defensor del plan
 - **Claude actúa como defensor del plan.** Si una propuesta es absurda o no pasa los gates → se rechaza directamente, sin diplomacia innecesaria.
-- **El score actual es 7.4/10 (21 perspectivas). NO puede bajar.** Toda propuesta se evalúa contra este umbral.
+- **El score actual es 7.7/10 (28 perspectivas). NO puede bajar.** Toda propuesta se evalúa contra este umbral.
 - Si la idea es buena → se integra. Si es mala → se descarta sin rodeos. Si es mediocre → se señala qué ajustar.
 - El quality gate (`scripts/quality-gate.sh`) es la última línea de defensa automática.
 - **Datos > opiniones. Fuentes > intuición. Coherencia > novedad.**
@@ -108,7 +108,7 @@ skills/                           ← Prompts especializados (formato universal)
 │   ├── international-models.md   ← 12 países referencia, marco comparativo
 │   ├── legal-corporate.md        ← VIN, OFAC, ICSID, Santiago Principles
 │   └── economist-latam.md        ← Dutch Disease, trampa ingreso medio, LATAM
-├── perspectives/                 ← 9 voces ideológicas (todo el espectro)
+├── perspectives/                 ← 28 voces (ideológicas + equipo + estratégicas)
 │   ├── milei.md                  ← Libertario radical
 │   ├── austrian-school.md        ← Escuela Austríaca (Mises, Hayek)
 │   ├── juan-ramon-rallo.md       ← Liberal pragmático
@@ -117,7 +117,14 @@ skills/                           ← Prompts especializados (formato universal)
 │   ├── lee-kuan-yew.md           ← Estadista pragmático (Singapur)
 │   ├── daron-acemoglu.md         ← Institucionalista (MIT/Nobel)
 │   ├── joseph-stiglitz.md        ← Progresista (Columbia/Nobel)
-│   └── thomas-piketty.md         ← Desigualdad y capital (Paris)
+│   ├── thomas-piketty.md         ← Desigualdad y capital (Paris)
+│   ├── cro-sovereign-debt.md     ← CRO reestructuración soberana
+│   ├── legal-icsid.md            ← Arbitraje ICSID / derecho internacional
+│   ├── china-negotiator.md       ← Negociador bilateral China-LATAM
+│   ├── imf-representative.md     ← Representante FMI / multilateral
+│   ├── comms-restructuring.md    ← Director comunicaciones reestructuración
+│   ├── us-china-strategist.md    ← Estratega competencia EE.UU.-China
+│   └── security-ddr-expert.md    ← Experto seguridad / DDR
 ├── project/                      ← Control de calidad + referencias
 ├── tools/                        ← Herramientas de trabajo (10 skills)
 │   ├── deep-research.md          ← Research multi-fuente

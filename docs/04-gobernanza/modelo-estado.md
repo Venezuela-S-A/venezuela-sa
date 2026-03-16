@@ -1124,6 +1124,20 @@ xychart-beta
 Venezuela S.A. invierte USD 32.400 en cada ciudadano antes de que gane su primer sueldo. A cambio, ese ciudadano contribuye al sistema durante 47 años, genera USD 463.508, compra su casa, educa a sus hijos, y se jubila con USD 1.408/mes. **No depende del gobierno. No necesita subsidio. Es dueño de su vida.** Ese es el modelo Venezuela S.A.: el país apuesta por ti primero, y tú devuelves multiplicado.
 :::
 
+### Por qué USD 32.400 es la mejor inversión de Venezuela S.A.
+
+> No es caridad. Es la inversión con mejor ROI del plan.
+
+| Mecanismo de recuperación | Cifra | Cómo funciona |
+|---|---|---|
+| **Fee de administración del FCV** | 0.5% AUM/año | VSA administra el fondo profesionalmente. Con 24M cuentas maduras (USD 463K promedio), el AUM es ~USD 11T. Fee 0.5% = USD 55B/año |
+| **El ciudadano se autofinancia desde los 18** | 23% de salario | VSA deja de poner USD 150/mes. El ciudadano contribuye ~USD 115-460/mes según salario. Payback: 12-23 años |
+| **Impuestos al Estado** | 15% flat + 12% IVA | El ciudadano productivo paga USD 900-3.600/año en impuestos × 40 años = USD 36.000-144.000. El Estado recupera más de lo que VSA invirtió |
+| **ROI Heckman** | USD 1 → USD 7-13 | [James Heckman (Nobel)](https://heckmanequation.org/): cada USD 1 en primera infancia genera USD 7-13 en retorno económico (menos crimen, más productividad, menos gasto salud) |
+| **40M usuarios cautivos del ecosistema** | TAM USD 3-12B/año | Wallet, pagos, seguros, crédito, inversión — todo sobre rieles FCV. [Parra Carrillo](/05-transformacion/hubs-tech#pero-guri-es-solo-el-anzuelo): "40M desconectados no son un problema, son el mercado virgen más grande del continente" |
+
+**Multiplicador:** USD 32.400 invertidos → USD 463.000 acumulados a los 65 = **14.3x**. Ninguna otra inversión del plan tiene ese retorno.
+
 :::caution Este ejemplo es con SALARIO MÍNIMO
 Si el trabajador gana más que el mínimo — lo cual es probable en una economía creciente — los números mejoran proporcionalmente. Un trabajador con salario promedio (2x mínimo) acumularía ~USD 900K. Un profesional tech (4x mínimo) superaría USD 1.5M en su FCV. El sistema funciona para todos — pero especialmente transforma la vida de los más humildes.
 :::

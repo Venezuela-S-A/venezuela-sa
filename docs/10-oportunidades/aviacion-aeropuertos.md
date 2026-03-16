@@ -5,6 +5,10 @@ title: "Aviación Comercial y Aeropuertos"
 
 # Aviación Comercial y Aeropuertos: La Puerta al Mundo
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Venezuela tuvo **8M+ pasajeros aéreos/año** antes de la crisis. Hoy apenas mueve ~2M. En noviembre 2025, **6 aerolíneas internacionales retiraron sus permisos** de Maiquetía. Los aeropuertos existen pero están degradados. Las aerolíneas domésticas se redujeron a una sola (estatal, con servicio deficiente). El país con la posición geográfica más privilegiada del Caribe — a 3-5 horas de vuelo de todas las Américas y 8-10 horas de Europa — está desconectado del mundo. Reconectar Venezuela no es un lujo — es la condición para que el turismo, la inversión, la diáspora y el comercio exterior funcionen.
 
 ---

@@ -5,6 +5,10 @@ title: "Phase 0: Humanitarian Emergency"
 
 # Phase 0: Humanitarian Emergency (First 180 Days)
 
+:::tip In a nutshell
+The first 100 days of the plan. What gets done immediately so people feel the change: pensions from Day 1, safety on the streets, internet in schools, teacher salaries multiplied.
+:::
+
 :::danger Absolute Priority
 No citizen will believe in a sovereign fund if they don't have water, food, or medicine. 80% of the population below the poverty line. The [UN raised only 17%](https://www.cgdev.org/blog/barreling-blindly-ahead-seizure-venezuelas-oil) of its USD 600M appeal.
 :::

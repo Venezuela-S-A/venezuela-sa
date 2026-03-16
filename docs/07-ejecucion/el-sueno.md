@@ -102,6 +102,20 @@ La guerra con Irán y el cierre del Estrecho de Ormuz (marzo 2026) eliminaron ~2
 | Urgencia geopolítica | Baja | Máxima — EE.UU. necesita cada barril |
 | Probabilidad del Sueño | ~0.02% (1 en 5.000) | ~0.09% (1 en 1.100) |
 
+### Meta americana: +30-50% en 18-24 meses
+
+EE.UU. ya tiene objetivos concretos de producción para Venezuela:
+
+| Fuente | Meta | Timeline | Fuente |
+|--------|------|----------|--------|
+| **Chevron (Mark Nelson, VP)** | +50% sobre operaciones Chevron actuales | 18-24 meses | [CNBC, ene. 2026](https://www.cnbc.com/2026/01/28/venezuela-crude-oil-production-investment.html) |
+| **Trump (ene. 2026)** | 30-50M barriles entregados a EE.UU. | Inmediato | [NPR](https://www.npr.org/2026/01/07/nx-s1-5668993/trump-us-30-million-barrels-oil-venezuela) |
+| **Trump (feb. 2026)** | 80M barriles ya recibidos | Acumulado | [Washington Times](https://www.washingtontimes.com/news/2026/feb/24/trump-says-us-received-80-million-barrels-oil-venezuela/) |
+| **Analistas** | +1M bpd adicional con reformas | 2 años | [CNBC](https://www.cnbc.com/2026/01/28/venezuela-crude-oil-production-investment.html) |
+| **Rystad Energy** | 3M bpd (máximo) | 15 años + USD 183B | [Rystad/Rigzone](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/) |
+
+**Traducción para el plan:** La meta americana de corto plazo (1.5-2M bpd en 2 años) es compatible con nuestra Fase 1 (Estabilización). La meta Rystad de largo plazo (3M bpd en 15 años) sigue siendo el techo. Lo que cambia es que EE.UU. ahora tiene **incentivos para acelerar** — cada barril venezolano es un barril menos que dependen de Medio Oriente.
+
 :::caution El precio base del plan sigue siendo USD 60/barril
 La crisis es un acelerador, no un supuesto. Si Ormuz reabre mañana y el petróleo baja a $70, el plan sigue funcionando. Lo que cambia es la velocidad y el compromiso de inversión. Todo lo que está por encima de USD 60 va al Fondo de Inversión Venezuela S.A. como upside.
 :::

@@ -75,7 +75,7 @@ flowchart TD
 
 ## Mapa de Vulnerabilidades por Área del Plan
 
-### 1. Fondo Soberano
+### 1. Fondo de Inversión Venezuela S.A.
 
 | Vulnerabilidad | Patrón | Prob. | Mitigación |
 |---------------|--------|-------|-----------|

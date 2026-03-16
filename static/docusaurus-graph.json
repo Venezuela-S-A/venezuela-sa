@@ -35,14 +35,50 @@
     "id": "cashflow-20-trimestres",
     "title": "Cashflow Trimestral: Los Primeros 5 Años",
     "linkTo": [
+      "kpis-activacion",
       "transicion-fiscal",
       "contratos-forward"
     ],
     "referencedBy": []
   },
   {
+    "id": "kpis-activacion",
+    "title": "KPIs de Activación: Condiciones, No Calendario",
+    "linkTo": [],
+    "referencedBy": [
+      "cashflow-20-trimestres",
+      "contratos-forward",
+      "enfermedad-holandesa",
+      "transicion-fiscal",
+      "inversion-ciudadana",
+      "retorno-diaspora",
+      "cuba-desconexion",
+      "estado-derecho-moneda",
+      "modelo-estado",
+      "seguridad-fisica",
+      "oportunidades-negocio",
+      "infraestructura-basica",
+      "pensiones-seguridad-social",
+      "el-sueno",
+      "proyecciones",
+      "riesgos",
+      "timeline",
+      "pitch-deck",
+      "agua-saneamiento",
+      "aviacion-aeropuertos",
+      "energia-renovable",
+      "manufactura-industrial",
+      "minerales-criticos",
+      "modelo-concesiones",
+      "petroleo-gas",
+      "turismo",
+      "vialidad-logistica",
+      "intro"
+    ]
+  },
+  {
     "id": "transicion-fiscal",
-    "title": "Transición Fiscal: Del Petroestado al Fondo Soberano",
+    "title": "Transición Fiscal: Del Petroestado al Fondo de Inversión Venezuela S.A.",
     "linkTo": [],
     "referencedBy": [
       "cashflow-20-trimestres",
@@ -72,7 +108,7 @@
   },
   {
     "id": "fondo-soberano",
-    "title": "Fondo Soberano: El Modelo Noruega",
+    "title": "Fondo de Inversión Venezuela S.A.: El Modelo Noruega",
     "linkTo": [],
     "referencedBy": [
       "citgo",
@@ -102,6 +138,8 @@
     "id": "enfermedad-holandesa",
     "title": "Enfermedad Holandesa: La Trampa que Hay que Evitar",
     "linkTo": [
+      "glosario",
+      "kpis-activacion",
       "fondo-soberano",
       "hubs-tech",
       "capital-humano"
@@ -110,6 +148,14 @@
       "riesgos",
       "manufactura-industrial",
       "petroleo-gas"
+    ]
+  },
+  {
+    "id": "glosario",
+    "title": "Glosario de Términos",
+    "linkTo": [],
+    "referencedBy": [
+      "enfermedad-holandesa"
     ]
   },
   {
@@ -164,7 +210,9 @@
   {
     "id": "inversion-ciudadana",
     "title": "Inversión Ciudadana Universal: Todos Somos Socios",
-    "linkTo": [],
+    "linkTo": [
+      "kpis-activacion"
+    ],
     "referencedBy": [
       "los-que-se-quedaron",
       "retorno-diaspora",
@@ -396,6 +444,7 @@
     "id": "cuba-desconexion",
     "title": "Cuba: Desconexión del Aparato de Seguridad",
     "linkTo": [
+      "kpis-activacion",
       "seguridad-fisica",
       "geopolitica",
       "justicia-transicional",
@@ -428,6 +477,7 @@
     "id": "modelo-estado",
     "title": "Modelo de Estado Eficiente: Impuestos, No Petróleo",
     "linkTo": [
+      "kpis-activacion",
       "pensiones-seguridad-social",
       "transicion-fiscal",
       "startup-programs",
@@ -791,7 +841,7 @@
   },
   {
     "id": "evaluacion-perspectivas",
-    "title": "Evaluación Multi-Perspectiva del Plan (19 Perspectivas)",
+    "title": "Evaluación Multi-Perspectiva del Plan (20 Perspectivas)",
     "linkTo": [],
     "referencedBy": []
   },
@@ -810,6 +860,7 @@
     "id": "riesgos",
     "title": "Riesgos: Matriz de Amenazas y Mitigación",
     "linkTo": [
+      "kpis-activacion",
       "fondo-soberano",
       "seguridad-fisica",
       "enfermedad-holandesa",
@@ -864,11 +915,18 @@
     "id": "aviacion-aeropuertos",
     "title": "Aviación Comercial y Aeropuertos: La Puerta al Mundo",
     "linkTo": [
+      "kpis-activacion",
       "anticorrupcion-checklist"
     ],
     "referencedBy": [
       "modelo-concesiones"
     ]
+  },
+  {
+    "id": "negocios-voucher-educativo",
+    "title": "Negocios del Voucher Educativo: 500.000+ Empleos, Miles de Empresas",
+    "linkTo": [],
+    "referencedBy": []
   },
   {
     "id": "conclusion",
@@ -877,15 +935,10 @@
     "referencedBy": []
   },
   {
-    "id": "glosario",
-    "title": "Glosario de Términos",
-    "linkTo": [],
-    "referencedBy": []
-  },
-  {
     "id": "intro",
     "title": "Venezuela S.A.",
     "linkTo": [
+      "kpis-activacion",
       "referencias"
     ],
     "referencedBy": []

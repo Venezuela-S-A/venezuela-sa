@@ -5,6 +5,10 @@ title: "Turismo: El Caribe Inexplorado"
 
 # Turismo: El Caribe Inexplorado
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Venezuela tiene el Salto Angel (la cascada más alta del mundo), un archipiélago caribeño virgen, tepuyes únicos en el planeta, selva amazónica, los Andes, y **2.800+ km de costa caribeña**. Todo esto con infraestructura turística en cero. El mercado caribeño mueve **USD 40B+/año**. Costa Rica pasó de cero a **3M+ visitantes** con eco-turismo. República Dominicana genera **USD 12B+/año** con sol y playa. Venezuela tiene más atractivos que ambos juntos — y cero competencia porque nadie ha construido nada.
 
 ---

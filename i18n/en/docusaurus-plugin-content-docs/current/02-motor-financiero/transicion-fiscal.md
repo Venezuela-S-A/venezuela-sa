@@ -5,6 +5,14 @@ title: Fiscal Transition
 
 # Fiscal Transition: From Petrostate to Sovereign Fund
 
+:::tip What is the fiscal transition? — In plain English
+Today Venezuela's government pays for almost everything with oil money. If oil drops, there's no money for hospitals, schools, police — nothing. That's a **petrostate**: a country addicted to a single income source.
+
+The fiscal transition is the plan to **stop depending on oil.** How? The government learns to live on **taxes** (what citizens and companies pay), not on oil. And all oil revenue goes into the country's piggy bank ([Venezuela S.A. Investment Fund](/glosario)) — not into government spending.
+
+The endgame: the government runs on taxes. Oil goes to the fund. The fund generates dividends for everyone. If one day oil is worth zero, the government keeps running and the fund keeps growing. **That's fiscal independence.**
+:::
+
 > Oil cannot SIMULTANEOUSLY finance today's budget and tomorrow's fund. The fiscal transition is the mechanism that resolves that tension.
 
 ## Where We Are: The Current Budget
@@ -102,9 +110,41 @@ The fiscal transition does NOT work if the budget continues depending on oil for
 | **Total budget** | **USD 22,700 M** | **~USD 30,000 M** | **~USD 50,000 M** | — |
 | **% direct oil** | **53%** | **40%** | **10%** | — |
 
-### Comparison with the Milei Model (Argentina)
+### Comparison with the Milei Model (Argentina): This is NOT Shock Therapy
 
-[Milei achieved fiscal surplus](https://www.focus-economics.com/blog/argentina-economy-under-milei/) by cutting spending. Venezuela S.A. proposes the opposite: **don't cut spending, but GROW revenues** so the oil percentage drops naturally. Reason: Venezuela already has 82.8% poverty — there is no room for Argentine-style austerity (see [Milei Research](/research/milei-argentina-2024-2026)).
+:::danger This is NOT a Milei-style cut
+Venezuela S.A. reduces the State by 90% over 10 years. Milei cut 30% in 1 year. They sound the same — **they are not.** The difference is sequencing, preconditions, and safety net.
+:::
+
+| Dimension | Milei (Argentina 2024) | Venezuela S.A. |
+|-----------|----------------------|----------------|
+| **Speed** | 30% cut in 12 months | 90% reduction over 10 years, tied to KPIs |
+| **Precondition** | None — immediate shock | Private employment growing + digitalization working + concessions active |
+| **Displaced workers** | Laid off, find your own way | [3 options](/04-gobernanza/modelo-estado#what-happens-to-the-people): early retirement, retraining, entrepreneurship with seed capital |
+| **Social spending** | Cuts transfers to the poor | **Increases** coverage via CFV (universal health + education from Day 1) |
+| **Social cost** | [Poverty rose from 40% to 53%](https://www.indec.gob.ar/) in 6 months | Poverty must **decrease** as an activation KPI: if it rises, reform pauses |
+| **Surplus** | Achieved in months via extreme austerity | Achieved over years via growth in tax + oil revenues |
+| **Context** | Argentina: GDP/capita ~USD 13,000, existing middle class | Venezuela: GDP/capita USD 2,588, **82.8% poverty** — zero margin for shock |
+| **Reference model** | Classic liberal shock (Thatcher, 1990s IMF) | [Georgia 2004](https://www.worldbank.org/en/country/georgia) (Saakashvili) + [Singapore 1965](https://eresources.nlb.gov.sg/) (Lee Kuan Yew) |
+
+**Sequencing matters more than speed:**
+
+```mermaid
+flowchart LR
+    A["1. Private employment<br/>GROWS first"] --> B["2. Digitalization<br/>WORKS"]
+    B --> C["3. Concessions<br/>ABSORB people"]
+    C --> D["4. THEN<br/>reduce the State"]
+    style A fill:#00897B,color:#fff
+    style B fill:#00897B,color:#fff
+    style C fill:#F9A825,color:#000
+    style D fill:#0D47A1,color:#fff
+```
+
+> **Aggressive but not suicidal. Sequenced, not shock.** No ministry closes until the private sector is ALREADY absorbing those workers. No service is cut until the concession is ALREADY operating. Milei cuts first and hopes the market will figure it out. Venezuela S.A. builds first and cuts after.
+
+**Why not Milei?** Because Argentina has a middle class, imperfect but functional institutions, and a diversified private sector that can absorb. Venezuela has 82.8% poverty, zero institutions, and a destroyed private sector. Shock here means pushing millions into hunger. Georgia and Singapore faced similar collapse situations and rebuilt with radical but sequenced reforms — and it worked.
+
+Sources: [FocusEconomics — Argentina under Milei](https://www.focus-economics.com/blog/argentina-economy-under-milei/); [INDEC poverty](https://www.indec.gob.ar/); [World Bank — Georgia reforms](https://www.worldbank.org/en/country/georgia); [Milei Research](/research/milei-argentina-2024-2026)
 
 ---
 

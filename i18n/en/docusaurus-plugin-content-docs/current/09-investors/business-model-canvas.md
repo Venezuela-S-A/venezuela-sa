@@ -5,6 +5,10 @@ title: Business Model Canvas
 
 # Business Model Canvas — Venezuela S.A.
 
+:::caution Illustrative dates — phases activate by KPIs, not by calendar
+References to "Year X" in this document are **illustrative**. Actual phases activate by verifiable conditions (GDP/capita, formalization, poverty). See [Activation KPIs](/07-ejecucion/kpis-activacion).
+:::
+
 ---
 
 ## The 9 Blocks

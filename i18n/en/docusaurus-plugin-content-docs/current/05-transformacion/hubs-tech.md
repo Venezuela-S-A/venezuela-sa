@@ -5,6 +5,10 @@ title: Technology Hubs
 
 # From 5 Special Zones to 1 Startup-Friendly Country
 
+:::tip In a nutshell
+Zones across the country where tech companies pay zero taxes for 10 years. The idea: attract data centers, startups, and global companies with the cheapest energy on the continent. Venezuela as the Singapore of Latin America.
+:::
+
 :::caution Velez's critique (Nubank)
 "5 ZEETs sounds like free trade zones from the '90s. What works today is an ENTIRE COUNTRY that's startup-friendly. Estonia doesn't have special zones — the WHOLE country is a special zone."
 

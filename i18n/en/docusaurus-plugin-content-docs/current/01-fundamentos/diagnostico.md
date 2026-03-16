@@ -5,6 +5,10 @@ title: "Diagnosis: Where We Stand"
 
 # Diagnosis: Where We Stand (Hard Data)
 
+:::tip In a nutshell
+Where are we today? Venezuela has the world's largest oil reserves but 82.8% poverty. This section shows the real numbers — no sugarcoating — so we understand where we're starting from.
+:::
+
 ## Venezuela in 1 Page: The Opportunity
 
 > "Don't start with 10 pages on what went wrong. Start with the opportunity." — The Musk critique of every pitch that opens with the problem.

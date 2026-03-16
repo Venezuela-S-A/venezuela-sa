@@ -5,6 +5,14 @@ title: Forward Contracts
 
 # Guaranteed-Price Oil Forward Contracts
 
+:::tip What is a forward contract? — In plain English
+Imagine you own a farm with 1,000 mango trees. The mangoes ripen in 6 months. A buyer tells you: "I'll pay you USD 500 today for the mangoes you'll harvest in 6 months, at a fixed price of USD 1 each." You get money TODAY to invest in the farm (irrigation, workers), and the buyer locks in a good price.
+
+That's a [forward contract](/glosario): **selling in advance something you'll produce in the future, at a price agreed today.** Venezuela has 303 billion barrels of oil underground. A forward contract says: "I'll sell you X barrels I'm going to produce over the next few years, at USD 60 each. Pay me an advance today." That advance funds the reconstruction. The buyer secures oil. Venezuela secures capital. Both win.
+
+**The risk:** if the price jumps to USD 100, you sold cheap. But USD 60 is the plan's base price — anything above that goes to the [Venezuela S.A. Investment Fund](/glosario) as extra upside.
+:::
+
 ## Precedent: China Lent USD 60,000+ M Backed by Oil
 
 [AidData records USD 105,590 million](https://www.aiddata.org/blog/how-chinas-oil-backed-lending-in-venezuela-fell-into-distress) in total commitments, 95% backed by oil.

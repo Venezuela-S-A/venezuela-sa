@@ -5,6 +5,12 @@ title: Dutch Disease
 
 # Dutch Disease: The Trap to Avoid
 
+:::tip What is Dutch Disease? — In plain English
+Imagine your town lives off farming and fishing. One day they discover oil. Suddenly there's a lot of money. Everything gets expensive: food, rent, wages. Farmers and fishers can't compete anymore because costs are too high. They shut down. Now **the entire town depends on oil.** When the oil price drops — like it did in Venezuela — there's no farming, no fishing, nothing. Just poverty.
+
+That's [Dutch Disease](/glosario): **when a country gets addicted to a single resource and destroys everything else.** Venezuela suffered it for 50 years. This plan exists so it NEVER happens again.
+:::
+
 > Venezuela already suffered Dutch Disease for 50 years. This plan cannot repeat the mistake.
 
 :::danger Definition
@@ -102,10 +108,10 @@ The [Special Economic Technology Zones](/05-transformacion/hubs-tech) create non
 
 ### 4. Investment in non-oil productivity
 
-Allocate 20-30% of fund returns to:
-- Agroindustrial infrastructure (irrigation, storage, cold chain)
-- Technical training (reskilling programs for non-oil sectors, see [Human Capital](/05-transformacion/capital-humano))
-- Subsidized credit for exporting SMEs
+Venezuela S.A. allocates 20-30% of fund returns to direct investments in non-oil sectors:
+- Equity in agroindustrial infrastructure JVs (irrigation, storage, cold chain)
+- Technical training via voucher (reskilling programs for non-oil sectors, see [Human Capital](/05-transformacion/capital-humano))
+- Seed capital and venture capital for exporting SMEs (Venezuela S.A. as investor, not state bank)
 
 ### 5. Real exchange rate monitoring
 
@@ -129,13 +135,15 @@ Venezuela operates under de facto dollarization (~60% of transactions in USD, [E
 
 ## Early Warning Indicators
 
-| Indicator | Alert threshold | Action |
-|-----------|-----------------|--------|
-| Oil + gas > 60% of revenues | Year 5+ | Accelerate diversification, more ZEET incentives |
-| Manufacturing < 10% of GDP | Any year | Compensatory subsidies + SME credit |
-| Food imports > 50% | Year 5+ | Urgent agroindustrial investment |
-| Oil sector wages > 3x national average | Any year | Wage cap or compensatory tax |
-| REER appreciates > 15% in 24 months | Any year | Fiscal intervention + flow review |
+What would a company do if it detected dangerous revenue concentration in a single client? Diversify, reallocate capital, accelerate new business lines. Venezuela S.A. does exactly that:
+
+| Indicator | Alert threshold | Action (as a company) |
+|-----------|-----------------|----------------------|
+| Oil + gas > 60% of revenues | Year 5+ | Venezuela S.A. reallocates fund capital: more equity in tech, agro, and tourism JVs. Accelerates non-oil concession tenders. Target: 3 new active export sectors |
+| Manufacturing < 10% of GDP | Any year | Venezuela S.A. invests as VC in manufacturing: equity in industrial parks, hydro energy at competitive prices (natural advantage, not subsidy), fast-track permits for ZEET factories |
+| Food imports > 50% | Year 5+ | Venezuela S.A. activates agroindustrial JVs: equity in cold chain + irrigation + storage. Farmland concessions with production obligations. Alliances with Brazil/Argentina for agro tech transfer |
+| Oil sector wages > 3x national average | Any year | Venezuela S.A. increases investment in sectors that compete for talent: more capital in tech hubs, data centers, advanced manufacturing — let non-oil wages rise through market demand, not by decree |
+| REER appreciates > 15% in 24 months | Any year | Fund increases external investment rate (more dollars flow out to the fund, fewer circulate domestically). Venezuela S.A. accelerates capital goods imports for infrastructure projects (absorbs dollars productively) |
 
 **Sources:** [IMF — The Dutch Disease: Causes and Effects (WP/2003/12)](https://www.imf.org/external/pubs/ft/wp/2003/wp0312.pdf) | [World Bank — Resource Curse or Blessing?](https://documents.worldbank.org/) | [Hausmann & Rodriguez — Venezuela Before Chavez (2014)](https://www.hup.harvard.edu/books/9780674072848) | [NBIM](https://www.nbim.no/)
 

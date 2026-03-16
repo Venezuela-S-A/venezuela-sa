@@ -5,6 +5,10 @@ title: "Manufactura y Zonas Industriales"
 
 # Manufactura y Zonas Industriales: Revivir la Fábrica de LATAM
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Venezuela ensamblaba Toyota, Ford y GM. Procesaba alimentos para Nestlé y PepsiCo. Fundía aluminio con la electricidad más barata del hemisferio. Producía petroquímicos con gas regalado. Todo eso desapareció. Hoy importa hasta la harina. Pero las ventajas competitivas que hicieron posible esa industria siguen ahí: **energía barata, petróleo y gas abundante, ubicación geográfica privilegiada y una economía dolarizada**. Lo que falta es el marco institucional para que el capital regrese.
 
 ---

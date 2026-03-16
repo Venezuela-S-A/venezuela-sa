@@ -35,7 +35,7 @@ La implementación del **Fondo Ciudadano Venezuela (FCV)** — cuenta unificada 
 | Categoría | Items | Documentos afectados |
 |-----------|-------|---------------------|
 | **Motor Financiero** | Citgo USD 8-13B, deuda China + equipo negociador, señalización creíble, split Venezuela vs. majors, petróleo depreciante (ventana 10-15 años) | 6 docs expandidos + 1 nuevo |
-| **Fondo Soberano y Gobernanza** | Locks supra-constitucionales, compensación top-tier, anti-captura política, Fondo Reparación Víctimas, BIT Venezuela-EE.UU., anti-intermediarios 8 programas | 5 docs expandidos |
+| **Fondo de Inversión VSA y Gobernanza** | Locks supra-constitucionales, compensación top-tier, anti-captura política, Fondo Reparación Víctimas, BIT Venezuela-EE.UU., anti-intermediarios 8 programas | 5 docs expandidos |
 | **Ciudadanos y Diáspora** | Dividendo igualitario (elimina 2x), anti-concentración voucher (5 mecanismos), diáspora co-fundadores con equity, 4 user stories | 3 docs expandidos |
 | **Diagnóstico y Seguridad** | Diagnóstico accionable 1 página, Sprint 0 (100 días, 16 acciones), seguridad territorial + DDR, Guyana competencia, comparables reales (Irak, Angola, Kazajistán, UAE, Georgia) | 5 docs expandidos |
 | **Oportunidades e Infraestructura** | Bitcoin mining USD 0.03/kWh, fintech USD 50-100B, banca digital 10 min, ICSID + leapfrogging, Starlink 6 meses, telecoms aliados (no Huawei), 4 prerrequisitos plataforma, flat tax protección 82.8% | 4 docs expandidos |

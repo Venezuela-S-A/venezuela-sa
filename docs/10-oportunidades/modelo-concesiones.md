@@ -5,6 +5,10 @@ title: "Modelo de Concesiones: El Marco Universal"
 
 # Modelo de Concesiones: Estándares Máximos, 100+ Años, Ejecución Paralela
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 :::danger Principio Inviolable
 Toda obra, toda infraestructura, todo servicio en este plan debe ser de **calidad mundial máxima**. No la norma mínima — el **estándar más estricto que existe en cada categoría**. Venezuela no se reconstruye con parches ni con estándares mediocres — se reconstruye con lo mejor que la humanidad ha construido. Infraestructura para **100+ años**, no para 20.
 :::

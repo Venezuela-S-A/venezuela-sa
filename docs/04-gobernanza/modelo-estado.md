@@ -7,6 +7,24 @@ title: Modelo de Estado
 
 > El Estado venezolano debe vivir de impuestos razonables — no del petróleo. El petróleo va al Fondo de Inversión Venezuela S.A., administrado por **Venezuela S.A.** (el holding corporativo de 40M ciudadanos-accionistas), no por el Estado. Los impuestos cubren lo esencial: Estado, salud, justicia, educación, y seguridad. Todo lo demás lo opera el sector privado con supervisión estatal. Todo lo que pueda automatizarse, se automatiza. El Estado regula. Venezuela S.A. hace negocios.
 
+:::tip Resumen ejecutivo — Navegación rápida
+Este es el documento más largo del plan (~1.000 líneas). Aquí está lo esencial:
+
+| Sección | Contenido | Ir a |
+|---------|-----------|------|
+| **Garantías** | Salud universal, vejez digna, libertades económicas y de vida | [Garantías](#garantías-no-negociables) |
+| **Principio rector** | Estado cobra impuestos. VSA maneja petróleo. Sector privado opera | [Principio](#el-principio-rector) |
+| **Qué paga el Estado** | 5 funciones: gobierno, salud, justicia, educación, seguridad | [Paga el Estado](#lo-que-paga-el-estado-con-impuestos) |
+| **Qué NO paga** | FCV (5 subcuentas, 23% salario), voucher, salud, vivienda, pensiones | [FCV y servicios](#lo-que-no-paga-el-estado) |
+| **Impuestos** | 15% flat + 12% IVA + mecanismos anti-regresividad | [Tributario](#modelo-tributario-impuestos-razonables) |
+| **Comparación** | Chile, Singapur, Estonia, Noruega, Georgia, EAU | [Comparación](#comparación-modelos-de-estado-eficiente) |
+| **Reforma** | 34→10 ministerios, 2.5M→265K empleados, NO es Milei | [Reforma](#reforma-del-estado-terapia-de-shock-quirúrgica) |
+| **Transición pobreza** | Red de protección mientras se construyen instituciones | [Transición](#transición-desde-la-pobreza-el-camino-realista) |
+| **Estado digital** | Automatización tipo Estonia, IA, trámites en minutos | [Digital](#estado-automatizado-mínima-fricción-máximo-resultado) |
+| **Financiamiento** | Cómo se paga todo, fase por fase | [Financiamiento](#cómo-se-financia-todo-de-la-crisis-actual-al-modelo-fcv) |
+| **Ejemplo FCV** | Cálculo real: salario mínimo → USD 463K a los 65 años | [Ejemplo](#anexo-ejemplo--ciclo-de-vida-del-fcv-con-salario-mínimo) |
+:::
+
 ## Garantías No Negociables
 
 Antes del modelo económico, los derechos fundamentales:
@@ -691,9 +709,13 @@ xychart-beta
 
 > Si hay que recortar, se recorta. Pero con bisturí, no con machete. Se elimina redundancia, no servicios esenciales.
 
-### Principio: Recorte Quirúrgico, No Ciego
+### Principio: Recorte Quirúrgico y Secuenciado — No Shock Tipo Milei
 
-El Estado venezolano tiene ~2,5 millones de empleados públicos, decenas de ministerios duplicados, misiones clientelares sin rendición de cuentas, y empresas estatales que pierden dinero. Las empresas estatales se privatizan o se transfieren a Venezuela S.A. como activos del holding ciudadano — el Estado no opera empresas. La reforma es tipo **terapia de shock**:
+:::caution Esto NO es austeridad tipo Milei
+Se reduce el Estado un 90% en 10 años — pero **solo cuando el sector privado YA está absorbiendo.** No se cierra un ministerio hasta que las concesiones operen. No se despide a nadie sin [3 opciones](#qué-pasa-con-la-gente). Modelo: [Georgia 2004](https://www.worldbank.org/en/country/georgia) + [Singapur 1965](https://eresources.nlb.gov.sg/), no Argentina 2024. Ver [comparación detallada](/02-motor-financiero/transicion-fiscal#comparación-con-modelo-milei-argentina-esto-no-es-shock).
+:::
+
+El Estado venezolano tiene ~2,5 millones de empleados públicos, decenas de ministerios duplicados, misiones clientelares sin rendición de cuentas, y empresas estatales que pierden dinero. Las empresas estatales se privatizan o se transfieren a Venezuela S.A. como activos del holding ciudadano — el Estado no opera empresas. La reforma es **quirúrgica y secuenciada** — cada paso requiere que el anterior funcione:
 
 ```mermaid
 flowchart LR

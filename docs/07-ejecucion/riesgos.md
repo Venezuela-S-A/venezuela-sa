@@ -5,6 +5,10 @@ title: Riesgos
 
 # Riesgos: Matriz de Amenazas y Mitigación
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Ningún plan sobrevive al contacto con la realidad sin una evaluación honesta de lo que puede salir mal. Esta sección identifica 20 riesgos, cuantifica su impacto y propone mitigaciones concretas.
 
 :::danger Regla del plan

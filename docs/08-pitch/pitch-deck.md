@@ -52,7 +52,7 @@ xychart-beta
 flowchart LR
     A["🛢️ PETRÓLEO<br/>Combustible"] --> B["⚡ ENERGÍA BARATA<br/>Ventaja competitiva"]
     B --> C["💻 TECH<br/>Destino"]
-    C --> D["🏦 FONDO SOBERANO<br/>Riqueza permanente"]
+    C --> D["🏦 FONDO VSA<br/>Riqueza permanente"]
 
     style A fill:#0D47A1,color:#fff
     style B fill:#0D47A1,color:#fff
@@ -62,7 +62,7 @@ flowchart LR
 
 > **El petróleo es el combustible. La tecnología es el destino.**
 
-Petróleo genera ingresos → Hidro genera electricidad barata → BigTech viene por la energía (Amazon: $4B en Chile) → Ecosistema tech diversifica economía → Fondo soberano convierte recurso finito en riqueza infinita.
+Petróleo genera ingresos → Hidro genera electricidad barata → BigTech viene por la energía (Amazon: $4B en Chile) → Ecosistema tech diversifica economía → Fondo de Inversión VSA convierte recurso finito en riqueza infinita.
 
 ---
 
@@ -132,7 +132,7 @@ xychart-beta
 
 ```mermaid
 xychart-beta
-    title "PIB y Fondo Soberano (USD miles de M)"
+    title "PIB y Fondo de Inversión VSA (USD miles de M)"
     x-axis ["Hoy", "Año 5", "Año 10", "Año 15"]
     y-axis "USD miles de millones" 0 --> 500
     bar [83, 140, 250, 425]

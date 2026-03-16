@@ -5,6 +5,10 @@ title: Citizen Investment
 
 # Universal Citizen Investment: We Are All Shareholders
 
+:::tip In a nutshell
+Every Venezuelan can invest starting at USD 10 in plan bonds. This isn't charity — it's an investment with returns. The diaspora kicks off the first round without needing a government.
+:::
+
 > Article 1, ICCPR (UN, 1966): "All peoples may freely dispose of their natural wealth and resources." The key word is **peoples**, not States.
 
 ## 4 Layers of Participation

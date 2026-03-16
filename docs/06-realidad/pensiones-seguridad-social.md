@@ -5,6 +5,10 @@ title: Pensiones y Seguridad Social
 
 # Pensiones y Seguridad Social: La Deuda Con los Mayores
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Un país que no cuida a sus jubilados no merece un fondo de inversión.
 
 ```mermaid

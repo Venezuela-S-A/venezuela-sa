@@ -7,6 +7,24 @@ title: State Model
 
 > The Venezuelan State must live on reasonable taxes — not oil. Oil goes to the Venezuela S.A. Investment Fund, managed by **Venezuela S.A.** (the corporate holding of 40M citizen-shareholders), not by the State. Taxes cover the essentials: government, healthcare, justice, education, and security. Everything else is operated by the private sector with state oversight. Everything that can be automated gets automated. The State regulates. Venezuela S.A. does business.
 
+:::tip Executive Summary — Quick Navigation
+This is the longest document in the plan (~1,000 lines). Here's what matters:
+
+| Section | Content | Go to |
+|---------|---------|-------|
+| **Guarantees** | Universal health, dignified old age, economic and life freedoms | [Guarantees](#non-negotiable-guarantees) |
+| **Guiding principle** | State collects taxes. VSA manages oil. Private sector operates | [Principle](#the-guiding-principle) |
+| **What the State pays** | 5 functions: government, health, justice, education, security | [State pays](#what-the-state-pays-for-with-taxes) |
+| **What it does NOT pay** | CFV (5 sub-accounts, 23% salary), voucher, health, housing, pensions | [CFV and services](#what-the-state-does-not-pay-for) |
+| **Taxes** | 15% flat + 12% VAT + anti-regressivity mechanisms | [Tax model](#tax-model-reasonable-taxes) |
+| **Comparison** | Chile, Singapore, Estonia, Norway, Georgia, UAE | [Comparison](#comparison-efficient-state-models) |
+| **Reform** | 34→10 ministries, 2.5M→265K employees, NOT Milei-style | [Reform](#state-reform-surgical-shock-therapy) |
+| **Poverty transition** | Safety net while institutions are being built | [Transition](#transition-from-poverty-the-realistic-path) |
+| **Digital State** | Estonia-level automation, AI, procedures in minutes | [Digital](#automated-state-minimum-friction-maximum-results) |
+| **Financing** | How everything is paid for, phase by phase | [Financing](#how-everything-is-funded-from-the-current-crisis-to-the-fcv-model) |
+| **CFV example** | Real calculation: minimum wage → USD 463K by age 65 | [Example](#appendix-example--fcv-lifecycle-with-minimum-wage) |
+:::
+
 ## Non-Negotiable Guarantees
 
 Before the economic model, fundamental rights:
@@ -677,9 +695,13 @@ xychart-beta
 
 > If you need to cut, you cut. But with a scalpel, not a machete. You eliminate redundancy, not essential services.
 
-### Principle: Surgical, Not Blind Cuts
+### Principle: Surgical and Sequenced Cuts — Not Milei-Style Shock
 
-The Venezuelan State has ~2.5 million public employees, dozens of duplicated ministries, clientelist missions with no accountability, and state enterprises that lose money. State enterprises are privatized or transferred to Venezuela S.A. as assets of the citizen holding — the State does not operate companies. The reform is **shock therapy**-style:
+:::caution This is NOT Milei-style austerity
+The State shrinks 90% over 10 years — but **only when the private sector is ALREADY absorbing.** No ministry closes until concessions are operating. No one is fired without [3 options](#what-happens-to-the-people). Model: [Georgia 2004](https://www.worldbank.org/en/country/georgia) + [Singapore 1965](https://eresources.nlb.gov.sg/), not Argentina 2024. See [detailed comparison](/02-motor-financiero/transicion-fiscal#comparison-with-the-milei-model-argentina-this-is-not-shock-therapy).
+:::
+
+The Venezuelan State has ~2.5 million public employees, dozens of duplicated ministries, clientelist missions with no accountability, and state enterprises that lose money. State enterprises are privatized or transferred to Venezuela S.A. as assets of the citizen holding — the State does not operate companies. The reform is **surgical and sequenced** — each step requires the previous one to work:
 
 ```mermaid
 flowchart LR

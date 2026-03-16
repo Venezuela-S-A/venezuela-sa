@@ -5,6 +5,10 @@ title: "Vialidad y Logistica"
 
 # Vialidad y Logistica: El Sistema Circulatorio de la Reconstruccion
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Venezuela está sentada sobre una de las posiciones geográficas más privilegiadas del hemisferio — entre el Caribe, el Pacífico (vía Colombia), el Atlántico (vía Brasil) y a tiro de piedra del Canal de Panamá. Pero hoy no puede mover un contenedor de Puerto Cabello a Barquisimeto sin que cueste más que enviarlo desde Shanghái. El sistema circulatorio del país está infartado. Repararlo no es un gasto — es el prerequisito para que todo lo demás funcione.
 
 ---

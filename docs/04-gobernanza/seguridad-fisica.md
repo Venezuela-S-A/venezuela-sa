@@ -9,6 +9,10 @@ title: Seguridad Física
 Sin seguridad no hay nada. Venezuela es el país más violento del mundo. Esta sección propone cómo reformar la policía, desarmar a los grupos armados, y hacer que caminar por la calle sea seguro otra vez.
 :::
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Ningún BigTech pone un data center donde hay riesgo de secuestro. Ningún turista visita un país con la tasa de homicidios más alta del continente.
 
 ```mermaid

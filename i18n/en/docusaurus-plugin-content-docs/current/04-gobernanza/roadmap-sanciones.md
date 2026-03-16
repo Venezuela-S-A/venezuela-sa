@@ -5,6 +5,10 @@ title: "Sanctions Roadmap"
 
 # Sanctions Roadmap: From OFAC to Investment Grade
 
+:::tip In a nutshell
+Venezuela is sanctioned by the U.S. and Europe. Sanctions are lifted step by step as conditions are met: elections, political prisoners released, reforms. Each condition fulfilled unlocks more investment.
+:::
+
 :::danger No sanctions roadmap = no investment
 U.S. sanctions block **USD 6-20B** in tech investment and **USD 4-20B** in VC/PE. Without a verifiable roadmap for their progressive lifting, the reconstruction plan is limited to Chevron operations and diaspora capital. This document closes that gap.
 :::

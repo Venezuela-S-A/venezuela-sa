@@ -5,6 +5,10 @@ title: "Cuba: Security Apparatus Disconnection"
 
 # Cuba: Security Apparatus Disconnection
 
+:::tip In a nutshell
+Cuba has controlled part of Venezuela's security apparatus for 25 years. This section explains how to disconnect that influence — step by step, without creating a power vacuum.
+:::
+
 > Without disconnecting Cuba from the Venezuelan security apparatus, there is no viable institutional reform, no sanctions relief, and no real sovereignty. This is not theoretical geopolitics — it is an operational prerequisite.
 
 Cuba does not "advise" the Venezuelan security apparatus. It **designed it, operates it, and supervises it**. SEBIN was modeled on Cuba's G-2. DGCIM was created with direct assistance from Havana. FANB doctrine incorporates Cuban-style political control. As long as this structure exists, any security reform this plan proposes — from the [Georgia-model police purge](/04-gobernanza/seguridad-fisica) to FANB reform — faces an actor with direct incentives to sabotage it.

@@ -13,6 +13,10 @@ Eso es un [contrato forward](/glosario#contrato-forward): **vender por adelantad
 **El riesgo:** si el precio sube a USD 100, vendiste barato. Pero USD 60 es el precio base del plan — todo lo que esté por encima va al [Fondo de Inversión Venezuela S.A.](/glosario#fondo-de-inversión-venezuela-sa) como ganancia extra.
 :::
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 ## Precedente: China prestó USD 60.000+ M respaldados con petróleo
 
 [AidData registra USD 105.590 millones](https://www.aiddata.org/blog/how-chinas-oil-backed-lending-in-venezuela-fell-into-distress) en compromisos totales, 95% con respaldo petrolero.

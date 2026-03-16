@@ -114,9 +114,41 @@ La transición fiscal NO funciona si el presupuesto sigue dependiendo del petró
 | **Total presupuesto** | **USD 22.700 M** | **~USD 30.000 M** | **~USD 50.000 M** | — |
 | **% petrolero directo** | **53%** | **40%** | **10%** | — |
 
-### Comparación con modelo Milei (Argentina)
+### Comparación con modelo Milei (Argentina): Esto NO es shock
 
-[Milei logró superávit fiscal](https://www.focus-economics.com/blog/argentina-economy-under-milei/) recortando gasto. Venezuela S.A. propone lo contrario: **no recortar gasto, sino CRECER ingresos** para que el porcentaje petrolero baje naturalmente. Razón: Venezuela ya tiene 82,8% de pobreza — no hay margen para austeridad al estilo argentino (ver [Investigación Milei](/research/milei-argentina-2024-2026)).
+:::danger Esto NO es un recorte tipo Milei
+Venezuela S.A. reduce el Estado un 90% en 10 años. Milei recortó 30% en 1 año. Parecen lo mismo — **no lo son.** La diferencia es secuencia, condiciones y red de protección.
+:::
+
+| Dimensión | Milei (Argentina 2024) | Venezuela S.A. |
+|-----------|----------------------|----------------|
+| **Velocidad** | 30% de recorte en 12 meses | 90% de reducción en 10 años, atada a KPIs |
+| **Condición previa** | Ninguna — shock inmediato | Empleo privado creciendo + digitalización funcionando + concesiones activas |
+| **Empleados desplazados** | A la calle, busquen trabajo | [3 opciones](/04-gobernanza/modelo-estado#qué-pasa-con-la-gente): jubilación anticipada, reconversión laboral, emprendimiento con capital semilla |
+| **Gasto social** | Recorta transferencias a pobres | **Aumenta** cobertura vía FCV (salud + educación universal desde Día 1) |
+| **Costo social** | [Pobreza subió de 40% a 53%](https://www.indec.gob.ar/) en 6 meses | Pobreza debe **bajar** como KPI de activación: si sube, la reforma se pausa |
+| **Superávit** | Logrado en meses por austeridad extrema | Logrado en años por crecimiento de ingresos tributarios + petroleros |
+| **Contexto** | Argentina: PIB/cápita ~USD 13.000, clase media existente | Venezuela: PIB/cápita USD 2.588, **82,8% pobreza** — cero margen para shock |
+| **Modelo de referencia** | Shock liberal clásico (Thatcher, FMI años 90) | [Georgia 2004](https://www.worldbank.org/en/country/georgia) (Saakashvili) + [Singapur 1965](https://eresources.nlb.gov.sg/) (Lee Kuan Yew) |
+
+**La secuencia importa más que la velocidad:**
+
+```mermaid
+flowchart LR
+    A["1. Empleo privado<br/>CRECE primero"] --> B["2. Digitalización<br/>FUNCIONA"]
+    B --> C["3. Concesiones<br/>ABSORBEN gente"]
+    C --> D["4. ENTONCES<br/>se reduce Estado"]
+    style A fill:#00897B,color:#fff
+    style B fill:#00897B,color:#fff
+    style C fill:#F9A825,color:#000
+    style D fill:#0D47A1,color:#fff
+```
+
+> **Agresivo pero no suicida. Secuenciado, no shock.** No se cierra un ministerio hasta que el sector privado YA esté absorbiendo a esos funcionarios. No se corta un servicio hasta que la concesión YA esté operando. Milei corta primero y espera que el mercado resuelva. Venezuela S.A. construye primero y corta después.
+
+**¿Por qué no Milei?** Porque Argentina tiene clase media, instituciones imperfectas pero funcionales, y un sector privado diversificado que puede absorber. Venezuela tiene 82,8% de pobreza, cero instituciones y un sector privado destruido. Hacer shock aquí es empujar a millones al hambre. Georgia y Singapur enfrentaron situaciones similares de colapso y reconstruyeron con reformas radicales pero secuenciadas — y funcionó.
+
+Fuentes: [FocusEconomics — Argentina under Milei](https://www.focus-economics.com/blog/argentina-economy-under-milei/); [INDEC pobreza](https://www.indec.gob.ar/); [World Bank — Georgia reforms](https://www.worldbank.org/en/country/georgia); [Investigación Milei](/research/milei-argentina-2024-2026)
 
 ---
 

@@ -5,6 +5,10 @@ title: Digital State
 
 # Digital State: Reduce, Digitize, Automate
 
+:::tip In a nutshell
+A government where everything is done online: register a business in 15 minutes, file taxes in 3 minutes, book a doctor's appointment without standing in line. Estonia did it with 1.3 million people. Venezuela can do it with 40 million.
+:::
+
 [Estonia](https://e-estonia.com/): 100% digital services (Dec. 2024), [2% GDP savings](https://centreforpublicimpact.org/public-impact-fundamentals/e-estonia-the-information-society-since-1997/), 820 years of time saved, [#1 UN e-government 2024](https://e-estonia.com/estonia-is-at-the-top-of-the-un-e-government-ranking/), [82% citizen satisfaction](https://www.socialeurope.eu/estonias-digital-frontier-when-perfect-e-government-meets-the-paradox-of-trust) (OECD 2024).
 
 ## Roadmap

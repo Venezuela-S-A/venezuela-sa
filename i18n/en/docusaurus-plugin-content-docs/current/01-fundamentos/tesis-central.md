@@ -5,6 +5,10 @@ title: Central Thesis
 
 # Central Thesis: Why This Plan Is Different
 
+:::tip In a nutshell
+This plan treats Venezuela like a company with 40 million partners. Oil pays for the transformation, but the real business is technology, education, and tourism. Every citizen is a shareholder — not a politician's beneficiary.
+:::
+
 > This is not a government plan. It's a business model where every Venezuelan is a shareholder.
 
 ## The Conceptual Shift

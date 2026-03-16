@@ -5,6 +5,10 @@ title: "Petróleo y Gas: El Combustible"
 
 # Petróleo y Gas: El Motor que Enciende Todo lo Demás
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > **303.000 millones de barriles.** Las reservas más grandes del planeta. Y Venezuela apenas produce **~1 millón de barriles por día** — una fracción de lo que producía en los 90s. El petróleo no es el destino de Venezuela. Es el **combustible**. Cada barril extraído financia viviendas, hospitales, data centers, educación y diversificación. Pero es un activo **depreciante**: para 2040, la energía solar será más barata que extraer crudo de la Faja del Orinoco. La ventana real es **10-15 años, no 30**. Hay que quemarlo rápido, inteligentemente, y con cada dólar yendo al Fondo de Inversión Venezuela S.A. y a la diversificación.
 
 ---
@@ -33,7 +37,7 @@ Cada dólar de ingreso petrolero va al **Fondo de Inversión Venezuela S.A.**, a
 
 ```mermaid
 flowchart LR
-    OIL["PETROLEO<br/><b>3M bpd x USD 60</b><br/>= USD 65.7B/año"] --> FUND["FONDO SOBERANO<br/><b>100% de ingresos petroleros</b><br/>Meta: USD 250-400B año 15"]
+    OIL["PETROLEO<br/><b>3M bpd x USD 60</b><br/>= USD 65.7B/año"] --> FUND["FONDO VSA<br/><b>100% de ingresos petroleros</b><br/>Meta: USD 250-400B año 15"]
     FUND --> DIV["DIVERSIFICACION<br/>Data centers, manufactura,<br/>construcción, tech, turismo"]
     FUND --> SOC["SOCIAL<br/>Educacion, salud,<br/>pensiones, infraestructura"]
 
@@ -61,7 +65,7 @@ El 28 de febrero de 2026, EE.UU. e Israel ejecutaron un ataque coordinado contra
 | Trump — State of the Union | Mar. 2026 | Llamó a Venezuela *"new friend and partner"* |
 | Nuevos contratos petroleros firmados | 4 mar. 2026 | **USD 100.000 M** comprometidos por petroleras de EE.UU. |
 | 5 majors autorizadas | Mar. 2026 | Chevron (existente) + **BP + ENI + Shell + Repsol** |
-| Meta de producción acelerada | 2026-2028 | Aumento 30-40% en 2026, meta **3M bpd en 24 meses** |
+| Meta de producción acelerada | 2026-2028 | Aumento 30-50% en 18-24 meses ([Chevron VP](https://www.cnbc.com/2026/01/28/venezuela-crude-oil-production-investment.html): +50% en 18-24m). Meta 3M bpd: 15 años ([Rystad](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/)) |
 | Control operativo de EE.UU. | 9 mar. 2026 | EE.UU. controla la comercialización del petróleo venezolano |
 
 *Fuentes: [Requiere investigación]*
@@ -253,7 +257,7 @@ flowchart TD
     PRIVADO --> JV
 
     JV --> OIL["PRODUCCION<br/>3M bpd en 15 años"]
-    OIL --> FUND2["FONDO SOBERANO<br/>100% de ingresos petroleros"]
+    OIL --> FUND2["FONDO VSA<br/>100% de ingresos petroleros"]
 
     style GOB fill:#0D47A1,color:#fff
     style PRIVADO fill:#00897B,color:#fff
@@ -421,7 +425,7 @@ flowchart TD
     PROFIT --> VEN["Participación Venezuela<br/>(30-49% de ganancia)<br/><b>USD 8-19</b>"]
     PROFIT --> PRIV["Participación privada<br/>(51-70% de ganancia)<br/><b>USD 13-27</b>"]
 
-    ROYAL --> FUND3["FONDO SOBERANO<br/><b>100%</b>"]
+    ROYAL --> FUND3["FONDO VSA<br/><b>100%</b>"]
     VEN --> FUND3
 
     PRIV --> TAX2["Impuesto 15% flat<br/>sobre ganancia privada"]
@@ -474,7 +478,7 @@ flowchart LR
         T4["2040+<br/>EVs dominan<br/>Demanda de crudo cae"]
     end
 
-    VENTANA --> FUND4["FONDO SOBERANO<br/>USD 250-400B"]
+    VENTANA --> FUND4["FONDO VSA<br/>USD 250-400B"]
     FUND4 --> POST["ECONOMIA POST-PETROLEO<br/>Tech, manufactura, servicios,<br/>turismo, agricultura"]
 
     style VENTANA fill:#F9A825,color:#000

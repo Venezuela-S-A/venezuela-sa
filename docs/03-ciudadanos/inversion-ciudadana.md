@@ -9,6 +9,10 @@ title: Inversión Ciudadana
 Cada venezolano puede invertir desde USD 10 en bonos del plan. No es caridad — es inversión con retorno. La diáspora arranca la primera ronda sin necesidad de gobierno.
 :::
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Artículo 1, ICCPR (ONU, 1966): “Todos los pueblos pueden disponer libremente de sus riquezas y recursos naturales.” La palabra clave es **pueblos**, no Estados.
 
 ## 4 Capas de Participación

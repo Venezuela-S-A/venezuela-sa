@@ -5,6 +5,10 @@ title: Infraestructura Básica
 
 # Infraestructura Básica: Telecomunicaciones, Agua, Vivienda, Transporte y Agricultura
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Sin infraestructura no hay hubs tech, no hay turismo, no hay data centers. Cada dólar invertido aquí habilita USD 5–10 de inversión privada.
 
 ## Telecomunicaciones

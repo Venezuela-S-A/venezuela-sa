@@ -5,6 +5,10 @@ title: Estado de Derecho y Moneda
 
 # Estado de Derecho, Marco Legal y Reforma Monetaria
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Sin seguridad jurídica, ningún bono ciudadano vale nada. Sin moneda estable, ningún proyecto sobrevive.
 
 ## Seguridad Jurídica

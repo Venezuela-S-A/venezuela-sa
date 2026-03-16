@@ -5,6 +5,10 @@ title: Transitional Justice
 
 # Transitional Justice: The Dilemma No One Wants to Address
 
+:::tip In a nutshell
+What happens to those who stole, tortured, and destroyed the country? Transitional justice is the process of holding people accountable without revenge — so the country can turn the page and rebuild.
+:::
+
 > How do you build a rule of law when those who must build it were part of the problem? How do you deliver justice without blocking the transition?
 
 :::caution The dilemma

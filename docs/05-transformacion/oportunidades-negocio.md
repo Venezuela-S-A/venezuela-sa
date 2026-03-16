@@ -5,6 +5,10 @@ title: Oportunidades — Startups y Tech
 
 # Oportunidades Tech: 70+ Startups que Venezuela Necesita
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Cada problema del plan es un negocio. Cada brecha es un mercado. Estas no son ideas — son necesidades cuantificadas con mercado cautivo interno y potencial de exportación a LATAM y global.
 
 :::info Lógica de este documento

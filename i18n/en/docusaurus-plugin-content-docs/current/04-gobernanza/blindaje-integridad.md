@@ -5,6 +5,10 @@ title: "Integrity Shield"
 
 # Integrity Shield: Complete Vulnerability Map
 
+:::tip In a nutshell
+How do you prevent them from stealing again? Anti-corruption powered by technology: blockchain to trace every dollar, public dashboards, whistleblower rewards, and zero middlemen where hands can reach in.
+:::
+
 > Every area of the plan has specific corruption vectors. General rules are not enough — every door must be closed, one by one. This document maps **14 areas x 12 corruption patterns** with concrete mitigations.
 
 :::danger Lesson from Venezuela 2000-2025

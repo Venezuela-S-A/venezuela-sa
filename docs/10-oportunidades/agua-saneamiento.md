@@ -5,6 +5,10 @@ title: "Agua y Saneamiento"
 
 # Agua y Saneamiento: Lo Más Básico que Falta
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > No puedes hablar de data centers, hubs tech o fondos soberanos si la gente no tiene agua limpia para beber. El agua es la inversión más básica y la más urgente. Y también es un negocio: **USD 3-5B en concesiones** esperando a quien las opere.
 
 ---

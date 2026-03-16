@@ -5,6 +5,10 @@ title: "Energia Renovable: Solar y Eolica"
 
 # Energia Renovable: El Combustible que No Se Acaba
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Venezuela tiene petróleo para 15 años de ventana real. Tiene sol y viento para siempre. La pregunta no es si vale la pena invertir en renovables — es cuánto dinero estamos dejando en la mesa cada día que no lo hacemos.
 
 ---

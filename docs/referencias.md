@@ -22,7 +22,7 @@ title: Referencias
 12. [FMI](https://www.imf.org) — PIB USD 82.800 M, inflación 682%
 13. [Citigroup, nov. 2025](https://www.cnbc.com/2026/01/04/venezuelas-billions-in-distressed-debt-who-is-in-line-to-collect.html) — Haircut 50%
 
-## Fondo Soberano Noruega
+## Fondo de Inversión — Modelo Noruega
 14. [NBIM — Valor del fondo](https://www.nbim.no/en/investments/the-funds-value/) — USD 2,2 T a fines de 2025
 15. [NBIM — Portafolio de inversión](https://www.nbim.no/en/investments/) — Transparencia total, 7.200+ empresas
 16. [CNBC, ene. 2026](https://www.cnbc.com/2026/01/29/norway-sovereign-wealth-fund-2025-return-nbim-trillion-oil-stocks-tech-ai-banks-silver.html) — USD 247B profit 2025

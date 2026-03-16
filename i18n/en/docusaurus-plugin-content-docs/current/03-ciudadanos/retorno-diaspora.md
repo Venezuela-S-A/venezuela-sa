@@ -5,6 +5,10 @@ title: Return Program
 
 # Return Program: Bringing Talent Back
 
+:::tip In a nutshell
+7.9 million Venezuelans left. This plan gives them a concrete reason to come back: their FCV account is waiting, the labor market needs their experience, and they can be co-founders — not employees.
+:::
+
 > The diaspora is not just capital. It's 7.9 million people who acquired skills, languages, networks, and experience that Venezuela desperately needs.
 
 ## The Lost Human Capital

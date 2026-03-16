@@ -5,6 +5,10 @@ title: Pitch Deck
 
 # Pitch Deck — Venezuela S.A.
 
+:::caution Illustrative dates — phases activate by KPIs, not by calendar
+References to "Year X" in this document are **illustrative**. Actual phases activate by verifiable conditions (GDP/capita, formalization, poverty). See [Activation KPIs](/07-ejecucion/kpis-activacion).
+:::
+
 > 12 slides. Each slide is an argument. All data verifiable.
 
 ---
@@ -44,7 +48,7 @@ title: Pitch Deck
 flowchart LR
     A["🛢️ OIL<br/>Fuel"] --> B["⚡ CHEAP ENERGY<br/>Competitive advantage"]
     B --> C["💻 TECH<br/>Destination"]
-    C --> D["🏦 SOVEREIGN FUND<br/>Permanent wealth"]
+    C --> D["🏦 VSA INVESTMENT FUND<br/>Permanent wealth"]
 
     style A fill:#0D47A1,color:#fff
     style B fill:#0D47A1,color:#fff

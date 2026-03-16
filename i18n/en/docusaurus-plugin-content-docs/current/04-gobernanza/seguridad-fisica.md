@@ -5,6 +5,10 @@ title: Physical Security
 
 # Physical Security: No Security, No Investment
 
+:::tip In a nutshell
+Without security, nothing else works. Venezuela is the most violent country in the world. This section lays out how to reform the police, disarm armed groups, and make it safe to walk the streets again.
+:::
+
 > No Big Tech company puts a data center where there is kidnapping risk. No tourist visits a country with the highest homicide rate on the continent.
 
 ```mermaid

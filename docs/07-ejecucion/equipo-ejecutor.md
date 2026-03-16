@@ -164,6 +164,84 @@ Ningún miembro del equipo ejecutivo tiene inmunidad judicial. El Fiscal Naciona
 | [Timeline](/07-ejecucion/timeline) | Fase A (2027-2031) requiere equipo completo antes del arranque |
 | [Diáspora](/03-ciudadanos/diaspora) | Principal fuente de talento para roles de liderazgo |
 
+## Perfiles de referencia: Quién ha hecho esto antes
+
+> No se trata de contratar a estas personas. Se trata de reclutar perfiles **equivalentes** — gente que ha hecho exactamente esto en otro contexto.
+
+### Rol 1: Chief Restructuring Officer (CRO) / Dir. Financiera
+
+El CRO es quien negocia con acreedores, estructura los forwards petroleros, y diseña la arquitectura financiera del plan. Necesita haber reestructurado deuda soberana de USD 10B+.
+
+| Perfil de referencia | Logro verificable | Relevancia para Venezuela |
+|---------------------|-------------------|--------------------------|
+| **David Martínez** — Fundador, [Fintech Advisory](https://en.wikipedia.org/wiki/David_Mart%C3%ADnez_(businessman)) (México/Londres) | Participó en casi toda reestructuración soberana de los últimos 25 años. Compró deuda distressed argentina a descuento, luego participó en exchanges. Patrimonio ~USD 3B | Entiende distressed debt LATAM. Fintech Advisory maneja exactamente el tipo de instrumentos que Venezuela necesita (forwards, bonos, swaps) |
+| **Martín Guzmán** — Ex-Ministro de Economía, Argentina. Profesor, [Columbia SIPA](https://www.sipa.columbia.edu/communities-connections/faculty/martin-guzman) | Lideró la 2da mayor reestructuración soberana de la historia (USD 65B, 2020). Haircut ~45% NPV en 6 meses. Negoció con FMI (acuerdo ene. 2022) | Experiencia directa en negociación con bonistas, FMI y Paris Club. Co-director del programa de deuda soberana con Stiglitz |
+| **Simón Cueva** — Ex-Ministro de Economía, Ecuador. Ex-economista FMI. [LinkedIn](https://www.linkedin.com/in/simon-cueva-344a9725/) | Reestructuró USD 17.4B en deuda soberana (2020). Ahorró USD 11.3B en 5 años. Negoció deuda china (~USD 4B, 2022). Completó programa FMI | Ecuador es el caso más parecido a Venezuela: petrodependiente, deuda china, necesidad de FMI. Su playbook es directamente replicable |
+
+**Firmas asesoras de referencia:**
+- [Lazard Sovereign Advisory](https://www.lazard.com/financial-advisory/specialized-advisory/sovereign-advisory/) — Asesoró Argentina, Ecuador, Surinam, Zambia, Ghana, Sri Lanka. **Thomas Moatti** (Director) tuvo advisory con Venezuela 2012-2013
+- [Houlihan Lokey](https://hl.com/) — **David-Alexandre Gadmer** (ex-Lazard) lidera sovereign advisory. Nuevo entrante agresivo
+- [Rothschild & Co](https://www.rothschildandco.com/) — Alternativa a Lazard con track record en reestructuraciones africanas y asiáticas
+
+### Rol 2: Asesor Legal Internacional
+
+Maneja ICSID (USD 20B+ en arbitrajes pendientes contra Venezuela), estructura VIN (Valores de Inversión Nacional), y negocia con OFAC.
+
+| Perfil de referencia | Logro verificable | Relevancia |
+|---------------------|-------------------|------------|
+| **Lee Buchheit** — Ex-socio, [Cleary Gottlieb](https://www.clearygottlieb.com/) | Inventó las Collective Action Clauses (CACs). Lideró reestructuraciones de 20+ países incluyendo Irak y Grecia. Financial Times "Top 10 Innovative Individuals" 2012 | El estándar dorado en reestructuración soberana. Su framework de CACs es lo que Venezuela usaría para forzar consenso entre bonistas |
+| **Kenneth Figueroa** — Socio, [Foley Hoag](https://foleyhoag.com/people/figueroa-kenneth/) | Representó a Venezuela en ICSID por 10+ años. Caso Crystallex (USD 1.4B). Victoria en múltiples arbitrajes (Anglo American USD 400M, Highbury USD 633M) | Conoce TODOS los casos ICSID contra Venezuela. Sabe dónde están las vulnerabilidades y las fortalezas de la defensa |
+
+**Firmas de referencia para Venezuela:**
+- [Cleary Gottlieb](https://www.clearygottlieb.com/) — Asesoró a Ecuador en reestructuración 2020. Líder global en sovereign debt
+- [Foley Hoag](https://foleyhoag.com/) — Representó a Venezuela en ICSID por más de 10 años (38 casos en LATAM)
+- [King & Spalding](https://www.kslaw.com/) — Representó a ConocoPhillips en arbitraje ICSID vs. Venezuela (award USD 8B). Conocen el otro lado de la mesa
+
+### Rol 3: Negociador Bilateral China
+
+Venezuela debe ~USD 19B a China (préstamos oil-for-loans). Este rol negocia la reestructuración de esa deuda y la transición de la relación bilateral.
+
+| Perfil de referencia | Logro verificable | Relevancia |
+|---------------------|-------------------|------------|
+| **Margaret Myers** — Directora, [Asia & Latin America Program, Inter-American Dialogue](https://thedialogue.org/expert/margaret-myers) | Creó la base de datos de préstamos China-LATAM. Asesora al gobierno de EE.UU. sobre relaciones China-LATAM. Testificó ante Congreso de EE.UU. | La mayor experta occidental en finanzas China-LATAM. Conoce estructura de los préstamos oil-for-loans y cómo se han renegociado en Ecuador |
+| Perfil ideal: **Ex-banquero CDB/Eximbank** con experiencia en LATAM | Alguien que haya trabajado dentro del China Development Bank y entienda la lógica interna de las decisiones de préstamo chinas | [Requiere investigación] — identificar banqueros chinos que hayan dejado CDB y trabajen en advisory privado |
+
+### Rol 4: Representante FMI / Multilateral
+
+Negocia el programa con el FMI (probablemente Extended Fund Facility), coordina con BID, CAF, World Bank.
+
+| Perfil de referencia | Logro verificable | Relevancia |
+|---------------------|-------------------|------------|
+| **Alejandro Werner** — Ex-Director WHD, FMI. Director fundador, [Georgetown Americas Institute](https://americas.georgetown.edu/people/alejandro-werner) | Dirigió el departamento del FMI para las Américas (2013-2021). Supervisó programas en Argentina, Ecuador, Colombia. Ex-Subsecretario de Finanzas de México | Conoce la cocina interna del FMI para LATAM. Sabe qué condiciones son negociables y cuáles no. Conexiones directas con el board del FMI |
+| **Ricardo Hausmann** — Director, [Growth Lab, Harvard Kennedy School](https://www.hks.harvard.edu/faculty/ricardo-hausmann). Ex-Ministro de Planificación de Venezuela (1992-93) | Creó el Atlas de Complejidad Económica. Asesoró a docenas de gobiernos. En 2026, activamente involucrado en debate sobre reconstrucción de Venezuela | **Venezolano**. Entiende el país como nadie en la academia internacional. Su credibilidad con FMI, World Bank y BID es única. Dijo en Fortune (ene. 2026): *"If you want to recover oil, you need to go back to rule of law"* |
+
+### Rol 5: Director de Comunicaciones
+
+Maneja la narrativa simultánea para 3 audiencias: ciudadanos (40M), inversores internacionales y actores geopolíticos.
+
+| Perfil de referencia | Logro verificable | Relevancia |
+|---------------------|-------------------|------------|
+| Perfil ideal: **Ex-director de comunicaciones de reestructuración soberana** | Alguien que haya manejado la comunicación pública de una reestructuración (Argentina 2020, Grecia 2012, Ecuador 2020) | La comunicación en una reestructuración es tan importante como la negociación. Un tweet mal redactado puede mover spreads 200 bps |
+| Referencia: El equipo de comunicaciones de **Guzmán (Argentina 2020)** logró mantener apoyo público durante una reestructuración de USD 65B en medio de pandemia | [Requiere investigación] — identificar al director de comunicaciones específico |
+
+### Modelo histórico: Georgia 2004 (Saakashvili)
+
+El caso más relevante para Venezuela S.A. — un país colapsado que se reinventó en 4 años:
+
+| Rol | Persona | Logro | Lección para Venezuela |
+|-----|---------|-------|----------------------|
+| **Presidente** | Mikheil Saakashvili | Rose Revolution → reforma radical del Estado | Liderazgo político necesario pero no suficiente. Necesitó equipo técnico |
+| **Ministro de Reforma** | [Kakha Bendukidze](https://en.wikipedia.org/wiki/Kakha_Bendukidze) | Georgia saltó de puesto 137 a 11 en Ease of Doing Business (World Bank). Flat tax 12%. Eliminó 90% de licencias | **El CRO de Georgia.** Empresario exitoso → ministro reformador. Dijo: *"El gobierno debería vender todo excepto su honor"*. Exactamente la filosofía de Venezuela S.A. |
+| **Asesor fiscal** | Simeon Djankov (World Bank) + Leszek Balcerowicz (Polonia) | Diseñaron reformas tributarias y aduaneras | Expertise internacional + implementación local. Mismo modelo que propone el plan |
+
+:::info El patrón que funciona
+En **todos** los casos exitosos de reestructuración nacional (Georgia 2004, Singapur 1965, Chile 1975-90, Estonia 1991, Ruanda 2000), el equipo tenía 3 características: (1) **expertise técnica de clase mundial**, (2) **legitimidad política suficiente**, (3) **protección de interferencia política** durante los primeros 5 años críticos. Venezuela S.A. diseña exactamente esto.
+:::
+
+---
+
 :::tip El primer milestone real
-Esta sección es deliberadamente un **framework sin nombres**. El primer hito real de Venezuela S.A. es llenar estos roles. Cuando el Board tenga nombres, compromisos firmados y KPIs publicados, el plan se convierte de documento a organización. Hasta entonces, es un PDF — y los PDFs no reconstruyen países.
+Esta sección es deliberadamente un **framework con referencias, no con nombres**. El primer hito real de Venezuela S.A. es convertir estas referencias en reclutamientos. Cuando el Board tenga nombres, compromisos firmados y KPIs publicados, el plan se convierte de documento a organización. Hasta entonces, es un PDF — y los PDFs no reconstruyen países.
+
+**El Pre-Seed de USD 25-60M financia el reclutamiento.** Con USD 5M se contrata a Egon Zehnder o Spencer Stuart para un mandato de 6 meses: buscar los 7 roles ejecutivos + 5-7 board members entre la diáspora y el talento internacional. El resto del Pre-Seed financia la plataforma, el censo digital y el legal.
 :::

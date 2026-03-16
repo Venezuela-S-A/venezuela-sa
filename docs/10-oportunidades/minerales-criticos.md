@@ -5,6 +5,10 @@ title: "Minerales Criticos y Tierras Raras"
 
 # Minerales Criticos: La Otra Mina de Oro
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Venezuela tiene debajo de sus pies lo que el mundo necesita para la transición energética. El problema no es geología — es gobernanza.
 
 :::danger Realidad al 2026

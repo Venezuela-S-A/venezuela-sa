@@ -11,6 +11,10 @@ Imagina que tu pueblo vive de la agricultura y la pesca. Un día descubren petr�
 Eso es la [Enfermedad Holandesa](/glosario): **cuando un país se vuelve adicto a un solo recurso y destruye todo lo demás.** Venezuela la sufrió 50 años. Este plan existe para que NO se repita.
 :::
 
+:::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
+Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
+:::
+
 > Venezuela ya sufrió Dutch Disease durante 50 años. Este plan no puede repetir el error.
 
 :::danger Definición técnica
@@ -113,10 +117,10 @@ Las [Zonas Económicas Especiales de Tecnología](/05-transformacion/hubs-tech) 
 
 ### 4. Inversión en productividad no petrolera
 
-Destinar 20-30% de los retornos del fondo a:
-- Infraestructura agroindustrial (riego, almacenamiento, cadena de frío)
-- Capacitación técnica (programas de reskilling para sectores no petroleros, ver [Capital humano](/05-transformacion/capital-humano))
-- Crédito subsidiado para PYMES exportadoras
+Venezuela S.A. destina 20-30% de los retornos del fondo a inversiones directas en sectores no petroleros:
+- Equity en JVs de infraestructura agroindustrial (riego, almacenamiento, cadena de frío)
+- Capacitación técnica vía voucher (programas de reskilling para sectores no petroleros, ver [Capital humano](/05-transformacion/capital-humano))
+- Capital semilla y venture capital para PYMES exportadoras (Venezuela S.A. como inversor, no como banco estatal)
 
 ### 5. Monitoreo de tipo de cambio real
 
@@ -140,13 +144,15 @@ Venezuela opera en dolarización de facto (~60% de transacciones en USD, [ENCOVI
 
 ## Indicadores de Alerta Temprana
 
-| Indicador | Umbral de alerta | Acción |
-|-----------|-----------------|--------|
-| Petróleo + gas > 60% de ingresos | Año 5+ | Acelerar diversificación, más incentivos a ZEETs |
-| Manufactura < 10% del PIB | Cualquier año | Subsidios compensatorios + crédito PYMES |
-| Importaciones de alimentos > 50% | Año 5+ | Inversión agroindustrial urgente |
-| Salarios sector petrolero > 3x promedio nacional | Cualquier año | Tope salarial o impuesto compensatorio |
-| REER aprecia > 15% en 24 meses | Cualquier año | Intervención fiscal + revisión de flujos |
+¿Qué haría una empresa si detecta que su negocio se está concentrando peligrosamente en un solo cliente? Diversifica, reasigna capital, acelera nuevas líneas de negocio. Venezuela S.A. hace exactamente eso:
+
+| Indicador | Umbral de alerta | Acción (como empresa) |
+|-----------|-----------------|----------------------|
+| Petróleo + gas > 60% de ingresos | Año 5+ | Venezuela S.A. reasigna capital del fondo: más equity en JVs tech, agro y turismo. Acelera licitaciones de concesiones no petroleras. Meta: 3 nuevos sectores exportadores activos |
+| Manufactura < 10% del PIB | Cualquier año | Venezuela S.A. invierte como VC en manufactura: equity en parques industriales, energía hidro a precio competitivo (ventaja natural, no subsidio), fast-track de permisos para fábricas en ZEETs |
+| Importaciones de alimentos > 50% | Año 5+ | Venezuela S.A. activa JVs agroindustriales: equity en cadena de frío + riego + almacenamiento. Concesiones de tierra cultivable con obligación de producción. Alianzas con Brasil/Argentina para transferencia de tecnología agro |
+| Salarios sector petrolero > 3x promedio nacional | Cualquier año | Venezuela S.A. sube la inversión en sectores que compitan por talento: más capital en tech hubs, data centers, manufactura avanzada — que los salarios no petroleros suban por demanda de mercado, no por decreto |
+| REER aprecia > 15% en 24 meses | Cualquier año | Fondo aumenta tasa de inversión externa (más dólares salen al fondo, menos circulan internamente). Venezuela S.A. acelera importación de bienes de capital para proyectos de infraestructura (absorbe dólares productivamente) |
 
 **Fuentes:** [IMF — The Dutch Disease: Causes and Effects (WP/2003/12)](https://www.imf.org/external/pubs/ft/wp/2003/wp0312.pdf) | [World Bank — Resource Curse or Blessing?](https://documents.worldbank.org/) | [Hausmann & Rodríguez — Venezuela Before Chávez (2014)](https://www.hup.harvard.edu/books/9780674072848) | [NBIM](https://www.nbim.no/)
 

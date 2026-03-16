@@ -1,4 +1,4 @@
-# Evaluación Multi-Perspectiva del Plan (26 Perspectivas)
+# Evaluación Multi-Perspectiva del Plan (28 Perspectivas)
 
 :::info Metadatos de la evaluación
 - **Fecha:** 14 de marzo de 2026 (cuarta evaluación, post-FCV + modelo educativo + 10 ministerios)
@@ -610,13 +610,84 @@ Las nuevas perspectivas del equipo ejecutor (promedio 6.4/10) son más duras que
 
 **Score global se mantiene en 7.4/10** — las nuevas secciones (Milei, Parra, equipo) refuerzan sin elevar porque los gaps operativos identificados por las perspectivas del equipo (China, ICSID, forwards, FMI) compensan las mejoras.
 
-**Para subir a 8.0/10 se necesita:**
-1. Sección dedicada a estrategia China (cierra gap #1)
-2. Modelo financiero integrado (cierra gaps #3 y #5)
-3. Secuencia FMI explícita (cierra gap #4)
-4. Nombres reales comprometidos (no referencias)
+---
 
-**El plan ha alcanzado el techo de lo que un documento puede lograr.** Las perspectivas del equipo ejecutor confirman que el próximo salto es **operativo, no documental.**
+## Evaluación 6: Re-evaluación Post-Gaps + 2 Perspectivas Nuevas (16 mar. 2026)
 
-*1.473 documentos en el índice. Build: 0 errores. 26 perspectivas activas.*
-*Meta: 8.0/10. Brecha: China doc + modelo financiero + FMI pathway + equipo nombrado.*
+:::info Metadatos
+- **Fecha:** 16 de marzo de 2026 (sexta evaluación, post-resolución de 10 gaps)
+- **Evaluador:** Claude Opus 4.6 aplicando 28 skills de perspectiva
+- **Gaps resueltos:** estrategia-china.md (nuevo), forwards recalibrados (USD 30-48B), ICSID laudos (USD 15-20B), secuencia FMI SMP→EFF, BIT en Fase 1, CEO perfil, talento ML, costo desplazados, USD 463K link, excise taxes
+- **Perspectivas nuevas:** Estratega EE.UU.-China (CSIS/Hudson), Experto Seguridad/DDR (Colombia/Georgia)
+:::
+
+### Re-evaluación de perspectivas del equipo ejecutor
+
+| Perspectiva | Eval 5 | **Eval 6** | Delta | Qué cambió |
+|---|---|---|---|---|
+| **China** | 5.0 | **8.5** | **+3.5** | `estrategia-china.md` (438 líneas) transformó el peor gap en una de las mejores secciones. Red lines, Ecuador precedent, OFAC analysis, 4 instrumentos, timeline 3-5 años |
+| **CRO** | 6.5 | **7.5** | +1.0 | Forwards recalibrados de USD 720B (fantasía) a USD 30-48B en tranches. ICSID tiered strategy con Citgo como palanca. Counterparty analysis |
+| **Legal ICSID** | 7.2 | **8.0** | +0.8 | ICSID awards strategy (USD 15-20B, 3 tiers, timeline 3-5 años). BIT adelantado a Fase 1. Fondo gobernanza = 8/10 (lo mejor del plan) |
+| **FMI** | 6.5 | **7.0** | +0.5 | Secuencia SMP→EFF→Art. IV. DSA framework. Excise taxes. Falta: Lending into Arrears, banco central, subsidio fuel |
+| **Comms** | 7.0 | 7.0 | — | Sin cambios en esta iteración |
+
+### Equipo ejecutor re-evaluado
+
+| Perspectiva | Eval 5 | **Eval 6** | Delta | Qué cambió |
+|---|---|---|---|---|
+| **LKY** | 7.5 | **8.0** | +0.5 | CEO perfil (Bendukidze). Georgia case study. Compensación percentil 95. "Ahora es una sección que mostraría a reclutas potenciales" |
+| **VCs** | 6.5 | **7.5** | +1.0 | CRO con Walker (co-autor playbook Venezuela). [Requiere investigación] gaps llenados. "El CRO section solo justifica una reunión en YC" |
+
+### 2 perspectivas nuevas
+
+| Perspectiva | Score | Cita clave |
+|---|---|---|
+| **Estratega EE.UU.-China** (CSIS) | **7.5** | "Plan compatible con Washington. Pero subestima lo que EE.UU. exigirá: CFIUS, MSP, basing, intelligence-sharing. La relación dual es más asimétrica de lo que el plan sugiere" |
+| **Experto Seguridad/DDR** | **5.7** | "Diagnóstico correcto, detalle operativo insuficiente. FANB timeline contradictorio. DDR colectivos sin mapeo. Presupuesto debe ser USD 18-25B/10 años. Cuba desconexión = 7/10 (lo mejor)" |
+
+### Detalle Seguridad/DDR (5.7/10 — nuevo score más bajo)
+
+| Dimensión | Score | Gap |
+|---|---|---|
+| Reforma FANB | 5/10 | Timeline contradictorio: modelo-estado dice Año 1 (80K), seguridad-fisica dice Años 5-7 (120K). No hay mecanismo de vetting. Costo subestimado |
+| DDR colectivos | 5/10 | Sin mapeo de estructura de comando. Sin oferta concreta de reintegración. Timeline 180 días es irreal (Colombia: 4+ años) |
+| Control territorial | 6.5/10 | Buen mapeo. Arco Minero subestimado (necesita operación militar tipo Plan Patriota, USD 2-3B, 7-10 años) |
+| Policía (130K) | 6/10 | Número correcto para steady-state. Falta surge capacity (200K+) para transición y pipeline de academias |
+| Seguridad primero | 5/10 | Retórica correcta, secuencia incorrecta. FANB reforma debe arrancar Año 1, no Año 5 |
+| Costo | 5.5/10 | USD 10-18B → debería ser USD 18-25B/10 años. Faltan: marítimo, inteligencia, pranes |
+| Cuba desconexión | 7/10 | Mejor sección. Angola model correcto. Falta: plan operativo para vacío de inteligencia (6-18 meses) |
+
+### Detalle EE.UU.-China (7.5/10)
+
+| Dimensión | Score | Gap |
+|---|---|---|
+| Compatibilidad con Washington | 8/10 | Red lines correctas. Sector segmentation sound |
+| Protección minerales | 7.5/10 | Falta: CFIUS, MSP membership, DPA Title III, exclusión china estatutaria |
+| Análisis OFAC | 8.5/10 | Lo mejor del plan en esta dimensión |
+| Relación dual realista | 6.5/10 | **Lo más débil.** Venezuela no tiene el leverage de Singapur/Saudi. La relación es asimétrica |
+| Demandas EE.UU. | 6/10 | Falta: CFIUS, basing, intelligence-sharing, SPR refill, extradiciones |
+
+### Score Global Actualizado
+
+| Grupo | Eval 5 | **Eval 6** |
+|---|---|---|
+| Perspectivas ideológicas (21) | 7.4 | 7.4 |
+| Perspectivas equipo (5) | 6.4 | **7.6** (+1.2) |
+| Perspectivas nuevas (2) | — | **6.6** |
+| **Global (28 perspectivas)** | **7.4** | **~7.5** |
+
+### Para subir a 8.0/10 se necesita:
+
+1. **Resolver contradicción FANB** (modelo-estado vs seguridad-fisica) y arrancar reforma Año 1
+2. **Agregar CFIUS + Minerals Security Partnership** al plan
+3. **Operacionalizar DDR de colectivos** (mapeo, oferta concreta, timeline 2-4 años)
+4. **Subir presupuesto seguridad a USD 18-25B/10 años**, front-loaded en Años 1-3
+5. **Agregar plan operativo para vacío de inteligencia** post-Cuba (6-18 meses)
+6. **Agregar Lending into Arrears** del FMI y reforma banco central
+7. **Nombres reales comprometidos** para el equipo ejecutor
+
+**Seguridad (5.7/10) es ahora el nuevo cuello de botella** — reemplazó a China (que subió de 5.0 a 8.5). El plan tiene la arquitectura correcta pero necesita detalle operativo de seguridad para ser creíble ante inversores que preguntan: "¿es seguro poner USD 1B en un data center junto a Guri?"
+
+*1.518 documentos en el índice. Build: 0 errores. 28 perspectivas activas.*
+*Score histórico: 6.2 → 6.8 → 7.0 → 7.4 → 7.4 → **7.5/10***
+*Meta: 8.0/10. Brecha: seguridad operativa + CFIUS/MSP + FMI legal + equipo nombrado.*

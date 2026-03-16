@@ -37,6 +37,8 @@ Venezuela SÍ tiene banca privada: Banesco, Mercantil, Provincial (BBVA), Banco 
 **Los bancos que se adapten, prosperan** — tienen clientes, infraestructura, marca. Los que no se adapten, pierden mercado ante fintechs que sí abren APIs, ofrecen mejor UX y cobran menos comisiones. **No se destruye la banca privada — se la obliga a competir.**
 
 Cada transacción digital es trazable = **anticorrupción automática**. El FCV, los vouchers educativos, los pagos de concesiones — todo fluye por rieles digitales auditables. [India con UPI](https://www.npci.org.in/what-we-do/upi/product-overview) bancarizó 400M de personas. Venezuela puede hacer lo mismo con 40M — y los bancos que ya existen son parte de la solución, no el problema.
+
+**El ángulo que se subestima** ([Parra Carrillo](https://www.linkedin.com/in/andresparracarrillo/)): 40M de personas desconectadas de servicios financieros digitales no son un problema — son **el mercado virgen más grande del continente**. Si el FCV funciona como cuenta universal, es el onboarding forzoso de todo un país al sistema financiero formal. Cualquier fintech mataría por esa base de usuarios. El FCV no es solo protección social — es **infraestructura fintech**.
 :::
 
 ## Plan de Reforma

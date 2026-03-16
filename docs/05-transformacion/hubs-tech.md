@@ -68,9 +68,41 @@ Los hyperscalers (Amazon, Microsoft, Google, Meta) invertirán **USD 602B solo e
 
 Fuentes: costos de electricidad — [Global Energy Monitor](https://globalenergymonitor.org/), [Americas Quarterly](https://www.americasquarterly.org/); capacidad instalada — [EIA](https://www.eia.gov/), [Mongabay](https://news.mongabay.com/2023/08/hydropower-in-the-pan-amazon-the-guri-complex-and-the-caroni-cascade/); inversiones DC — reportes corporativos 2025-2026.
 
+### La verdad sobre Guri: acto de fe vs. due diligence
+
+:::danger Crítica de [Andrés Parra Carrillo](https://www.linkedin.com/in/andresparracarrillo/)
+*"Todo el plan se apoya en una cifra que hoy es un acto de fe. Decir que hay 10.2 GW instalados no significa que estén disponibles. Corpoelec tiene más de una década en un apagón informativo y las Big Tech no perdonan: ellos exigen un SLA de 99.99% de uptime antes de soltar un dólar."*
+:::
+
+**La crítica es correcta.** 10.2 GW es capacidad instalada, no capacidad disponible. Nadie sabe cuánto está realmente operativo — Corpoelec no publica datos desde ~2013. Un hyperscaler como AWS exige **99.99% uptime** (52 minutos de downtime/año). Venezuela tuvo un **apagón nacional de 5 días en 2019**. Eso no es ni 99%, mucho menos 99.99%.
+
+**Ruta a SLA aceptable para Big Tech:**
+
+| Paso | Qué se necesita | Costo | Timeline | Quién lo hace |
+|------|----------------|-------|----------|---------------|
+| 1. **Auditoría real de Guri** | Inspección independiente (no Corpoelec) por firma tipo Black & Veatch o Stantec | USD 5-10M | 3-6 meses | Firma internacional contratada por Venezuela S.A. |
+| 2. **Reparación SCADA + turbinas** | Sistema de control + turbinas fuera de servicio. De 10.2 GW instalados, probablemente 6-7 GW operativos | USD 500M-1B | 12-24 meses | Alstom/GE/Voith (fabricantes originales) |
+| 3. **Microgrid dedicada para DC campus** | Red eléctrica independiente: Guri → campus DC, sin pasar por la red nacional deteriorada | USD 200-500M | 12-18 meses | EPC + Venezuela S.A. como accionista |
+| 4. **Backup gas + baterías** | Generadores a gas natural (abundante) + BESS para cubrir microsegundos de transición | USD 100-300M | 6-12 meses | Generadores: Wärtsilä/Caterpillar. BESS: Tesla/BYD |
+| 5. **SLA contractual verificado** | 6 meses de operación demostrada antes de firmar con hyperscaler. Telemetría pública 24/7 | USD 0 (es tiempo) | 6 meses post-paso 3 | Monitoreo independiente |
+
+**Resultado realista:** No se llega a 99.99% con la red nacional. Se llega a 99.99% con **una microgrid dedicada junto a Guri** que no depende de Corpoelec. La red nacional se repara en paralelo (USD 5-15B, 5+ años), pero el campus DC no la necesita.
+
+### Pero Guri es solo el anzuelo
+
+:::info Los 3 activos que el plan subestima — [Parra Carrillo](https://www.linkedin.com/in/andresparracarrillo/)
+El Guri atrae la primera mirada. Pero los 3 activos que realmente importan son:
+
+**1. 40M personas desconectadas = el mercado virgen más grande del continente.** Si el [FCV](/04-gobernanza/modelo-estado#fondo-ciudadano-venezuela-fcv-una-sola-cuenta-cero-burocracia) funciona como cuenta universal, estás haciendo el onboarding forzoso de todo un país al sistema financiero. Cualquier fintech mataría por una base de 40M usuarios cautivos que necesitan banca digital, pagos, seguros, crédito — todo desde cero. India lo hizo con [UPI](https://www.npci.org.in/what-we-do/upi/product-overview): 400M bancarizados en 5 años. Venezuela tiene la oportunidad de replicarlo.
+
+**2. Venezuela = laboratorio extremo para IA que funcione con internet intermitente.** El 60% de la población mundial vive en países con infraestructura similar a Venezuela. Soluciones de IA que funcionen con conectividad intermitente, baja potencia de cómputo y datos limitados tienen un TAM de **3.000 millones de personas**. Quien resuelva IA offline-first en Venezuela tiene un producto exportable a África, Sudeste Asiático y el resto de LATAM. [Google Research](https://research.google/) ya invierte en esto — Venezuela puede ser el campo de pruebas.
+
+**3. 7.9M venezolanos en los centros de poder del mundo = red de distribución que ninguna zona franca puede crear.** Hay venezolanos en Goldman Sachs, Google, McKinsey, Shell, hospitales de EE.UU., universidades europeas, startups en Chile y Colombia. Esa no es solo diáspora — es una **red de ventas, distribución y capital** lista para activarse. Ningún incentivo fiscal de zona franca puede fabricar eso.
+:::
+
 ### "Energía atrapada": la oportunidad de arbitraje
 
-Guri tiene **10,2 GW de capacidad instalada** pero la red de transmisión no puede llevar toda esa energía al norte del país. Resultado: **excedentes localizados en Bolívar State** que literalmente no tienen a dónde ir.
+Guri tiene **10,2 GW de capacidad instalada** (capacidad disponible real por determinar tras auditoría independiente) pero la red de transmisión no puede llevar toda esa energía al norte del país. Resultado: **excedentes localizados en Bolívar State** que literalmente no tienen a dónde ir.
 
 ```mermaid
 flowchart LR

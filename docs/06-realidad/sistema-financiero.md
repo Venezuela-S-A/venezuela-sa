@@ -24,8 +24,19 @@ El sistema bancario venezolano opera bajo condiciones extremas:
 Con encaje del 73%, los bancos retienen el 73% de cada depósito. No hay crédito hipotecario, no hay crédito empresarial, no hay financiamiento para PyMEs. La economía opera en efectivo (USD) y criptomonedas. Esto es incompatible con bonos ciudadanos, inversión formal y formalización económica.
 :::
 
-:::tip Fintech y Open Banking: la oportunidad de leapfrog
-Venezuela no tiene sistema bancario funcional — eso es una **ventaja**. No hay legacy systems que defender. Se puede saltar directamente a fintech + open banking sin pasar por la banca tradicional del siglo XX. Cada transacción digital es trazable = **anticorrupción automática**. El FCV, los vouchers educativos, los pagos de concesiones — todo fluye por rieles digitales auditables. [Brasil con Pix](https://www.bcb.gov.br/estabilidadefinanceira/pix) movió USD 4T en 3 años. [India con UPI](https://www.npci.org.in/what-we-do/upi/product-overview) bancarizó 400M de personas. Venezuela puede hacer lo mismo — y más rápido porque no tiene que convencer a bancos viejos de abrir sus APIs.
+:::tip Fintech y Open Banking: la banca privada se moderniza o pierde mercado
+Venezuela SÍ tiene banca privada: Banesco, Mercantil, Provincial (BBVA), Banco Nacional de Crédito, Bancaribe, entre otros. No se eliminan — se obligan a modernizarse. La regulación **Open Banking** exige:
+
+| Obligación | Qué implica para el banco | Referencia |
+|-----------|--------------------------|-----------|
+| **APIs abiertas** | Compartir datos del cliente (con su consentimiento) con fintechs y terceros | [UK Open Banking](https://www.openbanking.org.uk/) — obligatorio desde 2018 |
+| **Portabilidad de datos** | El cliente mueve su historial crediticio a otro banco/fintech en minutos | [Brasil Open Finance](https://www.bcb.gov.br/estabilidadefinanceira/open_finance) |
+| **Interoperabilidad de pagos** | Transferencias instantáneas entre cualquier banco/fintech a costo cero | [Brasil Pix](https://www.bcb.gov.br/estabilidadefinanceira/pix) — USD 4T movidos en 3 años |
+| **Sandbox regulatorio** | Fintechs pueden operar con licencia temporal para innovar | [Singapur MAS](https://www.mas.gov.sg/) |
+
+**Los bancos que se adapten, prosperan** — tienen clientes, infraestructura, marca. Los que no se adapten, pierden mercado ante fintechs que sí abren APIs, ofrecen mejor UX y cobran menos comisiones. **No se destruye la banca privada — se la obliga a competir.**
+
+Cada transacción digital es trazable = **anticorrupción automática**. El FCV, los vouchers educativos, los pagos de concesiones — todo fluye por rieles digitales auditables. [India con UPI](https://www.npci.org.in/what-we-do/upi/product-overview) bancarizó 400M de personas. Venezuela puede hacer lo mismo con 40M — y los bancos que ya existen son parte de la solución, no el problema.
 :::
 
 ## Plan de Reforma

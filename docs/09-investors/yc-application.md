@@ -103,10 +103,12 @@ Alaska pays dividends from oil. Norway built a $2.2T fund. Estonia digitized gov
 
 | Metric | Status |
 |--------|--------|
+| **OFAC License 46B (Mar 14, 2026)** | **ALL US companies authorized: oil + gold + fertilizers** |
 | Chevron operating JV in Venezuela | Active |
 | U.S. controlling oil sales | >USD 1B generated |
 | Dragon Field gas (Trinidad) | 30-year alliance signed |
 | Plan documented with 85+ sources | Published and auditable |
+| Evaluated by 21 perspectives | **Score: 7.4/10** |
 | LATAM data center market | $7.16B → $14.3B (2030) |
 | Diaspora | 7.9M ready to participate |
 | Open source on GitHub | Live |

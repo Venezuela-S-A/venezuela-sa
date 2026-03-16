@@ -24,7 +24,7 @@ title: Business Model Canvas
 
 **For citizens:**
 - Automatic dividend from sovereign fund (USD 15→200/year)
-- Universal healthcare + dignified pension via the **Citizen Fund Venezuela (CFV):** unified account covering retirement + health + housing + education (21% payroll, Singapore CPF model)
+- Universal healthcare + dignified pension via the **Citizen Fund Venezuela (CFV):** unified account with **5 sub-accounts** — retirement 8% + health 7% + housing 4% + education 2% + severance 2% = **23% of payroll** (Singapore CPF model)
 - Digital government, zero bureaucracy
 - Real ownership of national resources
 

@@ -71,7 +71,7 @@ Petróleo genera ingresos → Hidro genera electricidad barata → BigTech viene
 | Bloque | Venezuela S.A. |
 |--------|---------------|
 | **Clientes** | 40M ciudadanos + 7,9M diáspora + oil majors + BigTech |
-| **Propuesta de valor** | FCV desde nacimiento (retiro+salud+vivienda+educación) + energía barata + voucher educativo + tax-free zones |
+| **Propuesta de valor** | FCV desde nacimiento (retiro 8% + salud 7% + vivienda 4% + educación 2% + cesantía 2% = 23%) + energía barata + voucher educativo (escala con PIB/cápita) + tax-free zones |
 | **Ingresos** | Petróleo + impuestos + gas + tech + turismo + fondo |
 | **Recursos clave** | 303B bbl + 18GW hidro + 7,9M diáspora + geografía |
 | **Ventaja competitiva** | Energía más barata de LATAM + reservas #1 + greenfield tech |
@@ -79,6 +79,9 @@ Petróleo genera ingresos → Hidro genera electricidad barata → BigTech viene
 ---
 
 ## Slide 5: Las Rondas
+
+:::caution Las rondas se activan por KPIs y condiciones, no por calendario
+:::
 
 | Ronda | Monto | Fuente | Timeline |
 |-------|-------|--------|----------|
@@ -102,7 +105,7 @@ Petróleo genera ingresos → Hidro genera electricidad barata → BigTech viene
 | Producción petrolera | >1M bpd (+10% crecimiento) |
 | Dragon Field (gas con Trinidad) | Alianza 30 años firmada |
 | Plan documentado con 100+ fuentes | Publicado y auditable |
-| Evaluado por 20 perspectivas | **Score: 7.4/10** |
+| Evaluado por 21 perspectivas | **Score: 7.4/10** |
 | Diáspora | 7,9M listos para participar |
 
 ---
@@ -200,11 +203,11 @@ Este plan es open source. El equipo se construye con el Pre-Seed. La diáspora t
 | PIB | USD 350–500.000 M (top 3 LATAM) |
 | PIB/cápita | USD 10.000–14.000 (nivel Chile/Colombia) |
 | Fondo soberano | USD 250–400.000 M |
-| FCV acumulado (salario mín.) | USD 463.508 a los 65 años |
+| FCV acumulado (salario mín.) | USD 463.508 a los 65 años (5 subcuentas, 23% salario) |
 | Pensión (salario mín.) | USD 1.408/mes (FCV Retiro + Pilar 1) |
 | Ministerios | 10 (hoy: 34). Empleados: 265K (hoy: 2,7M) |
 | Petróleo % exportaciones | <35% (hoy: 95%) |
 | Tasa homicidios | <5/100K (hoy: ~30-40) |
-| Score del plan | 7.4/10 (20 perspectivas — Milei a Piketty) |
+| Score del plan | 7.4/10 (21 perspectivas — Milei a Piketty + Freddy Vega) |
 
-**Cada venezolano tiene cuenta FCV desde que nace. Cada niño tiene voucher. Cada familia elige su colegio y su hospital. El Estado supervisa. Venezuela S.A. hace negocios. Los ciudadanos son los dueños.**
+**Cada venezolano tiene cuenta FCV desde que nace (5 subcuentas, 23% del salario). Cada niño tiene voucher (escala con PIB/cápita). Cada familia elige su colegio y su hospital — acreditación comunitaria vía app, sin burócratas. El Estado financia y supervisa. Venezuela S.A. hace negocios. Los ciudadanos son los dueños. Open banking + fintech desde el Día 1. Todo apoyo es crédito o equity — nada es gratis.**

@@ -65,13 +65,16 @@ Oil generates revenue → Hydro generates cheap electricity → BigTech comes fo
 | **Customers** | 40M citizens + 7.9M diaspora + oil majors + BigTech |
 | **Value prop** | Dividends + cheap energy + tax-free zones + return program |
 | **Revenue** | Oil + taxes + gas + tech + tourism + fund returns |
-| **Value proposition** | Citizen Fund (CFV) from birth (retirement+health+housing+education) + cheap energy + education voucher + tax-free zones |
+| **Value proposition** | Citizen Fund (CFV) from birth (retirement 8% + health 7% + housing 4% + education 2% + severance 2% = 23%) + cheap energy + education voucher (scales with GDP/capita) + tax-free zones |
 | **Key resources** | 303B bbl + 18GW hydro + 7.9M diaspora + geography |
 | **Moat** | Cheapest energy in LATAM + reserves #1 + greenfield tech + CFV (Singapore CPF model) |
 
 ---
 
 ## Slide 5: Funding Rounds
+
+:::caution Rounds activate by KPIs, not by calendar
+:::
 
 | Round | Amount | Source | Timeline |
 |-------|--------|--------|----------|
@@ -94,6 +97,7 @@ Oil generates revenue → Hydro generates cheap electricity → BigTech comes fo
 | U.S. oil sales control | >USD 1B generated |
 | Dragon Field gas (Trinidad) | 30-year alliance signed |
 | Documented plan (85+ sources) | Published, auditable |
+| Evaluated by 21 perspectives | **Score: 7.4/10** |
 | LATAM DC market | USD 7.16B → 14.3B (2030) |
 | Diaspora ready | 7.9M people |
 
@@ -186,8 +190,10 @@ This plan is open source. The team is built with the Pre-Seed. The diaspora has 
 | Sovereign fund | USD 250–400B |
 | Oil % of exports | <35% (today: 95%) |
 | Dividend/person/year | USD 125–200 |
+| CFV (min. wage worker) | USD 463K by age 65 (5 sub-accounts, 23% salary) |
 | Homicide rate | <5/100K (today: ~30-40) |
 | Internet | 50+ Mbps (today: <1 Mbps) |
 | Direct tech jobs | 200,000+ (today: ~0) |
+| Plan score | 7.4/10 (21 perspectives — Milei to Piketty + Freddy Vega) |
 
-**The country with the most resources on Earth deserves the most ambitious plan.**
+**Every Venezuelan has a CFV account from birth (5 sub-accounts, 23% of salary). Every child has a voucher (scales with GDP/capita). Every family chooses their school and hospital — community accreditation via app, no bureaucrats. The State funds and supervises. Venezuela S.A. does business. Citizens are the owners. Open banking + fintech from Day 1. All support is credit or equity — nothing is free.**

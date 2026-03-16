@@ -43,7 +43,7 @@ flowchart LR
 
 **El petróleo es el combustible. La tecnología es el destino. El FCV es el vehículo.**
 
-El petróleo genera ingresos. La hidroeléctrica genera electricidad barata. BigTech viene por la energía (Amazon: [USD 4.000 M en Chile](https://www.mordorintelligence.com/industry-reports/south-america-data-center-market)). El ecosistema diversifica la economía. El **Fondo Ciudadano Venezuela (FCV)** — cuenta unificada tipo [Singapur CPF](https://www.cpf.gov.sg/) con 4 subcuentas (retiro + salud + vivienda + educación = 21% del salario) — convierte a cada ciudadano en dueño de su futuro. El Estado se reduce a **10 ministerios (265K empleados)** que solo supervisan. La educación funciona con **voucher universal** (sistema de puntos). La salud es universal y contributiva (nadie queda fuera).
+El petróleo genera ingresos. La hidroeléctrica genera electricidad barata. BigTech viene por la energía (Amazon: [USD 4.000 M en Chile](https://www.mordorintelligence.com/industry-reports/south-america-data-center-market)). El ecosistema diversifica la economía. El **Fondo Ciudadano Venezuela (FCV)** — cuenta unificada tipo [Singapur CPF](https://www.cpf.gov.sg/) con **5 subcuentas** (retiro 8% + salud 7% + vivienda 4% + educación 2% + cesantía 2% = **23% del salario**) — convierte a cada ciudadano en dueño de su futuro. El Estado se reduce a **10 ministerios (265K empleados)** que solo financian y supervisan. La educación funciona con **voucher que escala con el PIB/cápita** (acreditación comunitaria vía app, sin burócratas). La salud es universal y contributiva (nadie queda fuera). Todo apoyo es **crédito o equity (VC)** — nada es gratis. **Open banking + fintech** desde el Día 1.
 
 ---
 

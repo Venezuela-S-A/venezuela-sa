@@ -47,11 +47,14 @@ flowchart LR
 
 **Oil is the fuel. Technology is the destination. The Citizen Fund is the vehicle.**
 
-Oil generates revenue. Hydroelectric generates cheap electricity. BigTech comes for the energy (Amazon: [$4B in Chile](https://www.mordorintelligence.com/industry-reports/south-america-data-center-market)). The ecosystem diversifies the economy. The **Citizen Fund Venezuela (CFV)** — a unified account modeled on [Singapore's CPF](https://www.cpf.gov.sg/) with 4 sub-accounts (retirement + health + housing + education = 21% of salary) — makes every citizen an owner of their future. The State shrinks to **10 ministries (265K employees)** that only supervise. Education runs on **universal vouchers** (points system). Healthcare is universal and contributory (no one is excluded). A minimum-wage worker accumulates **USD 463K by age 65** — pension of USD 1,408/month, homeownership, children's university paid.
+Oil generates revenue. Hydroelectric generates cheap electricity. BigTech comes for the energy (Amazon: [$4B in Chile](https://www.mordorintelligence.com/industry-reports/south-america-data-center-market)). The ecosystem diversifies the economy. The **Citizen Fund Venezuela (CFV)** — a unified account modeled on [Singapore's CPF](https://www.cpf.gov.sg/) with **5 sub-accounts** (retirement 8% + health 7% + housing 4% + education 2% + severance 2% = **23% of salary**) — makes every citizen an owner of their future. The State shrinks to **10 ministries (265K employees)** that fund and supervise. Education runs on **vouchers that scale with GDP/capita** (community accreditation via app, no bureaucrats). Healthcare is universal and contributory (no one is excluded). All support is **credit or equity (VC)** — nothing is free. **Open banking + fintech** from Day 1. A minimum-wage worker accumulates **USD 463K by age 65** — pension of USD 1,408/month, homeownership, children's university paid.
 
 ---
 
 ## Funding Rounds
+
+:::caution Illustrative dates — rounds activate by KPIs and conditions, not by calendar
+:::
 
 | Round | Source | Amount | Use | Timeline |
 |-------|--------|--------|-----|----------|

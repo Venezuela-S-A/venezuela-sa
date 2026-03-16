@@ -114,7 +114,7 @@ flowchart TB
 
 **Para ciudadanos:**
 - Dividendo automático del Fondo de Inversión Venezuela S.A. (USD 15→200/año)
-- Salud universal + pensión digna vía el **Fondo Ciudadano Venezuela (FCV):** cuenta unificada retiro + salud + vivienda + educación (21% del salario, tipo Singapur CPF)
+- Salud universal + pensión digna vía el **Fondo Ciudadano Venezuela (FCV):** cuenta unificada con **5 subcuentas** — retiro 8% + salud 7% + vivienda 4% + educación 2% + cesantía 2% = **23% del salario** (tipo Singapur CPF)
 - Estado digital sin burocracia
 - Propiedad real sobre recursos nacionales
 

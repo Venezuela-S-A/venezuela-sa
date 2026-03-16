@@ -384,25 +384,33 @@ flowchart LR
 
 #### Monto del voucher K-12 (hasta los 18 años)
 
-| Componente | Mínimo | Óptimo | Referencia |
-|-----------|--------|--------|-----------|
-| Matrícula / operación escolar | USD 80/mes | USD 120/mes | Salarios docentes + infraestructura. Chile: ~USD 100/mes |
-| Comedor escolar | USD 25/mes | USD 40/mes | [Finlandia](https://www.oph.fi/): USD 50/mes. [Chile JUNAEB](https://www.junaeb.cl/): USD 25/mes |
-| Transporte escolar | USD 15/mes | USD 30/mes | Ruta concesionada. Finlandia: incluido |
-| Actividades extracurriculares | USD 30/mes | USD 50/mes | 2-3 actividades: idioma, deporte, arte/robótica |
-| Material escolar + tablet | USD 10/mes | USD 20/mes | [Uruguay Ceibal](https://www.ceibal.edu.uy/): USD 10/mes amortizado |
-| Seguro escolar | USD 3/mes | USD 5/mes | Accidentes + responsabilidad civil |
-| **TOTAL voucher estándar** | **USD 163/mes** | **USD 265/mes** | **USD 1.956-3.180/año** (Chile: USD 3.200/año) |
-| **Voucher SEP (+50%)** | **USD 244/mes** | **USD 397/mes** | **USD 2.928-4.764/año** |
+:::danger El voucher NO es un monto fijo — escala con la economía
+Los costos educativos suben a medida que la economía crece (salarios docentes suben, comida sube, transporte mejora y cuesta más). Un voucher fijo quedaría obsoleto en 3 años. **El voucher se indexa al PIB/cápita** — igual que las fases del FCV. Cuando la economía crece, el voucher crece automáticamente.
+:::
 
-Implementación gradual (el voucher crece con la economía):
+**Costos por estudiante a niveles de economía normalizada (tipo Chile):**
 
-| Fase | Voucher estándar | Voucher SEP | Qué cubre |
-|------|-----------------|-------------|-----------|
-| Emergencia (Años 1-3) | USD 163/mes | USD 244/mes | Matrícula + comedor + material |
-| Estabilización (Años 3-7) | USD 214/mes | USD 321/mes | + Transporte |
-| Construcción (Años 7-12) | USD 265/mes | USD 397/mes | + Extracurriculares completas |
-| Madurez (Años 12+) | USD 295/mes | USD 442/mes | + Tablet/laptop + seguro premium |
+| Componente | Venezuela hoy | Economía normalizada | Chile actual | Referencia |
+|-----------|--------------|---------------------|-------------|-----------|
+| Matrícula / operación | USD 45-75/mes | USD 150-250/mes | USD 100-200/mes | Salarios docentes USD 1.500-2.000 + admin + infraestructura |
+| Comedor escolar | USD 15-25/mes | USD 50-80/mes | USD 66-88/mes | [JUNAEB](https://www.junaeb.cl/) USD 3-4/almuerzo × 22 días |
+| Transporte escolar | USD 10-15/mes | USD 30-50/mes | USD 30-50/mes | Ruta concesionada |
+| Extracurriculares (1 deporte + 1 arte) | USD 15-25/mes | USD 50-100/mes | USD 60-120/mes | USD 25-50 × 2 actividades |
+| Material + tablet | USD 8-12/mes | USD 15-25/mes | USD 15-25/mes | Tablet amortizada + útiles |
+| Seguro escolar | USD 2-4/mes | USD 5-10/mes | USD 5-10/mes | Accidentes + responsabilidad |
+| **TOTAL** | **USD 95-156/mes** | **USD 300-515/mes** | **USD 276-493/mes** | |
+
+**Voucher indexado al PIB/cápita** (escala automáticamente):
+
+| KPI de activación | Voucher estándar | Voucher SEP (+50%) | % SEP (baja con pobreza) | Costo país/año | % del PIB |
+|-------------------|-----------------|-------------------|-------------------------|---------------|-----------|
+| PIB/cáp < USD 3K | USD 120-160/mes | USD 180-240/mes | 40% de estudiantes | ~USD 10B | ~12% (emergencia) |
+| PIB/cáp USD 3-5K | USD 200-280/mes | USD 300-420/mes | 35% | ~USD 16B | ~8% |
+| PIB/cáp USD 5-8K | USD 300-400/mes | USD 450-600/mes | 25% | ~USD 24B | ~8% |
+| PIB/cáp USD 8-15K | USD 400-500/mes | USD 600-750/mes | 15% | ~USD 30B | ~7% |
+| PIB/cáp > USD 15K | USD 500-600/mes | USD 750-900/mes | 10% | ~USD 35B | ~6% |
+
+**Referencia:** [Chile gasta 5,4% del PIB en educación](https://data.worldbank.org/). Venezuela converge a ~6-7% del PIB en madurez — razonable para un país con 8M de estudiantes (2x Chile) en fase de reconstrucción. A medida que la pobreza baja, menos estudiantes necesitan voucher SEP y el costo total como % del PIB se estabiliza.
 
 #### Ejes del nuevo currículo
 

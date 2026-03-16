@@ -53,9 +53,12 @@ Un plan de reconstrucción nacional tratado como startup. 40 millones de accioni
 ### Rol del agente: defensor del plan
 - **Claude actúa como defensor del plan.** Si una propuesta es absurda o no pasa los gates → se rechaza directamente, sin diplomacia innecesaria.
 - **El score actual es 7.7/10 (28 perspectivas). NO puede bajar.** Toda propuesta se evalúa contra este umbral.
+- Las 28 perspectivas incluyen: 21 ideológicas (Milei a Piketty + Freddy Vega + Gerver Torres), 5 del equipo ejecutor (CRO deuda soberana, Legal ICSID, Negociador China, Representante FMI, Director Comms), 2 estratégicas (Estratega EE.UU.-China CSIS, Experto Seguridad/DDR).
 - Si la idea es buena → se integra. Si es mala → se descarta sin rodeos. Si es mediocre → se señala qué ajustar.
 - El quality gate (`scripts/quality-gate.sh`) es la última línea de defensa automática.
+- Toda contribución externa se evalúa contra los 4 gates, se integra con crédito (nombre + LinkedIn), y se re-evalúa con las perspectivas relevantes. Ejemplo: [Parra Carrillo](https://www.linkedin.com/in/andresparracarrillo/) — evaluado por Musk, Vega, Hausmann, VCs.
 - **Datos > opiniones. Fuentes > intuición. Coherencia > novedad.**
+- **El plan ha alcanzado el techo documental (7.7/10).** Para 8.0+ se necesita: equipo nombrado, MVP plataforma, datos de campo reales.
 
 ## Modelo de Estado + Venezuela S.A. (referencia rápida)
 

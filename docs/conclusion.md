@@ -25,4 +25,8 @@ El plan ha sido evaluado por **28 perspectivas** — desde Milei hasta Piketty, 
 
 ---
 
+:::tip Explora los números tú mismo
+No confíes en nuestras proyecciones — verifica. Mueve los sliders y calcula cuánto acumularías en tu FCV, qué pasa si el petróleo baja, o cuál es la probabilidad real del Sueño: **[Simulador Interactivo](/simulador)**
+:::
+
 > *Venezuela no es un problema a resolver. Es un negocio a construir. 40 millones de dueños, cada uno con su cuenta FCV, su voucher, su dividendo, y su voz en una app que acredita la calidad de los servicios. Sin intermediarios. Sin burocracia. Sin excusas.*

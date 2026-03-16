@@ -28,6 +28,10 @@ El petróleo financia la transición — no es el destino. El destino es tecnolo
 
 **Eso es Venezuela S.A.: un plan donde 40 millones de personas son dueñas del negocio — no beneficiarias de un político.**
 
+:::tip Explora el plan con los simuladores interactivos
+¿Cuánto acumularías en tu FCV a los 65? ¿Qué pasa si el petróleo baja a USD 40? ¿Cuál es la probabilidad real del Sueño? Mueve los sliders y descúbrelo: **[Simulador Interactivo](/simulador)**
+:::
+
 ---
 
 ## Para Quién es Este Plan

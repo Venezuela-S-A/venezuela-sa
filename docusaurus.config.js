@@ -123,6 +123,11 @@ const config = {
             label: "El Plan",
           },
           {
+            to: "/simulador",
+            label: "Simulador",
+            position: "left",
+          },
+          {
             type: "localeDropdown",
             position: "right",
           },

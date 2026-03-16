@@ -59,7 +59,7 @@ La [diáspora venezolana de 7,9 M personas](https://www.unhcr.org/) es el activo
 
 | Programa | Mecanismo | Meta (año 5) | Costo |
 |----------|-----------|-------------|-------|
-| **"Vuelve y Construye"** | Fast-track de repatriación: vuelo + vivienda temporal 6 meses + empleo garantizado en proyecto del plan | 50.000-80.000 retornados/año | USD 200-400 M/año |
+| **Retorno vía FCV** | El venezolano en el exterior que contribuyó voluntariamente al FCV ya tiene: subcuenta vivienda (pago inicial), subcuenta salud (cobertura), subcuenta retiro. **Cero programa estatal de repatriación.** El FCV ES el incentivo de retorno. Adicionalmente: fast-track de homologación de títulos + acceso a bolsa de empleo VenDev + crédito preferencial (no regalo) para emprendimiento | 50.000-80.000 retornados/año | Autofinanciado vía FCV + créditos recuperables |
 | **Transferencia remota** | Consultorías, mentorías y formación desde el exterior para quienes no retornan | 20.000 consultores remotos | USD 50-100 M/año |
 | **Reconocimiento de títulos** | Homologación automática de títulos obtenidos en el exterior | — | USD 5-10 M (plataforma digital) |
 | **Incentivos fiscales** | 5 años sin impuesto sobre renta para retornados que trabajen en sectores prioritarios | — | Costo fiscal absorbido por productividad |

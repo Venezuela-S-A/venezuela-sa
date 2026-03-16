@@ -31,6 +31,8 @@
     "@docusaurus/preset-classic": "^3.0.0",
     "@docusaurus/theme-mermaid": "^3.9.2",
     "@mdx-js/react": "^3.0.0",
+    "@mlc-ai/web-llm": "^0.2.82",
+    "@supabase/supabase-js": "^2.99.2",
     "docusaurus-graph": "^2.0.0",
     "prism-react-renderer": "^2.1.0",
     "react": "^18.2.0",

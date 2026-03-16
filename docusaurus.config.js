@@ -128,6 +128,21 @@ const config = {
             position: "left",
           },
           {
+            to: "/estadisticas",
+            label: "Participacion",
+            position: "left",
+          },
+          {
+            to: "/sugerencias",
+            label: "Sugerencias",
+            position: "left",
+          },
+          {
+            to: "/evaluacion",
+            label: "Score 7.7",
+            position: "right",
+          },
+          {
             type: "localeDropdown",
             position: "right",
           },
@@ -146,6 +161,16 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      image: "img/og-default.png",
+      metadata: [
+        { name: "twitter:card", content: "summary_large_image" },
+        { name: "twitter:site", content: "@VenezuelaSA_" },
+        {
+          property: "og:description",
+          content:
+            "Plan de reconstruccion nacional donde 40 millones de venezolanos son accionistas. Petroleo como combustible, tecnologia como destino.",
+        },
+      ],
       mermaid: {
         theme: { light: "neutral", dark: "dark" },
       },

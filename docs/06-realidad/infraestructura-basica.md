@@ -108,7 +108,7 @@ Fuentes: [FCC Clean Network Initiative](https://www.fcc.gov/) [Requiere investig
 |--------|---------------|-------|--------|
 | Subcuenta Vivienda del FCV + subsidio focalizado para familias en extrema pobreza | USD 5.000–10.000 M | Años 1–10 | Chile (subsidio habitacional DS49) |
 | Crédito hipotecario (bancos privados + garantía de Venezuela S.A.) | USD 5.000–10.000 M | Años 2–15 | Colombia (Mi Casa Ya) |
-| Vivienda social cerca de hubs tech y ZEET | USD 3.000–5.000 M | Años 3–10 | Singapur (HDB) |
+| Vivienda asequible vía concesión privada cerca de hubs tech y ZEET | USD 3.000–5.000 M | Años 3–10 | Singapur (HDB) |
 | Formalización de tenencia + registro digital | USD 500–1.000 M | Años 1–3 | Georgia (blockchain títulos) |
 | **TOTAL VIVIENDA** | **USD 15.000–30.000 M** | **15 años** | — |
 

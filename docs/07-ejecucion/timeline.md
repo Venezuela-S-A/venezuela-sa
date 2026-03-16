@@ -15,7 +15,7 @@ gantt
     Reestructuracion de deuda (haircut 50%)         :a1, 2027, 2031
     Contratos forward diversificados               :a2, 2027, 2031
     Capital extranjero USD 30-35B (Rystad)          :a3, 2027, 2030
-    Fondo Soberano + reglas constitucionales       :a4, 2027, 2029
+    Fondo de Inversión Venezuela S.A. + reglas constitucionales       :a4, 2027, 2029
     Bonos ciudadanos + censo diaspora               :a5, 2027, 2029
     Meta 1.4 M bpd                                  :milestone, m1, 2031, 0d
 
@@ -23,7 +23,7 @@ gantt
     Produccion 2-2.5 M bpd                           :b1, 2032, 2037
     Hubs tech + data centers (5-10% LATAM)          :b2, 2031, 2037
     Turismo 3-5 M turistas/anio                     :b3, 2032, 2037
-    Fondo soberano USD 80-150B                      :b4, 2032, 2037
+    Fondo de Inversión Venezuela S.A. USD 80-150B                      :b4, 2032, 2037
     Meta 2.5 M bpd                                   :milestone, m2, 2037, 0d
 
     section Fase C - Transformacion
@@ -38,7 +38,7 @@ gantt
 - Reestructurar deuda (haircut 50%, [modelo Citigroup](https://www.cnbc.com/2026/01/04/venezuelas-billions-in-distressed-debt-who-is-in-line-to-collect.html))
 - Contratos forward con compradores diversificados
 - USD 30–35.000 M capital extranjero inicial ([Rystad](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/))
-- Fondo Soberano + reglas constitucionales
+- Fondo de Inversión Venezuela S.A. + reglas constitucionales
 - Bonos ciudadanos + censo global diáspora
 - **Meta: 1,4 M bpd**
 
@@ -46,7 +46,7 @@ gantt
 - Producción: 2–2,5 M bpd (ver [Petróleo y Gas](/10-oportunidades/petroleo-gas))
 - Hubs tech + data centers (5–10% mercado LATAM) (ver [Data Centers e IA](/10-oportunidades/data-centers-ia))
 - Turismo: 3–5 M turistas/año (ver [Turismo](/10-oportunidades/turismo))
-- Fondo soberano: USD 80–150.000 M
+- Fondo de Inversión Venezuela S.A.: USD 80–150.000 M
 
 ## Fase C: Transformación (Años 11–15+)
 - Producción: 2,5–3 M bpd
@@ -199,7 +199,7 @@ Proyectos que en otro contexto tomarían 3-5 años, pero con ejecución paralela
 
 | Acción | Timeline | Costo Est. | Tecnología | Impacto | Precedente |
 |--------|----------|-----------|------------|---------|------------|
-| **E-Government completo** (identidad + impuestos + salud + justicia + registro empresas) | 12-18 meses | USD 200-500M | X-Road venezolano + cloud soberano + biométricos + blockchain para auditoría | 95% de trámites online, 0 filas, 2% PIB en ahorro. Ver [Estado Digital](/06-realidad/estado-digital) | Estonia: 2 años en los 2000s. Con tech de 2027 y su código abierto, 12-18 meses es realista |
+| **E-Government completo** (identidad + impuestos + salud + justicia + registro empresas) | 12-18 meses | USD 200-500M | X-Road venezolano + cloud nacional + biométricos + blockchain para auditoría | 95% de trámites online, 0 filas, 2% PIB en ahorro. Ver [Estado Digital](/06-realidad/estado-digital) | Estonia: 2 años en los 2000s. Con tech de 2027 y su código abierto, 12-18 meses es realista |
 | **Agricultura de precisión nacional** (Llanos + zonas agrícolas) | 12-18 meses | USD 50-150M | Satélite (Planet Labs) + drones + IoT + IA para recomendaciones de siembra | Productividad agrícola +30-50%. Reducir importación de alimentos de 70% a <40%. Ver [Agricultura](/06-realidad/infraestructura-basica#agricultura-y-soberanía-alimentaria) | Brasil: agricultura de precisión cubre 70%+ de soja ([Embrapa](https://www.embrapa.br/)) |
 | **Modernización de red eléctrica** (smart grid Guri→distribución) | 12-18 meses (fase 1) | USD 500M-1B | Smart meters + SCADA + automatización de subestaciones + predictive maintenance IA | Reducir pérdidas técnicas de >30% a <15%. Guri tiene 18.000 MW — el problema es distribución. Ver [Infraestructura](/06-realidad/infraestructura-basica) | Colombia: [Enel/Codensa](https://www.enel.com.co/) redujo pérdidas técnicas a 8% con smart grid |
 | **Registro de propiedad en blockchain** | 6-12 meses | USD 20-50M | Blockchain permissionada + integración catastral + biométricos | Seguridad jurídica para inversión. Formalizar propiedad de millones de familias | Georgia: [blockchain para títulos de tierra](https://www.transparency.org/) desde 2016 |

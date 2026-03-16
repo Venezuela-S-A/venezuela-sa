@@ -138,9 +138,9 @@ Llanos: tierras fértiles subutilizadas + agua del Orinoco. Venezuela importa >7
 | Café | Tradición exportadora | Specialty coffee | Recuperar posición |
 | Camarón/acuicultura | Costa caribeña extensa | Caribe + EE.UU. | Modelo Ecuador (1/4 consumo mundial) |
 | Frutas tropicales | Clima ideal | Caribe + Europa | Procesamiento + exportación |
-| Maíz, arroz, carne | Llanos | Autosuficiencia | Soberanía alimentaria 10 años |
+| Maíz, arroz, carne | Llanos | Autosuficiencia | Autosuficiencia alimentaria 10 años |
 
-**Meta:** Soberanía alimentaria en 10 años + exportación agroindustrial al Caribe. Ver [Infraestructura](/06-realidad/infraestructura-basica) para plan agrícola detallado. Ver [Agro y Ganadería — Análisis Detallado](/10-oportunidades/agro-ganaderia) para modelo completo con USD 18-25B de inversión y 1,5-2M empleos.
+**Meta:** Autosuficiencia alimentaria en 10 años + exportación agroindustrial al Caribe. Ver [Infraestructura](/06-realidad/infraestructura-basica) para plan agrícola detallado. Ver [Agro y Ganadería — Análisis Detallado](/10-oportunidades/agro-ganaderia) para modelo completo con USD 18-25B de inversión y 1,5-2M empleos.
 
 ---
 
@@ -195,7 +195,7 @@ Petróleo pasa del **95% actual a <35% de exportaciones**. Los 6 motores no-petr
 
 ## Automatización Agrícola: Leapfrog Tecnológico
 
-> Venezuela no necesita repetir 50 años de mecanización agrícola. Con drones, IA y sensores, puede saltar directo a agricultura de precisión — y lograr soberanía alimentaria en 3-5 años, no en 15.
+> Venezuela no necesita repetir 50 años de mecanización agrícola. Con drones, IA y sensores, puede saltar directo a agricultura de precisión — y lograr Autosuficiencia alimentaria en 3-5 años, no en 15.
 
 :::danger Crisis alimentaria actual (2026)
 - **5,1 millones** de personas necesitan asistencia alimentaria urgente — [WFP Venezuela](https://www.wfp.org/emergencies/venezuela-emergency)
@@ -268,7 +268,7 @@ flowchart TD
 
     F --- F1["Exportar modelo<br>a Centroamérica + Caribe"]
     F --- F2["Agro-tech hub<br>en ZEET"]
-    F --- F3["Soberanía alimentaria<br>alcanzada"]
+    F --- F3["Autosuficiencia alimentaria<br>alcanzada"]
 
     style A fill:#00897B,color:#fff
     style B fill:#0D47A1,color:#fff
@@ -335,7 +335,7 @@ El productor no compra el dron — contrata el servicio. Una empresa opera flota
 
 ### Cultivos prioritarios para automatización
 
-| Cultivo | Ha disponibles | Rendimiento actual | Meta con agro-tech | Impacto en soberanía alimentaria |
+| Cultivo | Ha disponibles | Rendimiento actual | Meta con agro-tech | Impacto en Autosuficiencia alimentaria |
 |---------|---------------|-------------------|-------------------|-------------------------------|
 | **Maíz** | 600K-800K (Llanos) | 2,5 ton/ha | 6-8 ton/ha | Autosuficiencia — hoy importa 60% |
 | **Arroz** | 200K-350K (Portuguesa, Guárico) | 3,5 ton/ha | 7-9 ton/ha | Autosuficiencia — hoy importa 40% |

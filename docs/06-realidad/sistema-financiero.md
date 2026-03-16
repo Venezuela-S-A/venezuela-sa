@@ -24,6 +24,10 @@ El sistema bancario venezolano opera bajo condiciones extremas:
 Con encaje del 73%, los bancos retienen el 73% de cada depósito. No hay crédito hipotecario, no hay crédito empresarial, no hay financiamiento para PyMEs. La economía opera en efectivo (USD) y criptomonedas. Esto es incompatible con bonos ciudadanos, inversión formal y formalización económica.
 :::
 
+:::tip Fintech y Open Banking: la oportunidad de leapfrog
+Venezuela no tiene sistema bancario funcional — eso es una **ventaja**. No hay legacy systems que defender. Se puede saltar directamente a fintech + open banking sin pasar por la banca tradicional del siglo XX. Cada transacción digital es trazable = **anticorrupción automática**. El FCV, los vouchers educativos, los pagos de concesiones — todo fluye por rieles digitales auditables. [Brasil con Pix](https://www.bcb.gov.br/estabilidadefinanceira/pix) movió USD 4T en 3 años. [India con UPI](https://www.npci.org.in/what-we-do/upi/product-overview) bancarizó 400M de personas. Venezuela puede hacer lo mismo — y más rápido porque no tiene que convencer a bancos viejos de abrir sus APIs.
+:::
+
 ## Plan de Reforma
 
 ### Fase 1: Estabilización (Años 1–3)
@@ -44,7 +48,7 @@ Con encaje del 73%, los bancos retienen el 73% de cada depósito. No hay crédit
 | Crédito hipotecario | Garantía vía Venezuela S.A. (deuda corporativa, no soberana) para vivienda social | Chile: subsidio habitacional |
 | Banca digital | Plataforma para bonos ciudadanos desde USD 10 | [Nubank](https://www.nubank.com) / M-Pesa |
 | Microcrédito agrícola e industrial | Fondo de garantías administrado por Venezuela S.A. (no por el Estado) | Colombia: Bancóldex |
-| Fintech regulado | Sandbox regulatorio para startups financieras | Singapur MAS |
+| **Fintech + Open Banking desde Día 1** | Regulación Open Banking obligatoria: APIs abiertas, portabilidad de datos, interoperabilidad entre bancos/fintechs. Sandbox regulatorio. **Esto NO es fase 3 — es prioridad inmediata.** Cada transacción trazable = anticorrupción by design | [UK Open Banking](https://www.openbanking.org.uk/) + [Brasil Pix](https://www.bcb.gov.br/estabilidadefinanceira/pix) + [Singapur MAS](https://www.mas.gov.sg/) |
 
 ### Fase 3: Madurez (Años 7–15)
 

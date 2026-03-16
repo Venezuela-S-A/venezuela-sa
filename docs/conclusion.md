@@ -11,7 +11,7 @@ Este plan no pide fe. Pide inversión.
 
 Cada venezolano tiene un **Fondo Ciudadano Venezuela (FCV)** desde que nace — una cuenta unificada (tipo [Singapur CPF](https://www.cpf.gov.sg/)) con 4 subcuentas: retiro, salud, vivienda y educación. Venezuela S.A. invierte **USD 32.400** en cada ciudadano antes de que produzca su primer sueldo. A los 65, un trabajador de salario mínimo acumula **USD 463.508** — pensión de USD 1.408/mes, casa propia, hijos graduados.
 
-La educación funciona con **voucher universal** (sistema de puntos): matrícula + comedor + transporte + 1 deporte + 1 arte. Los colegios compiten como empresas privadas. La salud es universal y contributiva (FONASA → Medisave gradual) — nadie queda fuera. La universidad se financia con voucher por mérito.
+La educación funciona con **voucher universal** (sistema de puntos): matrícula + comedor + transporte + 1 deporte + 1 arte. Los colegios compiten como empresas privadas. La salud es universal y contributiva (FCV Salud → Medisave gradual) — nadie queda fuera. La universidad se financia con voucher por mérito.
 
 El plan ha sido evaluado por **20 perspectivas** — desde Milei hasta Piketty, desde Lee Kuan Yew hasta María Corina Machado. **Score: 7.4/10.** El Quality Gate no permite que baje.
 

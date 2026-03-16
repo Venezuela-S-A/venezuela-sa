@@ -35,7 +35,7 @@ Si el plan no resuelve la vida cotidiana de la mayoría que se quedó — emplea
 | [Fondo de Inversión Venezuela S.A.](/02-motor-financiero/fondo-soberano) | Dividendo USD 30-65/persona/año (año 15) | Insuficiente a corto plazo; útil a largo plazo |
 | [Reforma fiscal](/02-motor-financiero/transicion-fiscal) | Menos impuestos informales, más formalización | Parcial: beneficia a quien ya tiene ingresos |
 | [Seguridad](/04-gobernanza/seguridad-fisica) | Reducción de criminalidad | Impacto directo en calidad de vida |
-| [Salud](/06-realidad/servicios-publicos) | FONASA universal (contribución 7% salario). Tramos A/B sin copago. ISAPRE opcional | Transformacional — nadie queda fuera |
+| [Salud](/06-realidad/servicios-publicos) | FCV Salud universal (contribución 7% salario). Tramos A/B sin copago. ISAPRE opcional | Transformacional — nadie queda fuera |
 | [Educación](/05-transformacion/educacion) | Sistema educativo reconstruido | Impacto en 10-15 años |
 | [Estado digital](/06-realidad/estado-digital) | Trámites online, menos burocracia | Útil para conectados; 40%+ sin internet confiable |
 | [Infraestructura](/06-realidad/infraestructura-basica) | Electricidad, agua, transporte | Necesidad básica cubierta |
@@ -72,7 +72,7 @@ El [70%+ de las viviendas en barrios populares no tienen título legal](https://
 |--------|-----------|------|-------|
 | Régimen simplificado de microempresa | 1 formulario, 1 día, 0 costo los primeros 2 años | 2 M de microempresas formalizadas (año 5) | USD 100-200 M |
 | Monotributo | Pago único mensual (USD 5-10) cubre impuestos + seguridad social básica | Cobertura universal progresiva | Auto-financiado al escalar |
-| Banca digital universal | Cuenta bancaria digital gratuita vinculada a cédula (modelo India [Jan Dhan](https://pmjdy.gov.in/)) | 30 M de cuentas en 3 años | USD 100-200 M |
+| Banca digital universal | Cuenta bancaria digital sin costo de apertura vinculada a cédula (modelo India [Jan Dhan](https://pmjdy.gov.in/)) | 30 M de cuentas en 3 años | USD 100-200 M |
 
 #### 3. Empleo en infraestructura
 
@@ -80,7 +80,7 @@ El plan requiere USD 550-750B en inversión en 15 años. Eso significa **constru
 
 | Programa | Modelo | Empleos directos | Salario |
 |----------|--------|-----------------|---------|
-| "Construye Venezuela" | [India NREGA](https://nrega.nic.in/): empleo garantizado 100 días/año en obras públicas | 500.000-1 M empleos/año | USD 200-400/mes |
+| "Construye Venezuela" | [India NREGA](https://nrega.nic.in/): empleo disponible hasta 100 días/año en obras públicas | 500.000-1 M empleos/año | USD 200-400/mes |
 | Mantenimiento de infraestructura | Colombia "Caminos de prosperidad" | 200.000 empleos | USD 150-300/mes |
 | Rehabilitación de vivienda | Programas de autoconstrucción asistida | 100.000 familias/año | Materiales + asistencia técnica |
 
@@ -122,7 +122,7 @@ La canasta básica familiar cuesta **USD 677/mes** para 5 personas (~**USD 135/p
 
 | # | Componente | Valor/mes (año 3) | Valor/mes (año 5) | Cómo se entrega |
 |---|-----------|-------------------|-------------------|----------------|
-| 1 | **Salud universal (FONASA)** | USD 40-60 | USD 60-100 | Cobertura total vía FONASA (contribución 7%). Tramos A/B: 0% copago. Ahorra lo que hoy gastan en clínicas privadas o se mueren sin atención |
+| 1 | **Salud universal (FONASA)** | USD 40-60 | USD 60-100 | Cobertura total vía FCV Salud (contribución 7%). Tramos A/B: 0% copago. Ahorra lo que hoy gastan en clínicas privadas o se mueren sin atención |
 | 2 | **Educación universal (voucher portable)** | USD 30-50 | USD 50-80 | Voucher cubre 100% de matrícula. Colegios compiten como empresas privadas por vouchers. +50% para bajos ingresos (SEP) |
 | 3 | **Empleo formal** (el mayor impacto) | USD 150-300 | USD 300-500 | De USD 3.50/mes (salario mínimo actual) a USD 300-500/mes en construcción, servicios, tech, agro. El plan crea **1-3M de empleos directos** |
 | 4 | **Infraestructura que funciona** | USD 20-40 | USD 40-60 | Electricidad 24/7, agua potable, transporte público. Hoy gastan en plantas, tanques de agua, taxis por falta de transporte |
@@ -169,7 +169,7 @@ Un empleo de USD 400/mes genera **USD 4.800/año** por ciudadano — vs. USD 65/
 ### La narrativa que falta
 
 :::info El joven de Petare
-El plan necesita una historia, no solo tablas. Imagina: un joven de 22 años en Petare. Hoy gana USD 50/mes en economía informal. En año 1, se inscribe en un bootcamp de 6 meses con estipendio de USD 200/mes. En año 2, consigue empleo remoto ganando USD 800/mes. Invirtió USD 10 en bonos ciudadanos que ya valen USD 15. Su mamá va al hospital concesionado — cubierta por FONASA sin copago porque es Tramo A. Su hermana menor tiene voucher escolar que le permite elegir la mejor escuela del barrio. La calle donde vive ya no la controla una banda.
+El plan necesita una historia, no solo tablas. Imagina: un joven de 22 años en Petare. Hoy gana USD 50/mes en economía informal. En año 1, se inscribe en un bootcamp de 6 meses con estipendio de USD 200/mes. En año 2, consigue empleo remoto ganando USD 800/mes. Invirtió USD 10 en bonos ciudadanos que ya valen USD 15. Su mamá va al hospital concesionado — cubierta por FCV Salud sin copago porque es Tramo A. Su hermana menor tiene voucher escolar que le permite elegir la mejor escuela del barrio. La calle donde vive ya no la controla una banda.
 
 Ese joven cuenta la historia en TikTok. Eso vale más que 100 páginas de proyecciones.
 
@@ -189,7 +189,7 @@ Cuando la diáspora retorne con ahorros, experiencia internacional y títulos, h
 | Retornados compran propiedades y desplazan residentes | Gentrificación en ciudades post-conflicto (Bogotá, Beirut) | Tope de compra por retornado durante primeros 3 años; prioridad de vivienda social a residentes |
 | Retornados capturan empleos calificados | España post-dictadura: retornados con títulos europeos desplazaron locales | Cuotas: 60% empleo local + 40% retornado en proyectos públicos |
 | Resentimiento social | "Nosotros sufrimos, ustedes se fueron" | Programa de reconocimiento a "los que sostuvieron el país" — no es solo retórica, es prioridad en titulación, capacitación y empleo |
-| Diferencia de capital | Retornados con USD 10-50K vs. residentes con USD 0 | Programa de microfinanzas exclusivo para residentes ([Grameen model](https://grameenfoundation.org/)): USD 500-5.000 a tasa 0% los primeros 2 años |
+| Diferencia de capital | Retornados con USD 10-50K vs. residentes con USD 0 | Programa de microfinanzas exclusivo para residentes ([Grameen model](https://grameenfoundation.org/)): USD 500-5.000 a tasa preferencial los primeros 2 años |
 
 ---
 

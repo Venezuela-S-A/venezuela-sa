@@ -61,7 +61,7 @@ Con una producción de 12.800 profesionales/año (de los cuales la mitad emigra)
 
 ```mermaid
 flowchart TB
-    subgraph GOV["ESTADO PROVEE (educación es función estatal)"]
+    subgraph GOV["ESTADO FINANCIA Y SUPERVISA (educación es función estatal)"]
         SAL["Salarios docentes<br/>USD 50 → USD 500+"]
         REF["Reforma curricular<br/>STEM + inglés + coding"]
         ACR["Acreditación flexible<br/>para bootcamps y online"]
@@ -93,7 +93,7 @@ flowchart TB
 ### Sprint: Conectividad + Contenido (Días1-180)
 
 :::tip Starlink + tablets + Khan Academy = escuela digital en 30 días
-No hay que esperar a construir escuelas nuevas. Con **Starlink en cada escuela**, **tablets para estudiantes** y **contenido gratuito** (Khan Academy, Platzi, Wikipedia offline), se puede dar acceso a educación de calidad a millones de estudiantes ANTES de reformar el curriculum completo. Es un puente, no la solución final — pero es un puente que salva una generación.
+No hay que esperar a construir escuelas nuevas. Con **Starlink en cada escuela**, **tablets para estudiantes** y **contenido sin costo para el estudiante** (Khan Academy, Platzi, Wikipedia offline), se puede dar acceso a educación de calidad a millones de estudiantes ANTES de reformar el curriculum completo. Es un puente, no la solución final — pero es un puente que salva una generación.
 :::
 
 | Acción | Resultado | Costo | Timeline |
@@ -106,7 +106,7 @@ No hay que esperar a construir escuelas nuevas. Con **Starlink en cada escuela**
 | **TOTAL SPRINT** | | **USD 400-650M** | |
 
 :::caution Starlink en escuelas no basta — falta conectividad en casa
-Si el estudiante tiene internet en la escuela pero no en casa, no puede practicar, no puede hacer tareas, no puede usar plataformas online fuera de horario escolar. Solución: (1) WiFi comunitario en plazas y centros vecinales (USD 10-20M), (2) planes de datos subsidiados para familias con estudiantes — Tramo A/B del FCV (USD 5-10/mes por familia), (3) contenido offline precargado en tablets (Khan Academy funciona sin internet). La conectividad domiciliaria se activa cuando la formalización supere 40% y haya operadores de telecoms en competencia.
+Si el estudiante tiene internet en la escuela pero no en casa, no puede practicar, no puede hacer tareas, no puede usar plataformas online fuera de horario escolar. Solución: (1) WiFi comunitario en plazas y centros vecinales (USD 10-20M), (2) planes de datos financiados por voucher educativo para familias con estudiantes — Tramo A/B del FCV (USD 5-10/mes por familia), (3) contenido offline precargado en tablets (Khan Academy funciona sin internet). La conectividad domiciliaria se activa cuando la formalización supere 40% y haya operadores de telecoms en competencia.
 :::
 
 ### Reforma curricular (Año1-3)
@@ -186,7 +186,7 @@ El plan propone coding desde 3er grado, inglés 10 hrs/semana, robótica, STEM. 
 |----------|------|--------|----------------------|
 | **Platzi** | Colombia | 5M+ estudiantes online. Cursos tech en español. YC-backed | Ya tiene contenido en español. Puede abrir campus físicos |
 | **Holberton School** | EE.UU./Colombia | Software engineering school. ISA model. 2 años. Opera en Colombia | Modelo ISA probado en LATAM. Alta empleabilidad |
-| **42 School** | Francia | Gratuita. Sin profesores. Peer-to-peer learning. 50+ campus globales | Modelo de costo cero para el estudiante. Respaldado por Xavier Niel |
+| **42 School** | Francia | Sin costo para el estudiante (financiada por Xavier Niel). Sin profesores. Peer-to-peer learning. 50+ campus globales | Modelo de costo cero para el estudiante. Respaldado por Xavier Niel |
 | **Lambda School / BloomTech** | EE.UU. | Pionero de ISA. Data science + web dev. 6 meses | Modelo ISA a escala |
 | **Laboratoria** | Perú/LATAM | Bootcamp para mujeres en tech. Opera en Perú, Chile, México, Brasil, Colombia | Inclusion + tech. 4.000+ graduadas con 80%+ empleabilidad |
 | **Henry** | Argentina | Bootcamp full-stack. ISA model. Opera en LATAM | Modelo ISA en español. 10K+ graduados |
@@ -206,7 +206,7 @@ La UCV, la USB y la ULA formaban ingenieros de nivel mundial en los 80-90. Hoy n
 | **Georgia Tech** | EE.UU. | Tiene campus en Francia, China, Singapur. Online MSCS por USD 7.000 | OMSCS (Master online) puede desplegarse inmediatamente. Campus satélite en 2-3 años |
 | **MIT (OpenCourseWare + MITx)** | EE.UU. | Todo el curriculum online gratis. MicroMasters acreditados | Contenido ya disponible. Programas de certificación partnership |
 | **Tecnologico de Monterrey** | México | 33 campus en México. Expansión a Colombia, Perú. Online masivo | Experiencia en expansion LATAM. Curriculum relevante para la región |
-| **42 School** | Francia | 50+ campus en 30+ países. Gratuita. Peer-to-peer. Sin profesores | Modelo de cero costo. Xavier Niel financia. Venezuela como campus #51 |
+| **42 School** | Francia | 50+ campus en 30+ países. Sin costo para el estudiante. Peer-to-peer. Sin profesores | Modelo de cero costo. Xavier Niel financia. Venezuela como campus #51 |
 | **Arizona State University** | EE.UU. | Mayor universidad online de EE.UU. Partnerships globales. Starbucks scholarship model | Modelo online a escala. Accesible. Acreditada |
 | **University of the People** | Global | 100% online, casi gratuita (USD 100-200/curso). Acreditada. 130.000+ estudiantes de 200 países | Modelo de mínimo costo. Ideal para acceso masivo |
 | **African Leadership University** | Ruanda/Mauricio | Universidad creada post-genocidio. 25 campus planeados en Africa. Enfoque en emprendimiento + tech | Modelo de universidad de nueva creación en país post-crisis. Exactamente lo que Venezuela necesita |
@@ -224,7 +224,7 @@ La UCV, la USB y la ULA formaban ingenieros de nivel mundial en los 80-90. Hoy n
 | **Incentivos** | Exención de impuestos por 10 años para campus universitarios internacionales |
 
 :::tip Online primero, campus después
-Con USD 500M por campus satélite (10K-20K estudiantes), se atiende a 50K-100K personas en 5 años. Con USD 50-80M/año en licencias ilimitadas de plataformas online (Platzi + Coursera + freeCodeCamp + edX), se atiende a **5 millones** de personas desde el Día 1. Propuesta: arrancar con 2 campus satélite (no 5) y redirigir USD 300-600M a una **mega-plataforma online nacional** con acceso gratuito para todo venezolano menor de 30 años. Los campus físicos se agregan cuando los KPIs de empleabilidad online superen el 70%.
+Con USD 500M por campus satélite (10K-20K estudiantes), se atiende a 50K-100K personas en 5 años. Con USD 50-80M/año en licencias ilimitadas de plataformas online (Platzi + Coursera + freeCodeCamp + edX), se atiende a **5 millones** de personas desde el Día 1. Propuesta: arrancar con 2 campus satélite (no 5) y redirigir USD 300-600M a una **mega-plataforma online nacional** con acceso financiado por FCV Educación para todo venezolano menor de 30 años. Los campus físicos se agregan cuando los KPIs de empleabilidad online superen el 70%.
 :::
 
 ---
@@ -286,7 +286,7 @@ Venezuela no solo necesita developers. Necesita **electricistas, plomeros, solda
 
 ## 8. Lo Que el Estado Provee (Educación Es Función del Estado)
 
-| El Estado provee | Detalle | Referencia |
+| Lo que el Estado financia y supervisa | Detalle | Referencia |
 |-------------------|---------|-----------|
 | **Salarios docentes competitivos** | USD 500-800/mes para K-12, USD 1.000-2.000 para universidad. Financiado por impuestos | Chile: salario docente de USD 2.000/mes. Colombia: USD 800/mes |
 | **Reforma curricular** | STEM + inglés + coding + pensamiento crítico + finanzas. Alíneado a estándares internacionales | Singapur, Estonia, Finlandia como modelos |
@@ -304,7 +304,7 @@ La educación K-12 se financia con **voucher universal** (sistema de puntos con 
 | Operar bootcamps | El Estado no es operador educativo de vanguardia. Los privados innovan más rápido |
 | Crear universidades nuevas | Las que existen necesitan presupuesto, no competencia estatal. Las nuevas son internacionales |
 | Definir el curriculum de bootcamps | El mercado define qué se necesita. La acreditación verifica calidad, no contenido |
-| Subsidiar plataformas de forma permanente | Subsidio por 3-5 años como kickstart. Después, el mercado se sostiene |
+| Financiar licencias de plataformas de forma permanente | Inversión inicial por 3-5 años como kickstart. Después, el mercado se sostiene |
 
 ---
 

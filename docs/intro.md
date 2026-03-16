@@ -14,7 +14,7 @@ title: "Venezuela S.A. — La Empresa de 40 Millones de Socios"
 
 ## ¿Qué es este documento?
 
-Este no es un plan de gobierno. Es un **modelo de negocio** donde cada venezolano es accionista de **Venezuela S.A.** — el holding corporativo que invierte en infraestructura base, cobra regalías de concesiones, administra el Fondo de Inversión Venezuela S.A. y distribuye dividendos. El Estado solo regula y provee 5 funciones (gobierno, salud, justicia, educación, seguridad). Venezuela S.A. hace negocios en nombre de los 40 millones de ciudadanos. Como toda startup, tiene rondas de financiamiento, un producto, y una visión de salida.
+Este no es un plan de gobierno. Es un **modelo de negocio** donde cada venezolano es accionista de **Venezuela S.A.** — el holding corporativo que invierte en infraestructura base, cobra regalías de concesiones, administra el Fondo de Inversión Venezuela S.A. y distribuye dividendos. El Estado solo regula y supervisa 5 funciones (gobierno, salud, justicia, educación, seguridad). Venezuela S.A. hace negocios en nombre de los 40 millones de ciudadanos. Como toda startup, tiene rondas de financiamiento, un producto, y una visión de salida.
 
 **El cambio conceptual clave:** el petróleo NO es el negocio. El petróleo es el **combustible** del negocio. El negocio real es convertir a Venezuela en una potencia tecnológica alimentada por la energía más barata del continente.
 

@@ -275,7 +275,12 @@ Aplica a **todo:**
 | **Payback** | 5-24 meses |
 | **Empleos** | 4-8 |
 
-**Modelo híbrido:** Profesores de la **diáspora venezolana** por video (USD 10-15/hora desde EE.UU., España, Chile, Colombia) + tutor local presencial. Prioridad: venezolanos bilingües en el exterior — conocen el contexto, hablan español, y es ingreso para la diáspora + conexión con el país. Si no hay suficientes venezolanos para cubrir la demanda, se complementa con nativos de otros países. **7,9M de venezolanos afuera = pool de talento docente inexplorado.**
+**Modelo híbrido — prioridad talento local:**
+1. **Profesores venezolanos en el país** — primera opción. El programa Train the Trainers certifica 10.000 docentes en inglés funcional B2+
+2. **Diáspora venezolana por video** — complemento. Venezolanos bilingües en EE.UU., España, Chile dan clases remotas. Conocen el contexto, hablan español, es ingreso para la diáspora + conexión con el país
+3. **Nativos de otros países** — solo si los dos anteriores no cubren la demanda
+
+**El objetivo es que en 5-7 años el 100% sean profesores locales.** La diáspora es puente, no destino.
 
 ---
 

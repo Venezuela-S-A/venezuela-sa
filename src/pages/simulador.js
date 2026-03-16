@@ -1528,7 +1528,7 @@ const WAR_GAMES = {
   },
 };
 
-function TabNegociación() {
+function TabNegociacion() {
   const [selectedGame, setSelectedGame] = useState("china");
   const [currentStep, setCurrentStep] = useState("start");
   const [history, setHistory] = useState([]);
@@ -2046,7 +2046,7 @@ const TABS = [
   { id: "financiero", label: "Modelo Financiero", icon: null },
   { id: "montecarlo", label: "Monte Carlo", icon: null },
   { id: "ciudadano", label: "Mi FCV", icon: null },
-  { id: "negociación", label: "Negociación", icon: null },
+  { id: "negociacion", label: "Negociación", icon: null },
   { id: "seguridad", label: "Seguridad", icon: null },
 ];
 
@@ -2136,8 +2136,8 @@ export default function SimuladorPage() {
         <div>
           {activeTab === "financiero" && <TabFinanciero />}
           {activeTab === "montecarlo" && <TabMonteCarlo />}
-          {activeTab === "ciudadano" && <TabCiudadaño />}
-          {activeTab === "negociación" && <TabNegociación />}
+          {activeTab === "ciudadano" && <TabCiudadano />}
+          {activeTab === "negociacion" && <TabNegociacion />}
           {activeTab === "seguridad" && <TabSeguridad />}
         </div>
 

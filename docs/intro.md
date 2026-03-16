@@ -7,16 +7,45 @@ title: "Venezuela S.A. — La Empresa de 40 Millones de Socios"
 # Venezuela S.A.
 
 > **Plan de Reconstrucción Nacional v1.0 — Marzo 2026**
->
-> *Modelo de Startup Nation: Petróleo Como Combustible, Tecnología Como Destino, Diáspora Como Angel Investor*
 
 ---
 
-## ¿Qué es este documento?
+## El Objetivo — En Palabras Simples
 
-Este no es un plan de gobierno. Es un **modelo de negocio** donde cada venezolano es accionista de **Venezuela S.A.** — el holding corporativo que invierte en infraestructura base, cobra regalías de concesiones, administra el Fondo de Inversión Venezuela S.A. y distribuye dividendos. El Estado solo regula y supervisa 5 funciones (gobierno, salud, justicia, educación, seguridad). Venezuela S.A. hace negocios en nombre de los 40 millones de ciudadanos. Como toda startup, tiene rondas de financiamiento, un producto, y una visión de salida.
+**Que cada venezolano sea dueño de su futuro — no dependiente de un gobierno.**
 
-**El cambio conceptual clave:** el petróleo NO es el negocio. El petróleo es el **combustible** del negocio. El negocio real es convertir a Venezuela en una potencia tecnológica alimentada por la energía más barata del continente.
+Cuando nace tu hijo, el país le abre una cuenta de ahorro. Le deposita dinero todos los meses para su salud y su educación. Cuando entra al colegio, recibe un voucher que cubre todo: matrícula, almuerzo, transporte, un deporte y una actividad como música o robótica. Tú eliges el colegio — si es malo, mueves el voucher a otro.
+
+Cuando tu hijo empieza a trabajar, parte de su salario va a su propia cuenta — no al gobierno, a SU cuenta. De ahí se paga su retiro, su salud, su casa y la educación de sus hijos. A los 65 años, tiene casa propia, pensión digna y sus hijos graduados. Si le pasa algo, tú heredas todo. Nadie hereda deuda.
+
+El Estado no opera hospitales ni colegios — solo supervisa que funcionen bien. Los colegios compiten por ser los mejores. Los hospitales son concesiones privadas. Tú evalúas la calidad desde una app. Si algo anda mal, lo reportas y se corrige.
+
+El petróleo financia la transición — no es el destino. El destino es tecnología, educación, turismo, agricultura. El petróleo se usa para despegar. La tecnología es para volar.
+
+**Eso es Venezuela S.A.: un plan donde 40 millones de personas son dueñas del negocio — no beneficiarias de un político.**
+
+---
+
+## Para Quién es Este Plan
+
+| Si eres... | El plan te ofrece... |
+|-----------|---------------------|
+| **Una mamá en Maracaibo** | Cuenta de ahorro para tu hijo desde que nace. Voucher para el colegio que TÚ elijas. Salud cubierta sin copago si lo necesitas |
+| **Un jubilado con USD 3/mes** | Pensión de USD 50 desde el Día 1, subiendo a USD 200. Tu cuenta FCV heredable a tus nietos |
+| **Un joven en Petare** | Bootcamp de programación con estipendio. Empleo remoto a USD 1.200/mes. Tu cuenta de ahorro ya tiene USD 20.000 a los 18 |
+| **Un venezolano en Miami** | Contribuir a tu FCV desde el exterior. Cuando vuelvas, tienes salud, vivienda y pensión esperándote |
+| **Un inversor** | Acceso a 303.000M de barriles + energía barata + 40M de consumidores + marco legal estable |
+| **Un emprendedor** | El voucher educativo crea un mercado de miles de millones. Colegios, comedores, academias, transporte, edtech — todo es negocio |
+
+---
+
+## La Versión Técnica
+
+*Modelo de Startup Nation: Petróleo Como Combustible, Tecnología Como Destino, Diáspora Como Angel Investor*
+
+Este no es un plan de gobierno. Es un **modelo de negocio** donde cada venezolano es accionista de **Venezuela S.A.** — la empresa de los ciudadanos que invierte en infraestructura, cobra regalías de concesiones, administra el Fondo de Inversión Venezuela S.A. y distribuye dividendos. El Estado solo regula y supervisa 5 funciones (gobierno, salud, justicia, educación, seguridad). Venezuela S.A. hace negocios en nombre de los 40 millones de ciudadanos.
+
+**El petróleo NO es el negocio.** El petróleo es el **combustible** del negocio. El negocio real es convertir a Venezuela en una potencia tecnológica alimentada por la energía más barata del continente.
 
 ## Los Números Clave
 

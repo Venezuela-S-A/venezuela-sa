@@ -390,25 +390,27 @@ Los costos educativos suben a medida que la economía crece (salarios docentes s
 
 **Costos por estudiante a niveles de economía normalizada (tipo Chile):**
 
-| Componente | Venezuela hoy | Economía normalizada | Chile actual | Referencia |
-|-----------|--------------|---------------------|-------------|-----------|
-| Matrícula / operación | USD 45-75/mes | USD 150-250/mes | USD 100-200/mes | Salarios docentes USD 1.500-2.000 + admin + infraestructura |
-| Comedor escolar | USD 15-25/mes | USD 50-80/mes | USD 66-88/mes | [JUNAEB](https://www.junaeb.cl/) USD 3-4/almuerzo × 22 días |
-| Transporte escolar | USD 10-15/mes | USD 30-50/mes | USD 30-50/mes | Ruta concesionada |
-| Extracurriculares (1 deporte + 1 arte) | USD 15-25/mes | USD 50-100/mes | USD 60-120/mes | USD 25-50 × 2 actividades |
+| Componente | Venezuela hoy | Economía normalizada | Chile actual (verificado) | Referencia |
+|-----------|--------------|---------------------|--------------------------|-----------|
+| Matrícula / operación | USD 45-75/mes | USD 100-180/mes | USD 100-180/mes | [Chile subvención escolar](https://www.ayudamineduc.cl/ficha/subvencion-segun-tipo-de-establecimiento-4) base + SEP |
+| Comedor escolar | USD 15-25/mes | USD 35-50/mes | USD 35/mes | [JUNAEB](https://www.junaeb.cl/) CLP 1.518/ración = USD 1.60/almuerzo × 22 días |
+| Transporte escolar | USD 10-15/mes | USD 25-40/mes | USD 25-40/mes | Ruta concesionada |
+| Extracurriculares (1 deporte + 1 arte) | USD 15-25/mes | USD 40-80/mes | USD 40-80/mes | USD 20-40 × 2 actividades |
 | Material + tablet | USD 8-12/mes | USD 15-25/mes | USD 15-25/mes | Tablet amortizada + útiles |
-| Seguro escolar | USD 2-4/mes | USD 5-10/mes | USD 5-10/mes | Accidentes + responsabilidad |
-| **TOTAL** | **USD 95-156/mes** | **USD 300-515/mes** | **USD 276-493/mes** | |
+| Seguro escolar | USD 2-4/mes | USD 5-8/mes | USD 5-8/mes | Accidentes + responsabilidad |
+| **TOTAL** | **USD 95-156/mes** | **USD 220-383/mes** | **USD 220-368/mes** | |
+
+*Canasta básica Chile: [CLP 70.804/mes por persona](https://www.desarrollosocialyfamilia.gob.cl/noticias/valor-de-la-canasta-basica-de-alimentos-en-octubre-de-2025) (~USD 74). Familia de 4: ~USD 296/mes (solo alimentos).*
 
 **Voucher indexado al PIB/cápita** (escala automáticamente):
 
 | KPI de activación | Voucher estándar | Voucher SEP (+50%) | % SEP (baja con pobreza) | Costo país/año | % del PIB |
 |-------------------|-----------------|-------------------|-------------------------|---------------|-----------|
-| PIB/cáp < USD 3K | USD 120-160/mes | USD 180-240/mes | 40% de estudiantes | ~USD 10B | ~12% (emergencia) |
-| PIB/cáp USD 3-5K | USD 200-280/mes | USD 300-420/mes | 35% | ~USD 16B | ~8% |
-| PIB/cáp USD 5-8K | USD 300-400/mes | USD 450-600/mes | 25% | ~USD 24B | ~8% |
-| PIB/cáp USD 8-15K | USD 400-500/mes | USD 600-750/mes | 15% | ~USD 30B | ~7% |
-| PIB/cáp > USD 15K | USD 500-600/mes | USD 750-900/mes | 10% | ~USD 35B | ~6% |
+| PIB/cáp < USD 3K | USD 100-150/mes | USD 150-225/mes | 40% de estudiantes | ~USD 8B | ~10% (emergencia) |
+| PIB/cáp USD 3-5K | USD 150-220/mes | USD 225-330/mes | 35% | ~USD 13B | ~7% |
+| PIB/cáp USD 5-8K | USD 220-300/mes | USD 330-450/mes | 25% | ~USD 19B | ~7% |
+| PIB/cáp USD 8-15K | USD 300-400/mes | USD 450-600/mes | 15% | ~USD 24B | ~6% |
+| PIB/cáp > USD 15K | USD 400-500/mes | USD 600-750/mes | 10% | ~USD 30B | ~5% |
 
 **Referencia:** [Chile gasta 5,4% del PIB en educación](https://data.worldbank.org/). Venezuela converge a ~6-7% del PIB en madurez — razonable para un país con 8M de estudiantes (2x Chile) en fase de reconstrucción. A medida que la pobreza baja, menos estudiantes necesitan voucher SEP y el costo total como % del PIB se estabiliza.
 

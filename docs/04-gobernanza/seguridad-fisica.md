@@ -309,6 +309,104 @@ gantt
 
 **Fuente:** [Plan Colombia/State Dept](https://www.state.gov/) | [Crisis Group](https://www.crisisgroup.org/) | [ACLED](https://acleddata.com/) | [InSight Crime](https://insightcrime.org/) [Requiere investigación para costos exactos de Georgia y El Salvador]
 
+---
+
+## Anticorrupción Militar: Cómo Desmontar un Conglomerado de USD 3-6B/Año
+
+:::danger El problema real no es la milicia — son los 500-2.000 oficiales que manejan el negocio
+La milicia (220K) se disuelve fácil: no tienen poder económico propio. El problema son los **mandos medios y altos de la FANB** que controlan minería (USD 1-2B), contrabando (USD 500M-1B), CLAP (USD 2-3B), y narcotráfico individual. Un coronel que gana USD 50K/año en rentas ilícitas no acepta un paquete de retiro de USD 10K. Hay que ofrecer algo mejor que el crimen — o hacer que el crimen sea imposible.
+:::
+
+### El problema visto como empresa
+
+Si la FANB fuera una subsidiaria de Venezuela S.A., un CEO la miraría así:
+
+| Diagnóstico | Cifra | Acción corporativa |
+|---|---|---|
+| Empleados: 350K (sobrestaffed 3.5x) | Meta: 100K | Reestructuración con paquetes tiered |
+| Ingresos off-books: USD 3-6B/año | 100% ilícito | Cortar flujos + ofrecer alternativa legal |
+| Mandos con conflicto de interés: ~500-2.000 | Controlan logística, puertos, minas | Separar persona de posición + vetting |
+| Marca: tóxica (politizada, corrupta) | Cero confianza pública | Rebrand: FANB → Fuerza Profesional nueva |
+
+### 6 mecanismos anticorrupción militar (modelo Georgia + Singapur + Colombia)
+
+#### 1. Reemplazar, no reformar (modelo Georgia 2004)
+
+Georgia no reformó la policía corrupta — la **eliminó y creó una nueva desde cero**. Saakashvili despidió al 85% de la policía, contrató nuevos sin antecedentes, y pagó 10x más.
+
+**Aplicación a FANB:**
+- No se "reforma" un ejército que funciona como cartel. Se crea una **fuerza profesional nueva** con vetting exhaustivo
+- Cada militar que quiera permanecer pasa por vetting: patrimonial, judicial, lifestyle audit, polígrafo
+- Los que no pasen el vetting: 3 opciones (retiro, reconversión, emprendimiento) — las mismas del [modelo de desplazados](/04-gobernanza/modelo-estado#qué-pasa-con-la-gente)
+- **Meta: retener solo los 100K más limpios y profesionales**
+
+#### 2. Pagar lo suficiente para que la corrupción no valga la pena (modelo Singapur)
+
+| Rango | Salario actual (est.) | Renta ilícita (est.) | **Salario propuesto** | Riesgo/retorno del crimen |
+|---|---|---|---|---|
+| Soldado raso | USD 30-50/mes | USD 0-100/mes | **USD 800-1.200/mes** | Crimen no vale la pena |
+| Sargento/Técnico | USD 50-100/mes | USD 200-500/mes | **USD 1.500-2.000/mes** | Crimen marginal |
+| Teniente/Capitán | USD 100-200/mes | USD 500-2.000/mes | **USD 2.500-4.000/mes** | Crimen riesgoso |
+| Coronel/General | USD 200-500/mes | USD 5.000-50.000/mes | **USD 5.000-10.000/mes** | Crimen necesita ser masivo para justificar riesgo de perder salario + pensión + libertad |
+
+**Referencia:** Singapur paga a generales USD 500K-1M/año. Georgia multiplicó salarios policiales 10x y la corrupción cayó a casi cero. **El salario es la primera línea de defensa anticorrupción.**
+
+**Costo:** 100K militares × USD 2.500/mes promedio × 12 = **USD 3B/año**. Es caro. Pero es más barato que los USD 3-6B/año que la FANB actual roba.
+
+#### 3. Cortar los flujos económicos ilícitos
+
+No basta con pagar bien — hay que **eliminar la oportunidad de robar**:
+
+| Flujo ilícito | Monto est. | Cómo se corta |
+|---|---|---|
+| **Minería (Arco Minero)** | USD 1-2B/año | Operación militar (Plan Patriota) + concesiones formales a empresas auditadas. FANB pierde acceso operativo a minas |
+| **Contrabando combustible** | USD 500M-1B/año | Precios de mercado eliminan margen de contrabando. Si gasolina cuesta lo que vale, no hay incentivo de contrabandear |
+| **CLAP (importación alimentos)** | USD 2-3B/año | CLAP se elimina. Mercado libre + voucher focalizado (FCV). No hay "importación estatal" que intermediar |
+| **Narcotráfico** | [Requiere investigación] | DEA + cooperación bilateral. Inteligencia financiera. No es competencia de la FANB — es policía + fiscalía |
+| **Puertos/aduanas** | USD 500M-1B/año | Aduanas operadas por concesión privada internacional (modelo Georgia). FANB pierde control de puertos |
+
+**La clave:** cada renta ilícita se elimina **quitando la función**, no reformando al que la ejerce. Si la FANB no opera minas, no puede robar de minas. Si no importa alimentos, no puede cobrar comisión de CLAP. Si no controla puertos, no puede cobrar "peaje".
+
+#### 4. Vetting patrimonial obligatorio (lifestyle audit)
+
+| Mecanismo | Aplica a | Frecuencia | Consecuencia |
+|---|---|---|---|
+| **Declaración patrimonial** | Todo oficial (rango capitán+) | Anual, pública | Remoción + investigación si patrimonio no corresponde a ingresos |
+| **Lifestyle audit** | Todo general + directores de unidad | Semestral por firma externa | Si estilo de vida excede salario: investigación automática |
+| **Auditoría de familiares** | Cónyuge, hijos, padres de oficiales senior | Anual | Testaferros detectados por redes patrimoniales |
+| **Blockchain de compras militares** | Toda adquisición > USD 10K | Cada transacción | Público en dashboard ciudadano. IA detecta sobreprecios |
+| **Whistleblower militar** | Cualquier militar o civil con información | Permanente | Recompensa 10-20% del activo recuperado. Protección total del denunciante |
+
+**Referencia:** [Singapore CPIB](https://www.cpib.gov.sg/) — la agencia anticorrupción más efectiva del mundo. Opera independiente del gobierno, puede investigar a ministros y generales. **El plan propone un CPIB venezolano con jurisdicción sobre la FANB.**
+
+#### 5. Supervisión civil absoluta (nunca más los militares se supervisan a sí mismos)
+
+| Principio | Implementación |
+|---|---|
+| **Presupuesto militar público** | Cada dólar del presupuesto de Defensa visible en dashboard ciudadano. Cero "gastos reservados" sin auditoría |
+| **Adquisiciones por Venezuela S.A.** | Las compras militares las hace Venezuela S.A. (como holding), no la FANB directamente. Elimina el canal de sobreprecio |
+| **Inspector General civil** | Nombrado por el Board de Venezuela S.A., no por el Ministerio de Defensa. Reporta directamente a ciudadanos |
+| **Inteligencia separada** | Inteligencia militar reporta a una agencia civil (no al SEBIN ni al alto mando). Modelo: [DIA/FBI separación EE.UU.](https://www.dia.mil/) |
+| **Rotación obligatoria** | Ningún oficial puede permanecer >3 años en una posición con acceso a recursos económicos (puertos, minas, aduanas). Elimina redes de clientelismo |
+
+#### 6. Golden parachute condicionado: el buyout inteligente
+
+Para los 500-2.000 mandos que realmente controlan el conglomerado ilícito, el paquete de retiro estándar no funciona. Se necesita un **buyout tiered** que reconozca la realidad económica:
+
+| Tier | Quién es | Oferta | Condición | Si rechaza |
+|---|---|---|---|---|
+| **Tier 1** (generales, 50-100) | Controlan operaciones mayores (puertos, minería, CLAP) | Retiro con USD 200-500K + pensión digna + inmunidad parcial por delitos económicos (no violentos) | Declarar patrimonio + devolver activos ilícitos identificables + cooperar con transición | Investigación penal completa. Congelamiento de activos. Extradición si hay indictment EE.UU. |
+| **Tier 2** (coroneles, 500-1.000) | Mandos medios con rentas regionales | Retiro con USD 50-100K + reconversión laboral + amnistía económica | Mismo: declarar + devolver + cooperar | Purga + investigación |
+| **Tier 3** (oficiales, 1.000-5.000) | Participantes menores en redes | Retiro estándar (6-12 meses salario) + prioridad en reconversión | Vetting patrimonial limpio | Purga sin paquete |
+
+**Costo del buyout Tier 1+2:** ~100 × USD 350K + ~750 × USD 75K = **USD 91M**. Es nada comparado con los USD 3-6B/año que dejan de robar.
+
+:::info La lección de Georgia: velocidad + salarios + reemplazo = cero corrupción
+Georgia eliminó la corrupción policial en 2 años con 3 ingredientes: (1) despidió a todos y contrató nuevos, (2) multiplicó salarios 10x, (3) la nueva fuerza no tenía redes de corrupción heredadas. Venezuela aplica el mismo modelo a la FANB: fuerza nueva, salarios competitivos, cero herencia. Los que pasan el vetting se quedan con salario digno. Los que no, reciben paquete y se van. Los que resisten, enfrentan justicia. No hay cuarta opción.
+:::
+
+---
+
 :::tip Secuencia correcta: seguridad → inversión → crecimiento → más seguridad
 El círculo virtuoso es: seguridad atrae inversión → inversión genera empleo → empleo reduce criminalidad → menos criminalidad atrae más inversión. El círculo vicioso (actual) es exactamente lo opuesto. El Plan Operativo rompe el ciclo vicioso invirtiendo USD 10-18B para crear las condiciones mínimas que permitan los otros USD 550-750B del plan.
 :::

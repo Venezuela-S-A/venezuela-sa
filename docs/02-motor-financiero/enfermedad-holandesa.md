@@ -5,9 +5,15 @@ title: Enfermedad Holandesa
 
 # Enfermedad Holandesa: La Trampa que Hay que Evitar
 
+:::tip ¿Qué es la Enfermedad Holandesa? — En palabras simples
+Imagina que tu pueblo vive de la agricultura y la pesca. Un día descubren petróleo. De repente hay mucho dinero. Todo sube de precio: la comida, los alquileres, los salarios. Los agricultores y pescadores ya no pueden competir porque todo es muy caro. Cierran. Ahora **todo el pueblo depende del petróleo.** Cuando el precio del petróleo cae — como pasó en Venezuela — no hay agricultura, no hay pesca, no hay nada. Solo pobreza.
+
+Eso es la [Enfermedad Holandesa](/glosario): **cuando un país se vuelve adicto a un solo recurso y destruye todo lo demás.** Venezuela la sufrió 50 años. Este plan existe para que NO se repita.
+:::
+
 > Venezuela ya sufrió Dutch Disease durante 50 años. Este plan no puede repetir el error.
 
-:::danger Definición
+:::danger Definición técnica
 La **Enfermedad Holandesa** (Dutch Disease) ocurre cuando un boom de recursos naturales aprecia la moneda real, encarece las exportaciones no petroleras, destruye manufactura y agricultura, y crea dependencia del recurso. Nombre: el colapso de la industria holandesa tras el descubrimiento de gas en Groningen (1959).
 :::
 

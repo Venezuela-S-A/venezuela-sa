@@ -5,6 +5,14 @@ title: Transición Fiscal
 
 # Transición Fiscal: Del Petroestado al Fondo de Inversión Venezuela S.A.
 
+:::tip ¿Qué es la transición fiscal? — En palabras simples
+Hoy el gobierno de Venezuela paga casi todo con dinero del petróleo. Si el petróleo baja, no hay dinero para hospitales, escuelas, policía — nada. Eso es un **petroestado**: un país adicto a un solo ingreso.
+
+La transición fiscal es el plan para **dejar de depender del petróleo.** ¿Cómo? El gobierno aprende a vivir de **impuestos** (lo que pagan los ciudadanos y empresas), no del petróleo. Y todo el dinero del petróleo va a la alcancía del país ([Fondo de Inversión Venezuela S.A.](/glosario#fondo-de-inversión-venezuela-sa)) — no al gasto del gobierno.
+
+Al final: el gobierno se financia con impuestos. El petróleo va al fondo. El fondo genera dividendos para todos. Si un día el petróleo vale cero, el gobierno sigue funcionando y el fondo sigue creciendo. **Eso es independencia fiscal.**
+:::
+
 :::caution Fechas ilustrativas — las fases se activan por KPIs, no por calendario
 Las referencias a "Año X" en este documento son **ilustrativas**. Las fases reales se activan por condiciones verificables (PIB/cápita, formalización, pobreza). Ver [KPIs de Activación](/07-ejecucion/kpis-activacion).
 :::

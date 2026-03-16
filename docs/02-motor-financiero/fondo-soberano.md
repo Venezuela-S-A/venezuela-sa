@@ -5,6 +5,14 @@ title: Fondo de Inversión Venezuela S.A.
 
 # Fondo de Inversión Venezuela S.A.: El Modelo Noruega
 
+:::tip ¿Qué es el Fondo de Inversión? — En palabras simples
+Es como una **alcancía gigante de todo el país**. Cada vez que se vende petróleo, una parte del dinero va a esta alcancía. Pero no se guarda debajo del colchón — se **invierte** en empresas de todo el mundo (acciones, bonos, bienes raíces). Esa inversión genera ganancias. Y las ganancias se reparten como **dividendo** a cada venezolano, todos los años.
+
+Noruega tiene una alcancía así desde hace 30 años. Hoy tiene **USD 2,2 billones** — la más grande del mundo. Con solo 5 millones de personas. Venezuela tiene 40 millones y más petróleo. La idea: construir lo mismo, para que cuando el petróleo se acabe, el dinero siga generando ganancias para siempre.
+
+**No lo administra el gobierno.** Lo administra [Venezuela S.A.](/glosario#venezuela-sa) — la empresa de los ciudadanos. Nadie puede tocarlo para gasto político. Tiene candados legales para que ningún presidente lo vacíe.
+:::
+
 :::danger Distinción clave: El Fondo de Inversión Venezuela S.A. NO es del Estado
 El Fondo de Inversión Venezuela S.A. es administrado por **Venezuela S.A.** — el holding corporativo de los 40 millones de ciudadanos-accionistas. El Estado NO administra el fondo, NO cobra regalías, NO opera empresas. Venezuela S.A. cobra regalías de concesiones y JVs, alimenta el fondo, y distribuye dividendos. El Estado solo financia y supervisa sus 5 funciones (gobierno, salud, justicia, educación, seguridad).
 :::

@@ -5,6 +5,12 @@ title: Deuda
 
 # Reestructuración de la Deuda: USD 150–170.000 M
 
+:::tip ¿Qué es la deuda y por qué importa? — En palabras simples
+Venezuela le debe dinero a muchos: bancos, gobiernos, empresas, fondos de inversión. En total, entre **USD 150.000 y 170.000 millones**. Desde 2017 no paga — está en "default" (como cuando dejas de pagar la tarjeta de crédito y el banco te bloquea). Mientras no se resuelva la deuda, nadie le presta a Venezuela, nadie invierte en serio, y el país no puede acceder a mercados financieros internacionales.
+
+**Reestructurar** significa sentarse con los que te prestaron y negociar: "no te puedo pagar todo, pero te pago una parte en mejores condiciones." Argentina lo hizo (pagó 25 centavos por cada dólar). Ecuador lo hizo. Grecia lo hizo. No es ideal, pero es la única salida. Sin esto, no hay plan.
+:::
+
 > Venezuela lleva en default desde 2017. Ningún plan funciona sin resolver la deuda.
 
 ## Composición de la Deuda

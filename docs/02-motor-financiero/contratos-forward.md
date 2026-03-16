@@ -5,6 +5,14 @@ title: Contratos Forward
 
 # Contratos Forward de Petróleo a Precio Garantizado
 
+:::tip ¿Qué es un contrato forward? — En palabras simples
+Imagina que tienes una finca con 1.000 árboles de mango. Los mangos maduran en 6 meses. Un comprador te dice: "Te pago hoy USD 500 por los mangos que vas a cosechar en 6 meses, a precio fijo de USD 1 cada uno." Tú recibes dinero HOY para invertir en la finca (riego, trabajadores), y el comprador se asegura mangos a buen precio.
+
+Eso es un [contrato forward](/glosario#contrato-forward): **vender por adelantado algo que vas a producir en el futuro, a un precio acordado hoy.** Venezuela tiene 303.000 millones de barriles de petróleo bajo tierra. Un contrato forward dice: "Te vendo X barriles que voy a producir en los próximos años, a USD 60 cada uno. Págame un adelanto hoy." Ese adelanto financia la reconstrucción. El comprador se asegura petróleo. Venezuela se asegura capital. Ambos ganan.
+
+**El riesgo:** si el precio sube a USD 100, vendiste barato. Pero USD 60 es el precio base del plan — todo lo que esté por encima va al [Fondo de Inversión Venezuela S.A.](/glosario#fondo-de-inversión-venezuela-sa) como ganancia extra.
+:::
+
 ## Precedente: China prestó USD 60.000+ M respaldados con petróleo
 
 [AidData registra USD 105.590 millones](https://www.aiddata.org/blog/how-chinas-oil-backed-lending-in-venezuela-fell-into-distress) en compromisos totales, 95% con respaldo petrolero.

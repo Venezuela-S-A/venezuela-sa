@@ -102,6 +102,53 @@ Lee Kuan Yew documentó este patrón en la construcción de Singapur: cuando los
 Cuando el ingeniero #23 publica en redes que tiene 10% de equity en la concesión del puerto de La Guaira y que su patrimonio se triplicó en 2 años, no hace falta programa de reclutamiento. La historia se vende sola. **Las historias de éxito de co-fundadores son el mejor marketing de retorno.**
 :::
 
+---
+
+## La Diáspora como Red de Distribución (Sin Necesidad de Que Vuelvan)
+
+> 7.9M de venezolanos en los centros de poder del mundo son una red de distribución, ventas y capital que ninguna zona franca puede crear artificialmente. — [Parra Carrillo](https://www.linkedin.com/in/andresparracarrillo/)
+
+El plan se enfoca en traer gente de vuelta. Pero la diáspora **donde está hoy** ya es un activo productivo — una red de distribución orgánica para productos y servicios venezolanos.
+
+### Mapa de la red
+
+| Ubicación | Venezolanos est. | Sectores donde están | Valor como red de distribución |
+|-----------|-----------------|---------------------|-------------------------------|
+| **EE.UU.** (Miami, Houston, NYC) | ~800K | Finanzas, tech, petróleo, salud | Canal de ventas B2B para startups venezolanas en el mercado #1 del mundo. Puerta a VC americano |
+| **España** (Madrid, Barcelona) | ~400K | Servicios, salud, hospitality | Gateway a mercado europeo. Conexión con fondos españoles de VC |
+| **Colombia** (Bogotá, Medellín) | ~3M | Servicios, comercio, emprendimiento | Mercado vecino + tester natural para productos LATAM |
+| **Chile** (Santiago) | ~500K | Tech, servicios, emprendimiento | Ecosistema startup maduro. Start-Up Chile como puente |
+| **Perú, Ecuador, Brasil** | ~1.5M | Comercio, servicios | Red de distribución en toda Sudamérica |
+| **Europa (otros)** | ~400K | Academia, ingeniería, medicina | Partnerships de I+D, transferencia de tecnología |
+
+### 3 modelos de activación sin retorno físico
+
+| Modelo | Cómo funciona | Ingreso estimado | Referencia |
+|--------|--------------|-----------------|-----------|
+| **Red de ventas tech** | Venezolanos en EE.UU./Europa venden soluciones de IA offline-first (desarrolladas en Venezuela) a empresas de sus países de residencia. Comisión 10-20% | USD 100-500M/año (a escala) | [Israel: 25% del PIB son exportaciones tech vendidas por la diáspora en Silicon Valley](https://innovationisrael.org.il/) |
+| **Canal de inversión** | Plataforma donde la diáspora invierte desde afuera en startups y concesiones venezolanas. No necesitan volver — necesitan acceso a deal flow | USD 1-5B/año en inversión directa | [India: diáspora invierte USD 80B/año en la economía doméstica](https://www.worldbank.org/en/topic/migration/brief/migration-and-remittances) |
+| **Distribución de productos** | Productos venezolanos (cacao, café, software, servicios) se distribuyen a través de venezolanos que ya están en esos mercados y conocen los canales | USD 200-800M/año en exportaciones facilitadas | [Irlanda: la diáspora irlandesa en EE.UU. es el canal principal de inversión hacia Irlanda](https://www.idaireland.com/) |
+
+```mermaid
+flowchart TD
+    VEN["🇻🇪 Venezuela<br/>Productos: IA offline-first,<br/>cacao, café, fintech,<br/>servicios tech"] --> DIAS["🌎 Red Diáspora (7.9M)<br/>En 40+ países<br/>En empresas top"]
+    DIAS --> US["🇺🇸 EE.UU.<br/>Ventas B2B, VC,<br/>lobby"]
+    DIAS --> EU["🇪🇺 Europa<br/>I+D, distribución,<br/>partnerships"]
+    DIAS --> LATAM["🌎 LATAM<br/>Testing, distribución,<br/>mercado natural"]
+
+    style VEN fill:#0D47A1,color:#fff
+    style DIAS fill:#F9A825,color:#000
+    style US fill:#00897B,color:#fff
+    style EU fill:#00897B,color:#fff
+    style LATAM fill:#00897B,color:#fff
+```
+
+:::info No es retorno O distribución — son complementarios
+Los que vuelven lideran operaciones en Venezuela. Los que se quedan son el canal de distribución global. **Ambos tienen equity** — el co-fundador que opera desde Caracas y el representante de ventas que opera desde Miami. Israel funciona exactamente así: las empresas están en Tel Aviv, las ventas están en Silicon Valley.
+:::
+
+---
+
 ### Integración con el plan
 
 El modelo de co-fundación se conecta directamente con:

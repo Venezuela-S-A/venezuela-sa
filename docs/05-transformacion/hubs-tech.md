@@ -141,6 +141,55 @@ No hace falta esperar la reconstrucción completa de la red eléctrica. Los exce
 
 ---
 
+## Venezuela como Laboratorio de IA para el Mundo en Desarrollo
+
+> El 60% de la población mundial vive en países con infraestructura similar a Venezuela. Quien resuelva IA en estas condiciones tiene un producto exportable a 3.000 millones de personas. — [Parra Carrillo](https://www.linkedin.com/in/andresparracarrillo/)
+
+### El problema que nadie resuelve
+
+Los modelos de IA de Silicon Valley asumen: internet de 100+ Mbps, GPUs en la nube, datos abundantes. Eso cubre al 40% del mundo. El otro 60% tiene:
+
+| Condición | Venezuela | % de población mundial en condiciones similares |
+|-----------|-----------|-----------------------------------------------|
+| Internet < 5 Mbps o intermitente | ~60% de la población | **~3.500M personas** (África, SE Asia, LATAM rural) |
+| Sin acceso a cloud computing | Mayoría del territorio | **~2.000M personas** |
+| Electricidad inestable | Apagones frecuentes fuera de Caracas | **~1.500M personas** |
+| Datos limitados / baja calidad | Sin registros digitales históricos | **~3.000M personas** |
+
+### Verticales de IA offline-first exportables
+
+| Vertical | Problema que resuelve | TAM global | Referencia |
+|----------|----------------------|-----------|-----------|
+| **IA diagnóstica offline** | Médicos rurales sin especialistas ni internet estable | USD 5-10B | [Google Health AI](https://health.google/) — ya invierte en diagnóstico offline para India/África |
+| **EdTech offline** | Educación personalizada sin conexión permanente | USD 3-8B | [Kolibri (Learning Equality)](https://learningequality.org/) — plataforma educativa offline para escuelas sin internet |
+| **Agro-IA con datos mínimos** | Optimizar cosechas con pocos sensores y datos históricos limitados | USD 2-5B | [PlantVillage](https://plantvillage.psu.edu/) — IA para diagnóstico de cultivos vía foto desde celular |
+| **FinTech low-bandwidth** | Pagos, crédito y seguros en zonas sin 4G estable | USD 5-15B | [M-Pesa](https://www.vodafone.com/about-vodafone/what-we-do/consumer-products-and-services/m-pesa) funciona con SMS, sin internet |
+| **GovTech para estados frágiles** | Identidad digital, registro civil, trámites sin infraestructura | USD 1-3B | [Simprints](https://www.simprints.com/) — biometría para países sin registro civil |
+
+### Venezuela como campo de pruebas → exportador de soluciones
+
+```mermaid
+flowchart LR
+    A["PROBLEMA<br/>Venezuela: infraestructura<br/>extrema, datos mínimos,<br/>internet intermitente"] --> B["SOLUCIÓN<br/>IA que funciona<br/>offline-first, low-data,<br/>low-compute"]
+    B --> C["EXPORT<br/>→ África (1.4B)<br/>→ SE Asia (700M)<br/>→ LATAM rural (200M)<br/>→ India rural (500M)"]
+    C --> D["INGRESO<br/>USD 1-5B/año<br/>en licencias + SaaS"]
+
+    style A fill:#C62828,color:#fff
+    style B fill:#0D47A1,color:#fff
+    style C fill:#00897B,color:#fff
+    style D fill:#F9A825,color:#000
+```
+
+**La ventaja competitiva es la adversidad.** Las startups de Silicon Valley no pueden testear en estas condiciones — no las tienen. Venezuela sí. Cada solución que funcione en Venezuela funciona en el 60% del planeta.
+
+**Integración con ZEETs:** Las 5 ZEETs incluyen un vertical de "IA para mercados emergentes" con:
+- Aceleradoras especializadas en offline-first AI
+- Partnerships con Google Research, Meta AI, Microsoft Research (que ya invierten en esto)
+- Acceso a Venezuela como campo de pruebas real (no simulado)
+- Exportación vía la red de distribución de la diáspora (7.9M en 40+ países)
+
+---
+
 ## Fase 1: Las 5 Ciudades Piloto (Años 1-3)
 
 | Zona | Ubicación | Vocación | Ventaja natural |

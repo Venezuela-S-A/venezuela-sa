@@ -41,6 +41,55 @@ Cada transacción digital es trazable = **anticorrupción automática**. El FCV,
 **El ángulo que se subestima** ([Parra Carrillo](https://www.linkedin.com/in/andresparracarrillo/)): 40M de personas desconectadas de servicios financieros digitales no son un problema — son **el mercado virgen más grande del continente**. Si el FCV funciona como cuenta universal, es el onboarding forzoso de todo un país al sistema financiero formal. Cualquier fintech mataría por esa base de usuarios. El FCV no es solo protección social — es **infraestructura fintech**.
 :::
 
+## FCV como Plataforma Fintech: 40M Usuarios Cautivos
+
+> El FCV no es solo protección social. Es la infraestructura fintech más grande de LATAM — 40 millones de cuentas obligatorias que necesitan banca digital desde el Día 1. — [Parra Carrillo](https://www.linkedin.com/in/andresparracarrillo/)
+
+### El mercado
+
+| Dato | Cifra | Fuente |
+|------|-------|--------|
+| Venezolanos sin cuenta bancaria digital | **~30-35M** (80%+ de la población) | [ENCOVI 2023](https://www.proyectoencovi.com/) |
+| Transacciones en efectivo USD o USDT | **65-80%** del total | [Globalization Guide](https://globalization.guide/dollarization-of-venezuela) |
+| Penetración smartphone | **~70%** (45% con internet regular) | [SIGCOMM/Northwestern 2024](https://estcarisimo.github.io/assets/pdf/papers/2024-sigcomm-venezuela.pdf) |
+| Usuarios de Nubank (Brasil) | **100M+** cuentas abiertas desde celular | [Nubank](https://www.nu.com.br/) |
+| Usuarios de UPI (India) | **400M+** bancarizados en 5 años | [NPCI](https://www.npci.org.in/what-we-do/upi/product-overview) |
+
+### FCV = la cuenta universal que onboardea un país entero
+
+Cada venezolano recibe un FCV desde el Día 1 — 5 subcuentas (Retiro 8% + Salud 7% + Vivienda 4% + Educación 2% + Cesantía 2%). Eso significa que **40M de personas necesitan simultáneamente:**
+
+| Servicio fintech | Oportunidad | TAM estimado |
+|-----------------|-------------|-------------|
+| **Wallet digital** para recibir FCV, vouchers, dividendos | 40M cuentas nuevas en 12-24 meses | USD 200-500M/año en fees |
+| **Pagos instantáneos** (modelo Pix/UPI) | Reemplazar 80% de transacciones en efectivo | USD 300-800M/año |
+| **Microseguros** (salud, vida, cesantía) — integrados al FCV Salud | 40M personas sin seguro de nada | USD 500M-1.5B/año en primas |
+| **Crédito algorítmico** basado en historial FCV | Scoring desde cero con datos reales de contribución | USD 1-3B/año en cartera |
+| **Remesas baratas** (7.9M diáspora → 32M residentes) | Reducir comisiones de 5-8% a 1-2% | USD 500M/año en volumen capturado |
+| **Inversión minorista** (bonos VSA desde USD 10) | 40M potenciales micro-inversores | USD 1-5B/año |
+
+**TAM total del ecosistema fintech FCV: USD 3-12B/año** — comparable al mercado fintech de Colombia o Chile.
+
+### Quién lo construye
+
+Venezuela S.A. no construye la app — construye los **rieles** (identidad digital, APIs abiertas, regulación) y deja que el sector privado compita:
+
+| Componente | Quién lo hace | Modelo |
+|-----------|--------------|--------|
+| **Rieles de pago** (tipo Pix) | Regulador + Venezuela S.A. | [Brasil Pix](https://www.bcb.gov.br/estabilidadefinanceira/pix): banco central crea los rieles, privados construyen encima |
+| **Wallets del FCV** | Fintechs compiten (Banesco, Mercantil, nuevos entrantes) | [India UPI](https://www.npci.org.in/): Google Pay, PhonePe, Paytm compiten sobre rieles públicos |
+| **Microseguros** | Insurtechs + aseguradoras | [Lemonade](https://www.lemonade.com/) (EE.UU.) + [BIMA](https://www.bfrg.co/) (mercados emergentes) |
+| **Crédito** | Fintechs con scoring algorítmico | [Nubank](https://www.nu.com.br/) (Brasil), [Konfío](https://konfio.mx/) (México) |
+| **Remesas** | [Wise](https://wise.com/), [dLocal](https://dlocal.com/), nuevos entrantes | Comisión 1-2% vs. 5-8% actual |
+
+:::info El pitch a las fintechs globales
+*"Tenemos 40M de cuentas obligatorias creándose en 24 meses. La regulación es Open Banking desde el Día 1. Las APIs son abiertas. No hay incumbent legacy que bloquee. El mercado es USD 3-12B/año. ¿Cuándo empiezan?"*
+
+Eso es más atractivo que cualquier zona franca con tax holiday. Las fintechs no vienen por el impuesto — vienen por los **usuarios**.
+:::
+
+---
+
 ## Plan de Reforma
 
 ### Fase 1: Estabilización (Años 1–3)

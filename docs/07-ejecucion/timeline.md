@@ -75,13 +75,13 @@ Los evaluadores coinciden: un plan de 15 años sin resultados visibles en los pr
 | **Humanitario** | 3 hospitales operativos (OPS/MSF). Cadena de alimentos en 10 ciudades. Medicinas importadas | Camas operativas. Precios estables. Cero CLAP |
 | **Seguridad** | 3 zonas piloto seguras 24/7 (Caracas, Maracaibo, Valencia). Emergencia declarada | Homicidios -50% en zonas piloto |
 | **Económico** | Primer forward firmado (USD 1-3B). Dolarización formal anunciada. Dashboard transparencia online | USD comprometidos. Inflación bajando |
-| **Institucional** | **Ley FCV aprobada. App FCV en desarrollo. Regulación open banking publicada.** Starlink en 50+ puntos. Censo diáspora lanzado | Cuentas FCV creadas. Mbps verificados |
+| **Institucional** | **Ley FCV aprobada. App FCV en desarrollo. Regulación open banking publicada.** Starlink en 50+ puntos. Censo diáspora lanzado. **Auditoría independiente de Guri contratada** (firma internacional tipo Black & Veatch) | Cuentas FCV creadas. Mbps verificados. Contrato de auditoría firmado |
 
 ### Sprint 1: Días 101–200 — Infraestructura + Educación (en paralelo)
 
 | Carril | Entregables | Métrica |
 |--------|-----------|---------|
-| **Energía** | Primera turbina Guri reparada (uptime >80%). 3+ JVs petroleras firmadas (Licencia 46B activa) | MW recuperados. USD invertidos |
+| **Energía** | **Auditoría Guri completada: capacidad real verificada.** Primera turbina reparada (uptime >80%). SCADA en reparación. 3+ JVs petroleras firmadas (Licencia 46B activa). Diseño de microgrid DC campus iniciado | MW verificados vs. instalados. USD invertidos. SLA baseline medido |
 | **Educación** | **Salarios docentes x5 implementados. Primer voucher piloto en 3 ciudades. Train the Trainers arranca (5.000 docentes).** Primer bootcamp lanzado (1.000 estudiantes) | Docentes pagando. Vouchers activos. Inscritos |
 | **Digital** | 5 coworkings tech operativos. App FCV en piloto (100K cuentas). Censo diáspora >500K registrados | Puestos. Cuentas. Registrados |
 | **Seguridad** | Expansión a 5 zonas piloto. 5.000 policías nuevos en formación | Cobertura territorial |

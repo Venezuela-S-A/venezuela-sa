@@ -77,7 +77,7 @@ Georgia reformó **reemplazando** la policía con profesionales bien pagados (mo
 | Policía predictiva con controles éticos | USD 200–500 M | Singapur |
 | Reducción homicidios a <15/100k | — | Meta: nivel Colombia actual |
 
-**Inversión total estimada (Fases 1-3):** USD 5.000–8.000 M en 7 años. *Ver [estimación actualizada abajo](#inversión-actualizada-en-seguridad) que incluye reforma FANB y DDR expandido: USD 10-18B total.*
+**Inversión total estimada (Fases 1-3):** USD 5.000–8.000 M en 7 años. *Ver [estimación actualizada abajo](#inversión-actualizada-en-seguridad) que incluye reforma FANB y DDR expandido: USD 18-25B en 10 años.*
 
 ### Meta de Resultado
 
@@ -187,15 +187,30 @@ Ver [Justicia transicional](/04-gobernanza/justicia-transicional) para el marco 
 
 ### Inversión Actualizada en Seguridad
 
-| Componente | Estimación anterior | Estimación actualizada | Justificación |
+:::danger Corrección post-evaluación DDR (5.7/10): presupuesto insuficiente y front-loading necesario
+El experto en seguridad/DDR identificó que USD 10-18B en 7 años es insuficiente para la escala del desafío (FANB + colectivos + ELN + pranes + narco + costa). Recomendación: **USD 18-25B en 10 años, con USD 8-10B front-loaded en Años 1-3.** Los primeros 3 años determinan si el círculo virtuoso (seguridad→inversión→empleo→menos crimen) o el vicioso (inseguridad→fuga→desempleo→más crimen) se activa.
+:::
+
+| Componente | Estimación anterior | **Estimación corregida** | Justificación |
 |-----------|---------------------|----------------------|---------------|
-| Reforma policial (modelo Georgia) | USD 2-3B | USD 3-4B | Incluye formación, tecnología, salarios 5 años |
-| DDR (colectivos + bandas + ELN) | Incluido arriba | USD 3-5B | Ref: Colombia DDR + Plan Colombia |
+| Reforma policial (modelo Georgia) | USD 3-4B | **USD 4-5B** | 200K policías surge (Años 1-5), bajando a 130K. 10+ academias con capacidad 2.000/año c/u. Salarios USD 800-1.200/mes. Partners: [ILEA](https://www.state.gov/international-law-enforcement-academies/), Colombia, Israel |
+| DDR (colectivos + bandas) | USD 3-5B | **USD 4-6B** | Mapeo de comando 6 meses. Negociación 2-4 años. Reintegración: empleo en concesiones de infraestructura, no solo paquetes. Ref: Colombia 4+ años |
+| Reforma FANB (350K→100K) | USD 2-4B | **USD 3-5B** | Disolución milicia (220K) Año 1. Retiro dirigido mandos medios Años 2-3. Buyout tiered por rango (USD 5K-50K según rango + renta ilícita reemplazada). Profesionalización completa Año 10 |
+| Control penitenciario | No estimado | **USD 1-2B** | Recuperar cárceles de pranes en Fase 1 (antes de DDR). 5-10K guardias penitenciarios nuevos. Infraestructura. Ref: El Salvador CECOT adaptado |
+| Arco Minero (operación militar + formalización) | Incluido en DDR | **USD 2-3B** | Operación tipo Plan Patriota (Colombia 2003). 7-10 años para control total. ELN tiene capacidad militar real |
+| Seguridad marítima (costa) | No estimado | **USD 1-1.5B** | Patrulleras, radar costero, cooperación DEA marítima. Costa Falcón-Sucre = corredor narco |
 | Infraestructura seguridad (cámaras, centros) | USD 1-2B | USD 1-2B | Sin cambio |
-| Protección infraestructura crítica | USD 0.5-1B | USD 1-2B | Incluye seguridad marítima |
-| Reforma FANB (reducción + reintegración) | No estimado | USD 2-4B | 230.000 paquetes de retiro + reconversión |
-| Ciberseguridad + inteligencia | USD 0.3-0.5B | USD 0.5-1B | Actualizado a estándar Estonia |
-| **TOTAL** | **USD 5-8B** | **USD 10-18B** | **Ref: Plan Colombia USD 12B+ (2000-2016)** |
+| Inteligencia soberana (post-Cuba) | USD 0.5-1B | **USD 1.5-2B** | Reemplazo de capacidad cubana en 18 meses. CIA/DEA como puente. Contrainteligencia contra redes stay-behind. Protección física de líderes de transición |
+| Ciberseguridad | USD 0.3-0.5B | USD 0.5-1B | Estándar Estonia |
+| **TOTAL** | **USD 10-18B / 7 años** | **USD 18-25B / 10 años** | **Front-loaded: USD 8-10B en Años 1-3** |
+
+### Distribución temporal (front-loaded)
+
+| Período | Inversión | % del total | Foco |
+|---------|-----------|-------------|------|
+| **Años 1-3** | **USD 8-10B** | **40-45%** | Milicia disuelta, cárceles recuperadas, 10K policías, inteligencia operativa, infraestructura protegida |
+| **Años 4-7** | **USD 6-8B** | **30-35%** | Arco Minero, frontera, FANB profesionalización, DDR completo, turismo seguro |
+| **Años 8-10** | **USD 4-7B** | **20-25%** | Consolidación, tecnología predictiva, homicidios <10/100K, salida top 20 criminalidad |
 
 :::caution Costo de no invertir en seguridad
 El costo de la inseguridad actual se estima en ~22% del PIB entre homicidios, extorsión, inversión perdida, emigración forzada y costos de salud ([UNDP](https://www.undp.org/)). La inversión de USD 10-18B en 10 años se paga sola si reduce esta pérdida en 50%.
@@ -244,29 +259,31 @@ gantt
     dateFormat YYYY
     axisFormat %Y
 
-    section Año 1: Emergencia + Señal
-    Seguridad en 5 ciudades ZEET (Caracas, Valencia, Maracaibo, Barquisimeto, Pto. Ordaz) :a1, 2027, 2028
-    Inicio reforma policial (modelo Georgia: purga + reclutamiento)                       :a2, 2027, 2028
-    Protección infraestructura crítica (Guri, puertos, refinerías)                        :a3, 2027, 2028
-    Reactivación cooperación DEA/Interpol                                                  :a4, 2027, 2028
+    section Año 1: Emergencia + Señal + FANB arranca
+    Seguridad en 5 ciudades ZEET + proteccion infraestructura critica :a1, 2027, 2028
+    Reforma policial arranca (purga + reclutamiento Georgia)          :a2, 2027, 2028
+    Reactivacion DEA/Interpol + inteligencia aliada (CIA)             :a3, 2027, 2028
+    FANB: disolucion milicia (220K) + retiro voluntario Fase 1        :a4, 2027, 2028
+    Control carceles: recuperar Tocoron y 5 penales criticos          :a5, 2027, 2028
 
-    section Años 2-3: Prisiones + Inteligencia
-    Reforma penitenciaria (mega-cárceles si necesario, modelo Bukele adaptado)            :b1, 2028, 2030
-    Inteligencia criminal: mapeo de redes, activos, flujos financieros                    :b2, 2028, 2030
-    DDR colectivos urbanos (negociación + amnistía condicionada)                           :b3, 2028, 2030
-    Primeros 10.000 policías nuevos graduados y desplegados                                :b4, 2028, 2030
+    section Años 2-3: Prisiones + DDR + Inteligencia propia
+    Reforma penitenciaria completa (pranes neutralizados)             :b1, 2028, 2030
+    DDR colectivos: mapeo completo + negociacion + amnistia           :b3, 2028, 2030
+    Primeros 10.000 policias nuevos graduados y desplegados           :b4, 2028, 2030
+    FANB: retiro dirigido mandos medios + reconversion                :b5, 2028, 2030
+    Inteligencia soberana operativa (reemplazo Cuba, 18 meses)        :b6, 2028, 2030
 
-    section Años 3-5: Recuperación Territorial
-    Control frontera Táchira-Apure (con cooperación Colombia + EE.UU.)                    :c1, 2030, 2032
-    Formalización Arco Minero (desplazamiento de grupos armados)                           :c2, 2030, 2032
-    Seguridad zonas petroleras (Zulia, Faja del Orinoco)                                  :c3, 2029, 2032
-    Zonas turísticas seguras certificadas (Los Roques, Canaima, Mérida)                   :c4, 2030, 2032
+    section Años 3-5: Recuperacion Territorial
+    Control frontera Tachira-Apure (con Colombia + EE.UU.)            :c1, 2030, 2032
+    Arco Minero: operacion militar + formalizacion (Plan Patriota)    :c2, 2030, 2035
+    Seguridad zonas petroleras (Zulia, Faja)                          :c3, 2029, 2032
+    Seguridad maritima costa (Falcon, Sucre)                          :c5, 2030, 2032
+    Zonas turisticas seguras certificadas                             :c4, 2031, 2033
 
-    section Años 5-7: Reforma FANB + Profesionalización
-    Reducción FANB: 350K → 120K efectivos (paquetes de retiro + reconversión)             :d1, 2032, 2034
-    Profesionalización: FANB apolítica, modelo Chile/Uruguay                              :d2, 2032, 2034
-    Homicidios menor a 10 por 100k nacional                                                :d3, 2033, 2034
-    Venezuela sale del top 20 de criminalidad global                                       :milestone, m1, 2034, 0d
+    section Años 5-10: FANB profesional + Consolidacion
+    FANB: 350K a 100K efectivos (profesionalizacion completa)         :d1, 2032, 2037
+    Homicidios menor a 10 por 100k nacional                           :d3, 2033, 2037
+    Venezuela sale del top 20 de criminalidad global                  :milestone, m1, 2037, 0d
 ```
 
 ### Prerrequisitos de Seguridad por Sector Económico

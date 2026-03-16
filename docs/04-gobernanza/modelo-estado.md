@@ -786,29 +786,37 @@ xychart-beta
     title "Empleados públicos civiles + militares — Transición (miles)"
     x-axis ["Hoy", "Año 1", "Año 3", "Año 5", "Año 7", "Año 10"]
     y-axis "Miles de empleados" 0 --> 2600
-    bar [2500, 630, 420, 330, 285, 265]
+    bar [2720, 680, 450, 350, 305, 285]
 ```
 
-| Fase | Civiles | FFAA | Total | Qué cambia |
-|------|---------|------|-------|-----------|
-| **Hoy** | **2.370.000** | **130.000** + 220K milicia | **2.500.000+** | Estado opera TODO. Milicia = instrumento político |
-| **Año 1** | **550.000** | **80.000** | **630.000** | Fusión 34→10 ministerios. Empresas → VSA. Misiones cerradas. Milicia eliminada. FFAA profesionalizadas |
-| **Año 3** | **340.000** | **80.000** | **420.000** | 50% docentes ya en colegios autónomos. Hospitales en concesión |
-| **Año 5** | **250.000** | **80.000** | **330.000** | 80% colegios autónomos. IA en policía. Trámites digitales |
-| **Año 7** | **205.000** | **80.000** | **285.000** | Tribunales 80% virtuales. Tax automático. 95% colegios autónomos |
-| **Año 10** | **185.000** | **80.000** | **265.000** | Estado digital maduro. Todos los servicios en concesión o autónomos |
+:::caution Corrección post-evaluación DDR: FANB reforma arranca Año 1, no Año 5
+El experto en seguridad (5.7/10) identificó contradicción: esta tabla decía 80K FFAA en Año 1 (imposible), mientras seguridad-fisica.md decía Años 5-7. **Corrección:** la milicia se disuelve en Año 1. La reducción de FANB profesional es gradual (350K→200K→100K en 10 años). Ver [Plan Operativo de Seguridad](/04-gobernanza/seguridad-fisica#plan-operativo-de-seguridad-territorial).
+:::
 
-**Meta: 265.000 empleados totales** (185K civiles + 80K militares) — los mejor pagados de LATAM.
+| Fase | Civiles | FFAA (sin milicia) | Total | Qué cambia |
+|------|---------|-------------------|-------|-----------|
+| **Hoy** | **2.370.000** | **130.000** activos + 220K milicia | **2.720.000** | Estado opera TODO. Milicia = instrumento político |
+| **Año 1** | **550.000** | **130.000** (milicia disuelta, FANB intacta temporalmente) | **680.000** | Fusión 34→10 ministerios. Empresas → VSA. Misiones cerradas. **Milicia disuelta (220K).** FANB: retiro voluntario abierto |
+| **Año 3** | **340.000** | **110.000** (retiro dirigido mandos medios) | **450.000** | 50% docentes en colegios autónomos. Hospitales en concesión. FANB: mandos con rentas ilícitas retirados |
+| **Año 5** | **250.000** | **100.000** | **350.000** | 80% colegios autónomos. IA en policía. FANB profesionalizada, apolítica |
+| **Año 7** | **205.000** | **100.000** | **305.000** | Tribunales 80% virtuales. Tax automático |
+| **Año 10** | **185.000** | **100.000** | **285.000** | Estado digital maduro. FANB modelo Chile/Uruguay |
+
+**Meta: 285.000 empleados totales** (185K civiles + 100K militares) — los mejor pagados de LATAM.
+
+:::info Por qué 100K militares y no 80K
+El experto DDR señaló: Venezuela tiene frontera con Colombia (2.219 km), Brasil (2.200 km), Guyana (743 km), más 2.800 km de costa caribeña. 80K es insuficiente para control territorial + seguridad marítima + antinarcóticos. 100K es el mínimo viable — comparable a Chile (80K para 19M hab.) ajustado por mayor territorio y amenazas fronterizas.
+:::
 
 | Comparación | Civiles | Militares | Total | Población | Ratio |
 |-------------|---------|-----------|-------|-----------|-------|
 | [Singapur](https://www.careers.gov.sg/who-we-are/the-singapore-public-service/) | 158.000 | 50.000 | 208.000 | 5,9M | 1:28 |
 | Chile | ~400.000 | 80.000 | 480.000 | 19M | 1:40 |
-| **Venezuela meta** | **185.000** | **80.000** | **265.000** | **40M** | **1:151** |
+| **Venezuela meta** | **185.000** | **100.000** | **285.000** | **40M** | **1:140** |
 | Venezuela actual | 2.370.000 | 350.000+ | 2.720.000 | 32M | 1:12 |
 
 :::caution Estado lean pero funcional
-1:151 es agresivo pero viable porque: (1) estado 100% digital — [Estonia ahorra 2% PIB](https://e-estonia.com/) con e-gov, (2) salud/educación operadas por privados/autónomos — no son empleados públicos, (3) FCV unificado reemplaza 4 burocracias, (4) IA en policía/justicia/impuestos, (5) EE.UU. como aliado de seguridad reduce necesidad militar. Si falla la digitalización, falla el modelo — por eso el Ministerio de Digital es la columna vertebral.
+1:140 es agresivo pero viable porque: (1) estado 100% digital — [Estonia ahorra 2% PIB](https://e-estonia.com/) con e-gov, (2) salud/educación operadas por privados/autónomos — no son empleados públicos, (3) FCV unificado reemplaza 4 burocracias, (4) IA en policía/justicia/impuestos, (5) EE.UU. como aliado de seguridad reduce necesidad militar. Si falla la digitalización, falla el modelo — por eso el Ministerio de Digital es la columna vertebral.
 :::
 
 #### Plan de transición para los 2,37M funcionarios desplazados

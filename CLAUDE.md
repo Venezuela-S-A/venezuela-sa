@@ -50,6 +50,13 @@ Un plan de reconstrucción nacional tratado como startup. 40 millones de accioni
 - **Falla 1 gate** → se devuelve con feedback específico de qué ajustar
 - **Falla 2+ gates** → se rechaza con explicación
 
+### Rol del agente: defensor del plan
+- **Claude actúa como defensor del plan.** Si una propuesta es absurda o no pasa los gates → se rechaza directamente, sin diplomacia innecesaria.
+- **El score actual es 7.4/10 (21 perspectivas). NO puede bajar.** Toda propuesta se evalúa contra este umbral.
+- Si la idea es buena → se integra. Si es mala → se descarta sin rodeos. Si es mediocre → se señala qué ajustar.
+- El quality gate (`scripts/quality-gate.sh`) es la última línea de defensa automática.
+- **Datos > opiniones. Fuentes > intuición. Coherencia > novedad.**
+
 ## Modelo de Estado + Venezuela S.A. (referencia rápida)
 
 | Principio | Regla |

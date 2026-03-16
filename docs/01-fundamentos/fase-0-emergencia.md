@@ -62,10 +62,10 @@ Los primeros 100 días definen si el plan tiene credibilidad o es otro documento
 | # | Acción | Entregable concreto | Señal que envía |
 |---|--------|---------------------|-----------------|
 | 1 | **Primera inversión ciudadana posible** — app MVP o portal web | Ciudadano puede invertir USD 10-100 en bonos Venezuela S.A. desde su teléfono | "Eres accionista de tu país" |
-| 2 | **Primer bootcamp arranca** (500 estudiantes, desarrollo de software) | Cohorte 1 en marcha: 500 estudiantes en 3 ciudades, currículo tech, becas completas | "De vendedor informal a developer en 6 meses" |
+| 2 | **Primer bootcamp arranca** (500 estudiantes, desarrollo de software) | Cohorte 1 en marcha: 500 estudiantes en 3 ciudades, currículo tech, estipendio financiado por FCV Educación | "De vendedor informal a developer en 6 meses" |
 | 3 | **Estudio de factibilidad de data center** completado con major (Google/Microsoft/Amazon) | Documento público con ubicación, costo, timeline, compromiso de energía | "Los gigantes tech están mirando a Venezuela" |
 | 4 | **Dashboard muestra primeros resultados** | Métricas públicas: X hospitales activos, Y km de carreteras, Z empleos directos creados | "Los números no mienten y están a la vista de todos" |
-| 5 | **Primer programa de retorno de diáspora** lanzado | Incentivos: visa fast-track, exención fiscal 3 años, housing assistance. Censo digital activo | "Vuelve. Hay para qué." |
+| 5 | **FCV operativo + plataforma diáspora** lanzados | App FCV disponible para contribución voluntaria desde el exterior. Censo digital de diáspora activo. Bolsa de empleo VenDev en piloto | "Tu cuenta FCV te espera. Vuelve cuando quieras." |
 
 ### Scorecard de 100 Días
 

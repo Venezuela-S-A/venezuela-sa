@@ -84,7 +84,7 @@ Los evaluadores coinciden: un plan de 15 años sin resultados visibles en los pr
 | 1 | **Guri rehabilitado** — primera turbina reparada, uptime > 80% | MW recuperados |
 | 2 | **5 coworkings tech** operativos con Starlink + fibra | Puestos disponibles, velocidad Mbps |
 | 3 | **Primer bootcamp** de software lanzado (1.000 estudiantes) | Inscritos, tasa de permanencia |
-| 4 | **Licencia OFAC expandida** — resultado de negociación | Tipo de licencia otorgada |
+| 4 | ~~Licencia OFAC expandida~~ **CUMPLIDO:** [Licencia 46B emitida 14-mar-2026](https://www.infobae.com/venezuela/2026/03/14/eeuu-autorizo-a-las-empresas-estadounidenses-realizar-negocios-con-el-sector-petrolero-venezolano/) — todas las empresas de EE.UU. autorizadas | COMPLETADO |
 | 5 | **Censo digital** de diáspora lanzado | Registrados en plataforma |
 
 ### Sprint 2: Días 201–365 — Primeros Retornos

@@ -109,7 +109,7 @@ Un sistema BRT bien ejecutado mueve **tanta gente como un metro** a una fraccion
 | Ciudad | Corredores propuestos | Km estimados | Inversion (USD M) | Pasajeros/dia (meta) |
 |--------|----------------------|-------------|-------------------|---------------------|
 | **Caracas** | Complemento al metro: corredor este-oeste (Petare-El Silencio), corredor sur (Coche-El Valle) | 30-40 km | 900-1.200 | 500.000-800.000 |
-| **Valencia** | Reemplaza expansion fallida de metro. Corredor norte-sur + anillo urbano | 25-35 km | 750-1.050 | 300.000-500.000 |
+| **Valencia** | **Híbrido Medellín:** rehabilitar 7 estaciones del metro existente (6,2 km) como troncal central + BRT norte-sur y anillo urbano. El metro no se abandona — se integra como columna vertebral. Una sola concesión opera metro + BRT integrados | 25-35 km BRT + 6,2 km metro | 950-1.450 | 300.000-500.000 |
 | **Maracaibo** | Reemplaza metro nunca construido. Corredor costero + transversal | 30-40 km | 900-1.200 | 400.000-600.000 |
 | **Barquisimeto** | Rehabilita TransBarca + expande 3 corredores nuevos | 20-30 km | 600-900 | 200.000-350.000 |
 | **Puerto Ordaz** | Conecta zonas industriales, residenciales y corredor data centers (Guri) | 15-25 km | 450-750 | 150.000-250.000 |

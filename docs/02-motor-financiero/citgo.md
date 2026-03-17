@@ -1,6 +1,26 @@
 ---
 sidebar_position: 7
 title: "Citgo: La Pieza Clave"
+evaluators:
+  - legal-icsid
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
+  - cro-sovereign-debt
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
 ---
 
 # Citgo: La Pieza Clave en la Reestructuración

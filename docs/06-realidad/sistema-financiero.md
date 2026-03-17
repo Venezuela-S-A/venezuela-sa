@@ -1,6 +1,32 @@
 ---
 sidebar_position: 6
 title: Sistema Financiero
+evaluators:
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
+  - elon-musk
+  - freddy-vega
+  - tech-giants
+  - unicornios-latam
+  - venture-capital
+  - andres-parra
+  - legal-icsid
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
 ---
 
 # Sistema Bancario y Financiero: Reconstruir el Crédito

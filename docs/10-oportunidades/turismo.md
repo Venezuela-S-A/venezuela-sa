@@ -1,6 +1,27 @@
 ---
 sidebar_position: 4
 title: "Turismo: El Caribe Inexplorado"
+evaluators:
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
+  - venture-capital
+  - comms-restructuring
+  - paul-caminiti
+  - andres-oppenheimer
+  - visualpolitik
+  - visualeconomik
 ---
 
 # Turismo: El Caribe Inexplorado

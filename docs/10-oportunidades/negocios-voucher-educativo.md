@@ -1,6 +1,32 @@
 ---
 sidebar_position: 17
 title: "Negocios del Voucher Educativo"
+evaluators:
+  - elon-musk
+  - freddy-vega
+  - tech-giants
+  - unicornios-latam
+  - venture-capital
+  - andres-parra
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
 ---
 
 # Negocios del Voucher Educativo: 500.000+ Empleos, Miles de Empresas

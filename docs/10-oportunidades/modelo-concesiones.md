@@ -1,6 +1,32 @@
 ---
 sidebar_position: 0
 title: "Modelo de Concesiones: El Marco Universal"
+evaluators:
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
+  - venture-capital
+  - legal-icsid
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
 ---
 
 # Modelo de Concesiones: Estándares Máximos, 100+ Años, Ejecución Paralela

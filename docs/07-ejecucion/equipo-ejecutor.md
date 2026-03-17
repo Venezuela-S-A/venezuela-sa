@@ -1,6 +1,18 @@
 ---
 sidebar_position: 6
 title: "Equipo Ejecutor"
+evaluators:
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
+  - venture-capital
+  - comms-restructuring
+  - paul-caminiti
+  - andres-oppenheimer
+  - visualpolitik
+  - visualeconomik
 ---
 
 # Equipo Ejecutor

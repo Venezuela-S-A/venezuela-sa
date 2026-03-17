@@ -1,6 +1,27 @@
 ---
 sidebar_position: 1
 title: "Data Centers para IA"
+evaluators:
+  - elon-musk
+  - freddy-vega
+  - tech-giants
+  - unicornios-latam
+  - venture-capital
+  - andres-parra
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
 ---
 
 # Data Centers para IA: La Ventaja Energetica que el Mundo Necesita

@@ -1,6 +1,23 @@
 ---
 sidebar_position: 2
 title: "Diáspora: 7,9 Millones de Nodos"
+evaluators:
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
+  - comms-restructuring
+  - paul-caminiti
+  - andres-oppenheimer
+  - visualpolitik
+  - visualeconomik
+  - elon-musk
+  - freddy-vega
+  - tech-giants
+  - unicornios-latam
+  - venture-capital
+  - andres-parra
 ---
 
 # Diáspora: Red Bilateral de 7,9 Millones de Nodos

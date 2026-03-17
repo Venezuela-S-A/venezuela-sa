@@ -1,6 +1,31 @@
 ---
 sidebar_position: 3
 title: Deuda
+evaluators:
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
+  - china-negotiator
+  - us-china-strategist
+  - margaret-myers
+  - kevin-gallagher
+  - rebecca-ray
+  - legal-icsid
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
 ---
 
 # Reestructuración de la Deuda: USD 150–170.000 M

@@ -1,6 +1,27 @@
 ---
 sidebar_position: 11
 title: "Agua y Saneamiento"
+evaluators:
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
+  - venture-capital
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
 ---
 
 # Agua y Saneamiento: Lo Más Básico que Falta

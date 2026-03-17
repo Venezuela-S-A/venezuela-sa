@@ -1,6 +1,30 @@
 ---
 sidebar_position: 4
 title: Estado de Derecho y Moneda
+evaluators:
+  - marco-rubio
+  - nayib-bukele
+  - legal-icsid
+  - security-ddr-expert
+  - us-china-strategist
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
 ---
 
 # Estado de Derecho, Marco Legal y Reforma Monetaria

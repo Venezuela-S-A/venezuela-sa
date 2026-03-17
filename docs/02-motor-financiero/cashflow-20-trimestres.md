@@ -1,6 +1,21 @@
 ---
 sidebar_position: 7
 title: "Cashflow: Primeros 20 Trimestres"
+evaluators:
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
 ---
 
 # Cashflow Trimestral: Los Primeros 5 Años

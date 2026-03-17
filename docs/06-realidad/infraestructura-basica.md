@@ -1,6 +1,36 @@
 ---
 sidebar_position: 3
 title: Infraestructura Básica
+evaluators:
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
+  - marco-rubio
+  - nayib-bukele
+  - legal-icsid
+  - security-ddr-expert
+  - us-china-strategist
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
+  - elon-musk
+  - freddy-vega
+  - tech-giants
+  - unicornios-latam
+  - venture-capital
+  - andres-parra
 ---
 
 # Infraestructura Básica: Telecomunicaciones, Agua, Vivienda, Transporte y Agricultura

@@ -1,6 +1,20 @@
 ---
 sidebar_position: 3
 title: "Realidad Geopolítica"
+evaluators:
+  - china-negotiator
+  - us-china-strategist
+  - margaret-myers
+  - kevin-gallagher
+  - rebecca-ray
+  - marco-rubio
+  - nayib-bukele
+  - legal-icsid
+  - security-ddr-expert
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
 ---
 
 # Realidad Geopolítica: EE.UU. Controla el Petróleo

@@ -1,6 +1,27 @@
 ---
 sidebar_position: 4
 title: YC Application
+evaluators:
+  - comms-restructuring
+  - paul-caminiti
+  - andres-oppenheimer
+  - visualpolitik
+  - visualeconomik
+  - venture-capital
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
 ---
 
 # Y Combinator Application — Venezuela S.A.

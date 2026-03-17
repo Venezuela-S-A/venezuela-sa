@@ -1,6 +1,26 @@
 ---
 sidebar_position: 4
 title: ESG y Ejecución
+evaluators:
+  - marco-rubio
+  - nayib-bukele
+  - legal-icsid
+  - security-ddr-expert
+  - us-china-strategist
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
+  - comms-restructuring
+  - paul-caminiti
+  - andres-oppenheimer
+  - visualpolitik
+  - visualeconomik
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
 ---
 
 # Sostenibilidad ESG y Gobernanza de Ejecución

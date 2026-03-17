@@ -1,6 +1,20 @@
 ---
 sidebar_position: 10
 title: "Cuba: Desconexión del Aparato de Seguridad"
+evaluators:
+  - marco-rubio
+  - nayib-bukele
+  - legal-icsid
+  - security-ddr-expert
+  - us-china-strategist
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
+  - china-negotiator
+  - margaret-myers
+  - kevin-gallagher
+  - rebecca-ray
 ---
 
 # Cuba: Desconexión del Aparato de Seguridad

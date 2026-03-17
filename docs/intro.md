@@ -2,6 +2,24 @@
 sidebar_position: 1
 slug: /
 title: "Venezuela S.A. — La Empresa de 40 Millones de Socios"
+evaluators:
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - comms-restructuring
+  - paul-caminiti
+  - andres-oppenheimer
+  - visualpolitik
+  - visualeconomik
+  - venture-capital
 ---
 
 # Venezuela S.A.

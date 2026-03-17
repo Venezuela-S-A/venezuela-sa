@@ -1,6 +1,21 @@
 ---
 sidebar_position: 8
 title: "Blindaje de Integridad"
+evaluators:
+  - marco-rubio
+  - nayib-bukele
+  - legal-icsid
+  - security-ddr-expert
+  - us-china-strategist
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
 ---
 
 # Blindaje de Integridad: Mapa Completo de Vulnerabilidades

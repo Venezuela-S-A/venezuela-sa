@@ -1,6 +1,21 @@
 ---
 sidebar_position: 1
 title: "Sistema Anti-Frágil"
+evaluators:
+  - marco-rubio
+  - nayib-bukele
+  - legal-icsid
+  - security-ddr-expert
+  - us-china-strategist
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
 ---
 
 # Gobernanza: Diseño de Sistema Anti-Frágil

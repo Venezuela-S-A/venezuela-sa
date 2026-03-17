@@ -1,6 +1,22 @@
 ---
 sidebar_position: 2
 title: Proyecciones
+evaluators:
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
+  - venture-capital
 ---
 
 # Proyecciones Consolidadas (Base USD 60/barril)

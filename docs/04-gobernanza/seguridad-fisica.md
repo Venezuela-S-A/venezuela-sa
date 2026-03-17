@@ -1,6 +1,16 @@
 ---
 sidebar_position: 5
 title: Seguridad Física
+evaluators:
+  - marco-rubio
+  - nayib-bukele
+  - legal-icsid
+  - security-ddr-expert
+  - us-china-strategist
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
 ---
 
 # Seguridad Física: Sin Seguridad No Hay Inversión

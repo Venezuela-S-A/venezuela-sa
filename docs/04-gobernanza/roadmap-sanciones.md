@@ -1,6 +1,16 @@
 ---
 sidebar_position: 9
 title: "Roadmap de Sanciones"
+evaluators:
+  - marco-rubio
+  - nayib-bukele
+  - legal-icsid
+  - security-ddr-expert
+  - us-china-strategist
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
 ---
 
 # Roadmap de Sanciones: De OFAC a Investment Grade

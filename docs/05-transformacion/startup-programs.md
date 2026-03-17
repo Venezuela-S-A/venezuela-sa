@@ -1,6 +1,13 @@
 ---
 sidebar_position: 2
 title: Programas de Startups
+evaluators:
+  - elon-musk
+  - freddy-vega
+  - tech-giants
+  - unicornios-latam
+  - venture-capital
+  - andres-parra
 ---
 
 # Venezuela Emprende: Ecosistema de Aceleración

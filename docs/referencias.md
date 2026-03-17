@@ -1,6 +1,12 @@
 ---
 sidebar_position: 98
 title: Referencias
+evaluators:
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
 ---
 
 # 85+ Fuentes Verificables

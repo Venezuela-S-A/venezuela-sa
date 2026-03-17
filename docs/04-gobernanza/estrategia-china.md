@@ -1,6 +1,34 @@
 ---
 sidebar_position: 8
 title: "Estrategia China"
+evaluators:
+  - china-negotiator
+  - us-china-strategist
+  - margaret-myers
+  - kevin-gallagher
+  - rebecca-ray
+  - marco-rubio
+  - nayib-bukele
+  - legal-icsid
+  - security-ddr-expert
+  - lee-buchheit
+  - kenneth-figueroa
+  - ian-clark
+  - anna-gelpern
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
 ---
 
 # Estrategia China: Reestructurar USD 19B Sin Entregar Soberanía

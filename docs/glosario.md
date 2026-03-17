@@ -1,6 +1,12 @@
 ---
 sidebar_position: 99
 title: Glosario
+evaluators:
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
 ---
 
 # Glosario de Términos

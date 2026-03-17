@@ -1,6 +1,13 @@
 ---
 sidebar_position: 9
 title: Oportunidades — Empresas Reales
+evaluators:
+  - elon-musk
+  - freddy-vega
+  - tech-giants
+  - unicornios-latam
+  - venture-capital
+  - andres-parra
 ---
 
 # Oportunidades para Empresas Reales: El País Físico que Hay que Construir

@@ -1,6 +1,32 @@
 ---
 sidebar_position: 8
 title: "Salud y Telemedicina"
+evaluators:
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
+  - venture-capital
+  - elon-musk
+  - freddy-vega
+  - tech-giants
+  - unicornios-latam
+  - andres-parra
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
 ---
 
 # Salud y Telemedicina: Reconstruir un Sistema de Salud Desde Cero

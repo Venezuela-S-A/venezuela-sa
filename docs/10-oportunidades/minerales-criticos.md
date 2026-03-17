@@ -1,6 +1,27 @@
 ---
 sidebar_position: 2
 title: "Minerales Criticos y Tierras Raras"
+evaluators:
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
+  - venture-capital
+  - china-negotiator
+  - us-china-strategist
+  - margaret-myers
+  - kevin-gallagher
+  - rebecca-ray
 ---
 
 # Minerales Criticos: La Otra Mina de Oro

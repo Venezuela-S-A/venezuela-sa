@@ -1,6 +1,22 @@
 ---
 sidebar_position: 4
 title: Inversión y Fuentes
+evaluators:
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
+  - venture-capital
 ---
 
 # Inversión Total: USD 550.000–750.000 M en 15 Años

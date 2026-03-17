@@ -1,6 +1,28 @@
 ---
 sidebar_position: 15
 title: "Petróleo y Gas: El Combustible"
+evaluators:
+  - milei
+  - austrian-school
+  - juan-ramon-rallo
+  - joseph-stiglitz
+  - thomas-piketty
+  - ray-dalio
+  - cro-sovereign-debt
+  - imf-representative
+  - martin-guzman
+  - simon-cueva
+  - mark-walker
+  - richard-martinez
+  - alejandro-werner
+  - rodrigo-valdes
+  - venture-capital
+  - china-negotiator
+  - us-china-strategist
+  - margaret-myers
+  - kevin-gallagher
+  - rebecca-ray
+  - marco-rubio
 ---
 
 # Petróleo y Gas: El Motor que Enciende Todo lo Demás

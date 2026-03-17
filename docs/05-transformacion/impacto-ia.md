@@ -1,6 +1,18 @@
 ---
 sidebar_position: 4
 title: Impacto de la IA
+evaluators:
+  - elon-musk
+  - freddy-vega
+  - tech-giants
+  - unicornios-latam
+  - venture-capital
+  - andres-parra
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
 ---
 
 # Impacto de la IA: Anticiparse a la Transformación

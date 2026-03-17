@@ -1,6 +1,18 @@
 ---
 sidebar_position: 5
 title: Educación
+evaluators:
+  - ricardo-hausmann
+  - lee-kuan-yew
+  - daron-acemoglu
+  - maria-corina-machado
+  - gerver-torres
+  - comms-restructuring
+  - paul-caminiti
+  - andres-oppenheimer
+  - visualpolitik
+  - visualeconomik
+  - freddy-vega
 ---
 
 # Educación Rediseñada para la Era IA

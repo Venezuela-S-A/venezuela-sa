@@ -313,10 +313,21 @@ El FCV es una ventaja competitiva para atraer talento extranjero. Un ingeniero c
 | Telecomunicaciones | Licencias competitivas | Modelo LATAM estándar |
 | Electricidad (distribución) | Concesión regulada | Chile: Enel/CGE |
 | Hospitales (infraestructura) | Concesión BOT | [Chile: Hospital Maipú](https://www.mop.cl/Paginas/default.aspx) |
-| Vivienda social | Subsidio a demanda (no construcción estatal) | [Chile: subsidio habitacional](https://www.minvu.gob.cl/) |
+| Vivienda | Venezuela S.A. co-invierte como equity (no subsidio) | [Singapur HDB](https://www.hdb.gov.sg/): 89,7% propietarios vía CPF |
 
-:::tip Vivienda: Subcuenta FCV + subsidio a demanda
-El trabajador acumula ahorro en la **Subcuenta Vivienda del FCV** (4-5% del salario). Ese ahorro se usa como pago inicial de vivienda propia — como en [Singapur](https://www.cpf.gov.sg/) donde 89,7% de la población es propietaria gracias al CPF. Para familias de bajos ingresos que no han acumulado suficiente: subsidio a demanda (modelo Chile). El Estado no construye viviendas — el privado construye, Venezuela S.A. participa como accionista en JVs, y el ciudadano elige dónde vivir.
+:::tip Vivienda: FCV + Venezuela S.A. como co-inversor (equity, no regalo)
+El trabajador acumula ahorro en la **Subcuenta Vivienda del FCV** (4-5% del salario). Ese ahorro se usa como pago inicial de vivienda propia — como en [Singapur](https://www.cpf.gov.sg/) donde 89,7% de la población es propietaria gracias al CPF.
+
+**Para familias de bajos ingresos:** Venezuela S.A. co-invierte como equity en la vivienda — no regala, no subsidia. Ejemplo:
+
+| Componente | Aporte | % propiedad |
+|---|---|---|
+| Familia (FCV Vivienda) | USD 3.000 | **20%** |
+| Venezuela S.A. (equity) | USD 9.000 | **60%** |
+| Crédito hipotecario | USD 3.000 | **20%** |
+| **Total vivienda** | **USD 15.000** | **100%** |
+
+La familia vive en la casa desde el Día 1 (es dueña del 20-40%). A medida que paga el crédito y la economía crece, compra la participación de VSA. Si vende, VSA recupera su porcentaje con la apreciación. **VSA no regala casas — invierte en vivienda como venture capital y recupera multiplicado.** El Estado no construye — el privado construye, VSA participa como accionista, y el ciudadano elige dónde vivir.
 :::
 
 ### Pensiones: Subcuenta Retiro del FCV

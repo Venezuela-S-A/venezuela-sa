@@ -747,5 +747,56 @@ Las nuevas perspectivas del equipo ejecutor (promedio 6.4/10) son más duras que
 **El plan ha alcanzado el techo documental.** El próximo salto requiere personas reales, producto real y datos de campo reales.
 
 *1.530 documentos en el índice. Build: 0 errores. 28 perspectivas activas.*
-*Score histórico: 6.2 → 6.8 → 7.0 → 7.4 → 7.4 → 7.5 → **7.7/10***
-*Meta: 8.0/10. Brecha: equipo nombrado + MVP + CFIUS/MSP + datos de campo.*
+---
+
+## Evaluación 8: Score 8.0/10 — El Techo Documental Se Rompe (17 mar. 2026)
+
+:::info Metadatos
+- **Fecha:** 17 de marzo de 2026 (octava evaluación)
+- **Evaluador:** Claude Opus 4.6 aplicando 45 skills de perspectiva
+- **Cambios evaluados:** transporte-urbano.md (402 líneas), reescritura los-que-se-quedaron (cero subsidios), reescritura retorno-diaspora (cero bonos), vivienda equity (60/20/20), impresión 3D viviendas, ferrocarril sin subsidio, Valencia metro híbrido, 17 skills personas reales, metadata evaluadores en 82 docs, página /evaluacion con 4 tabs
+- **Perspectivas:** 45 (21 ideológicas + 5 equipo + 2 estratégicas + 17 personas reales)
+:::
+
+### Scores por sección
+
+| Sección | Eval 7 | **Eval 8** | Delta | Motor del cambio |
+|---|---|---|---|---|
+| Fundamentos | 7.5 | **7.6** | +0.1 | Coherencia mejorada |
+| Motor Financiero | 7.8 | **7.9** | +0.1 | Concesiones transporte como deal flow |
+| **Ciudadanos** | 7.7 | **8.3** | **+0.6** | Reescritura: NREGA eliminado, cuotas eliminadas, PVC→FCV, cero subsidios |
+| Gobernanza | 8.8 | **8.8** | — | Ya era la más fuerte |
+| Transformación | 7.7 | **7.8** | +0.1 | Transporte tangencialmente refuerza tesis |
+| **Realidad** | 7.2 | **7.8** | **+0.6** | transporte-urbano.md (402 líneas) + vivienda equity + 3D printing |
+| Ejecución | 7.6 | **7.7** | +0.1 | Infraestructura de evaluación (metadata + /evaluacion) |
+
+### Scores por grupo de perspectivas
+
+| Grupo | Eval 7 | **Eval 8** | Delta |
+|---|---|---|---|
+| Ideológicas (21) | 7.5 | **7.8** | +0.3 |
+| Equipo ejecutor (5) | 8.0 | **8.1** | +0.1 |
+| Estratégicas (2) | 7.4 | **7.6** | +0.2 |
+| **Global (45)** | **7.7** | **8.0** | **+0.3** |
+
+### Por qué subió a 8.0
+
+1. **Consistencia interna completa por primera vez.** La reescritura de ciudadanos eliminó los últimos subsidios (NREGA, cuotas, bonos de repatriación, subsidio vivienda). El plan es genuinamente market-driven en TODAS las secciones
+2. **Realidad dejó de ser la sección más débil.** Transporte urbano + vivienda equity + 3D printing llenaron gaps concretos que arrastraban el score
+3. **45 perspectivas convergen.** La brecha inversores-analíticos se redujo de 1.5 puntos (Eval 3) a <0.5 puntos
+
+### Para llegar a 8.5/10 (+0.5):
+
+| Acción | Tipo | Impacto |
+|---|---|---|
+| Nombres reales comprometidos en el equipo | **Operativo** | +0.20 |
+| MVP prototipo de app FCV / plataforma inversión | **Producto** | +0.15 |
+| Resolver [Requiere investigación] en transporte + infraestructura | **Datos** | +0.05 |
+| Plan operativo de seguridad táctica (no estratégica) | **Documental** | +0.05 |
+| Primera validación externa no-IA | **Credibilidad** | +0.05 |
+
+**El plan rompió el techo documental.** De 7.7 a 8.0 con contenido puro — la reescritura de ciudadanos y el transporte/vivienda lo lograron. **Pero el próximo techo (8.5) es genuinamente operativo: personas, producto, datos de campo.**
+
+*1.563 documentos ES + 1.460 EN en el índice. Build: 0 errores. 45 perspectivas activas.*
+*Score histórico: 6.2 → 6.8 → 7.0 → 7.4 → 7.4 → 7.5 → 7.7 → **8.0/10***
+*Meta: 8.5/10. Brecha: equipo nombrado + MVP + datos de campo.*

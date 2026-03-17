@@ -28,36 +28,40 @@ Las referencias a "Año X" en este documento son **ilustrativas**. Las fases rea
 | Emprendedores | Ecosistema de startups | ZEET + 0% impuesto + capital semilla |
 | Profesionales (contadores, abogados, gestores) | Estado digital + sector financiero | Reconocimiento de títulos + inserción rápida |
 
-## Programa "Venezuela Te Espera"
+## Por Qué Volver Es Mejor Negocio Que Quedarse
 
-### Componente 1: Incentivos Económicos
+:::danger Cero subsidios, cero bonos, cero exenciones
+Este plan NO ofrece "bonos de repatriación", subsidios de vivienda ni vacaciones fiscales. El flat tax de 15% aplica a **todos** — retornantes incluidos. La razón para volver no es lo que el gobierno te regala. Es lo que el **mercado** te ofrece: equity, salarios competitivos en USD, un mercado de 40M de personas reconstruyéndose, y tu cuenta FCV acumulando desde el día 1.
+:::
 
-| Incentivo | Detalle | Modelo |
-|-----------|---------|--------|
-| Bono de repatriación | USD 2.000–5.000 por familia | Israel: Ley de Retorno |
-| Subsidio de vivienda | 6 meses de alquiler en zona ZEET | — |
-| Reconocimiento de títulos | Homologación express (30 días) | Chile/Colombia |
-| Exención fiscal | 2 años sin impuesto sobre renta | Irlanda para retornantes |
+### Lo que te espera al volver (no es un regalo — es tu derecho como ciudadano-accionista)
 
-### Componente 2: Inserción Laboral
+| Mecanismo | Qué es | Cómo funciona |
+|-----------|--------|---------------|
+| **FCV activo desde el día 1** | Tu Fondo Ciudadano Venezuela (5 subcuentas) se activa al emplearte formalmente | Retiro 8% + Salud 7% + Vivienda 4% + Educación 2% + Cesantía 2% = 23% de tu salario. Si tienes hijos, Venezuela S.A. contribuye USD 150/mes por niño |
+| **FCV Vivienda** | Subcuenta para comprar propiedad | Acumula desde el primer empleo. Si vuelves con ahorros, el [catastro digital](/06-realidad/estado-digital) garantiza títulos limpios — compras sin intermediarios |
+| **Reconocimiento de títulos (30 días)** | Homologación express de credenciales internacionales | Proceso automatizado vía estado digital. Elimina la barrera #1 para profesionales retornantes. Modelo [Chile](https://www.mineduc.cl/)/[Colombia](https://www.mineducacion.gov.co/) |
+| **Flat tax 15%** | Mismo impuesto que todos los demás | No hay exención. 15% ya es más bajo que lo que pagas en España (45%), EE.UU. (37%), Chile (35%) o Colombia (39%). **Eso ES el incentivo fiscal** |
+| **Equity en concesiones y startups** | Participación real en la reconstrucción | Ver sección [Co-Fundadores](#co-fundadores-no-inversores-pasivos) abajo. No es salario — es propiedad |
+| **Acceso a capital** | Para emprender, no para sobrevivir | Bonos ciudadanos, VIN, programas [Semilla/Ignite Venezuela](/05-transformacion/startup-programs). Inviertes tu dinero, Venezuela S.A. hace match. No es un regalo |
 
-| Canal | Descripción |
-|-------|-------------|
-| Hub Diáspora-Venezuela (Pre-Seed) | Plataforma de matching: talento retornante + empleos en ZEET, PDVSA JVs, hospitales, escuelas |
-| Programa público priorizado | Retornantes con experiencia tienen prioridad en contratación pública (policía, salud, educación) |
-| Emprendimiento facilitado | Acceso directo a programas Semilla/Ignite Venezuela (ver [Startups](/05-transformacion/startup-programs)) |
+### Inserción laboral: el mercado contrata, no el gobierno
 
-### Componente 3: Modelo Bilateral
+| Canal | Cómo funciona |
+|-------|---------------|
+| **Plataforma de matching** (Pre-Seed) | Conecta talento retornante con empleos reales: JVs petroleras, concesiones de infraestructura, hospitales privados, colegios privados, startups. El algoritmo cruza experiencia internacional con demanda del mercado |
+| **Competencia abierta** | No hay cuotas ni prioridad por ser retornante. La ventaja competitiva es la experiencia internacional: idiomas, estándares, redes. El mercado paga por eso — no necesitas un programa gubernamental que lo certifique |
+| **Emprendimiento** | Mismas condiciones que cualquier ciudadano. Acceso a programas [Semilla/Ignite Venezuela](/05-transformacion/startup-programs) por mérito. Tu ventaja: conoces mercados de destino que los locales no |
 
-No todo retornante vuelve físicamente. El modelo bilateral permite contribuir desde el exterior:
+### Modelo bilateral: no todos necesitan volver
 
-| Modalidad | Descripción | Beneficio |
+| Modalidad | Descripción | Qué ganas |
 |-----------|-------------|-----------|
-| **Retorno físico** | Mudarse a Venezuela | Incentivos completos |
-| **Retorno parcial** | 3–6 meses/año en Venezuela | Incentivos parciales + mantenimiento de residencia en país de acogida |
-| **Contribución remota** | Trabajo remoto para empresas venezolanas | Visa tech + contrato intl. |
-| **Inversión directa** | Invertir en bonos/startups desde el exterior | Bonos ciudadanos + VIN |
-| **Mentoría** | Asesorar a startups/instituciones | Red de advisors del programa |
+| **Retorno físico** | Mudarse a Venezuela | FCV activo + equity en concesiones + acceso completo al mercado laboral |
+| **Retorno parcial** | 3-6 meses/año en Venezuela | FCV proporcional + contribución remota + residencia en país de acogida |
+| **Contribución remota** | Trabajo remoto para empresas venezolanas | Contrato en USD + FCV proporcional + participación en programas de equity |
+| **Inversión directa** | Invertir en bonos/startups desde el exterior | Bonos ciudadanos + VIN + retorno de mercado |
+| **Mentoría** | Asesorar startups/instituciones venezolanas | Red de advisors + equity simbólico en startups que asesoras |
 
 ### Meta
 
@@ -67,7 +71,7 @@ No todo retornante vuelve físicamente. El modelo bilateral permite contribuir d
 | Contribuyentes remotos | 200.000 | 500.000 | 1.000.000 |
 | Inversores diáspora activos | 79.000 (1% Pre-Seed) | 400.000 | 2.000.000 |
 
-**Inversión total programa de retorno:** USD 500–1.500 M en 7 años (bonos de repatriación + plataforma + subsidios).
+**Costo incremental del programa de retorno:** USD 15-60M (plataforma de matching USD 10-50M + sistema de reconocimiento de títulos USD 5-10M). El FCV ya existe para todos los ciudadanos. Los empleos los crean las concesiones (ya presupuestadas). Los programas de equity ya están en el plan. **No hay bonos, no hay subsidios, no hay gasto nuevo significativo.**
 
 ---
 

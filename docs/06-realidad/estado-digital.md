@@ -120,3 +120,18 @@ flowchart LR
 
 Cross-reference: [12 patrones de corrupción × 14 áreas del plan](/04-gobernanza/blindaje-integridad) | [Sistema de whistleblower con recompensa 10-30%](/04-gobernanza/justicia-transicional)
 :::
+
+### Ejecución Automática de Presupuesto
+
+El gasto fantasma termina cuando los fondos solo fluyen si hay servicio verificado. En salud y educación, las transferencias se ejecutan por algoritmo — no por discreción política:
+
+| Componente | Mecanismo | Si no cumple |
+|------------|-----------|-------------|
+| **Salud** | Fondos se transfieren según data verificada: pacientes atendidos, procedimientos realizados, vacunas aplicadas | Transferencia se **pausa automáticamente** hasta regularizar datos |
+| **Educación** | Fondos se transfieren según estudiantes matriculados, asistencia, resultados estandarizados | Pausa automática + alerta pública en dashboard |
+| **Verificación** | Datos cargados por prestadores en plataforma digital, cruzados con registros de identidad (cédula digital) | Inconsistencias > 5% activan auditoría automática |
+| **Anti-manipulación** | Hash de cada registro en blockchain — alteración retroactiva es detectable e imputable penalmente | Smart contract bloquea fondos si hash no coincide |
+
+**Efecto:** un gobernador no puede reportar 50.000 estudiantes si solo hay 30.000 cédulas de menores registradas en su estado. Un hospital no cobra por 1.000 cirugías si solo hay 600 historias clínicas verificables. **Se paga por servicio entregado, no por presupuesto asignado.**
+
+**Referencia:** Plan Providencia por Venezuela (2026). Complementa la capa blockchain de transparencia descrita arriba.

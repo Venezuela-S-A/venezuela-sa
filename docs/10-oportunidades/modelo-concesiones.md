@@ -479,6 +479,23 @@ Cada activo construido bajo concesión se gestiona bajo **ISO 55000** (Asset Man
 | **Renovación** | Protocolo definido para renovación/actualización | Venezuela S.A. |
 | **Fin de vida** | Protocolo de demolición/reciclaje (economía circular) | Venezuela S.A. |
 
+### Regla Anti-Monopolio Regional
+
+La privatización sin controles crea oligarcas. Venezuela no reemplaza monopolios estatales con monopolios privados.
+
+| Regla | Detalle |
+|-------|---------|
+| **Límite de concentración** | Ninguna empresa o grupo económico puede controlar más de **2 sectores estratégicos** (energía, agua, telecoms, transporte) dentro de un mismo estado |
+| **Comité de Dirección Colegiada** | Toda concesión extractiva (petróleo, minería, gas) opera con un comité obligatorio: cámaras regionales + auditor externo + observadores ciudadanos elegidos por sorteo |
+| **Revisión anti-trust** | Superintendencia de Competencia revisa toda adquisición o fusión de concesionarios que supere el umbral de concentración |
+| **Sanción** | Incumplimiento = desinversión forzada en 12 meses o revocación de la concesión más reciente |
+
+:::info Por qué sorteo ciudadano
+Los observadores elegidos por sorteo (modelo jurado) eliminan la captura política. No los nombra el gobernador ni el concesionario — los selecciona un algoritmo público de entre ciudadanos registrados en la región. Rotación anual.
+:::
+
+**Referencia:** Plan Providencia por Venezuela (2026) + mejores prácticas anti-trust (EU Competition Law, FTC guidelines).
+
 ---
 
 ## Cómo Funciona en la Práctica

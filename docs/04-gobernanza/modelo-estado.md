@@ -707,6 +707,23 @@ xychart-beta
 Venezuela bajo Maduro cobra [15% de impuesto sobre nómina](https://central-law.com/en/venezuela-law-on-the-protection-of-social-security-pensions/) solo para pensiones. Colombia cobra 19% de IVA. Argentina tiene 100+ impuestos diferentes. Resultado: evasión masiva, informalidad, y fuga de empresas. El modelo Venezuela S.A. apuesta por tasas BAJAS con base AMPLIA (formalización + digitalización fiscal).
 :::
 
+### Reforma Laboral: Pago por Horas Trabajadas en USD
+
+El salario mínimo mensual actual (~USD 3,50/mes congelado desde 2022) es ficticio — no cubre ni un día de alimentación. En vez de perpetuar un mínimo mensual que nadie cumple, se reemplaza por un **piso horario en USD** escalonado por cualificación:
+
+| Nivel | Piso Horario (USD) | Ejemplo: 8 hrs × 20 días | Perfil |
+|-------|-------------------|--------------------------|--------|
+| **Informal / básico** | $2,00 | **USD 320/mes** | Obrero, vendedor, limpieza |
+| **Supervisado** | $2,50 | **USD 400/mes** | Técnico, operador, asistente |
+| **Profesional** | $3,00–4,00 | **USD 480–640/mes** | Universitario, enfermero, programador jr. |
+| **Senior / especializado** | $4,50+ | **USD 720+/mes** | Ingeniero, médico, gerente |
+
+- **Frecuencia de pago:** a elección del empleador (semanal, quincenal, mensual) — elimina la trampa del "salario mensual que nunca llega".
+- **Compatible con FCV:** el 23% de contribución se calcula sobre las horas trabajadas y reportadas. Más horas formales = más ahorro en las 5 subcuentas.
+- **Efecto inmediato:** USD 320/mes para un trabajador básico a tiempo completo — **4× más que la realidad actual** y comparable con la mediana salarial de la economía informal venezolana.
+- **Fuente salario actual:** [Requiere investigación] — salario mínimo congelado desde marzo 2022.
+- **Referencia:** Plan Providencia por Venezuela (2026).
+
 ---
 
 ## Comparación: Modelos de Estado Eficiente
@@ -753,6 +770,20 @@ xychart-beta
 | Año 3–5 | Base tributaria >15% del PIB → Estado autosuficiente sin petróleo | Año 3–5 |
 | Año 7+ | Convergencia a modelo Singapur: gasto público <18% PIB | Largo plazo |
 | Año 15 | **Estado vive 100% de impuestos. Petróleo 100% al fondo.** | Meta final |
+
+### Techo de Endeudamiento Regional
+
+Ningún estado o municipio puede convertirse en una mini-Venezuela que acumula deuda populista a espaldas de los ciudadanos. Regla constitucional:
+
+| Regla | Detalle |
+|-------|---------|
+| **Techo** | Ningún estado o municipio puede endeudarse por encima del **20% de su PIB regional** sin referéndum popular |
+| **Referéndum obligatorio** | Debe explicar el impacto fiscal directo en impuestos locales (cuánto más pagará cada contribuyente) |
+| **Candado constitucional** | Solo modificable por 2/3 del Parlamento + referéndum nacional — blindado contra populismo local |
+| **Transparencia** | Toda deuda subnacional publicada en dashboard público en tiempo real |
+| **Precedente** | Frenos cantonales de deuda de Suiza (Schuldenbremse) — limitan déficit estructural a nivel subnacional. Resultado: Suiza tiene ratio deuda/PIB de ~38%, uno de los más bajos de Europa |
+
+**Referencia:** Plan Providencia por Venezuela (2026), frenos de deuda cantonales suizos.
 
 ---
 

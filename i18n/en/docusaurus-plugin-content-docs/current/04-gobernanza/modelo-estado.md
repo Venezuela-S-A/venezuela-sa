@@ -309,10 +309,21 @@ The FCV is a competitive advantage for attracting foreign talent. A Colombian, P
 | Telecommunications | Competitive licenses | Standard LATAM model |
 | Electricity (distribution) | Regulated concession | Chile: Enel/CGE |
 | Hospitals (infrastructure) | BOT concession | [Chile: Maipu Hospital](https://www.mop.cl/Paginas/default.aspx) |
-| Social housing | Demand-side subsidy (not state construction) | [Chile: housing subsidy](https://www.minvu.gob.cl/) |
+| Housing | Venezuela S.A. co-invests as equity (no subsidies) | [Singapore HDB](https://www.hdb.gov.sg/): 89.7% homeownership via CPF |
 
-:::tip Housing: FCV Sub-account + Demand-Side Subsidy
-Workers accumulate savings in the **FCV Housing Sub-account** (4-5% of salary). Those savings are used as a down payment on their own home — as in [Singapore](https://www.cpf.gov.sg/) where 89.7% of the population owns their home thanks to the CPF. For low-income families that have not accumulated enough: demand-side subsidy (Chile model). The State does not build housing — the private sector builds, Venezuela S.A. participates as a shareholder in JVs, and the citizen chooses where to live.
+:::tip Housing: FCV + Venezuela S.A. as Co-Investor (Equity, Not Handout)
+Workers accumulate savings in the **FCV Housing Sub-account** (4-5% of salary). Those savings are used as a down payment on their own home — as in [Singapore](https://www.cpf.gov.sg/) where 89.7% of the population owns their home thanks to the CPF.
+
+**For low-income families:** Venezuela S.A. co-invests as equity in the home — no handouts, no subsidies. Example:
+
+| Component | Contribution | % ownership |
+|---|---|---|
+| Family (FCV Housing) | USD 3,000 | **20%** |
+| Venezuela S.A. (equity) | USD 9,000 | **60%** |
+| Mortgage | USD 3,000 | **20%** |
+| **Total home value** | **USD 15,000** | **100%** |
+
+The family moves in from Day 1 (owns 20-40%). As they pay off the mortgage and the economy grows, they buy out VSA's share. If they sell, VSA recovers its percentage with appreciation. **VSA doesn't give away houses — it invests in housing as venture capital and recovers with returns.** The State doesn't build — the private sector builds, VSA participates as shareholder, and the citizen chooses where to live.
 :::
 
 ### Pensions: FCV Retirement Sub-account

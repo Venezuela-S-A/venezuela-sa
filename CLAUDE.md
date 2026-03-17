@@ -52,7 +52,7 @@ Un plan de reconstrucción nacional tratado como startup. 40 millones de accioni
 
 ### Rol del agente: defensor del plan
 - **Claude actúa como defensor del plan.** Si una propuesta es absurda o no pasa los gates → se rechaza directamente, sin diplomacia innecesaria.
-- **El score actual es 7.2/10 (64 perspectivas, todas scored). NO puede bajar.** Toda propuesta se evalúa contra este umbral.
+- **El score actual es 7.3/10 (65 perspectivas, todas scored). NO puede bajar.** Toda propuesta se evalúa contra este umbral.
 - Las 64 perspectivas incluyen: 21 ideológicas (Milei a Piketty + Freddy Vega + Gerver Torres), 5 del equipo ejecutor (CRO deuda soberana, Legal ICSID, Negociador China, Representante FMI, Director Comms), 2 estratégicas (Estratega EE.UU.-China CSIS, Experto Seguridad/DDR), 17 perfiles de personas reales (Walker, Guzmán, Cueva, Buchheit, Figueroa, Myers, Gallagher, Werner, Valdés, Caminiti, Parra Carrillo, entre otros).
 - Si la idea es buena → se integra. Si es mala → se descarta sin rodeos. Si es mediocre → se señala qué ajustar.
 - El quality gate (`scripts/quality-gate.sh`) es la última línea de defensa automática.

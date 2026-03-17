@@ -653,6 +653,38 @@ xychart-beta
 Venezuela under Maduro charges [15% payroll tax](https://central-law.com/en/venezuela-law-on-the-protection-of-social-security-pensions/) just for pensions. Colombia charges 19% VAT. Argentina has 100+ different taxes. Result: massive evasion, informality, and corporate flight. The Venezuela S.A. model bets on LOW rates with a BROAD base (formalization + digital taxation).
 :::
 
+### Labor Reform: Hourly Pay in USD
+
+:::caution This is a recommendation for the State — Venezuela S.A. does not legislate
+Venezuela S.A. is a corporate holding, not a government. Labor reform is the State's responsibility. Venezuela S.A. can apply these floors in its own JVs and concessions as a contractual standard, but national legislation is approved by parliament. Reference: [Plan Providencia por Venezuela (2026)].
+:::
+
+The current monthly minimum wage (~USD 3.50/month, frozen since 2022) is fictional — it does not cover even one day of food. Instead of perpetuating a monthly minimum that nobody complies with, it is replaced by an **hourly floor in USD** scaled by qualification level:
+
+| Level | Hourly Floor (USD) | Example: 8 hrs x 20 days | Profile |
+|-------|-------------------|--------------------------|---------|
+| **Informal / basic** | $2.00 | **USD 320/month** | Laborer, salesperson, janitor |
+| **Supervised** | $2.50 | **USD 400/month** | Technician, operator, assistant |
+| **Professional** | $3.00–4.00 | **USD 480–640/month** | University graduate, nurse, junior programmer |
+| **Senior / specialized** | $4.50+ | **USD 720+/month** | Engineer, doctor, manager |
+
+- **Payment frequency:** at the employer's choice (weekly, biweekly, monthly) — eliminates the trap of the "monthly salary that never arrives."
+- **Compatible with FCV:** the 23% contribution is calculated on hours worked and reported. More formal hours = more savings across the 5 sub-accounts.
+- **Immediate effect:** USD 320/month for a full-time basic worker — **4x more than the current reality** and comparable with the median wage in Venezuela's informal economy.
+- **Current wage source:** [Requires research] — minimum wage frozen since March 2022.
+- **Reference:** Plan Providencia por Venezuela (2026).
+
+#### International precedents: hourly floor
+
+| Country | Model | Result | Source |
+|---------|-------|--------|--------|
+| **United Kingdom** | Introduced a national **hourly** minimum wage in 1999 (GBP 3.60/hr for adults). No prior national minimum existed | Raised wages of **+1M workers ~15%**. No detectable job loss | [National Minimum Wage Act 1998](https://en.wikipedia.org/wiki/National_Minimum_Wage_Act_1998) |
+| **Australia** | **122 awards** by sector with hourly floors by industry and qualification level. National minimum: AUD 24.95/hr (2025). Annual review by Fair Work Commission | Most granular system in the world: every industry has its own scale. Consistently low unemployment (~4%) | [Fair Work Commission](https://www.fairwork.gov.au/pay-and-wages/minimum-wages) |
+| **United States** | Federal: USD 7.25/hr since 2009. States set higher floors (e.g., California USD 16/hr) | Decentralized model with federal floor + local adjustment. 29 states exceed the federal rate | [US DOL](https://www.dol.gov/agencies/whd/minimum-wage) |
+| **Mexico** | **Daily** minimum wage (MXN 278.80/day, 2025). Northern border zone: MXN 419.88/day | Real increase of 110% in 6 years without runaway inflation | [CONASAMI](https://www.gob.mx/conasami) |
+
+**Lesson for Venezuela:** the hourly model with qualification tiers (similar to Australia) is best practice. The UK showed that introducing an hourly minimum where none existed does not destroy jobs. Mexico showed that a developing country can multiply real wages in just a few years.
+
 ---
 
 ## Comparison: Efficient State Models
@@ -699,6 +731,35 @@ xychart-beta
 | Year 3–5 | Tax base >15% of GDP → State self-sufficient without oil | Year 3–5 |
 | Year 7+ | Convergence to Singapore model: public spending <18% GDP | Long term |
 | Year 15 | **State lives 100% on taxes. Oil 100% to the fund.** | Final target |
+
+### Regional Debt Ceiling
+
+:::caution This is a recommendation for the State — Venezuela S.A. does not legislate
+The debt ceiling is a constitutional rule approved by parliament, not by Venezuela S.A. The holding can require it as a condition in its concession contracts with states/municipalities. Reference: [Plan Providencia por Venezuela (2026)].
+:::
+
+No state or municipality can become a mini-Venezuela that accumulates populist debt behind citizens' backs. Constitutional rule:
+
+| Rule | Detail |
+|------|--------|
+| **Ceiling** | No state or municipality may borrow above **20% of its regional GDP** without a popular referendum |
+| **Mandatory referendum** | Must explain the direct fiscal impact on local taxes (how much more each taxpayer will pay) |
+| **Constitutional lock** | Only modifiable by 2/3 of Parliament + national referendum — shielded against local populism |
+| **Transparency** | All subnational debt published on a public real-time dashboard |
+| **Precedent** | Swiss cantonal debt brakes (Schuldenbremse) — limit structural deficits at the subnational level. Result: Switzerland has a debt-to-GDP ratio of ~38%, one of the lowest in Europe |
+
+#### International precedents: subnational debt brakes
+
+| Country | Mechanism | Result | Source |
+|---------|-----------|--------|--------|
+| **Switzerland** | Federal Schuldenbremse (2003) + cantonal brakes. Federal budget must balance over the cycle. Cantons have their own fiscal rules | Debt/GDP dropped from **25.3% (2003) to 13.5% (2019)**. Gross total debt ~37% GDP — the lowest in Europe | [EFD Switzerland](https://www.efd.admin.ch/en/the-debt-brake) |
+| **Germany** | Constitutional Schuldenbremse (2009). Federal: max structural deficit **0.35% GDP**. Lander: near-total ban on new borrowing since 2020 | Debt/GDP dropped from 82% (2010) to 64% (2019). Effectiveness varies among Lander | [Richmond Fed](https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-22) |
+| **Brazil** | Lei de Responsabilidade Fiscal (2000). Net debt/revenue max **2x for states, 1.2x for municipalities**. Personnel spending max 60% of current revenue | Subnational debt under control: **<2% of GDP** — below OECD average | [Banco Central do Brasil](https://www.bcb.gov.br/) |
+| **Colombia** | Law 358 "Traffic Light" + Law 819 (2003). Interest/operating savings max **60%**. Debt/current revenue max **80%**. Traffic light system: green/red | Subnational debt **<2% of GDP**. Municipal finances on a "solid footing" per BanRep | [Banco de la Republica](https://www.banrep.gov.co/en/blog/debt-subnational-fiscal-rules) |
+
+**Lesson for Venezuela:** all 4 models confirm that subnational debt ceilings work when: (1) they have constitutional or organic law status, (2) they include automatic sanctions, and (3) transparency is mandatory.
+
+**Reference:** Plan Providencia por Venezuela (2026), Swiss cantonal debt brakes, Lei de Responsabilidade Fiscal (Brazil), Law 358 (Colombia), Schuldenbremse (Germany).
 
 ---
 

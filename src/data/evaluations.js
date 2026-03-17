@@ -1,9 +1,9 @@
-// Venezuela S.A. — Datos de evaluacion de las 64 perspectivas
-// Score actual: 7.2/10 (64 perspectivas) — All 64 perspectives now scored
+// Venezuela S.A. — Datos de evaluacion de las 65 perspectivas
+// Score actual: 7.3/10 (65 perspectivas) — Eval 10 post-Providencia
 // Fuente: skills/evaluations/
 
-export const OVERALL_SCORE = 7.2; // All 64 perspectives now scored
-export const TOTAL_PERSPECTIVES = 64;
+export const OVERALL_SCORE = 7.3;
+export const TOTAL_PERSPECTIVES = 65;
 
 export const SCORE_HISTORY = [
   { eval: 1, score: 6.2, perspectives: 7, label: "Eval 1" },
@@ -15,6 +15,7 @@ export const SCORE_HISTORY = [
   { eval: 7, score: 7.7, perspectives: 45, label: "Eval 7" },
   { eval: 8, score: 8.0, perspectives: 45, label: "Eval 8" },
   { eval: 9, score: 7.2, perspectives: 64, label: "Eval 9 (all scored)" },
+  { eval: 10, score: 7.3, perspectives: 65, label: "Eval 10 (Providencia)" },
 ];
 
 export const SPECTRUM_LABELS = {
@@ -654,6 +655,22 @@ export const PERSPECTIVES = [
     topValuation: "Guri microgrid strategy is the right technical solution",
     mainCritique:
       "Zero data governance framework — no BigTech deploys without data protection law",
+  },
+
+  // --- Plan Providencia ---
+  {
+    id: "plan-providencia",
+    name: "Autor Plan Providencia",
+    spectrum: "centro-derecha",
+    score: 7.0,
+    tag: "Ciudadano pragmático anti-clientelar",
+    type: "person-reference",
+    skillFile: "perspectives/plan-providencia.md",
+    sections: ["gobernanza", "fiscal", "ciudadanos", "seguridad", "deuda"],
+    topValuation:
+      "FCV es exactamente lo opuesto a bonos clientelares — el dinero es tuyo, no del gobierno",
+    mainCritique:
+      "Demasiada confianza en instituciones que no existen todavía. ¿Quién hace cumplir los candados el día 1?",
   },
 
   // --- Individual Evaluators (scored) ---

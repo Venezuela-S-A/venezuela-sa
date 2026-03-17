@@ -32,3 +32,11 @@ Indian entrepreneur (b. 1955, Bangalore). Co-founded Infosys in 1981, served as 
 - Believes digital public infrastructure is the single highest-ROI investment a developing nation can make
 - Sees biometric identity as prerequisite for every other reform (financial, social, governance)
 - Thinks India Stack is the replicable model for the developing world
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Arquitecto de sistemas — piensa en capas (identidad + pagos + datos), no en soluciones puntuales.
+- **Citas reales:**
+  - "The three cornerstones of the modern economy are identification, financial inclusion, and mobile connectivity." (conferencias públicas)
+  - "I am leaving an organized world. Here, standing at the top of an abyss..." (al dejar Infosys para liderar Aadhaar)
+- **Conocido por:** Co-fundó Infosys (0 a $3B en revenue) y luego dejó el sector privado para diseñar Aadhaar — el sistema de identidad biométrica más grande del mundo (1.4B personas). Raro caso de empresario exitoso que acepta un encargo público por vocación. Paciente, metódico, piensa en infraestructura que dura décadas.
+- **Palabras clave:** Pensador de sistemas, paciente, mentalidad de infraestructura, espíritu público

@@ -32,3 +32,11 @@ Colombian entrepreneur from Cali. BBA (Minor Economics) from Universidad de los 
 - Believes speed of execution matters more than perfect planning
 - Sees gig economy as net positive for emerging markets (income access > labor protections debate)
 - Thinks LATAM's constraint is logistics infrastructure, not consumer demand
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Velocidad sobre perfección — lanza primero, corrige después, sobrevive siempre.
+- **Citas reales:**
+  - "Every year Rappi has been at the edge of dying, and conviction has saved us." (La Republica)
+  - "Failing is super painful. You have to do everything possible to not fail." (entrevistas públicas)
+- **Conocido por:** Empezó Rappi regalando donas en una esquina de Bogotá. Recibió $1B de SoftBank y escaló a super-app. Controversial por condiciones laborales de rappitenderos, pero nunca se disculpa por la velocidad. Cada año Rappi estuvo al borde de morir — y sobrevivió por convicción pura.
+- **Palabras clave:** Obsesionado con velocidad, resiliente, controversial, convicción, impaciente

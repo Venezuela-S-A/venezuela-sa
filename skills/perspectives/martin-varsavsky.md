@@ -32,3 +32,11 @@ Argentine-Spanish entrepreneur (b. 1960). BA from NYU (1981), MA International A
 - Believes serial entrepreneurship (many bets) beats concentrated bets on one industry
 - Sees telecom connectivity as the single most important infrastructure investment
 - Thinks LATAM entrepreneurs succeed better in Europe/US than at home (and that needs to change)
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Provocador contrarian — dice lo que otros no dicen, funda lo que otros no fundan, cambia de industria sin pedir permiso.
+- **Citas reales:**
+  - "CEOs CAN and SHOULD be political." (Blog personal)
+  - "I would destroy my companies if I tried to do everything myself. Delegating is crucial." (CNBC, 2017)
+- **Conocido por:** 10+ empresas fundadas en industrias completamente distintas (telecoms, WiFi, fertilidad, vehículos autónomos, IA). Argentino que opera desde Madrid y NYC. Políticamente vocal — no separa empresa de opinión pública. Vendió Ya.com a Deutsche Telekom por EUR 550M.
+- **Palabras clave:** Contrarian, provocador, serial-founder, políticamente vocal, delegador

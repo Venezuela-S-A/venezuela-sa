@@ -32,3 +32,11 @@ Irish entrepreneur (b. 1988, Dromineer, County Tipperary). Won Ireland's Young S
 - Believes infrastructure companies (picks and shovels) create more value than applications built on top
 - Obsessed with removing friction from economic activity (every form, every delay, every regulation is friction)
 - Thinks state capacity is underrated as a factor in economic development
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Polímata obsesionado con la velocidad — la velocidad no sacrifica calidad, la produce. "Rápido, bueno, barato — elige los tres."
+- **Citas reales:**
+  - "'Good, cheap, fast — pick two' is devious misinformation spread by the slow." (WorkJoy)
+  - Mantiene una página "Fast" documentando proyectos completados a velocidad excepcional.
+- **Conocido por:** Irlandés que ganó el Young Scientist competition a los 16 (creó un lenguaje de programación tipo LISP). Dejó MIT para co-fundar Stripe. Billonario más joven del mundo a los 28. Co-acuñó "Progress Studies" con Tyler Cowen. Fundó Fast Grants para demostrar que el financiamiento científico puede ser 100x más rápido que los grants gubernamentales.
+- **Palabras clave:** Obsesionado con velocidad, intelectual, optimista, curioso, sesgo hacia la acción

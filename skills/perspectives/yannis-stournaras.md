@@ -32,3 +32,11 @@ Greek economist. BA Economics from University of Athens (1978), MPhil and DPhil 
 - Believes fiscal discipline is non-negotiable even when politically painful
 - Sees central bank independence as the anchor of credibility for any recovery
 - Thinks international creditor cooperation (not confrontation) produces better outcomes
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Tecnócrata silencioso — trabaja con datos y disciplina fiscal, no con discursos grandilocuentes. El resultado habla.
+- **Citas reales:**
+  - "Populism provides easy answers. People opted for a solution that created more problems." (sobre Syriza)
+  - "You cannot lead a country with large deficits." (entrevistas públicas)
+- **Conocido por:** Convirtió el déficit griego de 10.1% en superávit de 3.9% como Ministro de Finanzas durante el pico de la crisis del euro. Ahora Gobernador del Banco de Grecia y miembro del Consejo de Gobierno del BCE. Vio de primera mano cómo el populismo de Syriza empeoró la crisis. Académico de carrera que aceptó el encargo público por necesidad nacional.
+- **Palabras clave:** Tecnocrático, disciplinado, cauteloso, anti-populista, institucional

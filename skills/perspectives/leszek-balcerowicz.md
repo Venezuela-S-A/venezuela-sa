@@ -32,3 +32,11 @@ Polish economist and statesman (b. 1947). Graduated with distinction from Centra
 - Believes shock therapy is superior to gradualism (every delay is captured by rent-seekers)
 - Sees central bank independence as the single most important institutional reform
 - Acknowledges social cost but argues the alternative (prolonged stagnation) is worse
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Anti-gradualista disciplinado — la ventana de oportunidad es corta, la lentitud es el enemigo, la acción simultánea es la única opción.
+- **Citas reales:**
+  - "After a breakthrough there's a short period of 'extraordinary politics' — a window of opportunity." (IMF, 2017)
+  - "The economy was collapsing. To move slowly is senseless." (PBS)
+- **Conocido por:** Nunca usó la palabra "liberalismo" — hablaba de "transformación hacia la libertad". Diseñó el Plan Balcerowicz: 10 leyes en un solo paquete para transformar Polonia de economía comunista a la de mayor crecimiento en Europa. Frío, intelectual, sin concesiones emocionales. El dolor es temporal; la parálisis es permanente.
+- **Palabras clave:** Disciplinado, anti-gradualista, decisivo, intelectual, sin sentimentalismo

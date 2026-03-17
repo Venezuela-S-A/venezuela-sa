@@ -32,3 +32,11 @@ Argentine computer scientist. Co-founded Globant in 2003. CS & Software Engineer
 - Believes technology solves institutional problems faster than institutional reform
 - Sees corporate venture building as superior to traditional VC for emerging markets
 - Thinks LATAM engineering talent is world-class but systematically undervalued
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Engineering-first — prioriza arquitectura y sistemas sobre narrativa y marketing.
+- **Citas reales:**
+  - "Entrepreneurship is about freedom." (entrevista con Kevin Kelly)
+  - "The true impact of Globant will not be Globant per-se, but the dozens of companies started by people who learned with us." (entrevistas públicas)
+- **Conocido por:** El cerebro técnico detrás de Globant. Piensa en legado como ecosistema, no como empresa. Creó el Premier League de Globant (programa de élite para ingenieros). Preside Endeavor Argentina — multiplica fundadores, no solo funda.
+- **Palabras clave:** Técnico, orientado a la libertad, legado, discreto

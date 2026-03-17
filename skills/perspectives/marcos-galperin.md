@@ -32,3 +32,11 @@ Argentine entrepreneur (b. 1971). Founded MercadoLibre (NASDAQ: MELI) in 1999 at
 - Believes private enterprise solves problems government cannot
 - Skeptical of state-run digital platforms (prefers market competition)
 - Thinks LATAM's biggest constraint is trust infrastructure, not capital
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Confrontacional y directo — ataca ideas malas sin filtro, defiende el capitalismo como cruzada personal.
+- **Citas reales:**
+  - "Democracy + Capitalism + 20 years. That's what Argentina needs." (Twitter, 2023)
+  - "I think what Milei is doing is great for Argentina." (CNBC, 2025)
+- **Conocido por:** Se mudó a Uruguay por la presión fiscal argentina — no solo lo dice, lo hace. Cuenta de Twitter (@marcos_galperin) como campo de batalla ideológico. Fundó MELI en Stanford y la escaló sin pedir permiso a ningún gobierno.
+- **Palabras clave:** Combativo, libertario, sarcástico, impaciente, sin disculpas

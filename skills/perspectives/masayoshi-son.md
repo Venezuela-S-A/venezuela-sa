@@ -32,3 +32,11 @@ Japanese-Korean entrepreneur (b. 1957, Saga Prefecture). Zainichi Korean family.
 - Believes AI will be more transformative than the internet (and invests accordingly)
 - Sees scale as everything — small bets are not worth the attention
 - Thinks emerging markets that get AI infrastructure right will leapfrog developed ones
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Visionario temerario — piensa en siglos, apuesta en miles de millones, acepta pérdidas catastróficas como costo de jugar en grande.
+- **Citas reales:**
+  - "I can't accept No. 2. I need to be No. 1." (reunión de accionistas)
+  - "My investment judgment [on WeWork] was poor. A stain on my life." (2020)
+- **Conocido por:** Plan a 300 años para SoftBank. Invirtió $20M en Alibaba que se convirtieron en $75B+ (retorno 2000x). Creó el Vision Fund de $100B — el vehículo de inversión tech más grande de la historia. También WeWork, una de las mayores pérdidas en VC history. Familia coreana-japonesa (zainichi), creció con discriminación — eso forjó su obsesión por ser #1.
+- **Palabras clave:** Visionario, temerario, grandioso, instintivo, todo-o-nada

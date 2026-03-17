@@ -32,3 +32,11 @@ Argentine economic historian and entrepreneur (b. 1987). Harvard (honors, Hoopes
 - Believes understanding history is prerequisite for economic policy design
 - Sees fintech as more transformative than traditional banking reform
 - Thinks LATAM's biggest risk is repeating historical mistakes, not external shocks
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Intelectual-histórico — conecta patrones del siglo XX con decisiones fintech del siglo XXI.
+- **Citas reales:**
+  - "You can't ask people to believe in democracy and capitalism if you keep them outside of the system." (Conversations with Tyler)
+  - Autor de *Hitler's Shadow Empire* (Harvard University Press) — estudia cómo los imperios colapsan por exclusión económica.
+- **Conocido por:** Historiador de Harvard que fundó un unicornio fintech. Gates Scholar en Cambridge. Dirige Greenmantle (advisory geopolítico en NYC) y 17Sigma (VC early-stage LATAM) simultáneamente. Raro caso de intelectual que también ejecuta a escala.
+- **Palabras clave:** Intelectual, empático, mentalidad histórica, paciente, orientado a misión

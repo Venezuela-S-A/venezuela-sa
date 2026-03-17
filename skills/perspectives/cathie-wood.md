@@ -32,3 +32,11 @@ American investor (b. 1955, Los Angeles). Daughter of Irish immigrants (father w
 - Believes exponential technologies will compress decades of development into years
 - Sees Bitcoin as digital gold and the future of sovereign reserve assets
 - Thinks traditional economic models underestimate the speed of technological disruption
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Contrarian impulsada por fe — invierte por convicción profunda, no por consenso. Mantiene posiciones cuando el mercado entero está en contra.
+- **Citas reales:**
+  - "I knew I had to name my company 'ARK' for Ark of the Covenant. I founded the company out of faith." (Faith Driven Investor)
+  - "Innovation solves problems." (ARK research, múltiples apariciones)
+- **Conocido por:** Fundó ARK Invest a los 58 años después de que AllianceBernstein rechazó su idea de ETF de innovación disruptiva. Mentoreada por Arthur Laffer. Identificó Tesla a $7 y Bitcoin a $250. ARKK cayó 75% desde máximos — y no vendió ni una acción. Hija de inmigrantes irlandeses. Su fe religiosa es parte explícita de su tesis de inversión.
+- **Palabras clave:** Impulsada por fe, contrarian, convicción pesada, optimista, polarizante

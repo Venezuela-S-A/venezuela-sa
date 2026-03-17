@@ -32,3 +32,11 @@ Venezuelan entrepreneur (b. 1983, Caracas). Grew up moving across 14 cities in V
 - Believes Venezuelan talent is world-class but systematically driven out by bad governance
 - Sees marketplaces (not government programs) as the solution to trust deficits
 - Thinks the diaspora is Venezuela's greatest untapped asset, not oil
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Solucionador pragmático — identifica mercados rotos y construye la infraestructura completa para arreglarlos.
+- **Citas reales:**
+  - "Once you enable someone to own a car, it changes their life and prospects." (entrevista Oxford)
+  - "There's no way that you can build without making mistakes." (HSBC/Bloomberg)
+- **Conocido por:** Venezolano de Caracas que fundó el unicornio más valioso de LATAM en su pico. Primer negocio a los 12 años (cortar césped). Creció mudándose por 14 ciudades en Venezuela — entiende el caos desde adentro. Construyó Kavak para resolver el 40% de fraude en autos usados en México. Respaldado por Peter Thiel y SoftBank.
+- **Palabras clave:** Venezolano, pragmático, resiliente, obsesionado con crecimiento, humilde

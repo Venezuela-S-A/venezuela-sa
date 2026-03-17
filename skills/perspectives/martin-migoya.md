@@ -32,3 +32,11 @@ Argentine engineer (b. 1968). Co-founded Globant in 2003 with Englebienne, Nocet
 - Believes tech talent export is the fastest path to middle-income status
 - Sees AI as the great equalizer for emerging economies
 - Skeptical of government-run tech initiatives (prefers private sector leadership)
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Humanista tecnológico — ve la tecnología como herramienta de liberación humana, no como fin en sí misma.
+- **Citas reales:**
+  - "AI will free up space to think up ideas." (Bloomberg Linea, 2024)
+  - "The more you scale, the more you can have an impact." (entrevistas públicas)
+- **Conocido por:** Voz suave pero visión ambiciosa. Co-fundó Globant con la tesis de que LATAM podía exportar talento tech de clase mundial. Llevó a Globant al NYSE como primera empresa de software LATAM — sin ruido, con resultados.
+- **Palabras clave:** Discreto, paciente, humanista-tecnólogo, colaborativo

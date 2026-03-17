@@ -32,3 +32,11 @@ Argentine entrepreneur and VC. Economics (magna cum laude) from Universidad de B
 - Believes LATAM needs local VCs who understand the region (not just US VC tourists)
 - Sees operator-to-investor pipeline as critical for ecosystem maturity
 - Thinks the best startups solve uniquely LATAM problems that global companies ignore
+
+## Personalidad y Estilo
+- **Estilo de pensamiento:** Operador convertido en inversor — evalúa desde las trincheras, no desde la teoría.
+- **Citas reales:**
+  - "We're sure that many Mercado Libres will emerge over the next 10 to 15 years in Latin America." (Americas Quarterly)
+  - "Almost everything comes down to fintech." (entrevistas públicas)
+- **Conocido por:** Co-fundó MercadoLibre (9 años como COO, 3 como CFO) y luego creó Kaszek, el VC más grande de LATAM ($2B+ bajo gestión). Perfil bajo — deja que los resultados hablen. Respaldó Nubank, Kavak, QuintoAndar temprano. Curtido por las crisis argentinas — invierte sabiendo que LATAM siempre tiene una crisis en camino.
+- **Palabras clave:** Silencioso, mentalidad de operador, paciente, curtido por crisis, empático con fundadores

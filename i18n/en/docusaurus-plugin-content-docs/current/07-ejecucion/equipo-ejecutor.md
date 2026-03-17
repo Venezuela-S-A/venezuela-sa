@@ -151,6 +151,24 @@ No member of the executive team has judicial immunity. The Attorney General — 
 
 > This isn't about hiring these people. It's about recruiting **equivalent** profiles — people who have done exactly this in another context.
 
+### Role 0: CEO / General Administrator of Venezuela S.A.
+
+:::danger The most important role and the hardest to fill
+LKY (7.5/10): *"You have a CRO, a lawyer, a China negotiator, an IMF representative, and a comms director — but who do they report to? A startup with five VPs and zero CEO is a committee, and committees don't rebuild nations."*
+:::
+
+The CEO is who leads the execution of the entire plan. Not a politician — a world-class executive who operates Venezuela S.A. as a USD 500B+ corporate holding with 40M shareholders.
+
+| Reference profile | Verified achievement | Relevance to Venezuela |
+|-------------------|---------------------|------------------------|
+| **Kakha Bendukidze** (historical model) — Russian-Georgian entrepreneur -> Minister of Reform, Georgia 2004 | Georgia from 137th to 11th in Ease of Doing Business. 12% flat tax. Eliminated 90% of licenses. Said: *"Sell everything except honor"* | **The exact archetype.** Successful entrepreneur who accepts the challenge of rebuilding a state. Not a career politician, not a bureaucrat — an executor with a track record |
+| Profile type: **Former CEO of sovereign fund or extractive corporation in an emerging market** | Management of USD 10B+ operations, multiple countries, public accountability. Bilingual. Willing to relocate | Profile types: former CEO of [Equinor](https://www.equinor.com/) (Norwegian NOC), former Director of [Temasek](https://www.temasek.com.sg/) (Singapore state holding), former CEO of LATAM operation of a major oil company |
+| Profile type: **Founder/CEO of LATAM unicorn with regulatory experience** | Someone who has built a USD 1B+ company in LATAM navigating complex regulation, informality, and country risk | Profile types: founders of [Nubank](https://www.nu.com.br/), [MercadoLibre](https://www.mercadolibre.com/), [Globant](https://www.globant.com/) — they understand scale, regulation, and capital in LATAM |
+
+**Compensation:** 95th percentile of the market (not 75th). LKY paid USD 1M+ to his ministers. For a CEO managing USD 500B+ in assets, compensation must be competitive with sovereign fund CEOs (NBIM: ~USD 1-2M/year + performance bonus). See [compensation model](#compensation-model).
+
+---
+
 ### Role 1: Chief Restructuring Officer (CRO) / Financial Director
 
 The CRO negotiates with creditors, structures oil forwards, and designs the plan's financial architecture. Must have restructured sovereign debt of USD 10B+.

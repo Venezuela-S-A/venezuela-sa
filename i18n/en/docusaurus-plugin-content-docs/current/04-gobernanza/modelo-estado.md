@@ -1080,6 +1080,20 @@ xychart-beta
 Venezuela S.A. invests USD 32,400 in every citizen before they earn their first paycheck. In return, that citizen contributes to the system for 47 years, generates USD 463,508, buys their home, educates their children, and retires on USD 1,408/month. **They do not depend on the government. They do not need a subsidy. They own their life.** That is the Venezuela S.A. model: the country bets on you first, and you return it multiplied.
 :::
 
+### Why USD 32,400 Is Venezuela S.A.'s Best Investment
+
+> It's not charity. It's the investment with the best ROI in the entire plan.
+
+| Recovery Mechanism | Figure | How It Works |
+|---|---|---|
+| **FCV management fee** | 0.5% AUM/year | VSA manages the fund professionally. With 24M mature accounts (USD 463K average), AUM is ~USD 11T. Fee 0.5% = USD 55B/year |
+| **The citizen self-funds from age 18** | 23% of salary | VSA stops contributing USD 150/month. The citizen contributes ~USD 115-460/month depending on salary. Payback: 12-23 years |
+| **Taxes to the State** | 15% flat + 12% VAT | The productive citizen pays USD 900-3,600/year in taxes x 40 years = USD 36,000-144,000. The State recovers more than what VSA invested |
+| **Heckman ROI** | USD 1 -> USD 7-13 | [James Heckman (Nobel)](https://heckmanequation.org/): every USD 1 in early childhood generates USD 7-13 in economic return (less crime, more productivity, less health spending) |
+| **40M captive ecosystem users** | TAM USD 3-12B/year | Wallet, payments, insurance, credit, investment — all on FCV rails. [Parra Carrillo](/05-transformacion/hubs-tech#but-guri-is-just-the-hook): "40M disconnected people are not a problem, they are the largest virgin market on the continent" |
+
+**Multiplier:** USD 32,400 invested -> USD 463,000 accumulated at age 65 = **14.3x**. No other investment in the plan has that return.
+
 :::caution This example uses MINIMUM WAGE
 If the worker earns more than minimum — which is likely in a growing economy — the numbers improve proportionally. A worker at average salary (2x minimum) would accumulate ~USD 900K. A tech professional (4x minimum) would surpass USD 1.5M in their FCV. The system works for everyone — but especially transforms the lives of the most humble.
 :::

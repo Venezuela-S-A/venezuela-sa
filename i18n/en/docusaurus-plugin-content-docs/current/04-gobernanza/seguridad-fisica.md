@@ -73,7 +73,7 @@ Georgia reformed by **replacing** the police with well-paid professionals (insti
 | Predictive policing with ethical controls | USD 200–500M | Singapore |
 | Homicide reduction to <15/100k | — | Target: current Colombia level |
 
-**Total estimated investment (Phases 1-3):** USD 5,000–8,000M over 7 years. *See [updated estimate below](#updated-security-investment) which includes FANB reform and expanded DDR: USD 10-18B total.*
+**Total estimated investment (Phases 1-3):** USD 5,000–8,000M over 7 years. *See [updated estimate below](#updated-security-investment) which includes FANB reform and expanded DDR: USD 18-25B over 10 years.*
 
 ### Outcome Targets
 
@@ -183,15 +183,30 @@ See [Transitional Justice](/04-gobernanza/justicia-transicional) for the conditi
 
 ### Updated Security Investment
 
-| Component | Previous Estimate | Updated Estimate | Justification |
-|-----------|-------------------|------------------|---------------|
-| Police reform (Georgia model) | USD 2-3B | USD 3-4B | Includes training, technology, salaries for 5 years |
-| DDR (colectivos + gangs + ELN) | Included above | USD 3-5B | Ref: Colombia DDR + Plan Colombia |
+:::danger Post-evaluation correction DDR (5.7/10): insufficient budget and front-loading needed
+The security/DDR expert identified that USD 10-18B over 7 years is insufficient for the scale of the challenge (FANB + colectivos + ELN + pranes + narco + coast). Recommendation: **USD 18-25B over 10 years, with USD 8-10B front-loaded in Years 1-3.** The first 3 years determine whether the virtuous cycle (security->investment->employment->less crime) or the vicious one (insecurity->flight->unemployment->more crime) is activated.
+:::
+
+| Component | Previous Estimate | **Corrected Estimate** | Justification |
+|-----------|-------------------|----------------------|---------------|
+| Police reform (Georgia model) | USD 3-4B | **USD 4-5B** | 200K police surge (Years 1-5), scaling down to 130K. 10+ academies with 2,000/year capacity each. Salaries USD 800-1,200/month. Partners: [ILEA](https://www.state.gov/international-law-enforcement-academies/), Colombia, Israel |
+| DDR (colectivos + gangs) | USD 3-5B | **USD 4-6B** | Command mapping 6 months. Negotiation 2-4 years. Reintegration: employment in infrastructure concessions, not just packages. Ref: Colombia 4+ years |
+| FANB reform (350K->100K) | USD 2-4B | **USD 3-5B** | Militia dissolution (220K) Year 1. Directed retirement of mid-level command Years 2-3. Tiered buyout by rank (USD 5K-50K based on rank + replaced illicit rents). Full professionalization Year 10 |
+| Prison control | Not estimated | **USD 1-2B** | Reclaim prisons from pranes in Phase 1 (before DDR). 5-10K new prison guards. Infrastructure. Ref: El Salvador CECOT adapted |
+| Arco Minero (military operation + formalization) | Included in DDR | **USD 2-3B** | Plan Patriota-type operation (Colombia 2003). 7-10 years for full control. ELN has real military capability |
+| Maritime security (coast) | Not estimated | **USD 1-1.5B** | Patrol boats, coastal radar, DEA maritime cooperation. Falcon-Sucre coast = narco corridor |
 | Security infrastructure (cameras, centers) | USD 1-2B | USD 1-2B | No change |
-| Critical infrastructure protection | USD 0.5-1B | USD 1-2B | Includes maritime security |
-| FANB reform (reduction + reintegration) | Not estimated | USD 2-4B | 230,000 retirement packages + reconversion |
-| Cybersecurity + intelligence | USD 0.3-0.5B | USD 0.5-1B | Updated to Estonia standard |
-| **TOTAL** | **USD 5-8B** | **USD 10-18B** | **Ref: Plan Colombia USD 12B+ (2000-2016)** |
+| Sovereign intelligence (post-Cuba) | USD 0.5-1B | **USD 1.5-2B** | Replacement of Cuban capability in 18 months. CIA/DEA as bridge. Counterintelligence against stay-behind networks. Physical protection of transition leaders |
+| Cybersecurity | USD 0.3-0.5B | USD 0.5-1B | Estonia standard |
+| **TOTAL** | **USD 10-18B / 7 years** | **USD 18-25B / 10 years** | **Front-loaded: USD 8-10B in Years 1-3** |
+
+### Temporal Distribution (front-loaded)
+
+| Period | Investment | % of Total | Focus |
+|--------|-----------|------------|-------|
+| **Years 1-3** | **USD 8-10B** | **40-45%** | Militia dissolved, prisons reclaimed, 10K police, operational intelligence, infrastructure protected |
+| **Years 4-7** | **USD 6-8B** | **30-35%** | Arco Minero, border, FANB professionalization, DDR complete, safe tourism |
+| **Years 8-10** | **USD 4-7B** | **20-25%** | Consolidation, predictive technology, homicides <10/100K, exits top 20 crime rankings |
 
 :::caution Cost of not investing in security
 The cost of current insecurity is estimated at ~22% of GDP including homicides, extortion, lost investment, forced emigration, and healthcare costs ([UNDP](https://www.undp.org/)). The USD 10-18B investment over 10 years pays for itself if it reduces this loss by 50%.
@@ -240,29 +255,31 @@ gantt
     dateFormat YYYY
     axisFormat %Y
 
-    section Year 1: Emergency + Signal
-    Security in 5 ZEET cities (Caracas, Valencia, Maracaibo, Barquisimeto, Pto. Ordaz)    :a1, 2027, 2028
-    Police reform begins (Georgia model: purge + recruitment)                              :a2, 2027, 2028
-    Critical infrastructure protection (Guri, ports, refineries)                           :a3, 2027, 2028
-    DEA/Interpol cooperation reactivated                                                   :a4, 2027, 2028
+    section Year 1: Emergency + Signal + FANB begins
+    Security in 5 SEEZ cities + critical infrastructure protection :a1, 2027, 2028
+    Police reform begins (purge + Georgia-model recruitment)          :a2, 2027, 2028
+    DEA/Interpol reactivation + allied intelligence (CIA)             :a3, 2027, 2028
+    FANB: militia dissolution (220K) + voluntary retirement Phase 1   :a4, 2027, 2028
+    Prison control: reclaim Tocoron and 5 critical facilities         :a5, 2027, 2028
 
-    section Years 2-3: Prisons + Intelligence
-    Prison reform (mega-prisons if needed, adapted Bukele model)                           :b1, 2028, 2030
-    Criminal intelligence: network mapping, assets, financial flows                        :b2, 2028, 2030
-    Urban colectivo DDR (negotiation + conditional amnesty)                                :b3, 2028, 2030
-    First 10,000 new officers graduated and deployed                                       :b4, 2028, 2030
+    section Years 2-3: Prisons + DDR + Sovereign Intelligence
+    Full prison reform (pranes neutralized)                           :b1, 2028, 2030
+    DDR colectivos: full mapping + negotiation + amnesty              :b3, 2028, 2030
+    First 10,000 new officers graduated and deployed                  :b4, 2028, 2030
+    FANB: directed retirement of mid-level command + reconversion     :b5, 2028, 2030
+    Sovereign intelligence operational (Cuba replacement, 18 months)  :b6, 2028, 2030
 
     section Years 3-5: Territorial Recovery
-    Tachira-Apure border control (with Colombia + U.S. cooperation)                       :c1, 2030, 2032
-    Arco Minero formalization (armed group displacement)                                   :c2, 2030, 2032
-    Oil zone security (Zulia, Orinoco Belt)                                                :c3, 2029, 2032
-    Certified safe tourist zones (Los Roques, Canaima, Merida)                            :c4, 2030, 2032
+    Tachira-Apure border control (with Colombia + U.S.)               :c1, 2030, 2032
+    Arco Minero: military operation + formalization (Plan Patriota)    :c2, 2030, 2035
+    Oil zone security (Zulia, Orinoco Belt)                           :c3, 2029, 2032
+    Maritime security coast (Falcon, Sucre)                           :c5, 2030, 2032
+    Certified safe tourist zones                                      :c4, 2031, 2033
 
-    section Years 5-7: FANB Reform + Professionalization
-    FANB reduction: 350K → 120K personnel (retirement packages + reconversion)            :d1, 2032, 2034
-    Professionalization: apolitical FANB, Chile/Uruguay model                              :d2, 2032, 2034
-    Homicides below 10 per 100k nationally                                                 :d3, 2033, 2034
-    Venezuela exits top 20 global crime rankings                                           :milestone, m1, 2034, 0d
+    section Years 5-10: Professional FANB + Consolidation
+    FANB: 350K to 100K personnel (full professionalization)           :d1, 2032, 2037
+    Homicides below 10 per 100k nationally                            :d3, 2033, 2037
+    Venezuela exits top 20 global crime rankings                      :milestone, m1, 2037, 0d
 ```
 
 ### Security Prerequisites by Economic Sector
@@ -278,7 +295,7 @@ gantt
 
 ### Total Territorial Security Plan Cost
 
-**USD 10-18B over 7 years** (see [detailed table above](#updated-security-investment)).
+**USD 18-25B over 10 years** (see [detailed table above](#updated-security-investment)).
 
 | International Reference | Investment | Period | Result |
 |------------------------|-----------|--------|--------|
@@ -288,6 +305,102 @@ gantt
 
 **Source:** [Plan Colombia/State Dept](https://www.state.gov/) | [Crisis Group](https://www.crisisgroup.org/) | [ACLED](https://acleddata.com/) | [InSight Crime](https://insightcrime.org/) [Requires research for exact Georgia and El Salvador costs]
 
+## Military Anti-Corruption: How to Dismantle a USD 3-6B/Year Conglomerate
+
+:::danger The real problem is not the militia — it is the 500-2,000 officers who run the business
+The militia (220K) dissolves easily: they have no economic power of their own. The problem is the **mid-level and senior FANB officers** who control mining (USD 1-2B), smuggling (USD 500M-1B), CLAP (USD 2-3B), and individual drug trafficking. A colonel earning USD 50K/year in illicit rents does not accept a USD 10K retirement package. You have to offer something better than crime — or make crime impossible.
+:::
+
+### The problem viewed as a business
+
+If the FANB were a subsidiary of Venezuela S.A., a CEO would see it this way:
+
+| Diagnosis | Figure | Corporate Action |
+|---|---|---|
+| Employees: 350K (overstaffed 3.5x) | Target: 100K | Restructuring with tiered packages |
+| Off-books revenue: USD 3-6B/year | 100% illicit | Cut flows + offer legal alternative |
+| Command with conflicts of interest: ~500-2,000 | Control logistics, ports, mines | Separate person from position + vetting |
+| Brand: toxic (politicized, corrupt) | Zero public trust | Rebrand: FANB -> new Professional Force |
+
+### 6 military anti-corruption mechanisms (Georgia + Singapore + Colombia model)
+
+#### 1. Replace, don't reform (Georgia 2004 model)
+
+Georgia did not reform its corrupt police — it **eliminated it and built a new one from scratch**. Saakashvili fired 85% of the police, hired new officers with clean records, and paid 10x more.
+
+**Application to FANB:**
+- You don't "reform" an army that operates as a cartel. You create a **new professional force** with exhaustive vetting
+- Every service member who wishes to remain undergoes vetting: asset audit, judicial review, lifestyle audit, polygraph
+- Those who fail vetting: 3 options (retirement, reconversion, entrepreneurship) — the same as the [displaced workers model](/04-gobernanza/modelo-estado#what-happens-to-the-people)
+- **Target: retain only the 100K cleanest and most professional**
+
+#### 2. Pay enough to make corruption not worth the risk (Singapore model)
+
+| Rank | Current salary (est.) | Illicit rent (est.) | **Proposed salary** | Crime risk/return |
+|---|---|---|---|---|
+| Private | USD 30-50/month | USD 0-100/month | **USD 800-1,200/month** | Crime not worth it |
+| Sergeant/Technician | USD 50-100/month | USD 200-500/month | **USD 1,500-2,000/month** | Crime marginal |
+| Lieutenant/Captain | USD 100-200/month | USD 500-2,000/month | **USD 2,500-4,000/month** | Crime risky |
+| Colonel/General | USD 200-500/month | USD 5,000-50,000/month | **USD 5,000-10,000/month** | Crime needs to be massive to justify the risk of losing salary + pension + freedom |
+
+**Reference:** Singapore pays generals USD 500K-1M/year. Georgia multiplied police salaries 10x and corruption dropped to near zero. **Salary is the first line of defense against corruption.**
+
+**Cost:** 100K military personnel x USD 2,500/month average x 12 = **USD 3B/year**. It's expensive. But it's cheaper than the USD 3-6B/year the current FANB steals.
+
+#### 3. Cut the illicit economic flows
+
+Paying well is not enough — you must **eliminate the opportunity to steal**:
+
+| Illicit Flow | Est. Amount | How It Gets Cut |
+|---|---|---|
+| **Mining (Arco Minero)** | USD 1-2B/year | Military operation (Plan Patriota) + formal concessions to audited companies. FANB loses operational access to mines |
+| **Fuel smuggling** | USD 500M-1B/year | Market-rate pricing eliminates smuggling margin. If gasoline costs what it's worth, there's no incentive to smuggle |
+| **CLAP (food imports)** | USD 2-3B/year | CLAP gets eliminated. Free market + targeted voucher (FCV). No "state imports" left to skim |
+| **Drug trafficking** | [Requires research] | DEA + bilateral cooperation. Financial intelligence. Not FANB's jurisdiction — it's police + prosecutors |
+| **Ports/customs** | USD 500M-1B/year | Customs operated by international private concession (Georgia model). FANB loses control of ports |
+
+**The key:** each illicit rent is eliminated by **removing the function**, not by reforming the person who exercises it. If the FANB doesn't operate mines, it can't steal from mines. If it doesn't import food, it can't skim CLAP commissions. If it doesn't control ports, it can't charge "tolls."
+
+#### 4. Mandatory asset vetting (lifestyle audit)
+
+| Mechanism | Applies to | Frequency | Consequence |
+|---|---|---|---|
+| **Asset declaration** | Every officer (captain+) | Annual, public | Removal + investigation if assets don't match income |
+| **Lifestyle audit** | Every general + unit directors | Semi-annual by external firm | If lifestyle exceeds salary: automatic investigation |
+| **Family audit** | Spouse, children, parents of senior officers | Annual | Shell owners detected through asset networks |
+| **Blockchain military procurement** | Every acquisition > USD 10K | Every transaction | Public on citizen dashboard. AI detects overpricing |
+| **Military whistleblower** | Any military or civilian with information | Permanent | Reward 10-20% of recovered assets. Full whistleblower protection |
+
+**Reference:** [Singapore CPIB](https://www.cpib.gov.sg/) — the world's most effective anti-corruption agency. Operates independent of government, can investigate ministers and generals. **The plan proposes a Venezuelan CPIB with jurisdiction over the FANB.**
+
+#### 5. Absolute civilian oversight (the military never supervises itself again)
+
+| Principle | Implementation |
+|---|---|
+| **Public military budget** | Every dollar of the Defense budget visible on citizen dashboard. Zero "classified expenses" without audit |
+| **Procurement by Venezuela S.A.** | Military purchases made by Venezuela S.A. (as holding), not by the FANB directly. Eliminates the overpricing channel |
+| **Civilian Inspector General** | Appointed by the Venezuela S.A. Board, not the Ministry of Defense. Reports directly to citizens |
+| **Separated intelligence** | Military intelligence reports to a civilian agency (not SEBIN or high command). Model: [DIA/FBI separation U.S.](https://www.dia.mil/) |
+| **Mandatory rotation** | No officer can remain >3 years in a position with access to economic resources (ports, mines, customs). Eliminates patronage networks |
+
+#### 6. Conditional golden parachute: the smart buyout
+
+For the 500-2,000 officers who actually control the illicit conglomerate, the standard retirement package doesn't work. A **tiered buyout** that acknowledges the economic reality is needed:
+
+| Tier | Who | Offer | Condition | If Rejected |
+|---|---|---|---|---|
+| **Tier 1** (generals, 50-100) | Control major operations (ports, mining, CLAP) | Retirement with USD 200-500K + dignified pension + partial immunity for economic (non-violent) offenses | Declare assets + return identifiable illicit assets + cooperate with transition | Full criminal investigation. Asset freeze. Extradition if U.S. indictment exists |
+| **Tier 2** (colonels, 500-1,000) | Mid-level command with regional rents | Retirement with USD 50-100K + career reconversion + economic amnesty | Same: declare + return + cooperate | Purge + investigation |
+| **Tier 3** (officers, 1,000-5,000) | Minor participants in networks | Standard retirement (6-12 months salary) + reconversion priority | Clean asset vetting | Purge without package |
+
+**Cost of Tier 1+2 buyout:** ~100 x USD 350K + ~750 x USD 75K = **USD 91M**. That's nothing compared to the USD 3-6B/year they stop stealing.
+
+:::info The lesson from Georgia: speed + salaries + replacement = zero corruption
+Georgia eliminated police corruption in 2 years with 3 ingredients: (1) fired everyone and hired new, (2) multiplied salaries 10x, (3) the new force had no inherited corruption networks. Venezuela applies the same model to the FANB: new force, competitive salaries, zero legacy. Those who pass vetting stay with a dignified salary. Those who don't receive a package and leave. Those who resist face justice. There is no fourth option.
+:::
+
+---
+
 :::tip Correct sequence: security -> investment -> growth -> more security
-The virtuous cycle is: security attracts investment -> investment generates employment -> employment reduces crime -> less crime attracts more investment. The vicious cycle (current) is exactly the opposite. The Operational Plan breaks the vicious cycle by investing USD 10-18B to create the minimum conditions that enable the other USD 550-750B of the plan.
+The virtuous cycle is: security attracts investment -> investment generates employment -> employment reduces crime -> less crime attracts more investment. The vicious cycle (current) is exactly the opposite. The Operational Plan breaks the vicious cycle by investing USD 18-25B to create the minimum conditions that enable the other USD 550-750B of the plan.
 :::

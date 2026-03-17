@@ -449,6 +449,36 @@ Every asset built under concession is managed under **ISO 55000** (Asset Managem
 | **Renewal** | Defined protocol for renovation/upgrade | State |
 | **End of life** | Demolition/recycling protocol (circular economy) | State |
 
+### Anti-Monopoly Regional Rule
+
+:::caution State regulation — Venezuela S.A. applies as contractual standard
+Anti-monopoly law is the State's responsibility (regulator). Venezuela S.A. can incorporate these restrictions in all its concession contracts as a mandatory clause — without waiting for legislation. Reference: [Plan Providencia por Venezuela (2026)].
+:::
+
+Privatization without controls creates oligarchs. Venezuela does not replace state monopolies with private monopolies.
+
+| Rule | Detail |
+|------|--------|
+| **Concentration limit** | No company or economic group may control more than **2 strategic sectors** (energy, water, telecoms, transport) within a single state |
+| **Collegiate Management Committee** | Every extractive concession (oil, mining, gas) operates with a mandatory committee: regional chambers + external auditor + citizen observers selected by sortition |
+| **Anti-trust review** | Superintendency of Competition reviews every acquisition or merger of concessionaires that exceeds the concentration threshold |
+| **Sanction** | Non-compliance = forced divestiture within 12 months or revocation of the most recent concession |
+
+:::info Why citizen sortition
+Observers selected by sortition (jury model) eliminate political capture. They are not appointed by the governor or the concessionaire — they are selected by a public algorithm from registered citizens in the region. Annual rotation.
+:::
+
+#### International precedents: anti-concentration in concessions
+
+| Country/Region | Mechanism | Result | Source |
+|----------------|-----------|--------|--------|
+| **Chile** | Competition Law (DL 211) prohibits the government from granting concessions that create a monopoly without express legal authorization. TDLC (independent tribunal) can order remedies and divestiture. Mandatory separation of local/long-distance telecom | Electricity and telecom markets deconcentrated. TDLC reviews concessions as non-contentious proceedings | [FNE Chile](https://www.fne.gob.cl/en/antitrust/what-we-do/) |
+| **United Kingdom** | Sectoral regulators (Ofgem, Ofwat, Ofcom) with concurrent powers with CMA to enforce competition law. Network infrastructure regulated as a natural monopoly with price controls | Competition in retail (energy, telecom) with infrastructure regulated as a public good. CMA can block mergers | [Ofgem](https://www.ofgem.gov.uk/) |
+| **EU** | Art. 101-102 TFEU + Merger Regulation. European Commission reviews mergers above turnover thresholds. Concessions Directive (2014/23/EU) mandates transparent procurement | Supranational framework that prevents market concentration in infrastructure. Remedies include forced divestiture | [EC Competition](https://competition-policy.ec.europa.eu/) |
+| **Colombia** | ANI requires OECD governance and transparency standards in road concessions (40 concessions, USD 26B). Prequalification limits number of projects per group | Largest 4G infrastructure program in LATAM with multiple concessionaires competing | [World Bank PPP](https://ppp.worldbank.org/) |
+
+**Reference:** Plan Providencia por Venezuela (2026) + Chile DL 211 + EU Competition Law + UK CMA/Ofgem + Colombia ANI.
+
 ---
 
 ## How It Works in Practice

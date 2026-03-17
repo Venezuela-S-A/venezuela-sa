@@ -498,7 +498,16 @@ La privatización sin controles crea oligarcas. Venezuela no reemplaza monopolio
 Los observadores elegidos por sorteo (modelo jurado) eliminan la captura política. No los nombra el gobernador ni el concesionario — los selecciona un algoritmo público de entre ciudadanos registrados en la región. Rotación anual.
 :::
 
-**Referencia:** Plan Providencia por Venezuela (2026) + mejores prácticas anti-trust (EU Competition Law, FTC guidelines).
+#### Precedentes internacionales: anti-concentración en concesiones
+
+| País/Región | Mecanismo | Resultado | Fuente |
+|-------------|-----------|-----------|--------|
+| **Chile** | Ley de Competencia (DL 211) prohíbe al gobierno otorgar concesiones que creen monopolio salvo autorización legal expresa. TDLC (tribunal independiente) puede ordenar remedios y desinversión. Separación obligatoria telecom local/larga distancia | Mercado eléctrico y telecom desconcentrados. TDLC revisa concesiones como proceso no contencioso | [FNE Chile](https://www.fne.gob.cl/en/antitrust/what-we-do/) |
+| **Reino Unido** | Reguladores sectoriales (Ofgem, Ofwat, Ofcom) con poder concurrente con CMA para aplicar ley de competencia. Infraestructura de red regulada como monopolio natural con precio controlado | Competencia en retail (energía, telecom) con infraestructura regulada como bien público. CMA puede bloquear fusiones | [Ofgem](https://www.ofgem.gov.uk/) |
+| **UE** | Art. 101-102 TFEU + Reglamento de Concentraciones. Comisión Europea revisa fusiones sobre umbrales de facturación. Directiva de Concesiones (2014/23/EU) obliga licitación transparente | Marco supranacional que impide concentración de mercado en infraestructura. Remedios incluyen desinversión forzada | [EC Competition](https://competition-policy.ec.europa.eu/) |
+| **Colombia** | ANI exige estándares OCDE de gobernanza + transparencia en concesiones viales (40 concesiones, USD 26B). Prequalificación limita número de proyectos por grupo | Programa de infraestructura 4G más grande de LATAM con múltiples concesionarios compitiendo | [World Bank PPP](https://ppp.worldbank.org/) |
+
+**Referencia:** Plan Providencia por Venezuela (2026) + Chile DL 211 + EU Competition Law + UK CMA/Ofgem + Colombia ANI.
 
 ---
 

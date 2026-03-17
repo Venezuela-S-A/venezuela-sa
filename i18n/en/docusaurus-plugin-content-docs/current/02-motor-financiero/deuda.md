@@ -181,3 +181,18 @@ Restructuring Latin America's most complex debt requires a team with direct expe
 :::caution No team, no restructuring
 The most common mistake in failed restructurings is assigning the task to inexperienced officials. Venezuela needs the best negotiators in the world — and can pay them with the savings they generate.
 :::
+
+:::info Fiscal federalism of responsibility: an idea for the State (Venezuela S.A. does not negotiate sovereign debt)
+Sovereign debt restructuring is the State's responsibility. Venezuela S.A. manages the fund and the concessions, but has no authority to distribute debt to states. This idea requires national legislation. Venezuela S.A. can incentivize regional productivity via preferential concessions to states that meet fiscal targets.
+Post-restructuring, states could assume proportional responsibility for servicing the restructured debt, distributed by: **40% population + 40% productive capacity + 20% infrastructure**. This creates incentives for each state to generate wealth (to cover its share) instead of depending on transfers from Caracas. A state that attracts more investment and formalizes more employment reduces its relative burden — productivity is rewarded, not dependency. [Requires research] for legal viability under Venezuela's constitutional structure and compatibility with sovereign (not subnational) debt restructuring.
+
+**International precedents:**
+| Country | Mechanism | Result/Lesson | Source |
+|---------|-----------|---------------|--------|
+| **Argentina** | Provinces accumulated debt with soft budgets. Fiscal Solvency Law (1999) + LRF (2004) attempted to discipline. National restructuring 2002-03 included provincial debt refinancing | Only 5 of 11 provinces with hard constraints complied. Without real enforcement, provinces revert to free-riding. **Warning: co-responsibility without automatic sanctions fails** | [IMF Fiscal Federalism](https://www.elibrary.imf.org/display/book/9781557756633/ch016.xml) |
+| **Spain** | FLA (Regional Liquidity Fund, 2012): central government lends to autonomous communities that cannot access markets. Membership requires adjustment plan | 63% of regional debt is FLA (2024). Catalonia (33%), Valencia (22%), and Andalusia (15%) hold 70% of the fund. **Risk: chronic dependence on central government** | [Scope Ratings](https://www.scoperatings.com/ratings-and-research/research/EN/178508) |
+| **United States (Chapter 9)** | Municipalities can declare bankruptcy under Chapter 9 (since 1934). Does not exist for states. Detroit (2013), Jefferson County (2011) are landmark cases | <500 filings in 60+ years. No asset liquidation — restructuring only. **Useful as a last resort framework, not as a general rule** | [US Courts](https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-9-bankruptcy-basics) |
+| **Brazil** | LRF (2000): net debt/revenue max 2x (states), 1.2x (municipalities). Personnel spending max 60% of current revenue. Approval by qualified majority | Subnational debt **<2% GDP** — the lowest in LATAM. Most successful model of subnational fiscal discipline in the region | [Banco Central do Brasil](https://www.bcb.gov.br/) |
+
+**Lesson:** Brazil is the model to follow — clear rules with real enforcement. Argentina and Spain are warnings of what happens without automatic sanctions. **Reference:** Plan Providencia por Venezuela (2026).
+:::

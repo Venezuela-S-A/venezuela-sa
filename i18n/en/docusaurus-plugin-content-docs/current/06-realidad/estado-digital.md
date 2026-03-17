@@ -90,3 +90,32 @@ flowchart LR
 
 Cross-reference: [12 corruption patterns x 14 plan areas](/04-gobernanza/blindaje-integridad) | [Whistleblower system with 10-30% reward](/04-gobernanza/justicia-transicional)
 :::
+
+### Automatic Budget Execution
+
+:::caution State implementation — Venezuela S.A. provides the technology
+The budget belongs to the State. Venezuela S.A. can develop and operate the technology platform as a concession (the Digital Ministry), but the automatic execution policy is approved by parliament. Reference: [Plan Providencia por Venezuela (2026)].
+:::
+
+Ghost spending ends when funds only flow if there is verified service delivery. In healthcare and education, transfers are executed by algorithm — not by political discretion:
+
+| Component | Mechanism | If non-compliant |
+|-----------|-----------|-----------------|
+| **Healthcare** | Funds are transferred based on verified data: patients treated, procedures performed, vaccines administered | Transfer is **automatically paused** until data is regularized |
+| **Education** | Funds are transferred based on enrolled students, attendance, standardized test results | Automatic pause + public alert on dashboard |
+| **Verification** | Data uploaded by service providers on a digital platform, cross-referenced with identity records (digital ID) | Inconsistencies > 5% trigger automatic audit |
+| **Anti-tampering** | Hash of every record on blockchain — retroactive alteration is detectable and criminally prosecutable | Smart contract blocks funds if hash does not match |
+
+**Effect:** a governor cannot report 50,000 students if there are only 30,000 registered minors' IDs in their state. A hospital cannot bill for 1,000 surgeries if there are only 600 verifiable medical records. **Payment is for service delivered, not for budget allocated.**
+
+#### International precedents: payment by verified results
+
+| Country | Mechanism | Result | Source |
+|---------|-----------|--------|--------|
+| **India (DBT)** | Direct Benefit Transfer via Aadhaar (biometric identity) + Jan Dhan (bank account). Direct transfers eliminating intermediaries and "ghost beneficiaries" | Savings of **INR 3.48 lakh crore (~USD 42B)**. Eliminated millions of ghost beneficiaries. Coverage grew 16x (from 11 to 176 crore beneficiaries) | [PIB India](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2123192) |
+| **United Kingdom (PbR)** | Payment by Results: public service providers are paid based on verified outcomes (sustained employment, not just completed training). ~GBP 15B in PbR contracts | Programs like Work Programme and Troubled Families link payment to measurable impact. Risk: providers prioritize easy cases ("cherry-picking") | [NAO UK](https://www.nao.org.uk/insights/outcome-based-payment-schemes-governments-use-of-payment-by-results/) |
+| **World Bank (PforR)** | Program-for-Results: disbursements only against verified outcome indicators. Uses recipient country institutions | Adopted in dozens of developing countries. Funds flow only when results are demonstrated — not by allocated budget | [World Bank PforR](https://www.worldbank.org/en/programs/program-for-results-financing) |
+
+**Lesson for Venezuela:** India is the closest model — digital identity + direct transfer + elimination of intermediaries. The scale of savings (USD 42B) demonstrates that automatic verification alone can finance the digitalization effort. The UK PbR model warns about the "cherry-picking" risk, which is mitigated with algorithmic auditing.
+
+**Reference:** Plan Providencia por Venezuela (2026) + India DBT/Aadhaar + UK Payment by Results + World Bank PforR.

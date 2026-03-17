@@ -728,6 +728,17 @@ El salario mínimo mensual actual (~USD 3,50/mes congelado desde 2022) es fictic
 - **Fuente salario actual:** [Requiere investigación] — salario mínimo congelado desde marzo 2022.
 - **Referencia:** Plan Providencia por Venezuela (2026).
 
+#### Precedentes internacionales: piso horario
+
+| País | Modelo | Resultado | Fuente |
+|------|--------|-----------|--------|
+| **Reino Unido** | Introdujo salario mínimo **horario** nacional en 1999 (GBP 3,60/hr adultos). No existía mínimo nacional previo | Subió salarios de **+1M trabajadores ~15%**. Sin pérdida de empleo detectable | [National Minimum Wage Act 1998](https://en.wikipedia.org/wiki/National_Minimum_Wage_Act_1998) |
+| **Australia** | **122 awards** sectoriales con pisos horarios por industria y nivel de cualificación. Mínimo nacional: AUD 24,95/hr (2025). Revisión anual por Fair Work Commission | Sistema más granular del mundo: cada industria tiene su escala. Desempleo consistentemente bajo (~4%) | [Fair Work Commission](https://www.fairwork.gov.au/pay-and-wages/minimum-wages) |
+| **EE.UU.** | Federal: USD 7,25/hr desde 2009. Estados fijan pisos superiores (ej. California USD 16/hr) | Modelo descentralizado con piso federal + ajuste local. 29 estados superan el federal | [US DOL](https://www.dol.gov/agencies/whd/minimum-wage) |
+| **México** | Salario mínimo **diario** (MXN 278,80/día, 2025). Zona fronteriza norte: MXN 419,88/día | Aumento real de 110% en 6 años sin inflación descontrolada | [CONASAMI](https://www.gob.mx/conasami) |
+
+**Lección para Venezuela:** el modelo por horas con niveles de cualificación (similar a Australia) es la mejor práctica. UK demostró que introducir un mínimo horario donde no existía no destruye empleo. México demostró que un país en desarrollo puede multiplicar salarios reales en pocos años.
+
 ---
 
 ## Comparación: Modelos de Estado Eficiente
@@ -791,7 +802,18 @@ Ningún estado o municipio puede convertirse en una mini-Venezuela que acumula d
 | **Transparencia** | Toda deuda subnacional publicada en dashboard público en tiempo real |
 | **Precedente** | Frenos cantonales de deuda de Suiza (Schuldenbremse) — limitan déficit estructural a nivel subnacional. Resultado: Suiza tiene ratio deuda/PIB de ~38%, uno de los más bajos de Europa |
 
-**Referencia:** Plan Providencia por Venezuela (2026), frenos de deuda cantonales suizos.
+#### Precedentes internacionales: frenos de deuda subnacional
+
+| País | Mecanismo | Resultado | Fuente |
+|------|-----------|-----------|--------|
+| **Suiza** | Schuldenbremse federal (2003) + frenos cantonales. Presupuesto federal debe equilibrarse en el ciclo. Cantones tienen sus propias reglas fiscales | Deuda/PIB bajó de **25,3% (2003) a 13,5% (2019)**. Deuda bruta total ~37% PIB — la más baja de Europa | [EFD Suiza](https://www.efd.admin.ch/en/the-debt-brake) |
+| **Alemania** | Schuldenbremse constitucional (2009). Federal: déficit estructural máx. **0,35% PIB**. Länder: prohibición casi total de endeudamiento nuevo desde 2020 | Deuda/PIB bajó de 82% (2010) a 64% (2019). Efectividad variable entre Länder | [Richmond Fed](https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-22) |
+| **Brasil** | Lei de Responsabilidade Fiscal (2000). Deuda neta/ingresos máx. **2× para estados, 1,2× para municipios**. Gasto en personal máx. 60% de ingresos corrientes | Deuda subnacional bajo control: **<2% del PIB** — debajo del promedio OCDE | [Banco Central do Brasil](https://www.bcb.gov.br/) |
+| **Colombia** | Ley 358 "Semáforo" + Ley 819 (2003). Intereses/ahorro operacional máx. **60%**. Deuda/ingresos corrientes máx. **80%**. Sistema semáforo: verde/rojo | Deuda subnacional **<2% del PIB**. Finanzas municipales en "base sólida" según BanRep | [Banco de la República](https://www.banrep.gov.co/en/blog/debt-subnational-fiscal-rules) |
+
+**Lección para Venezuela:** los 4 modelos confirman que los techos subnacionales de deuda funcionan cuando: (1) tienen rango constitucional o de ley orgánica, (2) incluyen sanciones automáticas, y (3) la transparencia es obligatoria.
+
+**Referencia:** Plan Providencia por Venezuela (2026), frenos de deuda cantonales suizos, Lei de Responsabilidade Fiscal (Brasil), Ley 358 (Colombia), Schuldenbremse (Alemania).
 
 ---
 

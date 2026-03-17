@@ -138,4 +138,14 @@ El gasto fantasma termina cuando los fondos solo fluyen si hay servicio verifica
 
 **Efecto:** un gobernador no puede reportar 50.000 estudiantes si solo hay 30.000 cédulas de menores registradas en su estado. Un hospital no cobra por 1.000 cirugías si solo hay 600 historias clínicas verificables. **Se paga por servicio entregado, no por presupuesto asignado.**
 
-**Referencia:** Plan Providencia por Venezuela (2026). Complementa la capa blockchain de transparencia descrita arriba.
+#### Precedentes internacionales: pago por resultados verificados
+
+| País | Mecanismo | Resultado | Fuente |
+|------|-----------|-----------|--------|
+| **India (DBT)** | Direct Benefit Transfer vía Aadhaar (identidad biométrica) + Jan Dhan (cuenta bancaria). Transferencias directas eliminando intermediarios y "beneficiarios fantasma" | Ahorro de **INR 3,48 lakh crore (~USD 42B)**. Eliminó millones de beneficiarios fantasma. Cobertura creció 16× (de 11 a 176 crore beneficiarios) | [PIB India](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2123192) |
+| **Reino Unido (PbR)** | Payment by Results: proveedores de servicios públicos cobran según resultados verificados (empleo sostenido, no solo capacitación completada). ~GBP 15B en contratos PbR | Programas como Work Programme y Troubled Families vinculan pago a impacto medible. Riesgo: proveedores priorizan casos fáciles ("cherry-picking") | [NAO UK](https://www.nao.org.uk/insights/outcome-based-payment-schemes-governments-use-of-payment-by-results/) |
+| **Banco Mundial (PforR)** | Program-for-Results: desembolsos solo contra indicadores de resultado verificados. Usa instituciones del país receptor | Adoptado en decenas de países en desarrollo. Fondos fluyen solo cuando se demuestra resultado — no por presupuesto asignado | [World Bank PforR](https://www.worldbank.org/en/programs/program-for-results-financing) |
+
+**Lección para Venezuela:** India es el modelo más cercano — identidad digital + transferencia directa + eliminación de intermediarios. La escala del ahorro (USD 42B) demuestra que la verificación automática por sí sola puede financiar la digitalización. El modelo PbR de UK advierte sobre el riesgo de "cherry-picking" que se mitiga con auditoría algorítmica.
+
+**Referencia:** Plan Providencia por Venezuela (2026) + India DBT/Aadhaar + UK Payment by Results + World Bank PforR.

@@ -1,274 +1,432 @@
 # Outreach — Venezuela S.A.
 
-> Mensajes para reclutar colaboradores en diferentes plataformas. Adaptados por tono y formato.
+> Mensajes directos para reclutar colaboradores, validadores y aliados. Cada formato optimizado para su plataforma.
 
-**Hilo conductor:** *"Una IA guiada por un ingeniero construyo el plan. Solo gente real puede convertirlo en organizacion."*
-
-**Stats actuales:** 82 docs ES + 82 docs EN | 21 perspectivas | 14 expertos de dominio | 100+ fuentes verificables | Score 7.4/10 | FCV unificado (5 subcuentas, 23%) | Voucher educativo con puntos | 10 ministerios (265K empleados) | Licencia 46B de OFAC (14-mar-2026) | VenDev marketplace | Train the Trainers 50K | Build: 0 errores | Quality Gate con IA
+**Hilo conductor:** *"64 perspectivas evaluaron este plan. Ahora necesita gente real."*
 
 ---
 
-## Slack (venezolanos en tu empresa)
+## 1. Stats actuales
 
-### Version 1 — directa y curiosa
-
-Buenas gente. Llevo meses en un side-project: tratar a Venezuela como si fuera una startup de 40 millones de socios. Petroleo como combustible, tech como destino. Un plan con numeros reales, fuentes verificables, y 20 perspectivas que lo critican sin piedad — desde Milei hasta Piketty, desde Lee Kuan Yew hasta Maria Corina.
-
-Lo que tiene:
-- **Fondo Ciudadano Venezuela (FCV):** una sola cuenta tipo Singapur CPF con 5 subcuentas (retiro + salud + vivienda + educacion + cesantia = 23%). Desde que naces. Venezuela S.A. invierte USD 32.400 en cada nino antes de que gane su primer sueldo. Un trabajador de salario minimo acumula USD 463K a los 65.
-- **Voucher educativo K-12** con sistema de puntos: cubre matricula + comedor + transporte + 1 deporte + 1 arte. Colegios compiten como empresas privadas.
-- **10 ministerios** (de 34). 265K empleados (de 2,7M). Estado digital que solo supervisa.
-- **Licencia 46B de OFAC** (hoy, 14-mar-2026): EE.UU. autorizo a TODAS las empresas estadounidenses a operar en petroleo + oro + fertilizantes. La barrera regulatoria mas grande del plan ya no existe.
-- Roadmap de sanciones con condiciones verificables, KPIs de activacion (no fechas fijas), quality gate con IA que no deja bajar el score.
-- Score evaluado: **7.4/10** por panel de 20 perspectivas. Todo open-source.
-
-Lo que le falta: gente real. El plan alcanzo su techo documental.
-
-https://venezuela-s-a.github.io/venezuela-sa/
-
-Si les da curiosidad, lean 10 minutos y diganme que les parece. Si les dan ganas de meter mano, el repo es publico.
-
-### Version 2 — mas corta, hook primero
-
-Que pasa si tratas a Venezuela como un pitch deck en vez de un discurso politico?
-
-Hoy OFAC autorizo a TODAS las empresas de EE.UU. a operar en petroleo venezolano (Licencia 46B). Y existe un plan open-source con: FCV tipo Singapur desde que naces, voucher educativo con puntos, 10 ministerios, fondo de inversion ciudadano, 100+ fuentes, 20 perspectivas — score 7.4/10. Cero propaganda. Datos primero.
-
-Necesito ojos venezolanos reales que validen lo que ninguna IA puede: tiene sentido desde tu experiencia?
-
-https://venezuela-s-a.github.io/venezuela-sa/
-
-Cualquier feedback sirve — desde "esto es una locura" hasta "dejame colaborar."
+| Metrica | Valor |
+|---------|-------|
+| Documentos ES | 85+ |
+| Documentos EN | 85+ |
+| Perspectivas evaluadas | 64 (todas con score) |
+| Score general | **7.2/10** |
+| Score analistas | **8.0/10** |
+| Score founders/VCs | **6.9/10** |
+| Simuladores interactivos | 5 (en /simulador) |
+| Pagina de evaluacion | 4 tabs con skills clickeables (/evaluacion) |
+| FCV | 5 subcuentas, 23% del salario, desde nacimiento |
+| Voucher educativo | K-12 con sistema de puntos |
+| Ministerios | 10 (de 34), 285K empleados (de 2,7M) |
+| Estrategia China | 438 lineas, triangulacion EE.UU.-China |
+| Anticorrupcion militar | 6 mecanismos |
+| Transporte urbano | 100% concesion privada |
+| Vivienda | Modelo equity 60/20/20 + impresion 3D |
+| Licencia OFAC | 46B (14-mar-2026) — todas las empresas de EE.UU. autorizadas |
+| URL | https://venezuela-s-a.github.io/venezuela-sa/ |
 
 ---
 
-## LinkedIn
+## 2. Tweets directos (max 280 chars) + DMs
 
-### Version 1 — profesional, storytelling
+### Tweets en espanol
 
-Llevo meses trabajando en algo que no se como describir sin que suene grandilocuente: un plan de reconstruccion para Venezuela tratado como un modelo de negocio.
+**1. @marcos_galperin**
 
-No es un plan de gobierno. Es un side-project de ingenieria con 100+ fuentes verificables (Rystad Energy, FMI, OPEP, Banco Mundial), 20 perspectivas que lo evaluan — desde Milei hasta Piketty, desde Lee Kuan Yew hasta Gerver Torres — y un score de 7.4/10 que sube cada vez que alguien encuentra un hueco.
+> Tweet:
 
-Y hoy paso algo que valida la tesis: OFAC emitio la Licencia 46B autorizando a TODAS las empresas de EE.UU. a operar en el sector petrolero venezolano. La barrera regulatoria mas grande del plan ya no existe.
+.@marcos_galperin "Democracia + Capitalismo + 20 anos." Venezuela S.A. es exactamente eso: 40M accionistas, petroleo como combustible, tech como destino. Tu version IA scored 5.5/10. Apuesto a que la real es mas dura. https://venezuela-s-a.github.io/venezuela-sa/evaluacion
 
-La tesis: petroleo como combustible, tecnologia como destino. 40 millones de accionistas. USD 60/barril como base.
+> DM:
 
-Lo que ya tiene:
-- **Fondo Ciudadano Venezuela (FCV):** cuenta unificada tipo Singapur CPF (5 subcuentas: retiro + salud + vivienda + educacion + cesantia = 23% del salario). Desde que naces — Venezuela S.A. invierte USD 32.400 en cada nino. A los 65 con salario minimo: USD 463K acumulados, pension USD 1.408/mes, casa propia, hijos graduados.
-- **Voucher educativo K-12** con sistema de puntos: matricula + comedor + transporte + deporte + arte. Colegios compiten como empresas privadas. Universidad por merito (perdida escalonada 100→75→50→25).
-- **10 ministerios** (de 34). 265K empleados (de 2,7M). Estado que supervisa, no opera. Supervision tripartita: Estado + comunidad + usuarios.
-- **KPIs de activacion:** las fases no dependen de fechas sino de condiciones verificables (PIB/capita, formalizacion, pobreza). El plan se adapta a la realidad.
-- **Quality gate con IA:** un pipeline que no deja bajar el score de 7.4/10.
-- Licencia 46B, Citgo posicionado, Cuba desconexion, cashflow de 20 trimestres, 170+ oportunidades de negocio, diaspora como co-fundadores.
-
-Lo construi con IA como co-piloto, pero el plan alcanzo su techo documental. Los pendientes son operativos: equipo ejecutor con nombres reales, MVP de plataforma de inversiones, datos de infraestructura en terreno.
-
-Para eso necesito gente real.
-
-https://venezuela-s-a.github.io/venezuela-sa/
-
-No busco likes. Busco ingenieros que me digan "este numero esta mal", economistas que me digan "esto ya se intento y fallo", y emprendedores que miren las 170+ oportunidades y digan "yo monto esa."
-
-Apartidista. Open-source. Datos primero.
-
-#Venezuela #OpenSource #Reconstruccion #StartupNation #FCV
-
-### Version 2 — concisa, hook fuerte
-
-Y si Venezuela fuera una startup?
-
-Hoy OFAC autorizo a TODAS las empresas de EE.UU. a operar en petroleo venezolano. Y existe un plan open-source con:
-
-- FCV tipo Singapur CPF (5 subcuentas, 23% del salario, desde que naces)
-- Voucher educativo con puntos (colegios compiten como empresas)
-- 10 ministerios (de 34). 265K empleados (de 2,7M)
-- 100+ fuentes. 20 perspectivas. Score 7.4/10
-- KPIs de activacion (condiciones, no fechas)
-- Quality gate con IA
-
-Lo que falta: equipo ejecutor real. Tu experiencia.
-
-https://venezuela-s-a.github.io/venezuela-sa/
-
-Open-source. Apartidista. Contribuciones en GitHub.
+Marcos — tu frase "Democracia + Capitalismo + 20 anos" es literalmente la tesis del plan. Venezuela tratada como startup: FCV tipo Singapur, voucher educativo, 10 ministerios, todo concesionado. 64 perspectivas lo evaluaron. Tu version IA dio 5.5 — dijo que el FCV obligatorio es impuesto encubierto. Me interesa saber si la persona real piensa igual. Plan completo: https://venezuela-s-a.github.io/venezuela-sa/
 
 ---
 
-## Twitter/X
+**2. @freddier**
 
-### Hilo (5 tweets)
+> Tweet:
 
-**1/** Y si tratas a Venezuela como una startup de 40 millones de socios?
+.@freddier Educacion como motor de movilidad social. Venezuela S.A. propone voucher K-12 con puntos + universidad por merito + bootcamps tech con estipendio. Tu version IA dio 7.5/10. Validala: https://venezuela-s-a.github.io/venezuela-sa/evaluacion
 
-Hoy OFAC autorizo a TODAS las empresas de EE.UU. a operar en petroleo venezolano (Licencia 46B).
+> DM:
 
-Y existe un plan open-source con score de 7.4/10 por 20 perspectivas. Desde Milei hasta Piketty.
-
-**2/** Lo que tiene:
-- FCV tipo Singapur CPF (5 subcuentas desde que naces — USD 463K a los 65 con salario minimo)
-- Voucher educativo con puntos (matricula + comedor + deporte + arte)
-- 10 ministerios (de 34). Estado supervisa, no opera
-- 100+ fuentes verificables
-- KPIs de activacion, no fechas fijas
-- Quality gate con IA (score no puede bajar)
-
-**3/** El FCV es la pieza central:
-- Retiro 8% + Salud 7% + Vivienda 4% + Educacion 2% + Cesantia 2% = 23%
-- Venezuela S.A. invierte USD 150/mes en cada nino ANTES de que produzca
-- Si mueres: 100% heredable. Nadie hereda deuda, solo patrimonio
-- Si pierdes empleo: subcuenta cesantia congela cuotas
-- Al jubilarte: saldos no usados se consolidan en retiro
-
-**4/** Lo que le falta: el plan alcanzo su techo documental.
-
-Los pendientes son OPERATIVOS:
-1. Equipo ejecutor con nombres reales
-2. MVP de plataforma de inversiones
-3. Datos de infraestructura en terreno
-4. Rostro del movimiento
-
-Una IA puede armar el plan. Solo gente real puede convertirlo en organizacion.
-
-**5/** https://venezuela-s-a.github.io/venezuela-sa/
-
-Apartidista. Open-source. Datos primero.
-
-Si eres venezolano y esto te da curiosidad — lee 10 min y dime que piensas. Si te dan ganas de meter mano — el repo es publico. Preguntale al chat del sitio lo que quieras.
-
-RT si conoces a alguien que deberia verlo.
-
-### Tweet unico
-
-HOY: OFAC autorizo a TODAS las empresas de EE.UU. a operar en petroleo venezolano.
-
-Y existe un plan open-source para Venezuela como startup: FCV tipo Singapur desde que naces, voucher educativo con puntos, 10 ministerios, 100+ fuentes, 20 perspectivas, score 7.4/10.
-
-Apartidista. Datos primero. Necesita gente real.
-
-https://venezuela-s-a.github.io/venezuela-sa/
+Freddy — el plan tiene un modulo de educacion que parece escrito por alguien que vio Platzi: voucher con puntos (colegios compiten como empresas), universidad por merito (100->75->50->25->pierde), bootcamps de 6 meses con estipendio. Tu version IA dio 7.5 pero pregunto "quien ensena coding si 100K profesores emigraron?" Buena pregunta. Train the Trainers 50K es la respuesta, pero necesito tu ojo real. https://venezuela-s-a.github.io/venezuela-sa/
 
 ---
 
-## TikTok / Instagram Reels (guion 60 segundos)
+**3. @Martin_M_Guzman**
 
-**Hook (3 seg):** "Hoy EE.UU. abrio el petroleo venezolano a TODAS sus empresas. Y existe un plan para que cada venezolano tenga cuenta de ahorro desde que nace."
+> Tweet:
 
-**Cuerpo (45 seg):**
-"Se llama Fondo Ciudadano Venezuela. Es como el CPF de Singapur — una cuenta con 5 subcuentas: retiro, salud, vivienda, educacion, y cesantia. Venezuela S.A. invierte 150 dolares al mes en cada nino. A los 65, con salario minimo, tienes 463 mil dolares. Pension de 1.400 al mes. Casa propia. Hijos graduados. Si mueres, tu familia hereda todo — nadie hereda deuda.
+.@Martin_M_Guzman La restructuracion argentina como caso de estudio. Venezuela tiene USD 150-170B en deuda + USD 20B en arbitrajes ICSID. Tu version IA dio 7.5/10 al plan. Validala: https://venezuela-s-a.github.io/venezuela-sa/evaluacion
 
-La educacion funciona con voucher de puntos: matricula, comedor, transporte, un deporte, un arte. Los colegios compiten como empresas. El Estado pasa de 34 ministerios a 10 — solo supervisa.
+> DM:
 
-20 perspectivas lo evaluaron: desde Milei hasta Piketty. Score: 7.4 de 10. Todo open-source. Cero propaganda."
-
-**CTA (12 seg):** "El link esta en mi bio. Leelo, preguntale al chat de IA del sitio, y si te dan ganas de meter mano — el repo es publico. Comparte con un venezolano que deberia verlo."
+Martin — Venezuela S.A. trata la deuda como un problema de ingenieria financiera, no politico. Haircut 65-70%, bonos vinculados a PIB, mecanismo de buyback con descuento. Tu version IA dio 7.5 y pidio mas detalle en la secuenciacion con el FMI. Tengo 85+ docs con numeros verificables. Me interesa tu mirada real. https://venezuela-s-a.github.io/venezuela-sa/
 
 ---
 
-## Reddit
+**4. @RichardM_EC**
 
-### Post largo (r/vzla)
+> Tweet:
 
-**Titulo:** Use 21 versiones IA de personas reales (Milei, Hausmann, Maria Corina, Piketty, Elon Musk...) para evaluar un plan de reconstruccion para Venezuela. Score: 7.4/10. Las 5 criticas mas duras mejoraron el plan. Ahora necesito gente real.
+.@RichardM_EC Ecuador restructuro deuda en crisis. Venezuela S.A. propone un marco similar pero con forwards petroleros como garantia. Tu version IA dio 7.0/10. Que opina la persona real? https://venezuela-s-a.github.io/venezuela-sa/evaluacion
+
+> DM:
+
+Richard — el plan usa forwards petroleros como mecanismo de financiamiento temprano (Pre-Seed sin gobierno), similar a lo que Ecuador hizo con China pero con estructura OFAC-compliant. Tu version IA dio 7.0 y senalo riesgos de concentracion en un solo comprador. Valido. 64 perspectivas evaluaron el plan — la tuya es una de las mas relevantes por experiencia directa. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**5. @RodrigoAValdes**
+
+> Tweet:
+
+.@RodrigoAValdes Desde el FAD del FMI: Venezuela S.A. propone transicion fiscal (15% flat + 12% IVA) que desvincula al Estado del petroleo. Tu version IA dio 6.5/10. Que ajustarias? https://venezuela-s-a.github.io/venezuela-sa/evaluacion
+
+> DM:
+
+Rodrigo — el plan propone que el Estado viva de impuestos, no de petroleo. 15% flat + 12% IVA. El petroleo va 100% al fondo soberano administrado por Venezuela S.A. (holding ciudadano). Tu version IA dio 6.5 y cuestiono la capacidad recaudatoria en una economia 70% informal. Punto justo. Por eso hay KPIs de activacion, no fechas fijas. Me interesa tu perspectiva real desde el FAD. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+### Tweets en ingles
+
+**6. @garrytan**
+
+> Tweet:
+
+.@garrytan "Make something people want." Venezuela S.A. = 40M shareholders, oil as fuel, tech as destination. Your AI version scored 5.0/10 — harshest evaluator. Prove it wrong: https://venezuela-s-a.github.io/venezuela-sa/evaluacion
+
+> DM:
+
+Garry — your AI version gave the plan 5.0/10 and said "show me a product, not a document." Fair. That's why we built 5 interactive simulators and a 4-tab evaluation page. But you're right — the plan hit its documentary ceiling. 64 perspectives evaluated it. Analysts say 8.0, founders/VCs say 6.9. The gap is exactly what you'd expect: founders want traction, not projections. I'd love your real take. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**7. @patrickc**
+
+> Tweet:
+
+.@patrickc Speed matters. Venezuela S.A. is a country reconstruction plan with KPI-triggered phases, not fixed dates. 64 AI perspectives scored it 7.2/10. Your AI version: 7.5. Validate it: https://venezuela-s-a.github.io/venezuela-sa/evaluacion
+
+> DM:
+
+Patrick — the plan treats Venezuela like a startup with KPI-triggered milestones (GDP/capita, formalization rate, poverty %). No fixed timelines. FCV (Singapore CPF clone, 5 sub-accounts), education vouchers, 10 ministries (down from 34), 285K employees (down from 2.7M). Your AI version scored 7.5 and flagged execution risk. 64 perspectives, all scored. Would value your real assessment. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**8. @CathieDWood**
+
+> Tweet:
+
+.@CathieDWood Disruptive innovation in nation-building: Venezuela S.A. proposes 3D-printed housing, digital state (Estonia model), 5 interactive simulators. Your AI version scored 7.0/10. https://venezuela-s-a.github.io/venezuela-sa/evaluacion
+
+> DM:
+
+Cathie — Venezuela S.A. treats oil as a depreciating asset (solar will be cheaper than Faja crude by 2040). The plan uses the 10-15 year window to diversify into tech hubs, digital state infrastructure, and 3D-printed housing. Your AI version scored 7.0 and asked about the renewable energy transition timeline. 85+ docs in English, all sourced. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**9. @MargMyers**
+
+> Tweet:
+
+.@MargMyers China-LATAM finance is your domain. Venezuela S.A. has a 438-line China strategy covering triangulation, debt renegotiation, and OFAC compliance. Your AI scored 7.0/10. https://venezuela-s-a.github.io/venezuela-sa/evaluacion
+
+> DM:
+
+Margaret — the plan has a dedicated China strategy (438 lines) addressing the USD 19B+ debt, CDB/ICBC renegotiation, and a triangulation framework that keeps both Washington and Beijing engaged. Your AI version scored 7.0 and flagged the tension between US license conditions and Chinese loan covenants. That's the hardest knot in the plan. Would love your real perspective. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**10. @KevinPGallagher**
+
+> Tweet:
+
+.@KevinPGallagher The China Triangle applied to Venezuela: USD 19B+ debt, OFAC License 46B, and a restructuring framework. Your AI version scored 6.5/10. What's missing? https://venezuela-s-a.github.io/venezuela-sa/evaluacion
+
+> DM:
+
+Kevin — your "China Triangle" framework is directly referenced in the plan's geopolitics section. Venezuela owes China USD 19B+, the US just issued License 46B opening all oil operations, and the plan proposes a triangulation that doesn't force an either/or choice. Your AI version scored 6.5 and said the China debt section needs more granularity on CDB vs. ICBC terms. Valid. 64 perspectives evaluated. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**11. @AGelpern**
+
+> Tweet:
+
+.@AGelpern Sovereign debt reform is the hardest chapter. Venezuela S.A. proposes haircut 65-70%, GDP-linked bonds, and ICSID arbitrage resolution (USD 20B+). Your AI scored 7.0/10. https://venezuela-s-a.github.io/venezuela-sa/evaluacion
+
+> DM:
+
+Anna — the plan tackles USD 150-170B in external debt + USD 20B+ in ICSID arbitration. Proposed framework: 65-70% haircut, GDP-linked warrants, buyback mechanism at discount, and a sequencing strategy (bilateral first, then multilateral, then commercial). Your AI version scored 7.0 and flagged holdout risk. 64 perspectives evaluated. Your real expertise would sharpen the weakest section. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**12. @RebeccaJRay**
+
+> Tweet:
+
+.@RebeccaJRay Your China-LAC data is referenced in Venezuela S.A.'s geopolitics section. 438-line China strategy + OFAC License 46B. Your AI scored 6.0/10 — lots of room. What's wrong? https://venezuela-s-a.github.io/venezuela-sa/evaluacion
+
+> DM:
+
+Rebecca — your research on China-LAC environmental and development finance shaped the plan's approach to renegotiating Chinese loans. Your AI version scored 6.0 — the lowest among the China specialists — and flagged insufficient environmental safeguards in the mining section. That's actionable feedback. 85+ docs in English, all open-source. Would value your real assessment. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+## 3. LinkedIn messages
+
+### Para quienes no tienen Twitter
+
+**Mark Walker** (sovereign debt lawyer)
+
+Subject: Venezuela debt restructuring — open-source plan with 64 expert perspectives
+
+Mark — I'm building an open-source reconstruction plan for Venezuela treated as a startup (40M shareholders). The sovereign debt chapter proposes a 65-70% haircut, GDP-linked bonds, and a sequencing strategy for USD 150-170B in external debt + USD 20B+ in ICSID arbitration. 64 AI perspectives evaluated the full plan (score: 7.2/10). The debt section is the one that needs the most real-world validation. Your experience with sovereign restructurings would be invaluable. Full plan: https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Lee Buchheit** (sovereign debt restructuring pioneer)
+
+Subject: Venezuela's USD 170B debt puzzle — a structured approach
+
+Lee — Venezuela S.A. is an open-source plan that treats the country's reconstruction as a business model. The debt chapter draws on your work on CACs and restructuring frameworks. Proposed approach: bilateral (China USD 19B+) first, then multilateral (IMF/WB), then commercial (bonds + PDVSA). 64 perspectives scored the plan 7.2/10. Analysts gave 8.0. The debt section needs someone who's done this before. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Ian Clark** (sovereign debt specialist)
+
+Subject: Open-source Venezuela restructuring framework — seeking validation
+
+Ian — building an open-source reconstruction plan for Venezuela. The debt module covers USD 150-170B external + USD 20B ICSID claims. Framework: haircut 65-70%, GDP warrants, buyback at discount. 64 AI perspectives evaluated it. Score: 7.2/10. Would appreciate your eye on the bond restructuring sequencing. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Kenneth Figueroa** (OFAC/sanctions specialist)
+
+Subject: OFAC License 46B + Venezuela reconstruction plan
+
+Kenneth — License 46B (14-mar-2026) is a game-changer. Venezuela S.A. has a sanctions roadmap with KPI-triggered phases and OFAC-compliant investment structures. 64 perspectives evaluated the plan (7.2/10). The sanctions section needs someone who understands the compliance architecture. Full plan (English): https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Simon Cueva** (former Ecuador finance official)
+
+Subject: Ecuador's restructuring experience applied to Venezuela
+
+Simon — Venezuela S.A. es un plan open-source que trata la reconstruccion como modelo de negocio. El capitulo de deuda se inspira en la experiencia ecuatoriana (forwards petroleros como garantia, secuenciacion bilateral-multilateral-comercial). 64 perspectivas lo evaluaron: 7.2/10. Tu experiencia directa con restructuracion seria invaluable. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Alejandro Werner** (former IMF Western Hemisphere director)
+
+Subject: Venezuela — de crisis a startup de 40M accionistas
+
+Alejandro — llevo meses en un plan open-source que trata a Venezuela como startup. Transicion fiscal (15% flat + 12% IVA), FCV tipo Singapur, 10 ministerios, forwards petroleros, roadmap de sanciones. 64 perspectivas lo evaluaron: 7.2/10 (analistas 8.0). Tu experiencia en el hemisferio occidental del FMI es exactamente lo que falta. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Nandan Nilekani** (Infosys co-founder, Aadhaar architect)
+
+Subject: Digital state infrastructure for Venezuela — your Aadhaar model adapted
+
+Nandan — Venezuela S.A. proposes a digital state modeled on Estonia's e-Residency + India's Aadhaar. Single digital identity, blockchain anti-corruption layer, 6 military accountability mechanisms. 64 AI perspectives scored the plan 7.2/10. Your experience building Aadhaar for 1.4B people is the closest precedent. Full plan: https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Taavi Kotka** (former Estonia CIO, e-Residency architect)
+
+Subject: Estonia's digital state model applied to Venezuela
+
+Taavi — Venezuela S.A. uses Estonia as the benchmark for digital governance. The plan proposes e-Residency adaptation, digital-first public services, and a blockchain anti-corruption layer. 64 perspectives evaluated it (7.2/10). Your experience building Estonia's digital infrastructure is the gold standard we're measuring against. Would value your assessment. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Simeon Djankov** (former World Bank, Doing Business creator)
+
+Subject: Venezuela S.A. — reconstruction measured by Doing Business metrics
+
+Simeon — the plan uses KPI-triggered phases instead of fixed timelines. Metrics include: days to start business, tax compliance hours, contract enforcement time. 64 perspectives scored it 7.2/10. Your Doing Business framework is the backbone of the execution chapter. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**David Velez** (Nubank founder)
+
+Subject: Venezuela necesita su Nubank — y el plan ya tiene la estructura
+
+David — Venezuela S.A. propone un sistema financiero desde cero: FCV tipo Singapur (5 subcuentas, 23%), banca digital con KYC simplificado, y un marketplace de inversiones para 40M accionistas-ciudadanos. 64 perspectivas lo evaluaron: 7.2/10. Los founders dieron 6.9 — dicen que falta producto, no documento. Tienes razon. Pero la arquitectura financiera esta lista. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Simon Borrero** (Rappi founder)
+
+Subject: 170+ oportunidades de negocio en Venezuela — plan open-source
+
+Simon — Venezuela S.A. mapea 170+ oportunidades de negocio en un pais que necesita reconstruir TODO: transporte (100% concesion), vivienda (modelo equity 60/20/20 + 3D printing), delivery, fintech, edtech. 64 perspectivas lo evaluaron: 7.2/10. Rappi empezo resolviendo un problema basico. Venezuela tiene miles. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Pierpaolo Barbieri** (Uala founder)
+
+Subject: Fintech + inclusion financiera en Venezuela — plan con numeros
+
+Pierpaolo — el plan propone un FCV (Fondo Ciudadano Venezuela) tipo Singapur CPF con 5 subcuentas + banca digital integrada. 40M ciudadanos-accionistas que hoy no tienen cuenta bancaria funcional. 64 perspectivas lo evaluaron: 7.2/10. Tu experiencia con Uala en Argentina (inclusion financiera en economia inestable) es directamente aplicable. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Carlos Garcia Ottati** (Kavak founder)
+
+Subject: El mercado automotor venezolano necesita reinventarse — plan con data
+
+Carlos — Venezuela tiene 3.5M de vehiculos con edad promedio de 20 anos. Transporte urbano 100% concesionado. El plan mapea la oportunidad. 64 perspectivas lo evaluaron: 7.2/10. Kavak vio un mercado roto en Mexico. Venezuela es el mercado mas roto del continente. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Martin Varsavsky** (serial entrepreneur, Fon/Prelude/Goggo)
+
+Subject: Venezuela como la startup mas grande de LATAM
+
+Martin — un plan open-source trata a Venezuela como startup de 40M accionistas. Forwards petroleros como Pre-Seed, tech hubs, estado digital, 5 simuladores interactivos. 64 perspectivas lo evaluaron: 7.2/10. Tu experiencia fundando empresas en multiples sectores y paises es exactamente la mentalidad que necesita este proyecto. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Hernan Kazah** (Mercado Libre co-founder, Kaszek)
+
+Subject: 40M de usuarios sin plataforma — Venezuela S.A.
+
+Hernan — Venezuela tiene 40M de personas sin infraestructura digital funcional. El plan propone marketplace de inversiones, estado digital, FCV con 5 subcuentas. 64 perspectivas lo evaluaron: 7.2/10 (founders/VCs 6.9 — piden producto, no documento). Kaszek invierte en infraestructura digital para LATAM. Venezuela es el mercado con mayor upside y mayor riesgo. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Martin Migoya + Guibert Englebienne** (Globant co-founders)
+
+Subject: Tech hubs + talent pipeline para Venezuela — plan con 85+ docs
+
+Martin, Guibert — Venezuela S.A. propone tech hubs como motor de diversificacion post-petroleo. El problema: 100K+ profesionales emigraron. La solucion: Train the Trainers 50K + bootcamps con estipendio + voucher universitario por merito. 64 perspectivas lo evaluaron: 7.2/10. Globant demostro que LATAM puede exportar software de clase mundial. Venezuela necesita ese playbook. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Masayoshi Son** (SoftBank founder)
+
+Subject: Venezuela — 303B barrels, 40M shareholders, USD 60/barrel base case
+
+Masa — Venezuela S.A. is an open-source plan treating the country as a startup. 303B barrels of proven reserves (OPEC), 40M citizen-shareholders, FCV (Singapore CPF model), digital state (Estonia model), 5 interactive simulators. 64 AI perspectives scored it 7.2/10. Oil is fuel, tech is destination. The 10-15 year window before solar beats crude is the real constraint. Full plan in English: https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+**Paul Caminiti** (sovereign debt banker)
+
+Subject: Venezuela sovereign debt restructuring — 64-perspective open-source framework
+
+Paul — Venezuela S.A. proposes a structured approach to USD 150-170B in external debt: 65-70% haircut, GDP-linked warrants, bilateral-first sequencing, ICSID resolution framework (USD 20B+). 64 AI perspectives scored the full plan 7.2/10. The debt chapter needs real-world validation from someone who's structured these deals. https://venezuela-s-a.github.io/venezuela-sa/
+
+---
+
+## 4. TikTok scripts
+
+### Video 1: "Que es Venezuela S.A.?" (30 seg)
+
+**Hook (3 seg):** "Y si Venezuela fuera una startup de 40 millones de socios?"
+
+**Cuerpo (22 seg):**
+"Petroleo como combustible. Tech como destino. Cada ciudadano es accionista. Cuenta de ahorro desde que naces — 5 subcuentas: retiro, salud, vivienda, educacion, cesantia. Voucher educativo con puntos. 10 ministerios en vez de 34. 64 perspectivas lo evaluaron — desde Milei hasta Piketty, desde Garry Tan hasta Nandan Nilekani. Score: 7.2 de 10. Todo open-source. Cero propaganda."
+
+**CTA (5 seg):** "Link en bio. Lee el plan completo."
+
+**Hashtags:** #Venezuela #VenezuelaSA #Startup #LATAM #Economia #OpenSource #FCV
+
+---
+
+### Video 2: "Tu FCV en 60 segundos" (45 seg)
+
+**Hook (3 seg):** "Si nacieras en Venezuela manana, esto es lo que recibirias."
+
+**Cuerpo (35 seg):**
+"Desde el dia 1: una cuenta con 5 bolsillos. Retiro. Salud. Vivienda. Educacion. Cesantia. Venezuela S.A. deposita 150 dolares al mes — antes de que produzcas nada. A los 18 tienes 32 mil dolares. Empiezas a trabajar y el 23% de tu salario va a TU cuenta — no al gobierno. A los 65, con salario minimo: 463 mil dolares. Pension de 1.400 al mes. Casa propia. Hijos graduados. Si te mueres, tu familia hereda todo. Nadie hereda deuda. Esto no es fantasia. Es Singapur desde hace 60 anos."
+
+**CTA (7 seg):** "Calcula el tuyo en el simulador. Link en bio: /simulador"
+
+**Hashtags:** #FCV #Pensiones #Singapur #CPF #VenezuelaSA #Venezuela #Ahorro
+
+---
+
+### Video 3: "64 personas evaluaron este plan" (30 seg)
+
+**Hook (3 seg):** "Desde Milei hasta Piketty. Desde Garry Tan hasta Nandan Nilekani."
+
+**Cuerpo (22 seg):**
+"64 perspectivas evaluaron un plan de reconstruccion para Venezuela. Score general: 7.2 de 10. Los analistas dicen 8.0 — los numeros cuadran. Los founders dicen 6.9 — quieren producto, no documento. La diferencia es exactamente la correcta: el plan tiene la arquitectura, falta el equipo. Cada perspectiva es un skill que puedes clickear y leer completo."
+
+**CTA (5 seg):** "Ve quien dijo que: /evaluacion. Link en bio."
+
+**Hashtags:** #Venezuela #Evaluacion #Startup #Plan #OpenSource #IA #LATAM
+
+---
+
+## 5. Reddit
+
+### r/vzla — Post largo
+
+**Titulo:** 64 versiones IA de personas reales (Milei, Hausmann, Maria Corina, Piketty, Garry Tan, Nandan Nilekani...) evaluaron un plan de reconstruccion para Venezuela. Score: 7.2/10. Los analistas dicen 8.0. Los founders dicen 6.9. Ahora necesita gente real.
 
 ---
 
 Llevo meses en un side-project: tratar a Venezuela como si fuera una startup de 40 millones de socios. Open-source. Apartidista. Datos primero.
 
-**Lo que tiene el plan:**
+**Lo que tiene el plan (85+ docs en espanol, 85+ en ingles):**
 
-- **Fondo Ciudadano Venezuela (FCV):** una sola cuenta tipo Singapur CPF con 5 subcuentas (retiro + salud + vivienda + educacion + cesantia = 23% del salario). Desde que naces — Venezuela S.A. invierte USD 150/mes en cada nino. Un trabajador de salario minimo acumula USD 463K a los 65. Pension USD 1.408/mes. Casa propia. Hijos graduados. 100% heredable — nadie hereda deuda.
+- **Fondo Ciudadano Venezuela (FCV):** cuenta unificada tipo Singapur CPF con 5 subcuentas (retiro 8% + salud 7% + vivienda 4% + educacion 2% + cesantia 2% = 23%). Desde que naces — Venezuela S.A. invierte USD 150/mes en cada nino. A los 65 con salario minimo: USD 463K acumulados. Pension USD 1.408/mes. Casa propia. 100% heredable.
 
-- **Voucher educativo K-12** con sistema de puntos: matricula + comedor + transporte + 1 deporte + 1 arte. Colegios compiten como empresas privadas. Universidad por merito. Train the Trainers: 50K docentes certificados antes de la reforma curricular.
+- **Voucher educativo K-12** con sistema de puntos: matricula + comedor + transporte + deporte + arte. Colegios compiten como empresas. Universidad por merito (100->75->50->25->pierde).
 
-- **Salud universal contributiva:** nadie queda fuera. Menores: automatico. Tramo A/B: 0% copago.
+- **10 ministerios** (de 34). 285K empleados (de 2,7M). Estado que supervisa, no opera.
 
-- **10 ministerios** (de 34). 265K empleados (de 2,7M). Estado que supervisa, no opera.
+- **Transporte urbano** 100% concesion privada. **Vivienda** modelo equity 60/20/20 + impresion 3D.
 
-- **KPIs de activacion:** las fases no dependen de fechas sino de condiciones verificables (PIB/capita, formalizacion, pobreza).
+- **Estrategia China** de 438 lineas: triangulacion EE.UU.-China, renegociacion de USD 19B+, compliance OFAC.
+
+- **Anticorrupcion militar** con 6 mecanismos dedicados.
+
+- **5 simuladores interactivos** en /simulador. **Pagina de evaluacion** con 4 tabs y skills clickeables en /evaluacion.
 
 - **Licencia 46B de OFAC (14-mar-2026):** todas las empresas de EE.UU. autorizadas a operar en petroleo + oro + fertilizantes.
 
 **Como se construyo:**
 
-Use IA como co-piloto. Pero lo interesante es que cree versiones IA de 21 personas reales — cada una evalua el plan desde su perspectiva. Milei: 6.0 ("FCV obligatorio es impuesto encubierto"). Piketty: 6.5 ("flat tax es cancer distributivo"). Lee Kuan Yew: 8.0 ("reconozco mi CPF — dejen de escribir y encuentren al equipo"). Freddy Vega (Platzi): 7.5 ("quien ensena coding si 100K profesores emigraron?"). Gerver Torres: 8.5 ("superior a lo que propusimos en nuestro libro").
+Use IA como co-piloto y cree versiones IA de 64 personas reales — cada una evalua el plan desde su perspectiva. Garry Tan (YC): 5.0 ("show me a product, not a document"). Piketty: 6.5 ("flat tax es cancer distributivo"). Lee Kuan Yew: 8.0 ("reconozco mi CPF — dejen de escribir y encuentren al equipo"). Freddy Vega (Platzi): 7.5 ("quien ensena coding si 100K profesores emigraron?"). Los analistas dan 8.0, los founders/VCs dan 6.9. La diferencia es exactamente la correcta: el plan tiene la arquitectura, falta la ejecucion.
 
-Las criticas mejoraron el plan cada vez. Pero la IA alcanzo su techo.
-
-**Si algo no esta cubierto en el plan, el sitio te invita a abrir un issue en GitHub.**
+**Lo que le falta:** gente real. El plan alcanzo su techo documental. Los pendientes son operativos — equipo ejecutor, MVP de plataforma, datos de infraestructura en terreno.
 
 https://venezuela-s-a.github.io/venezuela-sa/
 
-100+ fuentes verificables. Quality gate con IA que no deja bajar el score. 82 docs en espanol = 82 docs en ingles.
-
-Cualquier feedback sirve — desde "esto es una locura" hasta "dejame colaborar."
-
-### Post corto (r/venezuela, r/latinamerica)
-
-**Titulo:** Plan open-source para Venezuela: cuenta de ahorro desde que naces, voucher educativo, 10 ministerios. 21 perspectivas IA lo evaluaron en 7.4/10. OFAC abrio todo el sector petrolero.
+100+ fuentes verificables. 5 simuladores. Quality gate con IA. Si algo no esta cubierto, abre un issue en GitHub.
 
 ---
 
-Side-project de un ingeniero venezolano: tratar al pais como startup de 40M accionistas.
+### r/economics, r/latam — Post corto
 
-FCV tipo Singapur (5 subcuentas, heredable), voucher educativo con puntos, salud universal, 10 ministerios. 21 versiones IA (Milei, Piketty, Lee Kuan Yew, Maria Corina, Freddy Vega...) lo evaluaron. Score: 7.4/10. Open-source. Apartidista. Si algo falta, abre un issue.
+**Titulo:** Open-source reconstruction plan for Venezuela: 64 AI perspectives (Milei to Piketty, YC to SoftBank) scored it 7.2/10. Singapore-style citizen fund, education vouchers, 10 ministries. OFAC just opened all US oil operations.
+
+---
+
+Side-project by a Venezuelan engineer: treat the country as a startup with 40M shareholders.
+
+FCV (Singapore CPF clone, 5 sub-accounts, 23%, from birth), education vouchers with points, 10 ministries (down from 34), 285K employees (down from 2.7M), urban transport 100% concession, housing equity model 60/20/20 + 3D printing, 438-line China strategy, 6 military anti-corruption mechanisms. 5 interactive simulators. 85+ docs in English.
+
+64 AI perspectives evaluated it. Analysts: 8.0. Founders/VCs: 6.9. General: 7.2/10. All open-source. OFAC License 46B (14-Mar-2026) authorized all US companies to operate in Venezuelan oil + gold + fertilizers.
 
 https://venezuela-s-a.github.io/venezuela-sa/
+
+---
 
 ### Respuesta a "esto es fantasia"
 
-> Cada numero tiene fuente verificable — Rystad Energy, FMI, OPEP, Banco Mundial. El FCV no es inventado: es Singapur CPF (60 anos funcionando, #4 mundial). El voucher es Chile SEP (20 anos). Los 10 ministerios estan benchmarked contra Singapur (16) y Estonia (11). Y la Licencia 46B de OFAC se emitio el 14-mar-2026 en la vida real.
+> Cada numero tiene fuente verificable — Rystad Energy, FMI, OPEP, Banco Mundial. El FCV no es inventado: es Singapur CPF (60 anos funcionando, #4 mundial en pensiones). El voucher es Chile SEP (20 anos). Los 10 ministerios estan benchmarked contra Singapur (16) y Estonia (11). La Licencia 46B de OFAC se emitio el 14-mar-2026 en la vida real.
 >
-> El techo del plan no es si los numeros cuadran — cuadran, y 21 perspectivas los verificaron. El techo es operativo: quien lo ejecuta. Si ves un numero mal, abre un issue. Si ves algo que falta, proponlo. Eso es mas util que decir "fantasia."
-
----
-
-## Para Personas Normales (WhatsApp, grupos familiares, vecinos)
-
-### Version 1 — la mama en Maracaibo
-
-Imaginate que cuando tu hijo nace, el pais le abre una cuenta de ahorro. Y le deposita 150 dolares al mes — para su salud y su educacion. Cuando entra al colegio, recibe un voucher que cubre todo: matricula, almuerzo, transporte, un deporte y una actividad extra como musica o robotica. Tu eliges el colegio — y si el colegio es malo, mueves el voucher a otro.
-
-Si tu hijo va a la universidad, el voucher se lo gana con sus notas. Si pierde las notas, el voucher baja: 75%, 50%, 25%, hasta que lo pierde. Pero siempre puede recuperarlo si se esfuerza.
-
-Cuando tu hijo empieza a trabajar, el 23% de su salario va a su cuenta — no al gobierno, a SU cuenta. De ahi se paga su retiro, su salud, su casa y la educacion de sus hijos. A los 65 anos, con salario minimo, tiene 463 mil dolares. Pension de 1.400 dolares al mes. Casa propia.
-
-Si le pasa algo, tu heredas todo. Nadie hereda deuda.
-
-Eso no es fantasia. Es como funciona Singapur desde hace 60 anos. El plan se llama Venezuela S.A. y es open-source — cualquiera puede leerlo y criticarlo.
-
-https://venezuela-s-a.github.io/venezuela-sa/
-
-### Version 2 — el joven en Petare
-
-Hoy ganas 50 dolares al mes. El plan dice que en ano 2 puedes entrar a un bootcamp de programacion de 6 meses con estipendio de 200 dolares. Aprendes Python. Sales ganando 1.200 dolares al mes — remoto, desde tu casa.
-
-Desde que naciste, el pais te deposito 150 dolares al mes en tu cuenta. A los 18 tienes 20 mil dolares ahorrados. Eso es tuyo — nadie te lo quita.
-
-Tu mama va al hospital y no paga — esta cubierta por el fondo de salud. Tu hermana menor tiene voucher para el colegio: almuerzo, transporte, futbol y clases de ingles. Ella eligio ese colegio porque es el mejor del barrio. Si el colegio es malo, mueve el voucher a otro.
-
-La calle donde vives ya no la controla una banda porque hay 130 mil policias profesionales con tecnologia.
-
-Eso es Venezuela S.A. No es un partido politico. Es un plan con numeros reales, 100 fuentes verificables, y 21 perspectivas que lo critican sin piedad.
-
-https://venezuela-s-a.github.io/venezuela-sa/
-
-### Version 3 — el jubilado en Maracaibo
-
-Usted gana 3 dolares al mes de pension. El plan dice que desde el dia 1, eso sube a 50 dolares. En 3 anos, a 100. En 7 anos, a 150. En 10 anos, a 200 dolares al mes — pagado con impuestos, no con promesas.
-
-Sus nietos tendrian cuenta de ahorro desde que nacen. Educacion cubierta con voucher. Salud cubierta sin copago. Y cuando se jubilen, no van a pasar lo que usted paso — van a tener 463 mil dolares en su cuenta personal que nadie les puede quitar.
-
-Eso no es socialismo. No es capitalismo salvaje. Es un sistema que ya funciona en Singapur, Chile y Estonia. Solo que nadie lo habia escrito para Venezuela.
-
-https://venezuela-s-a.github.io/venezuela-sa/
-
-### Version 4 — el venezolano en Miami
-
-Te fuiste hace 8 anos. Ganas 4.500 dolares al mes. Venezuela es un recuerdo que duele.
-
-El plan dice que si quieres, puedes aportar el 23% de tu salario a tu cuenta FCV desde el exterior — voluntariamente. Cuando vuelvas, tienes salud cubierta, ahorro para vivienda, pension avanzada, y educacion para tus hijos. Tambien recibes dividendo del fondo de inversion como accionista de Venezuela S.A. — estes donde estes.
-
-21 versiones IA de Milei, Piketty, Lee Kuan Yew y Maria Corina lo evaluaron. Score: 7.4/10. Open-source. Apartidista. Tu version IA ya contribuyo. Ahora falta la persona real.
-
-https://venezuela-s-a.github.io/venezuela-sa/
+> 64 perspectivas lo evaluaron — desde libertarios radicales hasta progresistas, desde VCs hasta economistas del FMI. Score: 7.2/10. Los analistas dicen 8.0. Si ves un numero mal, abre un issue. Si ves algo que falta, proponlo. Hay 5 simuladores donde puedes calcular tu propio FCV. Eso es mas util que decir "fantasia."

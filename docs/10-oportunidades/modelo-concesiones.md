@@ -481,6 +481,10 @@ Cada activo construido bajo concesión se gestiona bajo **ISO 55000** (Asset Man
 
 ### Regla Anti-Monopolio Regional
 
+:::caution Regulación del Estado — Venezuela S.A. aplica como estándar contractual
+La ley anti-monopolio es competencia del Estado (regulador). Venezuela S.A. puede incorporar estas restricciones en todos sus contratos de concesión como cláusula obligatoria — sin esperar legislación. Referencia: [Plan Providencia por Venezuela (2026)].
+:::
+
 La privatización sin controles crea oligarcas. Venezuela no reemplaza monopolios estatales con monopolios privados.
 
 | Regla | Detalle |

@@ -207,6 +207,7 @@ Reestructurar la deuda más compleja de América Latina requiere un equipo con e
 El error más común en reestructuraciones fallidas es asignar la tarea a funcionarios sin experiencia. Venezuela necesita los mejores negociadores del mundo — y puede pagarlos con los ahorros que generen.
 :::
 
-:::info Federalismo de responsabilidad: estados co-responsables del servicio de deuda
+:::info Federalismo de responsabilidad: idea para el Estado (Venezuela S.A. no negocia deuda soberana)
+La reestructuración de deuda soberana es competencia del Estado. Venezuela S.A. administra el fondo y las concesiones, pero no tiene autoridad para distribuir deuda a estados. Esta idea requiere legislación nacional. Venezuela S.A. puede incentivar la productividad regional vía concesiones preferenciales a estados que cumplan metas fiscales.
 Post-reestructuración, los estados podrían asumir responsabilidad proporcional del servicio de la deuda reestructurada, distribuida según: **40% población + 40% capacidad productiva + 20% infraestructura**. Esto crea incentivos para que cada estado genere riqueza (para cubrir su cuota) en vez de depender de transferencias de Caracas. Un estado que atrae más inversión y formaliza más empleo reduce su carga relativa — se premia la productividad, no la dependencia. [Requiere investigación] para viabilidad legal bajo la estructura constitucional venezolana y compatibilidad con la reestructuración de deuda soberana (no subnacional). **Referencia:** Plan Providencia por Venezuela (2026).
 :::

@@ -709,6 +709,10 @@ Venezuela bajo Maduro cobra [15% de impuesto sobre nómina](https://central-law.
 
 ### Reforma Laboral: Pago por Horas Trabajadas en USD
 
+:::caution Esto es una recomendación para el Estado — Venezuela S.A. no legisla
+Venezuela S.A. es un holding corporativo, no un gobierno. La reforma laboral es competencia del Estado. Venezuela S.A. puede aplicar estos pisos en sus propias JVs y concesiones como estándar contractual, pero la legislación nacional la aprueba el parlamento. Referencia: [Plan Providencia por Venezuela (2026)].
+:::
+
 El salario mínimo mensual actual (~USD 3,50/mes congelado desde 2022) es ficticio — no cubre ni un día de alimentación. En vez de perpetuar un mínimo mensual que nadie cumple, se reemplaza por un **piso horario en USD** escalonado por cualificación:
 
 | Nivel | Piso Horario (USD) | Ejemplo: 8 hrs × 20 días | Perfil |
@@ -772,6 +776,10 @@ xychart-beta
 | Año 15 | **Estado vive 100% de impuestos. Petróleo 100% al fondo.** | Meta final |
 
 ### Techo de Endeudamiento Regional
+
+:::caution Esto es una recomendación para el Estado — Venezuela S.A. no legisla
+El techo de endeudamiento es una regla constitucional que aprueba el parlamento, no Venezuela S.A. El holding puede exigirlo como condición en sus contratos de concesión con estados/municipios. Referencia: [Plan Providencia por Venezuela (2026)].
+:::
 
 Ningún estado o municipio puede convertirse en una mini-Venezuela que acumula deuda populista a espaldas de los ciudadanos. Regla constitucional:
 

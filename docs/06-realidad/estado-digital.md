@@ -123,6 +123,10 @@ Cross-reference: [12 patrones de corrupción × 14 áreas del plan](/04-gobernan
 
 ### Ejecución Automática de Presupuesto
 
+:::caution Implementación del Estado — Venezuela S.A. provee la tecnología
+El presupuesto es del Estado. Venezuela S.A. puede desarrollar y operar la plataforma tecnológica como concesión (el Ministerio Digital), pero la política de ejecución automática la aprueba el parlamento. Referencia: [Plan Providencia por Venezuela (2026)].
+:::
+
 El gasto fantasma termina cuando los fondos solo fluyen si hay servicio verificado. En salud y educación, las transferencias se ejecutan por algoritmo — no por discreción política:
 
 | Componente | Mecanismo | Si no cumple |

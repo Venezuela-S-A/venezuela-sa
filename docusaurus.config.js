@@ -139,7 +139,7 @@ const config = {
           },
           {
             to: "/evaluacion",
-            label: "Score 7.7",
+            label: "Score 7.2 (64)",
             position: "right",
           },
           {

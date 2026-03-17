@@ -393,11 +393,12 @@ La sección de [Infraestructura Básica](/06-realidad/infraestructura-basica) es
 
 | Parámetro | Modelo propuesto | Referencia |
 |-----------|-----------------|-----------|
-| **Infraestructura** | Estado (vía, señalización) con financiamiento multilateral | Modelo europeo: red pública, operador privado |
-| **Operación** | Concesionario privado (carga) + subsidio para pasajeros | Brasil: rumo/ALL (carga); UK: franchises (pasajeros) |
+| **Infraestructura** | Venezuela S.A. aporta terrenos + permisos como equity en JV. Financiamiento multilateral (BID/CAF) + capital privado | Modelo europeo: red en JV, operador privado |
+| **Operación** | Concesionario privado único (carga + pasajeros + real estate en estaciones) | [Hong Kong MTR](https://www.mtr.com.hk/): rentable sin subsidio. Japón JR: carga cross-subsidia pasajeros |
 | **Duración** | 30-40 años | Acorde a la vida útil de la inversión |
-| **Ingreso carga** | Tarifa por ton-km (USD 0,02-0,04/ton-km) | Competitivo con camión (~USD 0,08-0,12/ton-km) |
-| **Ingreso pasajeros** | Tarifa + subsidio estatal | Caracas-Valencia: potencial 50K pasajeros/día |
+| **Ingreso carga** | Tarifa por ton-km (USD 0,02-0,04/ton-km) — margen alto cross-subsidia pasajeros | Competitivo con camión (~USD 0,08-0,12/ton-km) |
+| **Ingreso pasajeros** | Tarifa de mercado (USD 0,50-1,00/viaje). Ciudadanos vulnerables usan FCV para cubrir diferencia — **cero subsidio estatal** | Chile BIP: tarifa diferenciada estudiantes. No es subsidio — es el FCV del ciudadano pagando |
+| **Ingreso non-fare** | Desarrollo inmobiliario en estaciones (comercios, oficinas, vivienda) + publicidad + naming rights | [Hong Kong MTR](https://www.mtr.com.hk/): 50% de ingresos son non-fare. USD 6B/año total |
 
 ---
 

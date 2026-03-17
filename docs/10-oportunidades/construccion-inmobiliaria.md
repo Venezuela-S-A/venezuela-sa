@@ -112,6 +112,31 @@ La construcción tradicional toma 18-36 meses por proyecto residencial. Venezuel
 
 Fuentes: [McKinsey — Modular construction report](https://www.mckinsey.com/business-functions/operations/our-insights/modular-construction-from-projects-to-products) (2019); [World Economic Forum](https://www.weforum.org/agenda/2023/08/what-is-modular-construction-and-could-it-fix-the-housing-crisis/) (2023).
 
+### Impresión 3D de viviendas: 200m² en 24 horas
+
+La siguiente frontera. Si la construcción modular reduce tiempos de 18 meses a 3-6 meses, la **impresión 3D reduce a 24 horas** la estructura completa.
+
+| Tecnología | Empresa | Capacidad | Costo | Estado (2026) | Fuente |
+|---|---|---|---|---|---|
+| **Vulcan** (impresora de concreto) | [ICON](https://www.iconbuild.com/) (EE.UU.) | 200m² estructura en 24-48 hrs | **USD 25/sqft** (~USD 270/m²) | Producción comercial. Alianza con constructoras de EE.UU. | [Builder Magazine](https://www.builderonline.com/design/technology/icons-next-phase-building-a-scalable-platform-for-3d-printed-housing/) |
+| **Charlotte** (robot araña móvil) | [Crest Robotics + Earthbuilt](https://3dprintingindustry.com/news/new-spider-like-robot-charlotte-can-3d-print-a-house-in-24-hours-245043/) (Australia) | 200m² en 24 hrs (equivale a 100+ albañiles) | En desarrollo | Prototipo 2025. No requiere andamios | [3D Printing Industry](https://3dprintingindustry.com/news/new-spider-like-robot-charlotte-can-3d-print-a-house-in-24-hours-245043/) |
+| **Impresión de concreto** | [Apis Cor](https://www.apis-cor.com/) (EE.UU./Rusia) | Casa completa en 8 días start-to-finish | **USD 10.000-50.000** por casa | Piloto con la constructora más grande de EE.UU. Edificio más grande impreso en 3D (Dubai) | [Apis Cor](https://www.apis-cor.com/) |
+
+**¿Por qué Venezuela?**
+
+| Ventaja Venezuela | Detalle |
+|---|---|
+| **Electricidad barata** | Impresoras 3D de construcción consumen energía intensiva. Hidro a USD 0,02/kWh = fracción del costo vs. EE.UU. (USD 0,08-0,12/kWh) |
+| **Déficit masivo** | 3-5M de viviendas necesarias = mercado para escalar la tecnología |
+| **Cemento disponible** | Venezuela tiene plantas de cemento (INVECEM, Cemex, LafargeHolcim) que operan al <30%. Las impresoras 3D usan mezclas de concreto |
+| **Menos mano de obra calificada** | 30K+ albañiles emigraron. Las impresoras 3D reducen dependencia de mano de obra escasa |
+
+**Modelo de negocio:** Concesionario de vivienda importa/fabrica impresoras 3D → construye 1.000+ casas/año a USD 10-15K c/u → Venezuela S.A. co-invierte como equity (60%) → familia aporta FCV Vivienda (20%) + crédito (20%). **Casa de 60m² por USD 10-15K en 48 horas.** A escala, se pueden producir **50.000+ viviendas/año** con una flota de 50-100 impresoras.
+
+:::info El leapfrog de la vivienda
+Venezuela no necesita reconstruir la industria de construcción del siglo XX. Puede saltar directo a impresión 3D + prefabricado — igual que saltó la banca legacy con fintech. El colapso es la ventaja: no hay industria que proteger, no hay gremios que bloqueen, no hay regulaciones que adaptar. **Greenfield total.**
+:::
+
 ### Plan de vivienda: 100K unidades/año durante 15 años
 
 ```mermaid

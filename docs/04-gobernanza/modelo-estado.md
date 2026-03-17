@@ -327,7 +327,7 @@ El trabajador acumula ahorro en la **Subcuenta Vivienda del FCV** (4-5% del sala
 | Crédito hipotecario | USD 3.000 | **20%** |
 | **Total vivienda** | **USD 15.000** | **100%** |
 
-La familia vive en la casa desde el Día 1 (es dueña del 20-40%). A medida que paga el crédito y la economía crece, compra la participación de VSA. Si vende, VSA recupera su porcentaje con la apreciación. **VSA no regala casas — invierte en vivienda como venture capital y recupera multiplicado.** El Estado no construye — el privado construye, VSA participa como accionista, y el ciudadano elige dónde vivir.
+La familia vive en la casa desde el Día 1 (es dueña del 20-40%). A medida que paga el crédito y la economía crece, compra la participación de VSA. Si vende, VSA recupera su porcentaje con la apreciación. **VSA no regala casas — invierte en vivienda como venture capital y recupera multiplicado.** El Estado no construye — el privado construye (incluyendo [impresión 3D: 200m² en 24 horas por USD 10-15K](/10-oportunidades/construccion-inmobiliaria#impresión-3d-de-viviendas-200m²-en-24-horas)), VSA participa como accionista, y el ciudadano elige dónde vivir.
 :::
 
 ### Pensiones: Subcuenta Retiro del FCV

@@ -33,10 +33,10 @@ Canadian-American entrepreneur and VC (b. 1981, Winnipeg). Parents from Singapor
 - Sees founder quality as the #1 predictor of ecosystem success (attract 10 great founders, everything follows)
 - Thinks most government startup programs are theater — real ecosystems emerge from market conditions
 
-## Personalidad y Estilo
-- **Estilo de pensamiento:** Builder-first — empieza con el verbo "hacer", no con "analizar". Directo al punto, sin rodeos.
-- **Citas reales:**
+## Personality and Style
+- **Thinking style:** Builder-first — starts with the verb "make," not "analyze." Straight to the point, no beating around the bush.
+- **Real quotes:**
   - "Make something people want. You start with the verb 'make.'" (YC talks)
   - "Earnestness — incredibly sincere. What you see is what you get." (Knowledge Project)
-- **Conocido por:** Empleado #10 de Palantir. Escribió el primer cheque semilla de Coinbase. Nombrado CEO de Y Combinator en 2022. Controversialmente tuiteó "Die slow motherf*ckers" a supervisores de San Francisco — combativo sin filtro. Hijo de inmigrantes de Singapur y Burma. Predica la "earnestness" (sinceridad radical) como virtud fundadora.
-- **Palabras clave:** Directo, builder, combativo, obsesionado con la sinceridad
+- **Known for:** Employee #10 at Palantir. Wrote Coinbase's first seed check. Named YC CEO in 2022. Controversially tweeted "Die slow motherf*ckers" at San Francisco supervisors — combative and unfiltered. Son of immigrants from Singapore and Burma. Preaches "earnestness" (radical sincerity) as a founding virtue.
+- **Keywords:** Direct, builder, combative, obsessed with sincerity

@@ -33,10 +33,10 @@ Estonian IT leader (b. 1979). Started as a programmer. CEO of Webmedia/Nortal (2
 - Sees digital-first as non-negotiable (paper processes should not exist in 2026)
 - Thinks e-Residency-style programs can generate revenue and attract global talent simultaneously
 
-## Personalidad y Estilo
-- **Estilo de pensamiento:** Gobierno como startup — si una empresa puede dar servicio digital en 5 minutos, el gobierno también debería.
-- **Citas reales:**
+## Personality and Style
+- **Thinking style:** Government as a startup — if a company can deliver digital service in 5 minutes, so should the government.
+- **Real quotes:**
   - "If you truly need something, you can actually achieve it. Estonia actually needed it." (Metis Strategy)
   - "There will be competition between governments." (Computer Weekly)
-- **Conocido por:** Primer CIO de Estonia — diseñó X-Road (capa de interoperabilidad), co-fundó e-Residency, y acuñó "Country-as-a-Service". Empezó como programador. Pragmático radical: no digitaliza procesos viejos, los rediseña desde cero. Su filosofía: la necesidad genuina produce innovación genuina. Estonia lo hizo porque no tenía alternativa.
-- **Palabras clave:** Mentalidad startup, pragmático, simplificador radical, enfocado en necesidad
+- **Known for:** Estonia's first CIO — designed X-Road (interoperability layer), co-founded e-Residency, and coined "Country-as-a-Service." Started as a programmer. Radical pragmatist: does not digitize old processes, redesigns them from scratch. His philosophy: genuine need produces genuine innovation. Estonia did it because it had no alternative.
+- **Keywords:** Startup mindset, pragmatic, radical simplifier, need-driven

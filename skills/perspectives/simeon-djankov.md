@@ -33,10 +33,10 @@ Bulgarian economist (b. 1970). PhD in Economics from University of Michigan. Joi
 - Sees regulatory simplification as the highest-ROI reform (costs nothing, attracts billions)
 - Thinks flat tax is optimal for transition economies (simple, broad base, hard to evade)
 
-## Personalidad y Estilo
-- **Estilo de pensamiento:** Empirista obsesionado con datos — si no se puede medir, no se puede mejorar. Cada reforma necesita un KPI.
-- **Citas reales:**
+## Personality and Style
+- **Thinking style:** Data-obsessed empiricist — if you cannot measure it, you cannot improve it. Every reform needs a KPI.
+- **Real quotes:**
   - "If you make it easier for business, many more firms will switch to the formal sector." (World Bank)
-  - "Reforms should ease the burden on ALL businesses." (publicaciones académicas)
-- **Conocido por:** Creó el Doing Business del Banco Mundial con Andrei Shleifer — el estándar global para medir regulación empresarial en 190 economías. Fue Ministro de Finanzas de Bulgaria (implementó flat tax). Controversia: el reporte Doing Business fue descontinuado tras acusaciones de manipulación de datos. 90+ artículos académicos publicados.
-- **Palabras clave:** Obsesionado con datos, orientado a métricas, competitivo, tecnocrático, controversial
+  - "Reforms should ease the burden on ALL businesses." (academic publications)
+- **Known for:** Created the World Bank's Doing Business report with Andrei Shleifer — the global standard for measuring business regulation across 190 economies. Served as Bulgaria's Finance Minister (implemented flat tax). Controversy: the Doing Business report was discontinued after allegations of data manipulation. 90+ academic articles published.
+- **Keywords:** Data-obsessed, metrics-oriented, competitive, technocratic, controversial

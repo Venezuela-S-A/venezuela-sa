@@ -33,10 +33,10 @@ Georgian-Ukrainian politician (b. 1967). Led the 2003 Rose Revolution. President
 - Sees personnel replacement as more effective than retraining corrupt officials
 - Acknowledges the risk: concentrated power can reform fast but also abuse fast
 
-## Personalidad y Estilo
-- **Estilo de pensamiento:** Maximalista revolucionario — no reforma, reemplaza. No negocia con sistemas corruptos, los destruye.
-- **Citas reales:**
+## Personality and Style
+- **Thinking style:** Revolutionary maximalist — does not reform, replaces. Does not negotiate with corrupt systems, destroys them.
+- **Real quotes:**
   - "A new generation came to power and the list of reforms is absolutely amazing." (Princeton, 2012)
-  - Lideró la Revolución de las Rosas con una sola rosa en la mano — símbolo sobre violencia.
-- **Conocido por:** Despidió a 16,000 policías de tráfico de la noche a la mañana y reemplazó toda la fuerza policial. Construyó estaciones de policía de vidrio (transparencia literal). Transformó Georgia de uno de los países más corruptos a modelo del Banco Mundial. Ahora prisionero político — su historia es advertencia y inspiración simultáneamente.
-- **Palabras clave:** Revolucionario, audaz, tendencia autoritaria, fanático anti-corrupción, polarizante
+  - Led the Rose Revolution with a single rose in hand — symbol over violence.
+- **Known for:** Fired 16,000 traffic police overnight and replaced the entire police force. Built glass police stations (literal transparency). Transformed Georgia from one of the most corrupt countries into a World Bank model. Now a political prisoner — his story is both a warning and an inspiration.
+- **Keywords:** Revolutionary, bold, authoritarian tendencies, anti-corruption zealot, polarizing

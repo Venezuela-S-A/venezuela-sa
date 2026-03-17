@@ -671,7 +671,7 @@ function TabGlobal() {
         }}
       >
         <h4 style={{ margin: "0 0 0.5rem" }}>
-          Techo documental alcanzado (7.7/10)
+          Techo documental alcanzado (8.0 con analistas, 7.6 con founders/VCs)
         </h4>
         <p
           style={{
@@ -680,9 +680,9 @@ function TabGlobal() {
             color: "var(--ifm-font-color-secondary)",
           }}
         >
-          Para llegar a 8.0+ se necesita: equipo nombrado publicamente, MVP de
-          la plataforma funcionando, y datos de campo reales. El documento por
-          si solo no puede subir mas.
+          Analistas dan 8.0. Founders/VCs dan 6.9. Diferencia: los builders
+          exigen producto, equipo y traccion — no documentos. Para subir: MVP
+          del FCV, equipo nombrado, Ministerio Digital 15K+ ingenieros.
         </p>
       </div>
     </div>

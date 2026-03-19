@@ -51,9 +51,11 @@
       "enfermedad-holandesa",
       "transicion-fiscal",
       "inversion-ciudadana",
+      "los-que-se-quedaron",
       "retorno-diaspora",
       "cuba-desconexion",
       "estado-derecho-moneda",
+      "estrategia-china",
       "modelo-estado",
       "seguridad-fisica",
       "oportunidades-negocio",
@@ -71,6 +73,7 @@
       "minerales-criticos",
       "modelo-concesiones",
       "petroleo-gas",
+      "transporte-urbano",
       "turismo",
       "vialidad-logistica",
       "intro"
@@ -94,6 +97,7 @@
     "referencedBy": [
       "cashflow-20-trimestres",
       "blindaje-integridad",
+      "estrategia-china",
       "riesgos",
       "construccion-inmobiliaria"
     ]
@@ -118,6 +122,7 @@
       "enfermedad-holandesa",
       "los-que-se-quedaron",
       "blindaje-integridad",
+      "estrategia-china",
       "justicia-transicional",
       "roadmap-sanciones",
       "el-sueno",
@@ -133,6 +138,7 @@
     "referencedBy": [
       "blindaje-integridad",
       "estado-derecho-moneda",
+      "estrategia-china",
       "sistema-financiero",
       "riesgos",
       "petroleo-gas"
@@ -176,7 +182,8 @@
       "oportunidades-negocio",
       "construccion-inmobiliaria",
       "manufactura-industrial",
-      "minerales-criticos"
+      "minerales-criticos",
+      "transporte-urbano"
     ]
   },
   {
@@ -208,6 +215,7 @@
     "referencedBy": [
       "transicion-fiscal",
       "retorno-diaspora",
+      "estrategia-china",
       "sistema-financiero"
     ]
   },
@@ -228,7 +236,6 @@
       "kpis-activacion"
     ],
     "referencedBy": [
-      "los-que-se-quedaron",
       "retorno-diaspora",
       "blindaje-integridad",
       "modelo-estado",
@@ -241,16 +248,15 @@
     "id": "los-que-se-quedaron",
     "title": "Los 32 Millones Que Se Quedaron",
     "linkTo": [
+      "kpis-activacion",
+      "pensiones-seguridad-social",
+      "educacion",
       "fondo-soberano",
       "transicion-fiscal",
       "seguridad-fisica",
-      "servicios-publicos",
-      "educacion",
       "estado-digital",
       "infraestructura-basica",
-      "pensiones-seguridad-social",
       "hubs-tech",
-      "inversion-ciudadana",
       "capital-humano",
       "retorno-diaspora"
     ],
@@ -259,6 +265,25 @@
       "capital-humano",
       "oportunidades-negocio",
       "riesgos"
+    ]
+  },
+  {
+    "id": "pensiones-seguridad-social",
+    "title": "Pensiones y Seguridad Social: La Deuda Con los Mayores",
+    "linkTo": [],
+    "referencedBy": [
+      "los-que-se-quedaron",
+      "blindaje-integridad",
+      "modelo-estado"
+    ]
+  },
+  {
+    "id": "educacion",
+    "title": "Educación Rediseñada para la Era IA",
+    "linkTo": [],
+    "referencedBy": [
+      "los-que-se-quedaron",
+      "blindaje-integridad"
     ]
   },
   {
@@ -277,33 +302,17 @@
     ]
   },
   {
-    "id": "servicios-publicos",
-    "title": "Servicios Públicos: Estándares Internacionales",
-    "linkTo": [],
-    "referencedBy": [
-      "los-que-se-quedaron",
-      "blindaje-integridad"
-    ]
-  },
-  {
-    "id": "educacion",
-    "title": "Educación Rediseñada para la Era IA",
-    "linkTo": [],
-    "referencedBy": [
-      "los-que-se-quedaron",
-      "blindaje-integridad"
-    ]
-  },
-  {
     "id": "estado-digital",
     "title": "Estado Digital: Reducir, Digitalizar, Automatizar",
     "linkTo": [],
     "referencedBy": [
       "los-que-se-quedaron",
+      "retorno-diaspora",
       "oportunidades-negocio",
       "infraestructura-calidad",
       "sistema-financiero",
-      "timeline"
+      "timeline",
+      "transporte-urbano"
     ]
   },
   {
@@ -320,16 +329,6 @@
       "timeline",
       "agro-ganaderia",
       "vialidad-logistica"
-    ]
-  },
-  {
-    "id": "pensiones-seguridad-social",
-    "title": "Pensiones y Seguridad Social: La Deuda Con los Mayores",
-    "linkTo": [],
-    "referencedBy": [
-      "los-que-se-quedaron",
-      "blindaje-integridad",
-      "modelo-estado"
     ]
   },
   {
@@ -405,6 +404,14 @@
     ]
   },
   {
+    "id": "servicios-publicos",
+    "title": "Servicios Públicos: Estándares Internacionales",
+    "linkTo": [],
+    "referencedBy": [
+      "blindaje-integridad"
+    ]
+  },
+  {
     "id": "diversificacion",
     "title": "Los Seis Motores de Diversificación",
     "linkTo": [],
@@ -459,6 +466,7 @@
       "sistema-antifragil"
     ],
     "referencedBy": [
+      "estrategia-china",
       "geopolitica"
     ]
   },
@@ -468,8 +476,52 @@
     "linkTo": [],
     "referencedBy": [
       "cuba-desconexion",
+      "estrategia-china",
       "roadmap-sanciones",
       "riesgos"
+    ]
+  },
+  {
+    "id": "estrategia-china",
+    "title": "Estrategia China: Reestructurar USD 19B Sin Entregar Soberanía",
+    "linkTo": [
+      "kpis-activacion",
+      "minerales-criticos",
+      "deuda",
+      "equipo-ejecutor",
+      "geopolitica",
+      "contratos-forward",
+      "roadmap-sanciones",
+      "fondo-soberano",
+      "cuba-desconexion"
+    ],
+    "referencedBy": []
+  },
+  {
+    "id": "minerales-criticos",
+    "title": "Minerales Criticos: La Otra Mina de Oro",
+    "linkTo": [],
+    "referencedBy": [
+      "estrategia-china",
+      "diversificacion",
+      "capacidad-electrica",
+      "construccion-inmobiliaria",
+      "energia-renovable",
+      "manufactura-industrial",
+      "modelo-concesiones",
+      "petroleo-gas",
+      "transporte-maritimo",
+      "vialidad-logistica"
+    ]
+  },
+  {
+    "id": "roadmap-sanciones",
+    "title": "Roadmap de Sanciones: De OFAC a Investment Grade",
+    "linkTo": [],
+    "referencedBy": [
+      "estrategia-china",
+      "construccion-inmobiliaria",
+      "petroleo-gas"
     ]
   },
   {
@@ -491,21 +543,6 @@
       "inversion-ciudadana"
     ],
     "referencedBy": []
-  },
-  {
-    "id": "roadmap-sanciones",
-    "title": "Roadmap de Sanciones: De OFAC a Investment Grade",
-    "linkTo": [
-      "inversion-ciudadana",
-      "inversion-inicial-fuentes",
-      "hubs-tech",
-      "fondo-soberano",
-      "geopolitica"
-    ],
-    "referencedBy": [
-      "construccion-inmobiliaria",
-      "petroleo-gas"
-    ]
   },
   {
     "id": "data-centers-ia",
@@ -581,6 +618,7 @@
       "salud-telemedicina",
       "telecomunicaciones",
       "transporte-maritimo",
+      "transporte-urbano",
       "turismo",
       "vialidad-logistica"
     ]
@@ -599,22 +637,6 @@
       "energia-renovable",
       "minerales-criticos",
       "modelo-concesiones"
-    ]
-  },
-  {
-    "id": "minerales-criticos",
-    "title": "Minerales Criticos: La Otra Mina de Oro",
-    "linkTo": [],
-    "referencedBy": [
-      "diversificacion",
-      "capacidad-electrica",
-      "construccion-inmobiliaria",
-      "energia-renovable",
-      "manufactura-industrial",
-      "modelo-concesiones",
-      "petroleo-gas",
-      "transporte-maritimo",
-      "vialidad-logistica"
     ]
   },
   {
@@ -738,6 +760,7 @@
       "salud-telemedicina",
       "telecomunicaciones",
       "transporte-maritimo",
+      "transporte-urbano",
       "turismo",
       "vialidad-logistica"
     ]
@@ -776,6 +799,7 @@
       "minerales-criticos",
       "modelo-concesiones",
       "transporte-maritimo",
+      "transporte-urbano",
       "turismo"
     ]
   },
@@ -851,7 +875,7 @@
   },
   {
     "id": "evaluacion-perspectivas",
-    "title": "Evaluación Multi-Perspectiva del Plan (26 Perspectivas)",
+    "title": "Evaluación Multi-Perspectiva del Plan (28 Perspectivas)",
     "linkTo": [],
     "referencedBy": []
   },
@@ -939,16 +963,41 @@
     "referencedBy": []
   },
   {
+    "id": "transporte-urbano",
+    "title": "Transporte Urbano y Extraurbano: Movilidad como Concesion Privada",
+    "linkTo": [
+      "kpis-activacion",
+      "vialidad-logistica",
+      "modelo-concesiones",
+      "estado-digital",
+      "capacidad-electrica",
+      "hubs-tech"
+    ],
+    "referencedBy": []
+  },
+  {
     "id": "conclusion",
     "title": "Conclusión: La Oferta",
-    "linkTo": [],
+    "linkTo": [
+      "simulador"
+    ],
     "referencedBy": []
+  },
+  {
+    "id": "simulador",
+    "title": "simulador",
+    "linkTo": [],
+    "referencedBy": [
+      "conclusion",
+      "intro"
+    ]
   },
   {
     "id": "intro",
     "title": "Venezuela S.A.",
     "linkTo": [
       "kpis-activacion",
+      "simulador",
       "referencias"
     ],
     "referencedBy": []

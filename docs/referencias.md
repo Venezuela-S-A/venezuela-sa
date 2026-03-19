@@ -141,6 +141,13 @@ evaluators:
 ## Emprendimiento
 86. García, G. et al., ["Radiografía del Emprendimiento en Venezuela"](https://www.gemconsortium.org/economy-profiles/venezuela), GEM Venezuela 2025, UCAB / IESA School of Management, 2025 — TEA 7,7% (mínimo histórico desde 2003), 1,4M emprendedores activos, NECI 3,23/10 (penúltimo de 67 países), 88% motivados por necesidad. Metodología: APS n=1.888 + NES 36+ expertos. Patrocinado por Mercantil, CAF, EY.
 
+## Mochila Austriaca / Cesantía Portátil
+91. [Austria — Abfertigung Neu (BMSVG 2003), USP.gv.at](https://www.usp.gv.at/en/themen/mitarbeiter-und-gesundheit/beendigung-des-arbeitsverhaeltnisses/weitere-informationen-beendigung/abfertigung-neu-fuer-arbeitnehmer-und-freie-dienstnehmer.html) — Sistema de cesantía portátil: 1,53% mensual del empleador a cuenta individual del trabajador. Vigente desde enero 2003. Elimina el desincentivo a contratar de la indemnización tradicional.
+92. [World Bank — "Reforming Severance Pay: An International Perspective" (2011)](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/977071468330895674/reforming-severance-pay-an-international-perspective) — Holzmann & Vodopivec. Análisis comparativo Austria, Chile, Brasil. Marco para países en desarrollo.
+93. [OECD Working Paper No. 259 (2021) — Individual savings accounts for severance pay](https://www.oecd.org/en/publications/introducing-individual-savings-accounts-for-severance-pay-in-spain_8128a96d-en.html) — Hijzen & Salvatori. Evalúa el modelo austriaco vs. España.
+94. [Buenos Aires Times — Argentina Ley 27.802 (FAL), feb. 2026](https://www.batimes.com.ar/news/economy/explainer-key-points-of-mileis-newly-passed-labour-reform-package.phtml) — Fondo de Cese Laboral de Milei: 1% grandes empresas, 2,5% PyMEs. Implementación junio 2026.
+95. [Al Jazeera — Argentina labour reform passed, feb. 2026](https://www.aljazeera.com/news/2026/2/20/argentinas-chamber-of-deputies-passes-controversial-labour-reform-bill) — Cobertura del debate y aprobación de la reforma laboral argentina.
+
 ## Pre-Seed y Confianza de la Diáspora
 87. [Reserve Bank of India — Resurgent India Bonds (1998)](https://www.rbi.org.in/) — USD 4.200 M levantados en 6 semanas de la diáspora india durante crisis de sanciones post-test nuclear. Precedente de capital diáspora en contexto de crisis de confianza.
 88. [Israel Bonds — Development Corporation for Israel](https://www.israelbonds.com/) — USD 50.000 M+ levantados en 70 años de diáspora judía global. Estado sin historial crediticio en su primer año. Modelo de escrow + jurisdicción neutral.

@@ -140,6 +140,12 @@ evaluators:
 
 ## Emprendimiento
 86. García, G. et al., ["Radiografía del Emprendimiento en Venezuela"](https://www.gemconsortium.org/economy-profiles/venezuela), GEM Venezuela 2025, UCAB / IESA School of Management, 2025 — TEA 7,7% (mínimo histórico desde 2003), 1,4M emprendedores activos, NECI 3,23/10 (penúltimo de 67 países), 88% motivados por necesidad. Metodología: APS n=1.888 + NES 36+ expertos. Patrocinado por Mercantil, CAF, EY.
+
+## Pre-Seed y Confianza de la Diáspora
+87. [Reserve Bank of India — Resurgent India Bonds (1998)](https://www.rbi.org.in/) — USD 4.200 M levantados en 6 semanas de la diáspora india durante crisis de sanciones post-test nuclear. Precedente de capital diáspora en contexto de crisis de confianza.
+88. [Israel Bonds — Development Corporation for Israel](https://www.israelbonds.com/) — USD 50.000 M+ levantados en 70 años de diáspora judía global. Estado sin historial crediticio en su primer año. Modelo de escrow + jurisdicción neutral.
+89. [Bureau of the Treasury Philippines — ROSBonds / OFW Bonds](https://www.treasury.gov.ph/) — Programa permanente de bonos para trabajadores filipinos en el exterior (10M OFWs). Accesible desde USD 5.000. Décadas de éxito sostenido.
+90. [MIGA — Multilateral Investment Guarantee Agency (World Bank Group)](https://www.miga.org/) — Seguro contra riesgo político para inversores en mercados emergentes. Aplicable a pre-seed Venezuela S.A.
 86. [NBIM — Government Pension Fund Global Fiscal Rule](https://www.nbim.no/en/the-fund/about-the-fund/) — Regla fiscal noruega: 3–4% del fondo al presupuesto
 
 ## Salud y FCV

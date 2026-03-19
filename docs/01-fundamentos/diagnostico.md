@@ -88,6 +88,8 @@ xychart-beta
 | Diáspora | 7,9 M personas | [UNHCR, dic. 2025](https://www.unhcr.org/us/emergencies/venezuela-situation) |
 | Capacidad Guri | 10.200 MW | [Power Technology](https://www.power-technology.com/projects/gurihydroelectric/) |
 | Cascada Caroní (potencial) | 18.000 MW | [Mongabay, 2023](https://news.mongabay.com/2023/08/hydropower-in-the-pan-amazon-the-guri-complex-and-the-caroni-cascade/) |
+| Índice democrático (V-Dem EDI) | **0,22** / 1,0 — mínimo en 60 años | [V-Dem, 2024](https://www.v-dem.net/) vía [Umbral Watch](https://www.umbral.watch/) |
+| Presos políticos | **508** (5-mar-2026); 690 excarcelaciones desde 8-ene | [Foro Penal](https://foropenal.com/) vía [Umbral Watch](https://www.umbral.watch/) |
 
 ## Inversión Requerida ([Rystad Energy, Enero 2026](https://www.rigzone.com/news/could_venezuela_production_get_back_to_3mm_barrels_per_day-08-jan-2026-182716-article/))
 
@@ -147,3 +149,29 @@ xychart-beta
 **La pregunta no es si Venezuela puede reconstruirse — todos estos países lo hicieron en algún grado. La pregunta es cuál modelo replicamos: el de Angola (petróleo sin gobernanza = pobreza perpetua) o el de EAU (petróleo + visión + ejecución = transformación).**
 
 **Fuentes:** [World Bank Data](https://data.worldbank.org/) | [IMF WEO](https://www.imf.org/) | [Brookings Institution](https://www.brookings.edu/) | [Princeton Innovations for Successful Societies](https://successfulsocieties.princeton.edu/) [Requiere investigación para cifras específicas de Kazajistán y Angola]
+
+---
+
+## Escenarios Políticos: La Variable que Determina Todo
+
+:::danger El plan necesita un punto de partida mínimo — no democracia plena, sí estabilidad contractual
+Para arrancar, no se requiere democracia perfecta. Se requiere **suficiente previsibilidad institucional** para que los contratos sean ejecutables y la inversión extranjera sea capturable. Eso es Escenario 3 o superior en el marco Umbral Watch.
+:::
+
+[Umbral Watch](https://www.umbral.watch/) — plataforma de monitoreo que combina el [V-Dem Electoral Democracy Index](https://www.v-dem.net/) (Universidad de Gotemburgo), señales mediáticas [GDELT](https://www.gdeltproject.org/), datos de [Foro Penal](https://foropenal.com/) y mercados de predicción — identifica 5 escenarios posibles para Venezuela 2026-2032:
+
+| Escenario | Descripción | Expertos | Ciudadanos | Implicación para el plan |
+|-----------|-------------|----------|-----------|--------------------------|
+| **S1: Autocracia Regresiva** | Consolidación total del régimen, represión creciente | 2,5/10 | 2,5/10 | Plan no activable. Inversión extranjera bloqueada. Sanciones full |
+| **S2: Liberalización Revertida** | Apertura parcial seguida de vuelta atrás | 2,9/10 | 2,8/10 | Plan parcialmente activable. Riesgo alto de reversión |
+| **S3: Autocracia Electoral** | Elecciones formales, control parcial, apertura económica | **3,6/10** (**47%** expertos) | 2,6/10 | **Mínimo para el plan.** Sanctions roadmap Fases 1-2 operables |
+| **S4: Transición Prevenida** | Proceso de cambio político interrumpido | 3,2/10 | 2,9/10 | Plan activable con riesgo moderado. Inversión cautelosa |
+| **S5: Transición Democrática** | Cambio político completo, elecciones libres y certificadas | 3,0/10 | **4,3/10** (**67%** ciudadanos) | **Escenario ideal.** Full sanctions relief. Pre-Seed inmediato |
+
+**Brecha clave:** Los expertos apuestan por S3 (estabilización autoritaria con apertura económica); los ciudadanos quieren S5 (democracia plena). El plan está diseñado para funcionar en S3 — y acelerar hacia S5 creando las condiciones económicas que hacen la transición irreversible.
+
+:::tip Señal de monitoreo en tiempo real (mar. 2026)
+V-Dem EDI actual: **0,22** (umbral democrático ≥ 0,5) · Inestabilidad GDELT: **+124,4%** vs. dic. 2025 · Señal compuesta: ESTABLE · Presos políticos: 508 · Excarcelaciones desde 8-ene: 690 · Fuente: [Umbral Watch](https://www.umbral.watch/)
+:::
+
+**Fuente:** [Umbral Watch](https://www.umbral.watch/) — V-Dem (Universidad de Gotemburgo) + GDELT + Foro Penal + Polymarket. Ver [KPIs de Activación](/07-ejecucion/kpis-activacion) para las condiciones verificables que disparan cada fase del plan.

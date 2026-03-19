@@ -228,6 +228,10 @@ Esta fase arranca el Día 1 porque las condiciones ya existen: Estado fallido, 8
 | **4: Tech/services** | 2+ años democracia + DDHH verificados + Cuba desconectada | Data centers, VC/PE, tech |
 | **5: Normalización** | Track record democrático + deuda reestructurada | Investment grade, mercado de capitales |
 
+:::info Monitoreo político en tiempo real
+Las condiciones del roadmap de sanciones se rastrean vía [Umbral Watch](https://www.umbral.watch/) — que combina V-Dem Electoral Democracy Index (actual: **0,22**), señales GDELT, datos de Foro Penal (**508 presos**, mar. 2026) y mercados de predicción. Consenso expertos mar. 2026: **47% apuestan por S3** (Autocracia Electoral Estabilizada = mínimo para Fase 1). Ver [Escenarios Políticos en el Diagnóstico](/01-fundamentos/diagnostico#escenarios-políticos-la-variable-que-determina-todo).
+:::
+
 ---
 
 ## Dashboard de Monitoreo

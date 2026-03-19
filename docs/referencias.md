@@ -163,6 +163,13 @@ evaluators:
 91. [Mercer CFA Global Pension Index 2025](https://www.mercer.com/insights/investments/market-outlook-and-trends/mercer-cfa-global-pension-index/) — Singapur CPF: Grado A, #4 mundial
 92. [Singapur GIC](https://www.gic.com.sg/) — Gestión profesional de fondos soberanos y CPF
 
+## Monitoreo Político y Señales de Transición
+104. [Umbral Watch](https://www.umbral.watch/) — Plataforma de monitoreo de la transición venezolana. Combina V-Dem Electoral Democracy Index, señales GDELT, datos Foro Penal y Polymarket en tiempo real. Identifica 5 escenarios (S1 Autocracia Regresiva → S5 Transición Democrática). Consenso expertos mar. 2026: S3 Autocracia Electoral Estabilizada (47%). Preferencia ciudadana: S5 (67%).
+105. [V-Dem — Varieties of Democracy](https://www.v-dem.net/) — Universidad de Gotemburgo. Electoral Democracy Index Venezuela 2024: **0,22** / 1,0 (umbral democrático ≥ 0,5). Serie histórica 1903-2024.
+106. [GDELT Project](https://www.gdeltproject.org/) — Base de datos de señales mediáticas globales en tiempo real. Venezuela: inestabilidad +124,4% vs. dic. 2025 (mar. 2026). Señal compuesta: ESTABLE.
+107. [Foro Penal](https://foropenal.com/) — ONG venezolana de documentación de presos políticos. Datos: 508 presos políticos (5-mar-2026); 690 excarcelaciones desde 8-ene-2026; 329 civiles, 179 militares, 1 menor.
+108. [Polymarket](https://polymarket.com/) — Mercado de predicción descentralizado. Venezuela: Delcy líder fin 2026 (61%), embajada EE.UU. reabre 2026 (44%), MCM entra a Venezuela antes de 31-mar (5%, vs. 74% pico). Datos: mar. 2026.
+
 ## Educación y Voucher
 93. [Chile SEP — Subvención Escolar Preferencial](https://www.mineduc.cl/) — Voucher diferenciado: +50% para bajos ingresos
 94. [Chile Agencia de Calidad de la Educación](https://www.agenciaeducacion.cl/) — Auditoría de colegios por resultados

@@ -137,6 +137,9 @@ evaluators:
 
 ## Transición Fiscal y Presupuesto
 85. [Misión Verdad — Venezuela Budget 2025](https://misionverdad.com/english/venezuelas-2025-budget-overview) — Presupuesto USD 22.700 M, PDVSA ~53%
+
+## Emprendimiento
+86. García, G. et al., ["Radiografía del Emprendimiento en Venezuela"](https://www.gemconsortium.org/economy-profiles/venezuela), GEM Venezuela 2025, UCAB / IESA School of Management, 2025 — TEA 7,7% (mínimo histórico desde 2003), 1,4M emprendedores activos, NECI 3,23/10 (penúltimo de 67 países), 88% motivados por necesidad. Metodología: APS n=1.888 + NES 36+ expertos. Patrocinado por Mercantil, CAF, EY.
 86. [NBIM — Government Pension Fund Global Fiscal Rule](https://www.nbim.no/en/the-fund/about-the-fund/) — Regla fiscal noruega: 3–4% del fondo al presupuesto
 
 ## Salud y FCV

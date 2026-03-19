@@ -51,6 +51,7 @@ Venezuela no es un país pobre. Es un país rico operando al **3-30%** de su cap
 | **Gas natural** (~200 TCF reservas) | **Cerca de cero** (se quema o reinyecta) | **5 BCF/d** (export LNG + consumo) | Masivo | [EIA Venezuela Analysis](https://www.eia.gov/international/overview/country/VEN) |
 | **Tierra cultivable** (~30M ha) | **~20% cultivada** (~6M ha) | **80%** (~24M ha) | ~18M ha | [FAO](https://www.fao.org/) [Requiere investigación] |
 | **Fuerza laboral** (40M personas) | **80%+ informal/subempleada** | **80% formal** | ~25M personas | [ENCOVI 2024](https://www.proyectoencovi.com/) |
+| **Ecosistema emprendedor** | TEA **7,7%** (mínimo histórico); **1,4M** emprendedores activos; NECI **3,23/10** (penúltimo global) | TEA >15%; mayoría motivada por oportunidad | +12 pp TEA; NECI >5 | [GEM Venezuela 2025, UCAB/IESA](https://www.gemconsortium.org/economy-profiles/venezuela) |
 | **Ubicación geográfica** (15ms a Miami) | **0 data centers hyperscale** | **50+ hyperscale** | Todo | [Submarine Cable Map](https://www.submarinecablemap.com/) |
 
 **Venezuela tiene SUFICIENTE energía para ser top 3 global en compute, top 5 en petróleo, y top 10 en agricultura. Está operando al 3-30% de su capacidad. Este plan es el camino del 3% al 100%.**

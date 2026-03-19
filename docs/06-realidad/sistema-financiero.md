@@ -83,7 +83,7 @@ Cada transacción digital es trazable = **anticorrupción automática**. El FCV,
 
 ### FCV = la cuenta universal que onboardea un país entero
 
-Cada venezolano recibe un FCV desde el Día 1 — 5 subcuentas (Retiro 8% + Salud 7% + Vivienda 4% + Educación 2% + Cesantía 2%). Eso significa que **40M de personas necesitan simultáneamente:**
+Cada venezolano recibe un FCV desde el Día 1 — 5 subcuentas (Retiro 7% + Salud 7% + Vivienda 4% + Educación 2% + Cesantía 3%). Eso significa que **40M de personas necesitan simultáneamente:**
 
 | Servicio fintech | Oportunidad | TAM estimado |
 |-----------------|-------------|-------------|

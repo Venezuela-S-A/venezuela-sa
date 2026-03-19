@@ -194,11 +194,11 @@ Esta fase arranca el Día 1 porque las condiciones ya existen: Estado fallido, 8
 
 | Subcuenta | Se activa cuando | Se aumenta cuando |
 |-----------|-----------------|-------------------|
-| **Retiro (8%)** | FCV operativo (Día 1 de la ley) | PIB/cápita >USD 8K → sube a 10% |
+| **Retiro (8%→7%)** | FCV operativo (Día 1 de la ley) | Baja a 7% cuando abre Cesantía (PIB/cápita >USD 5K); sube a 9% en madurez (PIB/cápita >USD 8K) |
 | **Salud (6%→7%)** | FCV operativo (Día 1) | Formalización >55% → sube a 7% + introduce Medisave |
 | **Vivienda (4%)** | PIB/cápita >USD 3K + formalización >40% | PIB/cápita >USD 8K → sube a 5% |
 | **Educación (2%)** | PIB/cápita >USD 5K + formalización >55% | PIB/cápita >USD 8K → sube a 3% |
-| **Cesantía (2%)** | PIB/cápita >USD 5K + formalización >55% | Se mantiene en 2% (estable) |
+| **Cesantía — Mochila Austriaca (3%)** | PIB/cápita >USD 5K + formalización >55% | Se mantiene en 3% (estable en todas las fases) |
 
 ### Voucher Educativo
 

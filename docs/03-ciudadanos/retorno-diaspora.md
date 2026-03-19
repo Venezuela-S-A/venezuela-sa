@@ -55,7 +55,7 @@ Este plan NO ofrece "bonos de repatriación", subsidios de vivienda ni vacacione
 
 | Mecanismo | Qué es | Cómo funciona |
 |-----------|--------|---------------|
-| **FCV activo desde el día 1** | Tu Fondo Ciudadano Venezuela (5 subcuentas) se activa al emplearte formalmente | Retiro 8% + Salud 7% + Vivienda 4% + Educación 2% + Cesantía 2% = 23% de tu salario. Si tienes hijos, Venezuela S.A. contribuye USD 150/mes por niño |
+| **FCV activo desde el día 1** | Tu Fondo Ciudadano Venezuela (5 subcuentas) se activa al emplearte formalmente | Retiro 7% + Salud 7% + Vivienda 4% + Educación 2% + Cesantía 3% = 23% de tu salario. Si tienes hijos, Venezuela S.A. contribuye USD 150/mes por niño |
 | **FCV Vivienda** | Subcuenta para comprar propiedad | Acumula desde el primer empleo. Si vuelves con ahorros, el [catastro digital](/06-realidad/estado-digital) garantiza títulos limpios — compras sin intermediarios |
 | **Reconocimiento de títulos (30 días)** | Homologación express de credenciales internacionales | Proceso automatizado vía estado digital. Elimina la barrera #1 para profesionales retornantes. Modelo [Chile](https://www.mineduc.cl/)/[Colombia](https://www.mineducacion.gov.co/) |
 | **Flat tax 15%** | Mismo impuesto que todos los demás | No hay exención. 15% ya es más bajo que lo que pagas en España (45%), EE.UU. (37%), Chile (35%) o Colombia (39%). **Eso ES el incentivo fiscal** |

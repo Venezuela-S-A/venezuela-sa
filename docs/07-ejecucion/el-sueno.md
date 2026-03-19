@@ -409,7 +409,7 @@ xychart-beta
 | Dividendo directo del fondo | USD 65 | 10% de retornos del fondo |
 | Salud (FCV Salud: 7% contribución) | USD 250-400 | Cobertura universal. Tramo A/B: sin copago. Tramo C: 10%. Tramo D: 20% |
 | Educación (voucher puntos K-12 + FCV Educación) | USD 200-350 | Voucher sigue al estudiante; +50% para bajos ingresos (SEP). Universidad por mérito |
-| Pensión (FCV Retiro: 8-10%) | USD 120-200 | Pilar 1 universal + Subcuenta Retiro del FCV |
+| Pensión (FCV Retiro: 7-9%) | USD 120-200 | Pilar 1 universal + Subcuenta Retiro del FCV |
 | Seguridad ciudadana | USD 100-150 | <20 homicidios/100K |
 | Internet 50+ Mbps | USD 50-100 | Tarifa de mercado (competencia 5G SA) |
 | **Valor total por ciudadano** | **USD 785-1.265/año** | **vs. USD ~180 hoy** |
@@ -531,7 +531,7 @@ En los primeros 15 años, solo 10% de retornos se distribuyen — el resto se re
 
 #### 3. Pensiones contributiva (Pilar 1)s bajan generacionalmente
 
-El plan implementa el [Fondo Ciudadano Venezuela (FCV)](/04-gobernanza/modelo-estado#fondo-ciudadano-venezuela-fcv-una-sola-cuenta-cero-burocracia) — cuenta unificada tipo [Singapur CPF](https://www.cpf.gov.sg/) con Subcuenta Retiro (8-10% del salario):
+El plan implementa el [Fondo Ciudadano Venezuela (FCV)](/04-gobernanza/modelo-estado#fondo-ciudadano-venezuela-fcv-una-sola-cuenta-cero-burocracia) — cuenta unificada tipo [Singapur CPF](https://www.cpf.gov.sg/) con Subcuenta Retiro (7-9% del salario):
 
 | Generación | Pensión contributiva (Pilar 1) (Pilar 1, impuestos) | Pensión contributiva (FCV Retiro) | Costo fiscal |
 |-----------|-------------------------------|---------------------------|-------------|

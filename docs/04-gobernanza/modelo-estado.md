@@ -180,7 +180,7 @@ Son **dos cosas distintas** que se complementan:
 
 | Subcuenta | % del salario | Para qué | Propiedad | Modelo |
 |-----------|--------------|----------|-----------|--------|
-| **Retiro** | 8% | Pensión al jubilarse | Del trabajador — nadie se la quita | [Singapur CPF Special Account](https://www.cpf.gov.sg/) |
+| **Retiro** | 7% | Pensión al jubilarse | Del trabajador — nadie se la quita | [Singapur CPF Special Account](https://www.cpf.gov.sg/) |
 | **Salud** | 7% | Hospitalización, medicamentos, copagos. Fase 1-5: 100% contributivo. Fase 5+: contributivo + ahorro individual | Contributivo (fase 1) → individual (fase 3) | [Chile FONASA](https://www.fonasa.cl/) → [Singapur MediSave](https://www.moh.gov.sg/) |
 | **Vivienda** | 4% | Pago inicial de vivienda propia. Crédito hipotecario | Del trabajador | [Singapur CPF Ordinary Account](https://www.cpf.gov.sg/) |
 | **Educación** | 2% | Universidad propia o de los hijos | Del trabajador | [Singapur CPF Education Scheme](https://www.cpf.gov.sg/) |
@@ -322,8 +322,8 @@ El FCV es una ventaja competitiva para atraer talento extranjero. Un ingeniero c
 |------|-------------------------------------|-------------------|-------------|-------------------|
 | **Emergencia** | PIB per cápita < USD 3.000 y/o informalidad > 60% | 14% | Retiro 8% + Salud 6% (100% contributivo) | Solo retiro y salud. Prioridad: cobertura básica |
 | **Estabilización** | PIB per cápita > USD 3.000 y formalización > 40% | 18% | Retiro 8% + Salud 6% + Vivienda 4% | Se abre subcuenta vivienda. Trabajadores empiezan a ahorrar para casa propia |
-| **Construcción** | PIB per cápita > USD 5.000 y formalización > 55% | 23% | Retiro 8% + Salud 7% + Vivienda 4% + Educación 2% + Cesantía 2% | Se abren educación y cesantía. Salud introduce Medisave individual |
-| **Madurez** | PIB per cápita > USD 8.000 y formalización > 70% | 27% | Retiro 10% + Salud 7% + Vivienda 5% + Educación 3% + Cesantía 2% | Sistema completo. Convergencia al modelo Singapur |
+| **Construcción** | PIB per cápita > USD 5.000 y formalización > 55% | 23% | Retiro 7% + Salud 7% + Vivienda 4% + Educación 2% + Cesantía 3% | Se abren educación y cesantía (mochila austriaca). Salud introduce Medisave individual |
+| **Madurez** | PIB per cápita > USD 8.000 y formalización > 70% | 27% | Retiro 9% + Salud 7% + Vivienda 5% + Educación 3% + Cesantía 3% | Sistema completo. Convergencia al modelo Singapur |
 
 :::tip Las fases se activan por KPIs, no por calendario
 **No se dice "en el año 7 se abre vivienda."** Se dice "cuando el PIB per cápita supere USD 3.000 y la formalización supere 40%, se abre vivienda." Si eso pasa en el año 4 porque la economía creció rápido → se acelera. Si tarda hasta el año 9 porque hubo crisis → se espera. **El plan se adapta a la realidad, no al revés.** Singapur no fijó fechas para el CPF — lo ajustó 50+ veces en 60 años según las condiciones reales.

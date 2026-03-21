@@ -91,45 +91,45 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| FNDN-01 | Pending | Pending |
-| FNDN-02 | Pending | Pending |
-| FNDN-03 | Pending | Pending |
-| FNDN-04 | Pending | Pending |
-| FNDN-05 | Pending | Pending |
-| FNDN-06 | Pending | Pending |
-| FNDN-07 | Pending | Pending |
-| FNDN-08 | Pending | Pending |
-| CONT-01 | Pending | Pending |
-| CONT-02 | Pending | Pending |
-| CONT-03 | Pending | Pending |
-| CONT-04 | Pending | Pending |
-| CONT-05 | Pending | Pending |
-| CONT-06 | Pending | Pending |
-| CONT-07 | Pending | Pending |
-| CONT-08 | Pending | Pending |
-| SOCL-01 | Pending | Pending |
-| SOCL-02 | Pending | Pending |
-| SOCL-03 | Pending | Pending |
-| SOCL-04 | Pending | Pending |
-| SOCL-05 | Pending | Pending |
-| SOCL-06 | Pending | Pending |
-| INTX-01 | Pending | Pending |
-| INTX-02 | Pending | Pending |
-| INTX-03 | Pending | Pending |
-| INTX-04 | Pending | Pending |
-| INTX-05 | Pending | Pending |
-| INTX-06 | Pending | Pending |
-| INTX-07 | Pending | Pending |
-| DUAL-01 | Pending | Pending |
-| DUAL-02 | Pending | Pending |
-| DUAL-03 | Pending | Pending |
-| DUAL-04 | Pending | Pending |
+| FNDN-01 | Phase 1 | Pending |
+| FNDN-02 | Phase 1 | Pending |
+| FNDN-03 | Phase 1 | Pending |
+| FNDN-04 | Phase 1 | Pending |
+| FNDN-05 | Phase 1 | Pending |
+| FNDN-06 | Phase 1 | Pending |
+| FNDN-07 | Phase 1 | Pending |
+| FNDN-08 | Phase 1 | Pending |
+| CONT-01 | Phase 2 | Pending |
+| CONT-02 | Phase 2 | Pending |
+| CONT-03 | Phase 2 | Pending |
+| CONT-04 | Phase 2 | Pending |
+| CONT-05 | Phase 2 | Pending |
+| CONT-06 | Phase 2 | Pending |
+| CONT-07 | Phase 2 | Pending |
+| CONT-08 | Phase 2 | Pending |
+| SOCL-01 | Phase 4 | Pending |
+| SOCL-02 | Phase 4 | Pending |
+| SOCL-03 | Phase 4 | Pending |
+| SOCL-04 | Phase 4 | Pending |
+| SOCL-05 | Phase 4 | Pending |
+| SOCL-06 | Phase 4 | Pending |
+| INTX-01 | Phase 3 | Pending |
+| INTX-02 | Phase 3 | Pending |
+| INTX-03 | Phase 3 | Pending |
+| INTX-04 | Phase 3 | Pending |
+| INTX-05 | Phase 3 | Pending |
+| INTX-06 | Phase 3 | Pending |
+| INTX-07 | Phase 3 | Pending |
+| DUAL-01 | Phase 5 | Pending |
+| DUAL-02 | Phase 5 | Pending |
+| DUAL-03 | Phase 5 | Pending |
+| DUAL-04 | Phase 5 | Pending |
 
 **Coverage:**
 - v1 requirements: 33 total
-- Mapped to phases: 0
-- Unmapped: 33 ⚠️
+- Mapped to phases: 33
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-21*
-*Last updated: 2026-03-21 after initial definition*
+*Last updated: 2026-03-21 after roadmap creation*

@@ -301,3 +301,251 @@ Resultados en `skills/evaluations/`. Formato universal: cualquier IDE/LLM puede 
 - **No agregar burocracia** — si la solución requiere un ministerio nuevo, replantear
 - **No hacer propaganda** — ni a favor ni en contra de ningún político
 - **No romper el build** — `npm run build` debe pasar antes de hacer PR
+
+<!-- GSD:project-start source:PROJECT.md -->
+## Project
+
+**Venezuela S.A. — PWA Ciudadana**
+
+Un libro interactivo en formato PWA mobile-first que reemplaza el sitio Docusaurus actual de Venezuela S.A. El plan se lee como un libro donde cada párrafo es comentable (estilo Medium), votable (acuerdo/desacuerdo) y compartible (deep links + image cards para redes sociales). Dashboards interactivos, simuladores y calculadoras están embebidos en el texto. Dos experiencias en una sola app vía toggle: ciudadanos venezolanos (español) e inversionistas (inglés, pitch interactivo). Supabase como backend para la capa social (comentarios, votos). Datos de dashboards en JSON/YAML estáticos. Contenido en markdown.
+
+**Core Value:** Un ciudadano venezolano con un teléfono Android de gama baja y conexión intermitente puede instalar la app, explorar el plan completo offline, simular su FCV personal y entender exactamente a dónde va cada dólar del petróleo.
+
+### Constraints
+
+- **Markdown source of truth**: Todo el contenido debe seguir viviendo en archivos markdown editables. La app renderiza markdown, no lo reemplaza.
+- **Supabase para capa social**: Comentarios, votos y analytics vía Supabase. Dashboards y contenido son estáticos (JSON/YAML). Deploy: Cloudflare Pages (estáticos) + Supabase (social).
+- **Performance budget**: First Contentful Paint < 2s en 3G, bundle JS < 200KB gzipped para la carga inicial.
+- **Offline-first**: Service worker cachea todo el contenido y datos. La app es funcional sin conexión.
+- **Fuentes verificables**: Toda data en los dashboards debe mantener la trazabilidad a la fuente original (organización + fecha + URL), igual que en el plan actual.
+- **Los 5 principios inviolables**: El contenido migrado debe mantener los principios del CLAUDE.md — cero datos inventados, precio base $60, timeline Rystad, apartidista.
+<!-- GSD:project-end -->
+
+<!-- GSD:stack-start source:codebase/STACK.md -->
+## Technology Stack
+
+## Languages
+- JavaScript (ES Modules) — All frontend components, pages, and configuration (`src/`, `docusaurus.config.js`, `sidebars.js`)
+- TypeScript — Supabase Edge Functions (`supabase/functions/ai-chat/index.ts`), runs on Deno
+- SQL (PostgreSQL) — Database schema and migrations (`supabase/migration.sql`, `supabase/migration-v2-suggestions.sql`, `supabase/migration-v3-analytics.sql`)
+- Bash — Tooling scripts (`scripts/quality-gate.sh`, `skills/evaluate.sh`)
+- Markdown — Documentation corpus (`docs/`, `i18n/`, 85+ source documents)
+## Runtime
+- Node.js 22 (pinned in CI via `.github/workflows/deploy.yml` `node-version: 22`)
+- Deno (Supabase Edge Functions runtime, no version pinned locally)
+- npm
+- Lockfile: `package-lock.json` present (lockfileVersion 3)
+- `postinstall` script runs `patch-package` automatically
+## Frameworks
+- Docusaurus v3 (`@docusaurus/core ^3.0.0`) — Static site generator, content framework, routing
+- React 18 (`react ^18.2.0`) — UI component layer
+- MDX v3 (`@mdx-js/react ^3.0.0`) — Markdown-with-React support (configured as plain `md` format in practice)
+- Not detected — no test framework configured, no test files found
+- Docusaurus CLI — `npm run start` (dev), `npm run build` (production static build)
+- `patch-package ^8.0.1` — Patches `docusaurus-graph` via `patches/docusaurus-graph+2.0.0.patch`
+## Key Dependencies
+- `@docusaurus/core ^3.0.0` — Core site framework; all routing, build, and plugin orchestration
+- `@docusaurus/preset-classic ^3.0.0` — Docs, sitemap, and theme in one preset
+- `@supabase/supabase-js ^2.99.2` — Database client used for auth, comments, reactions, suggestions, and analytics
+- `@mlc-ai/web-llm ^0.2.82` — In-browser LLM inference via WebGPU (model: `Llama-3.2-1B-Instruct-q4f16_1-MLC`); lazy-loaded on demand
+- `@docusaurus/theme-mermaid ^3.9.2` — Mermaid diagram rendering (enabled via `markdown.mermaid: true`)
+- `@cmfcmf/docusaurus-search-local ^2.0.1` — Offline, bilingual (es/en) full-text search with no external service
+- `@docusaurus/plugin-pwa ^3.9.2` — Progressive Web App support with offline mode
+- `@docusaurus/plugin-ideal-image ^3.9.2` — Responsive image optimization
+- `docusaurus-graph ^2.0.0` — Knowledge graph visualization (patched via `patches/`)
+- `@coffeecup_tech/docusaurus-plugin-structured-data ^1.0.2` — JSON-LD structured data for SEO
+- `prism-react-renderer ^2.1.0` — Code block syntax highlighting
+## Configuration
+- `.env` file present (never read — contains secrets). Template in `.env.example`
+- Required variable: `OPENROUTER_API_KEY` — used by `scripts/quality-gate.sh` and `skills/evaluate.sh`
+- Supabase connection is hardcoded as placeholder constants in `src/lib/supabase.js` — requires manual edit to deploy
+- Groq API key (`GROQ_API_KEY`) is a Supabase secret injected at runtime into the Edge Function `supabase/functions/ai-chat/index.ts`
+- `docusaurus.config.js` — Main config (ESM, `export default config`)
+- `sidebars.js` — Sidebar structure for docs
+- `markdown.format: "md"` — Disables MDX processing, plain Markdown only
+- `numberPrefixParser: false` — File names with numeric prefixes not stripped
+- `routeBasePath: "/"` — Docs serve at site root (no `/docs/` prefix)
+- `baseUrl: "/venezuela-sa/"` — Deployed under GitHub Pages subpath
+## Platform Requirements
+- Node.js 22+
+- npm (lockfile present — use `npm ci` for reproducible installs)
+- WebGPU-capable browser for offline AI chat feature (`@mlc-ai/web-llm`)
+- `jq` CLI tool — required by `scripts/quality-gate.sh`
+- `curl` — required by `scripts/quality-gate.sh`
+- `OPENROUTER_API_KEY` env var for quality gate script and AI evaluation tool
+- GitHub Pages (static hosting at `https://venezuela-s-a.github.io/venezuela-sa/`)
+- Supabase project (PostgreSQL + Auth + Edge Functions) for interactive features
+- Groq API key configured as Supabase secret for Edge Function AI chat
+<!-- GSD:stack-end -->
+
+<!-- GSD:conventions-start source:CONVENTIONS.md -->
+## Conventions
+
+## Language and Module System
+## Naming Patterns
+- React components: PascalCase matching the default export — `AIChatWidget.js`, `ReactionBar.js`, `StatsPanel.js`
+- Context providers: PascalCase — `AuthContext.js`
+- Utility/service modules: camelCase — `supabase.js`, `offlineAI.js`
+- Data modules: camelCase — `evaluations.js`, `faq.js`
+- Pages: camelCase matching the route — `simulador.js`, `evaluacion.js`, `sugerencias.js`
+- Event handlers: `handle` prefix — `handleSend`, `handleReaction`, `handleAuth`, `handleDelete`, `handleSubmit`
+- Data fetchers: `fetch` prefix — `fetchComments`, `fetchReactions`, `fetchProfile`, `fetchStats`
+- Utility/pure functions: camelCase descriptive — `slugToTitle`, `slugToUrl`, `aggregateBySlug`, `formatDate`, `fmt`, `fmtUSD`, `scoreColor`, `heatColor`
+- Boolean accessors: `is` prefix — `isConfigured`, `isModelLoaded`, `isWebGPUAvailable`
+- State variables: camelCase noun — `[loading, setLoading]`, `[mounted, setMounted]`, `[isOpen, setIsOpen]`
+- Constants (module-level, stable): SCREAMING_SNAKE_CASE — `WELCOME_MESSAGE`, `REACTIONS`, `TABS`, `MODEL_ID`, `SYSTEM_PROMPT`
+- Color palettes: single-letter object — `const C = { blue: '#1565C0', ... }`
+- BEM methodology with `vsa-` namespace prefix — `vsa-chat`, `vsa-chat__header`, `vsa-chat__bubble--assistant`
+- Component-scoped: `vsa-reactions`, `vsa-comments`, `vsa-stats`, `vsa-share-btn`
+- Components: always `export default function ComponentName`
+- Named exports for data/utilities: `export const`, `export function` from data modules (`evaluations.js`)
+- Context hooks: named export `export function useAuth()`
+## Component Structure Pattern
+## Import Organization
+- `@theme/` — Docusaurus theme components
+- `@theme-original/` — Docusaurus original (for swizzled components)
+- `@site/src/` — project root alias (used in theme swizzle files)
+- `../` — relative imports within src/
+## Error Handling
+## SSR Safety
+## Supabase Client Pattern
+- `src/lib/supabase.js` exports `getSupabase()` and `isConfigured()`
+- Every component that needs Supabase calls `getSupabase()` at the top of each operation
+- Components gate their render with `if (!isConfigured()) return null`
+## useCallback Pattern
+## Comments
+- Block separators using `// ============================================================` with ALL-CAPS label for major sections in large page files (`simulador.js`, `evaluacion.js`)
+- Explain non-obvious decisions inline: `// Silenciar errores — analytics no deben romper nada`
+- File-level header comment for non-component files describing purpose and setup steps
+- Inline `//` for strategy steps: `// 1. Online: Groq`, `// 2. FAQ cache`, etc.
+## Formatting
+- Single quotes for strings in `.js` files (except `simulador.js` and `evaluacion.js` which use double quotes — inconsistency)
+- 2-space indentation throughout
+- Trailing commas in multi-line structures
+- Arrow functions for simple callbacks, `function` declarations for named handlers inside components
+## Docusaurus-Specific Conventions
+- Config file: `docusaurus.config.js` uses `// @ts-check` and JSDoc type annotations (`/** @type {import('@docusaurus/types').Config} */`)
+- `markdown.format: "md"` (not MDX) — no JSX in `.md` files
+- `numberPrefixParser: false` — doc filenames use descriptive names only
+- `routeBasePath: "/"` — docs at root URL
+## Quality Gate
+<!-- GSD:conventions-end -->
+
+<!-- GSD:architecture-start source:ARCHITECTURE.md -->
+## Architecture
+
+## Pattern Overview
+- Docusaurus v3 generates a fully static site deployed to GitHub Pages
+- Supabase provides database and auth without a custom server
+- Supabase Edge Functions (Deno/TypeScript) host the only server-side logic
+- The React layer adds interactive features on top of rendered Markdown content
+- Offline capability is baked in: PWA service worker + WebGPU-based local LLM fallback
+## Layers
+- Purpose: Source of truth — the actual plan text
+- Location: `docs/`
+- Contains: Markdown files organized by numbered thematic chapters; no MDX
+- Depends on: Docusaurus build pipeline
+- Used by: Docusaurus renderer, sidebar config
+- Purpose: Converts Markdown + React pages into static HTML/JS bundles
+- Location: `docusaurus.config.js`, `sidebars.js`
+- Contains: Plugin config, theme config, sidebar tree, i18n settings
+- Depends on: Content layer + component layer
+- Used by: CI/CD pipeline (`npm run build`)
+- Purpose: Interactive React UI injected into the static shell
+- Location: `src/components/`, `src/pages/`, `src/theme/`
+- Contains: Custom components, standalone pages (simulador, estadisticas, evaluacion, sugerencias), Docusaurus theme swizzles
+- Depends on: Auth context, Supabase lib, data files
+- Used by: Docusaurus theme rendering
+- Purpose: Global auth state shared across components
+- Location: `src/contexts/AuthContext.js`
+- Contains: React Context + useReducer pattern wrapping Supabase auth
+- Depends on: `src/lib/supabase.js`
+- Used by: `ReactionBar`, `CommentSection`, `SuggestionSection`, `StatsPanel`
+- Purpose: Singleton client for Supabase; graceful no-op when unconfigured
+- Location: `src/lib/supabase.js`
+- Contains: `getSupabase()` (lazy singleton), `isConfigured()` guard
+- Depends on: `@supabase/supabase-js`, environment-baked URL/anon key
+- Used by: All interactive components and the AnalyticsTracker
+- Purpose: Client-side data not requiring a database
+- Location: `src/data/`
+- Contains: `evaluations.js` (score history, 65 perspectives metadata), `faq.js` (FAQ for offline chat)
+- Depends on: Nothing external
+- Used by: `/evaluacion` page, AI chat widget offline fallback
+- Purpose: Browser-native LLM for fully offline chat
+- Location: `src/lib/offlineAI.js`
+- Contains: WebGPU detection, `@mlc-ai/web-llm` engine management, `loadModel()`, `chat()`
+- Depends on: `@mlc-ai/web-llm` (lazy dynamic import, ~700MB download on first use)
+- Used by: `AIChatWidget` (tertiary fallback after Groq and FAQ)
+- Purpose: Server-side AI proxy — keeps Groq API key out of the browser
+- Location: `supabase/functions/ai-chat/index.ts`
+- Contains: Deno `serve()` handler, Groq API call using `llama-3.3-70b-versatile`, CORS headers
+- Depends on: `GROQ_API_KEY` Supabase secret
+- Used by: `AIChatWidget.tryOnline()`
+- Purpose: Persistent storage for user-generated content and analytics
+- Location: `supabase/migration.sql`, `supabase/migration-v2-suggestions.sql`, `supabase/migration-v3-analytics.sql`
+- Contains: Tables `profiles`, `comments`, `reactions`, `suggestions`, `page_views`; RLS policies on all tables
+- Depends on: Supabase PostgreSQL (hosted)
+- Used by: All interactive components via `getSupabase()`
+## Data Flow
+- No global state manager (no Redux/Zustand). Auth is the only global state, via React Context
+- Component-local `useState` for all other UI state (reactions, comments, chat messages)
+- Supabase is the source of truth for all persistent state
+## Key Abstractions
+- Purpose: Lazy Supabase client, returns `null` when unconfigured (dev without credentials)
+- Examples: `src/lib/supabase.js`
+- Pattern: Every component checks `isConfigured()` or nullchecks `getSupabase()` before any DB call. This makes all interactive features gracefully degrade to read-only.
+- Purpose: Composites all per-page interactive widgets (reactions, suggestions, comments, share, export)
+- Examples: `src/components/InteractiveFooter.js`
+- Pattern: Injected into every doc page via Docusaurus layout swizzle — zero per-doc configuration needed
+- Purpose: Stable identifier derived from URL pathname used as the foreign key across all user-generated content tables
+- Pattern: `pathname.replace('/venezuela-sa/', '').replace(/\/$/, '') || 'home'` — computed identically in every component that touches Supabase
+- Purpose: AI prompt library for domain experts and ideological perspectives used to evaluate plan sections
+- Examples: `skills/experts/`, `skills/perspectives/`
+- Pattern: Each skill is a standalone Markdown prompt file. `skills/evaluate.sh` and `skills/evaluate-full.sh` send any skill + doc section to multiple AI APIs in parallel via OpenRouter. Not part of the runtime site.
+- Purpose: Automated guardrail that rejects git commits/PRs that would lower the plan's score below 7.4/10
+- Examples: `scripts/quality-gate.sh`, `.github/workflows/quality-gate.yml`
+- Pattern: Shell script calls OpenRouter API with a structured prompt, parses JSON verdict, exits non-zero on FAIL
+## Entry Points
+- Location: `docusaurus.config.js`
+- Triggers: `npm run build` / `npm start`
+- Responsibilities: Wires plugins, themes, i18n, presets, navbar, sidebar path
+- Location: `src/theme/Root.js`
+- Triggers: Every page load in the browser
+- Responsibilities: Wraps all pages in `AuthProvider`, mounts `AnalyticsTracker` and `AIChatWidget` globally
+- Location: `src/theme/DocItem/Layout/index.js`
+- Triggers: Every documentation page render
+- Responsibilities: Appends `InteractiveFooter` after Docusaurus's default doc layout
+- Location: `sidebars.js`
+- Triggers: Docusaurus build
+- Responsibilities: Defines the full navigation tree; adding a new doc requires a manual entry here
+- Location: `supabase/functions/ai-chat/index.ts`
+- Triggers: HTTP POST from `AIChatWidget.tryOnline()` via `supabase.functions.invoke()`
+- Responsibilities: CORS, Groq API proxy, error handling
+## Error Handling
+- `getSupabase()` returns `null` when URL contains placeholder; all callers nullcheck before use
+- `AnalyticsTracker` wraps Supabase calls in `try/catch` with empty catch blocks (analytics never throw)
+- `AIChatWidget` has a three-tier fallback: Groq → FAQ → WebLLM → static error message
+- Edge Function returns structured `{ error }` JSON with appropriate HTTP status codes; widget surfaces these as inline error text
+- `quality-gate.sh` exits 0 (allow commit) on API errors to avoid blocking contributors when the gate itself fails
+## Cross-Cutting Concerns
+<!-- GSD:architecture-end -->
+
+<!-- GSD:workflow-start source:GSD defaults -->
+## GSD Workflow Enforcement
+
+Before using Edit, Write, or other file-changing tools, start work through a GSD command so planning artifacts and execution context stay in sync.
+
+Use these entry points:
+- `/gsd:quick` for small fixes, doc updates, and ad-hoc tasks
+- `/gsd:debug` for investigation and bug fixing
+- `/gsd:execute-phase` for planned phase work
+
+Do not make direct repo edits outside a GSD workflow unless the user explicitly asks to bypass it.
+<!-- GSD:workflow-end -->
+
+<!-- GSD:profile-start -->
+## Developer Profile
+
+> Profile not yet configured. Run `/gsd:profile-user` to generate your developer profile.
+> This section is managed by `generate-claude-profile` -- do not edit manually.
+<!-- GSD:profile-end -->

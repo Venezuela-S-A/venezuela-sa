@@ -30,11 +30,12 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. User can turn off network (airplane mode) and the app shell still loads and navigates
   4. First Contentful Paint is under 2 seconds on a simulated 3G connection (Lighthouse audit)
   5. Initial JS bundle is under 200KB gzipped (CI gate enforced)
-**Plans**: TBD
+**Plans**: 3 plans
 
 Plans:
-- [ ] 01-01: TBD
-- [ ] 01-02: TBD
+- [ ] 01-01-PLAN.md — SvelteKit scaffold, design system tokens, app shell with tabs + header + theme toggle
+- [ ] 01-02-PLAN.md — Home hero content, tab teasers (ComingSoon), onboarding overlay, install button
+- [ ] 01-03-PLAN.md — PWA config (@vite-pwa), service worker, pull-to-refresh, bundle size CI gate
 
 ### Phase 2: Content Migration
 **Goal**: A citizen can read the entire plan as a book — every existing Docusaurus page is accessible, searchable offline, and navigable sequentially
@@ -108,7 +109,7 @@ Note: Phase 3 and Phase 4 both depend on Phase 2 (not on each other). They could
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 0/? | Not started | - |
+| 1. Foundation | 0/3 | Planning complete | - |
 | 2. Content Migration | 0/? | Not started | - |
 | 3. Interactive Features | 0/? | Not started | - |
 | 4. Social Layer | 0/? | Not started | - |

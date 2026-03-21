@@ -2,7 +2,7 @@
 
 ## What This Is
 
-Una Progressive Web App mobile-first que reemplaza el sitio Docusaurus actual de Venezuela S.A. Dos experiencias en una sola app: ciudadanos venezolanos (español, dashboards de progreso, calculadora FCV, métricas país) e inversionistas (inglés, proyecciones financieras, pitch interactivo). Los 50+ documentos markdown existentes se migran como contenido legible, y los datos duros se transforman en dashboards interactivos con datos estáticos en JSON/YAML.
+Un libro interactivo en formato PWA mobile-first que reemplaza el sitio Docusaurus actual de Venezuela S.A. El plan se lee como un libro donde cada párrafo es comentable (estilo Medium), votable (acuerdo/desacuerdo) y compartible (deep links + image cards para redes sociales). Dashboards interactivos, simuladores y calculadoras están embebidos en el texto. Dos experiencias en una sola app vía toggle: ciudadanos venezolanos (español) e inversionistas (inglés, pitch interactivo). Supabase como backend para la capa social (comentarios, votos). Datos de dashboards en JSON/YAML estáticos. Contenido en markdown.
 
 ## Core Value
 
@@ -31,11 +31,11 @@ Un ciudadano venezolano con un teléfono Android de gama baja y conexión interm
 
 ### Out of Scope
 
-- Backend/API en vivo — los datos son estáticos por ahora, se añade API cuando haya datos reales
 - App nativa (iOS/Android) — PWA cubre ambas plataformas
-- Autenticación/cuentas de usuario — no hay estado personal que guardar (aún)
 - CMS o panel de administración — el contenido se actualiza vía git
 - Datos en tiempo real — todo es estático/proyecciones hasta que exista la infraestructura real
+- Autenticación completa (registro, login) — v1 usa anonymous sessions de Supabase para comentarios/votos
+- AI chatbot in-app — contradice el target de 2GB RAM
 
 ## Context
 
@@ -50,7 +50,7 @@ Un ciudadano venezolano con un teléfono Android de gama baja y conexión interm
 ## Constraints
 
 - **Markdown source of truth**: Todo el contenido debe seguir viviendo en archivos markdown editables. La app renderiza markdown, no lo reemplaza.
-- **Sin backend**: v1 es 100% estático. Datos en JSON/YAML. Deployable en cualquier CDN (Vercel, Netlify, Cloudflare Pages).
+- **Supabase para capa social**: Comentarios, votos y analytics vía Supabase. Dashboards y contenido son estáticos (JSON/YAML). Deploy: Cloudflare Pages (estáticos) + Supabase (social).
 - **Performance budget**: First Contentful Paint < 2s en 3G, bundle JS < 200KB gzipped para la carga inicial.
 - **Offline-first**: Service worker cachea todo el contenido y datos. La app es funcional sin conexión.
 - **Fuentes verificables**: Toda data en los dashboards debe mantener la trazabilidad a la fuente original (organización + fecha + URL), igual que en el plan actual.

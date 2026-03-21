@@ -34,7 +34,7 @@ Declared values (multiples of 4):
 | Token | CSS Variable | Value | Usage |
 |-------|-------------|-------|-------|
 | xs | `--vsa-space-xs` | 4px | Icon gaps, inline padding, badge internal padding |
-| sm | `--vsa-space-sm` | 8px | Compact element spacing, tab bar icon-to-label gap |
+| sm | `--vsa-space-sm` | 8px | Compact element spacing, tab bar icon-to-label gap, onboarding dots gap |
 | md | `--vsa-space-md` | 16px | Default element spacing, card padding, tab bar side padding |
 | lg | `--vsa-space-lg` | 24px | Section padding, card internal spacing, onboarding slide padding |
 | xl | `--vsa-space-xl` | 32px | Layout gaps, spacing between Home hero and stats card |
@@ -45,7 +45,7 @@ Exceptions:
 - Tab bar height: 56px (44px touch target + 12px safe area padding for notch devices)
 - Touch targets: minimum 44x44px for all interactive elements (WCAG 2.5.5)
 - Header height: 48px
-- Onboarding dots: 8px diameter, 12px gap between dots
+- Onboarding dots: 8px diameter, 8px gap between dots (`--vsa-space-sm`)
 
 **Source:** CONTEXT.md Claude's Discretion (spacing system), RESEARCH.md Pattern 2 (proposed scale)
 
@@ -55,16 +55,12 @@ Exceptions:
 
 | Role | CSS Variable | Size | Weight | Line Height | Usage |
 |------|-------------|------|--------|-------------|-------|
-| Caption | `--vsa-font-size-xs` | 12px (0.75rem) | 400 (regular) | 1.4 | Badge text ("Proximamente"), tab labels, metadata |
-| Body | `--vsa-font-size-base` | 16px (1rem) | 400 (regular) | 1.5 | Teaser descriptions, onboarding body text, general content |
-| Subheading | `--vsa-font-size-lg` | 18px (1.125rem) | 600 (semibold) | 1.3 | Card titles, stats labels, onboarding titles |
-| Heading | `--vsa-font-size-2xl` | 24px (1.5rem) | 700 (bold) | 1.2 | Home tagline, section headings |
-| Display | `--vsa-font-size-3xl` | 32px (2rem) | 700 (bold) | 1.1 | Hero stat numbers (303B, $60, 3M), onboarding large numbers |
+| Caption | `--vsa-font-size-xs` | 12px (0.75rem) | 400 (regular) | 1.4 | Badge text ("Proximamente"), tab labels, metadata, stat source labels, install button label |
+| Body | `--vsa-font-size-base` | 16px (1rem) | 400 (regular) | 1.5 | Teaser descriptions, onboarding body text, general content, secondary text, app name in header |
+| Subheading | `--vsa-font-size-lg` | 20px (1.25rem) | 600 (semibold) | 1.3 | Card titles, stats labels, onboarding titles, section headings |
+| Display | `--vsa-font-size-2xl` | 28px (1.75rem) | 600 (semibold) | 1.2 | Home tagline, hero stat numbers (303B, $60, 3M), onboarding large numbers |
 
-Additional size for intermediate use:
-- `--vsa-font-size-sm`: 14px (0.875rem), weight 400, line-height 1.5 — install button label, secondary text, stat source labels
-
-Font weights used: 400 (regular) and 600/700 (semibold/bold). Maximum 2 weight files, but since system fonts are used, no file download occurs.
+Font weights used: 400 (regular) and 600 (semibold). Since system fonts are used, no file download occurs.
 
 **Source:** CONTEXT.md D-07 (system fonts), RESEARCH.md Pattern 2 (proposed sizes)
 
@@ -131,13 +127,13 @@ Accent reserved for: primary CTA button ("Explorar el plan"), active tab indicat
 | Component | States | Key Visual Rules |
 |-----------|--------|-----------------|
 | TabBar | 4 tabs, 1 active at a time | Fixed bottom, 56px height. Active tab: accent icon (filled) + accent label. Inactive: `--vsa-text-secondary` icon (outline) + label. Background: `--vsa-bg-secondary`. Top border: 1px `--vsa-border` |
-| InstallButton | visible / hidden / installed | Pill shape (`radius-full`), background `--vsa-accent`, text white, 14px font. Shows `Download` Lucide icon + "Instalar app". Hidden when standalone or after install. Positioned in header, right-aligned |
-| Onboarding | 3 slides + dots + skip/start | Full-screen overlay, `--vsa-bg-primary` background. Slide: centered icon (48px emoji), title (24px bold), body (16px regular). Dots: 8px circles, active = accent, inactive = `--vsa-text-secondary` at 30% opacity. "Saltar" top-right 14px text button. "Empezar" bottom CTA on last slide only |
-| ComingSoon | per-tab teaser | Centered in viewport. Lucide icon 48px in accent-subtle circle (64px). Title: 18px semibold. Description: 16px regular, `--vsa-text-secondary`. Badge: caption text, accent-subtle background, radius-sm, "Proximamente - Fase X" |
-| Home Hero | static | Logo placeholder (flag emoji, 64px), tagline: "40M accionistas. Un plan. Tu pais." at 24px bold. Below: stats card with 3 columns (303B bbl, USD 60, 3M bpd), each with display number + caption source. CTA button full-width pill |
+| InstallButton | visible / hidden / installed | Pill shape (`radius-full`), background `--vsa-accent`, text white, 12px caption font. Shows `Download` Lucide icon + "Instalar app". Hidden when standalone or after install. Positioned in header, right-aligned |
+| Onboarding | 3 slides + dots + skip/start | Full-screen overlay, `--vsa-bg-primary` background. Slide: centered icon (48px emoji), title (20px semibold), body (16px regular). Dots: 8px circles, 8px gap (`--vsa-space-sm`), active = accent, inactive = `--vsa-text-secondary` at 30% opacity. "Saltar" top-right 12px caption text button. "Empezar" bottom CTA on last slide only |
+| ComingSoon | per-tab teaser | Centered in viewport. Lucide icon 48px in accent-subtle circle (64px). Title: 20px semibold. Description: 16px regular, `--vsa-text-secondary`. Badge: caption text (12px), accent-subtle background, radius-sm, "Proximamente - Fase X" |
+| Home Hero | static | Logo placeholder (flag emoji, 64px), tagline: "40M accionistas. Un plan. Tu pais." at 28px semibold. Below: stats card with 3 columns (303B bbl, USD 60, 3M bpd), each with display number (28px semibold) + caption source (12px). CTA button full-width pill |
 | ThemeToggle | dark / light | Icon-only button in header (Sun/Moon Lucide icons). 44px touch target. No label. Transition icon with 200ms ease |
 | PullToRefresh | idle / pulling / refreshing | Invisible until pull. Shows accent-colored spinner at top of viewport during refresh. Snap back with 200ms ease-out |
-| Header | fixed top | 48px height. Background `--vsa-bg-secondary`. Contains app name left (16px semibold) + ThemeToggle + InstallButton right. Bottom border: 1px `--vsa-border` |
+| Header | fixed top | 48px height. Background `--vsa-bg-secondary`. Contains app name left (16px semibold weight 600) + ThemeToggle + InstallButton right. Bottom border: 1px `--vsa-border` |
 
 ---
 

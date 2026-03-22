@@ -3,13 +3,13 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: unknown
-stopped_at: Completed 01-01-PLAN.md
-last_updated: "2026-03-22T02:38:05.954Z"
+stopped_at: Completed 01-02-PLAN.md
+last_updated: "2026-03-22T02:44:18.210Z"
 progress:
   total_phases: 5
   completed_phases: 0
   total_plans: 4
-  completed_plans: 2
+  completed_plans: 3
 ---
 
 # Project State
@@ -24,7 +24,7 @@ See: .planning/PROJECT.md (updated 2026-03-21)
 ## Current Position
 
 Phase: 01 (foundation) — EXECUTING
-Plan: 3 of 4
+Plan: 4 of 4
 
 ## Performance Metrics
 
@@ -48,6 +48,7 @@ Plan: 3 of 4
 *Updated after each plan completion*
 | Phase 01 P00 | 2min | 1 tasks | 4 files |
 | Phase 01 P01 | 7min | 2 tasks | 15 files |
+| Phase 01 P02 | 2min | 2 tasks | 10 files |
 
 ## Accumulated Context
 
@@ -63,6 +64,9 @@ Recent decisions affecting current work:
 - [Phase 01]: Test stubs use test.todo() for expected behavior + one real passing test per describe for Vitest discoverability
 - [Phase 01]: mode-watcher configured with lightClassNames=[light] darkClassNames=[] for dark-first token pattern
 - [Phase 01]: TabBar nav element uses svelte-ignore for a11y role warning - valid WAI-ARIA pattern
+- [Phase 01]: Onboarding uses CSS scroll-snap with native scrolling instead of carousel library (0KB JS)
+- [Phase 01]: InstallButton visible only when actionable (beforeinstallprompt fired, not standalone)
+- [Phase 01]: Layout gates onboarding vs app shell (replaces, not overlays) for clean first-time UX
 
 ### Pending Todos
 
@@ -76,6 +80,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T02:38:05.949Z
-Stopped at: Completed 01-01-PLAN.md
+Last session: 2026-03-22T02:44:18.206Z
+Stopped at: Completed 01-02-PLAN.md
 Resume file: None

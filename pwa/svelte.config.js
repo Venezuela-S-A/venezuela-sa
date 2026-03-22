@@ -1,24 +1,27 @@
-import adapter from '@sveltejs/adapter-static';
-import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
+import adapter from "@sveltejs/adapter-static";
+import { vitePreprocess } from "@sveltejs/vite-plugin-svelte";
+import { mdsvex } from "mdsvex";
+import mdsvexConfig from "./mdsvex.config.js";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-  preprocess: vitePreprocess(),
+  extensions: [".svelte", ".md"],
+  preprocess: [vitePreprocess(), mdsvex(mdsvexConfig)],
   kit: {
     adapter: adapter({
-      pages: 'build',
-      assets: 'build',
-      fallback: '200.html',
+      pages: "build",
+      assets: "build",
+      fallback: "200.html",
       precompress: true,
-      strict: true
+      strict: true,
     }),
     serviceWorker: {
-      register: false
+      register: false,
     },
     paths: {
-      base: ''
-    }
-  }
+      base: "",
+    },
+  },
 };
 
 export default config;

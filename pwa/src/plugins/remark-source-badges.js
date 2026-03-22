@@ -1,4 +1,4 @@
-import { visit } from 'unist-util-visit';
+import { visit } from "unist-util-visit";
 
 /**
  * Source organization classification map.
@@ -6,21 +6,66 @@ import { visit } from 'unist-util-visit';
  * where $lib/ aliases are not available.
  */
 const SOURCE_ORGS = {
-  multilateral: ['FMI', 'IMF', 'BM', 'World Bank', 'Banco Mundial', 'ONU', 'UN', 'UNHCR', 'ACNUR', 'OECD', 'OCDE', 'BID', 'CAF', 'CEPAL'],
-  energy: ['OPEP', 'OPEC', 'Rystad', 'Rystad Energy', 'EIA', 'IEA', 'PDVSA', 'Guri'],
-  media: ['Reuters', 'CNBC', 'Bloomberg', 'Mongabay', 'Financial Times', 'NYT', 'New York Times', 'BBC', 'AP', 'El Pais'],
-  academic: ['AidData', 'Columbia', 'RAND', 'Harvard', 'MIT', 'Oxford', 'Brookings', 'CSIS', 'Carnegie'],
-  projection: ['Proyeccion VSA', 'Proyecciones propias', 'Venezuela S.A.'],
+  multilateral: [
+    "FMI",
+    "IMF",
+    "BM",
+    "World Bank",
+    "Banco Mundial",
+    "ONU",
+    "UN",
+    "UNHCR",
+    "ACNUR",
+    "OECD",
+    "OCDE",
+    "BID",
+    "CAF",
+    "CEPAL",
+  ],
+  energy: [
+    "OPEP",
+    "OPEC",
+    "Rystad",
+    "Rystad Energy",
+    "EIA",
+    "IEA",
+    "PDVSA",
+    "Guri",
+  ],
+  media: [
+    "Reuters",
+    "CNBC",
+    "Bloomberg",
+    "Mongabay",
+    "Financial Times",
+    "NYT",
+    "New York Times",
+    "BBC",
+    "AP",
+    "El Pais",
+  ],
+  academic: [
+    "AidData",
+    "Columbia",
+    "RAND",
+    "Harvard",
+    "MIT",
+    "Oxford",
+    "Brookings",
+    "CSIS",
+    "Carnegie",
+  ],
+  projection: ["Proyeccion VSA", "Proyecciones propias", "Venezuela S.A."],
 };
 
 function classifyByOrg(orgName) {
   const normalized = orgName.trim().toLowerCase();
   for (const [type, orgs] of Object.entries(SOURCE_ORGS)) {
-    if (orgs.some(org => normalized.includes(org.toLowerCase()))) {
+    if (orgs.some((org) => normalized.includes(org.toLowerCase()))) {
       return type;
     }
   }
-  return 'media'; // Default fallback for unknown sources
+  return "media"; // Default fallback for unknown sources
 }
 
 /**
@@ -29,15 +74,15 @@ function classifyByOrg(orgName) {
  */
 export function remarkSourceBadges() {
   return (tree) => {
-    visit(tree, 'paragraph', (node, index, parent) => {
+    visit(tree, "paragraph", (node, index, parent) => {
       const sources = [];
 
       // Find link nodes whose text matches known source organizations
-      visit(node, 'link', (linkNode) => {
+      visit(node, "link", (linkNode) => {
         const linkText = linkNode.children
-          .filter(c => c.type === 'text')
-          .map(c => c.value)
-          .join('');
+          .filter((c) => c.type === "text")
+          .map((c) => c.value)
+          .join("");
 
         if (!linkText) return;
 
@@ -52,11 +97,16 @@ export function remarkSourceBadges() {
 
       if (sources.length === 0) return;
 
-      const orgNames = sources.map(s => s.organization).join(', ');
-      const sourcesJson = JSON.stringify(sources).replace(/'/g, '&#39;');
+      const orgNames = sources.map((s) => s.organization).join(", ");
+      // Escape curly braces as HTML entities so mdsvex does not interpret them
+      // as Svelte template expressions, then also escape single quotes for the attribute.
+      const sourcesJson = JSON.stringify(sources)
+        .replace(/\{/g, "&#123;")
+        .replace(/\}/g, "&#125;")
+        .replace(/'/g, "&#39;");
 
       const badgeNode = {
-        type: 'html',
+        type: "html",
         value: `<span class="vsa-source-badge" role="button" tabindex="0" aria-label="Fuente: ${orgNames}. Toca para ver detalles." data-sources='${sourcesJson}'>${orgNames}</span>`,
       };
 

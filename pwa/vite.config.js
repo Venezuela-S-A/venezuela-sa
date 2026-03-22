@@ -3,6 +3,12 @@ import { SvelteKitPWA } from "@vite-pwa/sveltekit";
 import { defineConfig } from "vite";
 
 export default defineConfig({
+  build: {
+    rollupOptions: {
+      // Pagefind JS is generated post-build and loaded at runtime — not available during SSR
+      external: ["/pagefind/pagefind.js"],
+    },
+  },
   plugins: [
     sveltekit(),
     SvelteKitPWA({

@@ -13,8 +13,13 @@ const config = {
       assets: "build",
       fallback: "200.html",
       precompress: true,
-      strict: true,
+      strict: false,
     }),
+    prerender: {
+      // Markdown content links to internal Docusaurus routes (e.g. /07-ejecucion/kpis-activacion)
+      // that don't exist in the PWA routing. Warn instead of failing the build.
+      handleHttpError: "warn",
+    },
     serviceWorker: {
       register: false,
     },

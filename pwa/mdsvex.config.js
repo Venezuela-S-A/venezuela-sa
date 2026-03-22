@@ -1,37 +1,42 @@
-import { remarkMermaidStatic } from './src/plugins/remark-mermaid-static.js';
-import remarkDirective from 'remark-directive';
-import remarkCalloutDirectives from '@microflash/remark-callout-directives';
-import { remarkSourceBadges } from './src/plugins/remark-source-badges.js';
-import rehypeSlug from 'rehype-slug';
-import rehypeAutolinkHeadings from 'rehype-autolink-headings';
-import { rehypeParagraphIds } from './src/plugins/rehype-paragraph-ids.js';
-import { rehypeTableWrapper } from './src/plugins/rehype-table-wrapper.js';
+import { remarkEscapeAngles } from "./src/plugins/remark-escape-angles.js";
+import { remarkMermaidStatic } from "./src/plugins/remark-mermaid-static.js";
+import remarkDirective from "remark-directive";
+import remarkCalloutDirectives from "@microflash/remark-callout-directives";
+import { remarkSourceBadges } from "./src/plugins/remark-source-badges.js";
+import rehypeSlug from "rehype-slug";
+import rehypeAutolinkHeadings from "rehype-autolink-headings";
+import { rehypeParagraphIds } from "./src/plugins/rehype-paragraph-ids.js";
+import { rehypeTableWrapper } from "./src/plugins/rehype-table-wrapper.js";
 
 /** @type {import('mdsvex').MdsvexOptions} */
 const config = {
-  extensions: ['.md'],
+  extensions: [".md"],
   remarkPlugins: [
+    remarkEscapeAngles,
     remarkMermaidStatic,
     remarkDirective,
-    [remarkCalloutDirectives, {
-      aliases: {
-        danger: 'deter',
-        info: 'note',
-        tip: 'commend',
-        caution: 'deter',
-        warning: 'warn',
+    [
+      remarkCalloutDirectives,
+      {
+        aliases: {
+          danger: "deter",
+          info: "note",
+          tip: "commend",
+          caution: "deter",
+          warning: "warn",
+        },
       },
-    }],
+    ],
     remarkSourceBadges,
   ],
   rehypePlugins: [
     rehypeSlug,
-    [rehypeAutolinkHeadings, { behavior: 'wrap' }],
+    [rehypeAutolinkHeadings, { behavior: "prepend" }],
     rehypeParagraphIds,
     rehypeTableWrapper,
   ],
   smartypants: {
-    dashes: 'oldschool',
+    dashes: "oldschool",
   },
 };
 

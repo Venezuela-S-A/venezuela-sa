@@ -1,0 +1,135 @@
+/* Venezuela S.A. PWA — Article Typography
+   Maps markdown heading levels to design tokens per UI-SPEC.
+   Applied to .vsa-article container. */
+
+.vsa-article {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: var(--vsa-space-3xl) var(--vsa-space-md) var(--vsa-space-3xl);
+  color: var(--vsa-text-primary);
+  font-family: var(--vsa-font-family);
+  font-size: var(--vsa-font-size-base);
+  line-height: 1.5;
+}
+
+/* Heading hierarchy */
+.vsa-article h1 {
+  font-size: var(--vsa-font-size-2xl);
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 0 0 var(--vsa-space-lg);
+}
+
+.vsa-article h2 {
+  font-size: var(--vsa-font-size-lg);
+  font-weight: 600;
+  line-height: 1.3;
+  margin: var(--vsa-space-2xl) 0 var(--vsa-space-md);
+}
+
+.vsa-article h3 {
+  font-size: var(--vsa-font-size-lg);
+  font-weight: 600;
+  line-height: 1.3;
+  margin: var(--vsa-space-xl) 0 var(--vsa-space-sm);
+}
+
+.vsa-article h4 {
+  font-size: var(--vsa-font-size-base);
+  font-weight: 600;
+  line-height: 1.5;
+  margin: var(--vsa-space-lg) 0 var(--vsa-space-sm);
+}
+
+/* Body elements */
+.vsa-article p {
+  margin: 0 0 var(--vsa-space-md);
+}
+
+.vsa-article ul, .vsa-article ol {
+  margin: 0 0 var(--vsa-space-md);
+  padding-left: var(--vsa-space-lg);
+}
+
+.vsa-article li {
+  margin: 0 0 var(--vsa-space-sm);
+}
+
+.vsa-article blockquote {
+  margin: var(--vsa-space-md) 0;
+  padding: var(--vsa-space-md);
+  border-left: 3px solid var(--vsa-border);
+  color: var(--vsa-text-secondary);
+}
+
+/* Inline code */
+.vsa-article code {
+  font-size: 0.875em;
+  background: var(--vsa-bg-secondary);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* Code blocks */
+.vsa-article pre {
+  margin: var(--vsa-space-md) 0;
+  padding: var(--vsa-space-md);
+  background: var(--vsa-bg-secondary);
+  border-radius: var(--vsa-radius-sm);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.vsa-article pre code {
+  background: none;
+  padding: 0;
+  font-size: 0.875em;
+}
+
+/* Links */
+.vsa-article a {
+  color: var(--vsa-accent);
+  text-decoration: none;
+}
+
+.vsa-article a:hover {
+  text-decoration: underline;
+}
+
+/* Strong and emphasis */
+.vsa-article strong {
+  font-weight: 600;
+  color: var(--vsa-text-primary);
+}
+
+/* Images */
+.vsa-article img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--vsa-radius-sm);
+}
+
+/* Horizontal rule */
+.vsa-article hr {
+  border: none;
+  border-top: 1px solid var(--vsa-border);
+  margin: var(--vsa-space-2xl) 0;
+}
+
+/* Section spacing — between docs within continuous scroll */
+.vsa-article__section {
+  margin-bottom: var(--vsa-space-2xl);
+}
+
+.vsa-article__section + .vsa-article__section {
+  padding-top: var(--vsa-space-2xl);
+  border-top: 1px solid var(--vsa-border);
+}
+
+/* Responsive: < 360px */
+@media (max-width: 359px) {
+  .vsa-article {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}

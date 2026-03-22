@@ -42,6 +42,25 @@
   --vsa-font-size-lg: 1.25rem;     /* 20px — subheadings, card titles */
   --vsa-font-size-2xl: 1.75rem;    /* 28px — display, hero stats */
 
+  /* === Phase 2: Source Badge Colors (Dark) === */
+  --vsa-source-multilateral: #3B82F6;
+  --vsa-source-multilateral-bg: rgba(59, 130, 246, 0.12);
+  --vsa-source-energy: #10B981;
+  --vsa-source-energy-bg: rgba(16, 185, 129, 0.12);
+  --vsa-source-media: #A1A1AA;
+  --vsa-source-media-bg: rgba(161, 161, 170, 0.12);
+  --vsa-source-academic: #A78BFA;
+  --vsa-source-academic-bg: rgba(167, 139, 250, 0.12);
+  --vsa-source-projection: #10B981;
+  --vsa-source-projection-bg: rgba(16, 185, 129, 0.12);
+
+  /* === Phase 2: Admonition Colors (Dark) === */
+  --vsa-info: #3B82F6;
+  --vsa-info-bg: rgba(59, 130, 246, 0.08);
+  --vsa-warning: #F59E0B;
+  --vsa-warning-bg: rgba(245, 158, 11, 0.08);
+  --vsa-danger-bg: rgba(239, 68, 68, 0.08);
+
   color-scheme: dark;
 }
 
@@ -60,6 +79,25 @@
 
   --vsa-shadow-card: 0 2px 8px rgba(0, 0, 0, 0.06);
   --vsa-shadow-elevated: 0 4px 16px rgba(0, 0, 0, 0.1);
+
+  /* === Phase 2: Source Badge Colors (Light) === */
+  --vsa-source-multilateral: #2563EB;
+  --vsa-source-multilateral-bg: rgba(37, 99, 235, 0.08);
+  --vsa-source-energy: #059669;
+  --vsa-source-energy-bg: rgba(5, 150, 105, 0.08);
+  --vsa-source-media: #71717A;
+  --vsa-source-media-bg: rgba(113, 113, 122, 0.08);
+  --vsa-source-academic: #7C3AED;
+  --vsa-source-academic-bg: rgba(124, 58, 237, 0.08);
+  --vsa-source-projection: #059669;
+  --vsa-source-projection-bg: rgba(5, 150, 105, 0.08);
+
+  /* === Phase 2: Admonition Colors (Light) === */
+  --vsa-info: #2563EB;
+  --vsa-info-bg: rgba(37, 99, 235, 0.06);
+  --vsa-warning: #D97706;
+  --vsa-warning-bg: rgba(217, 119, 6, 0.06);
+  --vsa-danger-bg: rgba(220, 38, 38, 0.06);
 
   color-scheme: light;
 }

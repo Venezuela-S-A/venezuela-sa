@@ -1,5 +1,5 @@
 <div class="vsa-page">
-  <h1>Inicio</h1>
+  <h1>Dashboards</h1>
 </div>
 
 <style>

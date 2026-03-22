@@ -48,11 +48,14 @@ Plans:
   3. User can share a direct URL to any section or paragraph and the recipient lands on that exact content
   4. Admonitions (danger, info, tip, caution), Mermaid diagrams (as static SVG), and wide tables (horizontal scroll) render correctly on a 360px-wide screen
   5. Every data point shows its source (organization + date + URL) via tooltip or footnote
-**Plans**: TBD
+**Plans**: 5 plans
 
 Plans:
-- [ ] 02-01: TBD
-- [ ] 02-02: TBD
+- [ ] 02-00-PLAN.md — Wave 0: test stub scaffolding for all 8 CONT requirements
+- [ ] 02-01-PLAN.md — mdsvex pipeline, remark/rehype plugins, Mermaid build script, content data layer (chapters, sources, reading progress)
+- [ ] 02-02-PLAN.md — Content rendering components (Article, Admonition, SourceBadge, TableWrapper, DiagramViewer, ReadingProgress, ChapterHeader, ChapterSources)
+- [ ] 02-03-PLAN.md — Book landing page, chapter reader route, chapter navigation, Pagefind search, service worker update
+- [ ] 02-04-PLAN.md — Full build validation + human verification checkpoint
 
 ### Phase 3: Interactive Features
 **Goal**: A citizen can simulate their personal FCV, explore national dashboards, and track the plan's progress — all powered by static JSON data with verifiable sources
@@ -110,8 +113,8 @@ Note: Phase 3 and Phase 4 both depend on Phase 2 (not on each other). They could
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 0/4 | Complete    | 2026-03-22 |
-| 2. Content Migration | 0/? | Not started | - |
+| 1. Foundation | 4/4 | Complete    | 2026-03-22 |
+| 2. Content Migration | 0/5 | Not started | - |
 | 3. Interactive Features | 0/? | Not started | - |
 | 4. Social Layer | 0/? | Not started | - |
 | 5. Dual Experience | 0/? | Not started | - |

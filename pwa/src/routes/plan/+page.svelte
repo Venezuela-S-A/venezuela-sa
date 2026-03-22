@@ -1,11 +1,5 @@
 <script>
-  import ComingSoon from '$lib/components/ComingSoon.svelte';
-  import { BookOpen } from '@lucide/svelte';
+  import PlanLanding from '$lib/components/PlanLanding.svelte';
 </script>
 
-<ComingSoon
-  icon={BookOpen}
-  title="El plan completo"
-  description="85+ documentos con datos verificables. Cada numero tiene fuente."
-  phase={2}
-/>
+<PlanLanding />

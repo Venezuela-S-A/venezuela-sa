@@ -3,13 +3,13 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: unknown
-stopped_at: Completed 02-00-PLAN.md (Wave 0 test scaffolding)
-last_updated: "2026-03-22T13:14:36.977Z"
+stopped_at: Completed 02-01-PLAN.md
+last_updated: "2026-03-22T13:19:06.025Z"
 progress:
   total_phases: 5
   completed_phases: 1
   total_plans: 9
-  completed_plans: 5
+  completed_plans: 6
 ---
 
 # Project State
@@ -24,7 +24,7 @@ See: .planning/PROJECT.md (updated 2026-03-21)
 ## Current Position
 
 Phase: 02 (content-migration) — EXECUTING
-Plan: 2 of 5
+Plan: 3 of 5
 
 ## Performance Metrics
 
@@ -51,6 +51,7 @@ Plan: 2 of 5
 | Phase 01 P02 | 2min | 2 tasks | 10 files |
 | Phase 01 P03 | 4min | 2 tasks | 9 files |
 | Phase 02 P00 | 2min | 2 tasks | 8 files |
+| Phase 02 P01 | 5min | 2 tasks | 12 files |
 
 ## Accumulated Context
 
@@ -73,6 +74,9 @@ Recent decisions affecting current work:
 - [Phase 01]: Workbox generateSW with autoUpdate and navigateFallback 200.html for zero-config SW lifecycle
 - [Phase 01]: Bundle size CI gate using precompressed .gz files for accurate measurement (63KB actual vs 200KB budget)
 - [Phase 02]: Followed Phase 1 test stub pattern exactly: test.todo() for expected behaviors + one real passing test per describe for Vitest discoverability
+- [Phase 02]: remark-source-badges inlines classification logic (runs at Node build time, not SvelteKit)
+- [Phase 02]: Each doc belongs to exactly ONE chapter -- no duplication of cross-referenced sidebar docs
+- [Phase 02]: Mermaid build script uses execSync mmdc CLI for per-diagram error isolation
 
 ### Pending Todos
 
@@ -86,6 +90,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T13:14:36.971Z
-Stopped at: Completed 02-00-PLAN.md (Wave 0 test scaffolding)
+Last session: 2026-03-22T13:19:06.017Z
+Stopped at: Completed 02-01-PLAN.md
 Resume file: None

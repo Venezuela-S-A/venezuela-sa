@@ -13,7 +13,7 @@
 - [ ] **FNDN-04**: First Contentful Paint < 2s en conexión 3G
 - [ ] **FNDN-05**: Bundle JS inicial < 200KB gzipped
 - [x] **FNDN-06**: Dark mode que respeta preferencia del sistema + toggle manual
-- [ ] **FNDN-07**: SvelteKit 2 + Svelte 5 como framework base con adapter-static
+- [x] **FNDN-07**: SvelteKit 2 + Svelte 5 como framework base con adapter-static
 - [x] **FNDN-08**: Pull-to-refresh para verificar actualizaciones de datos cuando hay conexión
 
 ### Content
@@ -97,7 +97,7 @@
 | FNDN-04 | Phase 1 | Pending |
 | FNDN-05 | Phase 1 | Pending |
 | FNDN-06 | Phase 1 | Complete |
-| FNDN-07 | Phase 1 | Pending |
+| FNDN-07 | Phase 1 | Complete |
 | FNDN-08 | Phase 1 | Complete |
 | CONT-01 | Phase 2 | Pending |
 | CONT-02 | Phase 2 | Pending |

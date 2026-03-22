@@ -51,7 +51,7 @@ Plans:
 **Plans**: 5 plans
 
 Plans:
-- [ ] 02-00-PLAN.md — Wave 0: test stub scaffolding for all 8 CONT requirements
+- [x] 02-00-PLAN.md — Wave 0: test stub scaffolding for all 8 CONT requirements
 - [ ] 02-01-PLAN.md — mdsvex pipeline, remark/rehype plugins, Mermaid build script, content data layer (chapters, sources, reading progress)
 - [ ] 02-02-PLAN.md — Content rendering components (Article, Admonition, SourceBadge, TableWrapper, DiagramViewer, ReadingProgress, ChapterHeader, ChapterSources)
 - [ ] 02-03-PLAN.md — Book landing page, chapter reader route, chapter navigation, Pagefind search, service worker update

@@ -3,13 +3,13 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: unknown
-stopped_at: Completed 01-03-PLAN.md
-last_updated: "2026-03-22T03:03:46.973Z"
+stopped_at: Completed 02-00-PLAN.md (Wave 0 test scaffolding)
+last_updated: "2026-03-22T13:14:36.977Z"
 progress:
   total_phases: 5
   completed_phases: 1
-  total_plans: 4
-  completed_plans: 4
+  total_plans: 9
+  completed_plans: 5
 ---
 
 # Project State
@@ -19,12 +19,12 @@ progress:
 See: .planning/PROJECT.md (updated 2026-03-21)
 
 **Core value:** Un ciudadano venezolano con un telefono Android de gama baja puede instalar la app, leer el plan como un libro interactivo, comentar cada parrafo, simular su FCV y entender a donde va cada dolar del petroleo — offline.
-**Current focus:** Phase 01 — foundation
+**Current focus:** Phase 02 — content-migration
 
 ## Current Position
 
-Phase: 2
-Plan: Not started
+Phase: 02 (content-migration) — EXECUTING
+Plan: 2 of 5
 
 ## Performance Metrics
 
@@ -50,6 +50,7 @@ Plan: Not started
 | Phase 01 P01 | 7min | 2 tasks | 15 files |
 | Phase 01 P02 | 2min | 2 tasks | 10 files |
 | Phase 01 P03 | 4min | 2 tasks | 9 files |
+| Phase 02 P00 | 2min | 2 tasks | 8 files |
 
 ## Accumulated Context
 
@@ -71,6 +72,7 @@ Recent decisions affecting current work:
 - [Phase 01]: SvelteKitPWA wrapper used over raw VitePWA to avoid output directory mismatch with adapter-static
 - [Phase 01]: Workbox generateSW with autoUpdate and navigateFallback 200.html for zero-config SW lifecycle
 - [Phase 01]: Bundle size CI gate using precompressed .gz files for accurate measurement (63KB actual vs 200KB budget)
+- [Phase 02]: Followed Phase 1 test stub pattern exactly: test.todo() for expected behaviors + one real passing test per describe for Vitest discoverability
 
 ### Pending Todos
 
@@ -84,6 +86,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T02:46:08.054Z
-Stopped at: Completed 01-03-PLAN.md
+Last session: 2026-03-22T13:14:36.971Z
+Stopped at: Completed 02-00-PLAN.md (Wave 0 test scaffolding)
 Resume file: None

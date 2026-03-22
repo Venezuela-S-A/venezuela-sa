@@ -18,14 +18,14 @@
 
 ### Content
 
-- [ ] **CONT-01**: Migración completa de los 50+ docs markdown existentes como páginas legibles
-- [ ] **CONT-02**: Renderizado de admonitions (:::danger, :::info, :::tip, :::caution) vía remark plugins
-- [ ] **CONT-03**: Mermaid diagrams renderizados como SVG estático en build time (cero JS de Mermaid en el cliente)
-- [ ] **CONT-04**: Tablas markdown renderizadas con scroll horizontal en mobile
-- [ ] **CONT-05**: Fuente verificable en cada dato — tooltip o footnote con organización + fecha + URL
-- [ ] **CONT-06**: Deep links para cada sección y párrafo — cada elemento tiene su URL compartible
-- [ ] **CONT-07**: Búsqueda full-text offline sobre todo el contenido (Pagefind o Flexsearch)
-- [ ] **CONT-08**: Navegación secuencial tipo libro (anterior/siguiente) dentro de cada sección del plan
+- [x] **CONT-01**: Migración completa de los 50+ docs markdown existentes como páginas legibles
+- [x] **CONT-02**: Renderizado de admonitions (:::danger, :::info, :::tip, :::caution) vía remark plugins
+- [x] **CONT-03**: Mermaid diagrams renderizados como SVG estático en build time (cero JS de Mermaid en el cliente)
+- [x] **CONT-04**: Tablas markdown renderizadas con scroll horizontal en mobile
+- [x] **CONT-05**: Fuente verificable en cada dato — tooltip o footnote con organización + fecha + URL
+- [x] **CONT-06**: Deep links para cada sección y párrafo — cada elemento tiene su URL compartible
+- [x] **CONT-07**: Búsqueda full-text offline sobre todo el contenido (Pagefind o Flexsearch)
+- [x] **CONT-08**: Navegación secuencial tipo libro (anterior/siguiente) dentro de cada sección del plan
 
 ### Social
 
@@ -99,14 +99,14 @@
 | FNDN-06 | Phase 1 | Complete |
 | FNDN-07 | Phase 1 | Complete |
 | FNDN-08 | Phase 1 | Complete |
-| CONT-01 | Phase 2 | Pending |
-| CONT-02 | Phase 2 | Pending |
-| CONT-03 | Phase 2 | Pending |
-| CONT-04 | Phase 2 | Pending |
-| CONT-05 | Phase 2 | Pending |
-| CONT-06 | Phase 2 | Pending |
-| CONT-07 | Phase 2 | Pending |
-| CONT-08 | Phase 2 | Pending |
+| CONT-01 | Phase 2 | Complete |
+| CONT-02 | Phase 2 | Complete |
+| CONT-03 | Phase 2 | Complete |
+| CONT-04 | Phase 2 | Complete |
+| CONT-05 | Phase 2 | Complete |
+| CONT-06 | Phase 2 | Complete |
+| CONT-07 | Phase 2 | Complete |
+| CONT-08 | Phase 2 | Complete |
 | SOCL-01 | Phase 4 | Pending |
 | SOCL-02 | Phase 4 | Pending |
 | SOCL-03 | Phase 4 | Pending |

@@ -12,7 +12,7 @@ Migration from Docusaurus to a SvelteKit PWA that delivers Venezuela S.A. as an 
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: Foundation** - App shell, PWA install, offline caching, performance budget, SvelteKit scaffold
+- [x] **Phase 1: Foundation** - App shell, PWA install, offline caching, performance budget, SvelteKit scaffold (completed 2026-03-22)
 - [ ] **Phase 2: Content Migration** - 50+ markdown docs rendered as navigable book with search, deep links, source attribution
 - [ ] **Phase 3: Interactive Features** - FCV calculator, 3 dashboards, plan tracker, comparison mode — all Chart.js on static JSON
 - [ ] **Phase 4: Social Layer** - Paragraph-level comments, voting, sharing (deep links + image cards) via Supabase
@@ -110,7 +110,7 @@ Note: Phase 3 and Phase 4 both depend on Phase 2 (not on each other). They could
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation | 0/4 | Planning complete | - |
+| 1. Foundation | 0/4 | Complete    | 2026-03-22 |
 | 2. Content Migration | 0/? | Not started | - |
 | 3. Interactive Features | 0/? | Not started | - |
 | 4. Social Layer | 0/? | Not started | - |

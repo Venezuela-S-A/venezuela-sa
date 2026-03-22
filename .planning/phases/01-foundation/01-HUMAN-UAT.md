@@ -1,34 +1,27 @@
 ---
-status: partial
+status: resolved
 phase: 01-foundation
 source: [01-VERIFICATION.md]
 started: 2026-03-21T21:00:00Z
-updated: 2026-03-21T21:00:00Z
+updated: 2026-03-22T03:05:00Z
 ---
 
 ## Current Test
 
-[awaiting human testing]
+[all tests complete]
 
 ## Tests
 
 ### 1. FCP < 2s on simulated 3G (FNDN-04)
 expected: Lighthouse audit with `--throttling-method=simulate` reports First Contentful Paint < 2000ms
-result: [pending]
-
-**How to test:**
-```bash
-cd pwa && npm run build && npm run preview
-# In another terminal:
-npx lighthouse http://localhost:4173 --throttling-method=simulate --output=json | jq '.audits["first-contentful-paint"].numericValue'
-```
+result: PASSED — FCP 1702ms (1.7s), Performance score 99/100
 
 ## Summary
 
 total: 1
-passed: 0
+passed: 1
 issues: 0
-pending: 1
+pending: 0
 skipped: 0
 blocked: 0
 

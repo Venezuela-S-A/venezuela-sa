@@ -3,13 +3,13 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: unknown
-stopped_at: Completed 01-02-PLAN.md
-last_updated: "2026-03-22T02:44:18.210Z"
+stopped_at: Completed 01-03-PLAN.md
+last_updated: "2026-03-22T02:46:08.058Z"
 progress:
   total_phases: 5
-  completed_phases: 0
+  completed_phases: 1
   total_plans: 4
-  completed_plans: 3
+  completed_plans: 4
 ---
 
 # Project State
@@ -49,6 +49,7 @@ Plan: 4 of 4
 | Phase 01 P00 | 2min | 1 tasks | 4 files |
 | Phase 01 P01 | 7min | 2 tasks | 15 files |
 | Phase 01 P02 | 2min | 2 tasks | 10 files |
+| Phase 01 P03 | 4min | 2 tasks | 9 files |
 
 ## Accumulated Context
 
@@ -67,6 +68,9 @@ Recent decisions affecting current work:
 - [Phase 01]: Onboarding uses CSS scroll-snap with native scrolling instead of carousel library (0KB JS)
 - [Phase 01]: InstallButton visible only when actionable (beforeinstallprompt fired, not standalone)
 - [Phase 01]: Layout gates onboarding vs app shell (replaces, not overlays) for clean first-time UX
+- [Phase 01]: SvelteKitPWA wrapper used over raw VitePWA to avoid output directory mismatch with adapter-static
+- [Phase 01]: Workbox generateSW with autoUpdate and navigateFallback 200.html for zero-config SW lifecycle
+- [Phase 01]: Bundle size CI gate using precompressed .gz files for accurate measurement (63KB actual vs 200KB budget)
 
 ### Pending Todos
 
@@ -80,6 +84,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T02:44:18.206Z
-Stopped at: Completed 01-02-PLAN.md
+Last session: 2026-03-22T02:46:08.054Z
+Stopped at: Completed 01-03-PLAN.md
 Resume file: None

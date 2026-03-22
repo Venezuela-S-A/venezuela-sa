@@ -36,7 +36,7 @@ Plans:
 - [x] 01-00-PLAN.md — Wave 0: test stub scaffolding (TabBar, ThemeToggle, PullToRefresh, PWA manifest)
 - [x] 01-01-PLAN.md — SvelteKit scaffold, design system tokens, app shell with tabs + header + theme toggle
 - [x] 01-02-PLAN.md — Home hero content, tab teasers (ComingSoon), onboarding overlay, install button
-- [ ] 01-03-PLAN.md — PWA config (@vite-pwa), service worker, pull-to-refresh, bundle size CI gate
+- [x] 01-03-PLAN.md — PWA config (@vite-pwa), service worker, pull-to-refresh, bundle size CI gate
 
 ### Phase 2: Content Migration
 **Goal**: A citizen can read the entire plan as a book — every existing Docusaurus page is accessible, searchable offline, and navigable sequentially

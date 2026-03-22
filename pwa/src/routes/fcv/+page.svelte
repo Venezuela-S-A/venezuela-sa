@@ -1,15 +1,11 @@
-<div class="vsa-page">
-  <h1>Mi FCV</h1>
-</div>
+<script>
+  import ComingSoon from '$lib/components/ComingSoon.svelte';
+  import { Wallet } from '@lucide/svelte';
+</script>
 
-<style>
-  .vsa-page {
-    padding: var(--vsa-space-md);
-  }
-
-  h1 {
-    font-size: var(--vsa-font-size-2xl);
-    font-weight: 600;
-    color: var(--vsa-text-primary);
-  }
-</style>
+<ComingSoon
+  icon={Wallet}
+  title="Tu Fondo Ciudadano Venezuela"
+  description="Simula cuanto acumulas en tus 5 subcuentas segun tu salario y anos de aporte."
+  phase={3}
+/>

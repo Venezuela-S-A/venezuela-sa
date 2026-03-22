@@ -1,15 +1,11 @@
-<div class="vsa-page">
-  <h1>El Plan</h1>
-</div>
+<script>
+  import ComingSoon from '$lib/components/ComingSoon.svelte';
+  import { BookOpen } from '@lucide/svelte';
+</script>
 
-<style>
-  .vsa-page {
-    padding: var(--vsa-space-md);
-  }
-
-  h1 {
-    font-size: var(--vsa-font-size-2xl);
-    font-weight: 600;
-    color: var(--vsa-text-primary);
-  }
-</style>
+<ComingSoon
+  icon={BookOpen}
+  title="El plan completo"
+  description="85+ documentos con datos verificables. Cada numero tiene fuente."
+  phase={2}
+/>

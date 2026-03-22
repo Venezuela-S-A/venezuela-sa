@@ -75,8 +75,10 @@ Markdown heading levels map to these tokens:
 | `<p>` | Body paragraph | 16px body | 400 | 0 | 16px (`--vsa-space-md`) |
 | `<li>` | List item | 16px body | 400 | 0 | 8px (`--vsa-space-sm`) |
 | `<blockquote>` | Blockquote | 16px body | 400 | 16px | 16px |
-| `<code>` inline | Inline code | 14px (0.875rem) | 400 | inherit | inherit |
-| `<pre><code>` | Code block | 14px (0.875rem) | 400 | 16px | 16px |
+| `<code>` inline | Inline code | 0.875em | 400 | inherit | inherit |
+| `<pre><code>` | Code block | 0.875em | 400 | 16px | 16px |
+
+Inline `<code>` and `<pre><code>` use `0.875em` relative to their parent element. Relative to parent -- not an independent scale step.
 
 **Source:** Phase 1 UI-SPEC (typography scale), CONTEXT.md D-01 (continuous scroll reading)
 
@@ -86,7 +88,7 @@ Markdown heading levels map to these tokens:
 
 ### Inherited from Phase 1 (no changes)
 
-All base tokens remain identical. See Phase 1 UI-SPEC for full dark/light mode table.
+All base tokens remain identical. See Phase 1 UI-SPEC for full dark/light mode table. The 60/30/10 palette distribution (dominant surface / secondary cards-nav / accent) is inherited unchanged from Phase 1. The source badge tokens and admonition tokens below are role-specific semantic additions that do not alter the primary palette distribution.
 
 ### New Semantic Tokens (Phase 2 additions)
 
@@ -158,7 +160,7 @@ Phase 2 additions:
 | SourceSheet | `vsa-source-sheet` | closed / open | Bottom sheet (mobile). Slides up from bottom with 200ms ease-out. Background: `--vsa-bg-card`. Border-radius: 16px top corners (`--vsa-radius-lg`). Handle bar: 4px x 36px centered, `--vsa-text-secondary` at 30% opacity. Content: organization name (20px subheading semibold), date (12px caption `--vsa-text-secondary`), URL as tappable link (16px body, `--vsa-accent`), methodology note for VSA projections (16px body). Backdrop: `rgba(0, 0, 0, 0.5)`. Dismissible by tap outside, swipe down, or X button |
 | TableWrapper | `vsa-table-wrapper` | scrollable / not-scrollable | `overflow-x: auto` container. Right edge: 32px linear gradient fade from transparent to `--vsa-bg-primary` when content overflows (D-14). Fade hidden when scrolled to end. Table inherits body typography (16px). Header cells: 12px caption semibold, `--vsa-text-secondary`. Cell padding: 8px 12px. Border: 1px `--vsa-border` between rows. `-webkit-overflow-scrolling: touch` |
 | StarTable | `vsa-star-table` | static | Elevated card treatment for key data tables (D-19). `--vsa-bg-card` background, `--vsa-shadow-elevated` shadow, `--vsa-radius-md` border-radius, left border 3px solid `--vsa-accent`. Padding: 16px (`--vsa-space-md`). Same table styling inside, but visually distinct from regular tables |
-| DiagramViewer | `vsa-diagram` | inline / fullscreen | Two modes per D-16/D-17. Simple diagrams (pie, small flowcharts): inline, full-width, `max-width: 100%` SVG. Complex diagrams (large flowcharts, gantt): inline with expand icon overlay (top-right corner, `Maximize2` Lucide icon, 44px touch target). Fullscreen: native `<dialog>` element, `--vsa-bg-primary` background, pinch-zoom via CSS `touch-action: pinch-zoom`. Close button: `X` Lucide icon, 44px, top-right. Caption below diagram: 12px caption italic, `--vsa-text-secondary` (D-18) |
+| DiagramViewer | `vsa-diagram` | inline / fullscreen | Two modes per D-16/D-17. Simple diagrams (pie, small flowcharts): inline, full-width, `max-width: 100%` SVG. Complex diagrams (large flowcharts, gantt): inline with expand icon overlay (top-right corner, `Maximize2` Lucide icon, 44px touch target, `aria-label="Ampliar diagrama"`). Fullscreen: native `<dialog>` element, `--vsa-bg-primary` background, pinch-zoom via CSS `touch-action: pinch-zoom`. Close button: `X` Lucide icon, 44px, top-right. Caption below diagram: 12px caption italic, `--vsa-text-secondary` (D-18) |
 | ChapterNav | `vsa-chapter-nav` | has-prev / has-next / both | Fixed or inline at bottom of chapter reader. Two tappable areas side by side. Previous: left-aligned, `ChevronLeft` icon + chapter name. Next: right-aligned, chapter name + `ChevronRight` icon. Text: 16px body, `--vsa-text-primary`. Background: `--vsa-bg-secondary`. Border-top: 1px `--vsa-border`. Padding: 16px (`--vsa-space-md`). Min-height: 56px (matches tab bar for visual balance) |
 | ChapterSources | `vsa-chapter-sources` | collapsed / expanded | Collapsible section at bottom of each chapter (D-13). Trigger: "Fuentes de este capitulo (N)" as 16px body semibold text + `ChevronDown`/`ChevronUp` icon. Content: list of sources grouped by type, each with organization name, date, URL. Collapsed by default. Animation: max-height transition 200ms ease |
 | ChapterHeader | `vsa-chapter-header` | static | Rendered once at top of chapter reader. Title: 28px display semibold. Reading time: 12px caption, `Clock` Lucide icon (12px) + "X min de lectura", `--vsa-text-secondary`. Separator: 1px `--vsa-border` below, with 24px (`--vsa-space-lg`) margin bottom |
@@ -283,7 +285,7 @@ All copy is in Spanish.
 
 | Element | Copy |
 |---------|------|
-| Diagram expand hint | (no text, icon-only `Maximize2`) |
+| Diagram expand hint | (no text, icon-only `Maximize2`, `aria-label="Ampliar diagrama"`) |
 | Fullscreen close | (no text, icon-only `X`) |
 | xychart-beta placeholder (D-20) | "Grafico interactivo disponible en la Fase 3" |
 | Diagram caption | Per D-18, varies per diagram (e.g. "Petroleo financia -> Tech diversifica -> Fondo soberano protege") |
@@ -468,6 +470,7 @@ Inherited from Phase 1, plus:
 | Source badges | `role="button"` + `aria-label="Fuente: {org names}. Toca para ver detalles."` + `tabindex="0"` |
 | Source sheet | `role="dialog"` + `aria-modal="true"` + `aria-label="Detalle de fuente: {org}"`. Focus trap when open |
 | Diagram viewer fullscreen | `<dialog>` element (native). `aria-label="Diagrama: {caption}"`. `Escape` key closes |
+| Diagram viewer expand button | `aria-label="Ampliar diagrama"` on the `Maximize2` icon button (44px touch target, top-right of complex diagrams) |
 | Admonitions | `role="note"` + `aria-label="{type}: {title}"` |
 | Search | `role="search"` on container. `role="listbox"` on results. `aria-live="polite"` for result count announcement |
 | Reading progress | `role="progressbar"` + `aria-valuenow={percent}` + `aria-valuemin="0"` + `aria-valuemax="100"` + `aria-label="Progreso de lectura"` |

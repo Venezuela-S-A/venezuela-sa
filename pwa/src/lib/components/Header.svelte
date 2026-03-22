@@ -1,10 +1,12 @@
 <script>
   import ThemeToggle from './ThemeToggle.svelte';
+  import InstallButton from './InstallButton.svelte';
 </script>
 
 <header class="vsa-header">
   <span class="vsa-header__title">Venezuela S.A.</span>
   <div class="vsa-header__actions">
+    <InstallButton />
     <ThemeToggle />
   </div>
 </header>
@@ -34,6 +36,6 @@
   .vsa-header__actions {
     display: flex;
     align-items: center;
-    gap: var(--vsa-space-xs);
+    gap: var(--vsa-space-sm);
   }
 </style>

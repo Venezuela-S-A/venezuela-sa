@@ -33,7 +33,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans**: 4 plans
 
 Plans:
-- [ ] 01-00-PLAN.md — Wave 0: test stub scaffolding (TabBar, ThemeToggle, PullToRefresh, PWA manifest)
+- [x] 01-00-PLAN.md — Wave 0: test stub scaffolding (TabBar, ThemeToggle, PullToRefresh, PWA manifest)
 - [ ] 01-01-PLAN.md — SvelteKit scaffold, design system tokens, app shell with tabs + header + theme toggle
 - [ ] 01-02-PLAN.md — Home hero content, tab teasers (ComingSoon), onboarding overlay, install button
 - [ ] 01-03-PLAN.md — PWA config (@vite-pwa), service worker, pull-to-refresh, bundle size CI gate

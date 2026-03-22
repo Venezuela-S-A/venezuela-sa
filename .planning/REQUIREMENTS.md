@@ -7,14 +7,14 @@
 
 ### Foundation
 
-- [ ] **FNDN-01**: App shell con navegación por tabs inferiores persistentes (Home, Mi FCV, El Plan, Dashboards)
-- [ ] **FNDN-02**: PWA instalable desde el navegador con manifest y service worker
+- [x] **FNDN-01**: App shell con navegación por tabs inferiores persistentes (Home, Mi FCV, El Plan, Dashboards)
+- [x] **FNDN-02**: PWA instalable desde el navegador con manifest y service worker
 - [ ] **FNDN-03**: Funcionamiento offline — todo el contenido y datos cacheados, la app funciona sin conexión (capa social requiere conexión)
 - [ ] **FNDN-04**: First Contentful Paint < 2s en conexión 3G
 - [ ] **FNDN-05**: Bundle JS inicial < 200KB gzipped
-- [ ] **FNDN-06**: Dark mode que respeta preferencia del sistema + toggle manual
+- [x] **FNDN-06**: Dark mode que respeta preferencia del sistema + toggle manual
 - [ ] **FNDN-07**: SvelteKit 2 + Svelte 5 como framework base con adapter-static
-- [ ] **FNDN-08**: Pull-to-refresh para verificar actualizaciones de datos cuando hay conexión
+- [x] **FNDN-08**: Pull-to-refresh para verificar actualizaciones de datos cuando hay conexión
 
 ### Content
 
@@ -91,14 +91,14 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| FNDN-01 | Phase 1 | Pending |
-| FNDN-02 | Phase 1 | Pending |
+| FNDN-01 | Phase 1 | Complete |
+| FNDN-02 | Phase 1 | Complete |
 | FNDN-03 | Phase 1 | Pending |
 | FNDN-04 | Phase 1 | Pending |
 | FNDN-05 | Phase 1 | Pending |
-| FNDN-06 | Phase 1 | Pending |
+| FNDN-06 | Phase 1 | Complete |
 | FNDN-07 | Phase 1 | Pending |
-| FNDN-08 | Phase 1 | Pending |
+| FNDN-08 | Phase 1 | Complete |
 | CONT-01 | Phase 2 | Pending |
 | CONT-02 | Phase 2 | Pending |
 | CONT-03 | Phase 2 | Pending |

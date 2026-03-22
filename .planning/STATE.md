@@ -3,13 +3,13 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: unknown
-stopped_at: Completed 02-01-PLAN.md
-last_updated: "2026-03-22T13:19:06.025Z"
+stopped_at: Completed 02-02-PLAN.md
+last_updated: "2026-03-22T13:29:38.947Z"
 progress:
   total_phases: 5
   completed_phases: 1
   total_plans: 9
-  completed_plans: 6
+  completed_plans: 7
 ---
 
 # Project State
@@ -24,7 +24,7 @@ See: .planning/PROJECT.md (updated 2026-03-21)
 ## Current Position
 
 Phase: 02 (content-migration) — EXECUTING
-Plan: 3 of 5
+Plan: 4 of 5
 
 ## Performance Metrics
 
@@ -52,6 +52,7 @@ Plan: 3 of 5
 | Phase 01 P03 | 4min | 2 tasks | 9 files |
 | Phase 02 P00 | 2min | 2 tasks | 8 files |
 | Phase 02 P01 | 5min | 2 tasks | 12 files |
+| Phase 02 P02 | 6min | 3 tasks | 12 files |
 
 ## Accumulated Context
 
@@ -77,6 +78,9 @@ Recent decisions affecting current work:
 - [Phase 02]: remark-source-badges inlines classification logic (runs at Node build time, not SvelteKit)
 - [Phase 02]: Each doc belongs to exactly ONE chapter -- no duplication of cross-referenced sidebar docs
 - [Phase 02]: Mermaid build script uses execSync mmdc CLI for per-diagram error isolation
+- [Phase 02]: Native dialog element for SourceSheet and DiagramViewer fullscreen — zero JS modal libraries
+- [Phase 02]: SourceBadge includes SourceSheet inline controlled by local $state for self-contained citation flow
+- [Phase 02]: TableWrapper uses ResizeObserver + scroll event for fade shadow handling
 
 ### Pending Todos
 
@@ -90,6 +94,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-03-22T13:19:06.017Z
-Stopped at: Completed 02-01-PLAN.md
+Last session: 2026-03-22T13:29:38.940Z
+Stopped at: Completed 02-02-PLAN.md
 Resume file: None

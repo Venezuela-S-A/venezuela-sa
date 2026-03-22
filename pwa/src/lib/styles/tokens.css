@@ -1,0 +1,75 @@
+/* Venezuela S.A. PWA — Design System Tokens
+   Source of truth: .planning/phases/01-foundation/01-UI-SPEC.md
+   Dark-first: :root = dark mode (default). :root.light = light mode overrides.
+   mode-watcher applies .light class to <html> when user selects light mode. */
+
+:root {
+  /* === Colors — Dark Mode (Default) === */
+  --vsa-bg-primary: #09090B;
+  --vsa-bg-secondary: #18181B;
+  --vsa-bg-card: #1C1C1E;
+  --vsa-text-primary: #FAFAFA;
+  --vsa-text-secondary: #A1A1AA;
+  --vsa-accent: #10B981;
+  --vsa-accent-hover: #34D399;
+  --vsa-accent-subtle: rgba(16, 185, 129, 0.12);
+  --vsa-border: rgba(255, 255, 255, 0.06);
+  --vsa-destructive: #EF4444;
+
+  /* === Shadows — Dark === */
+  --vsa-shadow-card: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --vsa-shadow-elevated: 0 4px 16px rgba(0, 0, 0, 0.4);
+
+  /* === Spacing Scale (4px base) === */
+  --vsa-space-xs: 4px;
+  --vsa-space-sm: 8px;
+  --vsa-space-md: 16px;
+  --vsa-space-lg: 24px;
+  --vsa-space-xl: 32px;
+  --vsa-space-2xl: 48px;
+  --vsa-space-3xl: 64px;
+
+  /* === Border Radius === */
+  --vsa-radius-sm: 8px;
+  --vsa-radius-md: 12px;
+  --vsa-radius-lg: 16px;
+  --vsa-radius-full: 9999px;
+
+  /* === Typography === */
+  --vsa-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  --vsa-font-size-xs: 0.75rem;    /* 12px — captions, badges, tab labels */
+  --vsa-font-size-base: 1rem;      /* 16px — body text, descriptions */
+  --vsa-font-size-lg: 1.25rem;     /* 20px — subheadings, card titles */
+  --vsa-font-size-2xl: 1.75rem;    /* 28px — display, hero stats */
+
+  color-scheme: dark;
+}
+
+/* === Light Mode Overrides === */
+:root.light {
+  --vsa-bg-primary: #FFFFFF;
+  --vsa-bg-secondary: #F4F4F5;
+  --vsa-bg-card: #FFFFFF;
+  --vsa-text-primary: #18181B;
+  --vsa-text-secondary: #71717A;
+  --vsa-accent: #059669;
+  --vsa-accent-hover: #047857;
+  --vsa-accent-subtle: rgba(5, 150, 105, 0.08);
+  --vsa-border: rgba(0, 0, 0, 0.06);
+  --vsa-destructive: #DC2626;
+
+  --vsa-shadow-card: 0 2px 8px rgba(0, 0, 0, 0.06);
+  --vsa-shadow-elevated: 0 4px 16px rgba(0, 0, 0, 0.1);
+
+  color-scheme: light;
+}
+
+/* === Reduced Motion === */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

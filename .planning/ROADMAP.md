@@ -55,7 +55,7 @@ Plans:
 - [x] 02-01-PLAN.md — mdsvex pipeline, remark/rehype plugins, Mermaid build script, content data layer (chapters, sources, reading progress)
 - [x] 02-02-PLAN.md — Content rendering components (Article, Admonition, SourceBadge, TableWrapper, DiagramViewer, ReadingProgress, ChapterHeader, ChapterSources)
 - [x] 02-03-PLAN.md — Book landing page, chapter reader route, chapter navigation, Pagefind search, service worker update
-- [ ] 02-04-PLAN.md — Full build validation + human verification checkpoint
+- [x] 02-04-PLAN.md — Full build validation + human verification checkpoint
 
 ### Phase 3: Interactive Features
 **Goal**: A citizen can simulate their personal FCV, explore national dashboards, and track the plan's progress — all powered by static JSON data with verifiable sources

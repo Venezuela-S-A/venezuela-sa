@@ -57,7 +57,7 @@ Plans:
 - [x] 02-03-PLAN.md — Book landing page, chapter reader route, chapter navigation, Pagefind search, service worker update
 - [x] 02-04-PLAN.md — Full build validation + human verification checkpoint
 - [x] 02-05-PLAN.md — Gap closure: admonition visual distinction (callout CSS + alias collision fix)
-- [ ] 02-06-PLAN.md — Gap closure: wire source badge tap-to-sheet interactivity (CONT-05)
+- [x] 02-06-PLAN.md — Gap closure: wire source badge tap-to-sheet interactivity (CONT-05)
 
 ### Phase 3: Interactive Features
 **Goal**: A citizen can simulate their personal FCV, explore national dashboards, and track the plan's progress — all powered by static JSON data with verifiable sources

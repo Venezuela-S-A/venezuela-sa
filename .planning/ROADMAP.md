@@ -56,7 +56,7 @@ Plans:
 - [x] 02-02-PLAN.md — Content rendering components (Article, Admonition, SourceBadge, TableWrapper, DiagramViewer, ReadingProgress, ChapterHeader, ChapterSources)
 - [x] 02-03-PLAN.md — Book landing page, chapter reader route, chapter navigation, Pagefind search, service worker update
 - [x] 02-04-PLAN.md — Full build validation + human verification checkpoint
-- [ ] 02-05-PLAN.md — Gap closure: admonition visual distinction (callout CSS + alias collision fix)
+- [x] 02-05-PLAN.md — Gap closure: admonition visual distinction (callout CSS + alias collision fix)
 
 ### Phase 3: Interactive Features
 **Goal**: A citizen can simulate their personal FCV, explore national dashboards, and track the plan's progress — all powered by static JSON data with verifiable sources

@@ -22,7 +22,7 @@ const config = {
           danger: "deter",
           info: "note",
           tip: "commend",
-          caution: "deter",
+          caution: "warn", // maps to amber (distinct from danger's "deter" = red)
           warning: "warn",
         },
       },

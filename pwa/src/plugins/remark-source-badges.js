@@ -105,9 +105,11 @@ export function remarkSourceBadges() {
         .replace(/\}/g, "&#125;")
         .replace(/'/g, "&#39;");
 
+      const primaryType = classifyByOrg(sources[0].organization);
+
       const badgeNode = {
         type: "html",
-        value: `<span class="vsa-source-badge" role="button" tabindex="0" aria-label="Fuente: ${orgNames}. Toca para ver detalles." data-sources='${sourcesJson}'>${orgNames}</span>`,
+        value: `<span class="vsa-source-badge vsa-source-badge--${primaryType}" role="button" tabindex="0" aria-label="Fuente: ${orgNames}. Toca para ver detalles." data-sources='${sourcesJson}'>${orgNames}</span>`,
       };
 
       // Append badge node as sibling after the paragraph

@@ -12,18 +12,17 @@ Un ciudadano venezolano con un teléfono Android de gama baja y conexión interm
 
 ### Validated
 
-(None yet — ship to validate)
+- [x] App shell con navegación por tabs inferiores (Home, Mi FCV, El Plan, Dashboards) — Validated in Phase 1: Foundation
+- [x] PWA instalable desde el navegador con service worker — Validated in Phase 1: Foundation
+- [x] Funcionamiento offline con datos cacheados — Validated in Phase 1: Foundation
+- [x] Mobile-first responsive (funciona en Android gama baja) — Validated in Phase 1: Foundation
+- [x] Migración completa de los 50+ docs markdown existentes como páginas legibles — Validated in Phase 2: Content Migration
 
 ### Active
 
-- [ ] App shell con navegación por tabs inferiores (Home, Mi FCV, El Plan, Dashboards)
 - [ ] Toggle ciudadano (ES) ↔ inversor (EN) que cambia la experiencia completa
-- [ ] Migración completa de los 50+ docs markdown existentes como páginas legibles
 - [ ] Al menos 3 dashboards interactivos (producción petrolera, presupuesto/asignación, fondo soberano)
 - [ ] Calculadora FCV interactiva (simular subcuentas: Retiro 7%, Salud 7%, Vivienda 4%, Educación 2%, Cesantía 3%)
-- [ ] PWA instalable desde el navegador con service worker
-- [ ] Funcionamiento offline con datos cacheados
-- [ ] Mobile-first responsive (funciona en Android gama baja)
 - [ ] Datos estáticos en JSON/YAML dentro del repo (sin backend)
 - [ ] Experiencia inversor en inglés con proyecciones financieras y pitch interactivo
 - [ ] Charts/gráficos interactivos con filtros, sliders, drill-down
@@ -62,7 +61,7 @@ Un ciudadano venezolano con un teléfono Android de gama baja y conexión interm
 |----------|-----------|---------|
 | Migrar de Docusaurus a PWA | Docusaurus es un generador de docs estático — no soporta dashboards interactivos, navegación app-like, ni offline robusto | — Pending |
 | Datos estáticos en JSON/YAML | Sin backend por ahora, pero la estructura de datos debe permitir migrar a API cuando existan datos reales | — Pending |
-| Framework frontend | Decisión pendiente de research — candidatos: Next.js (ecosistema maduro), SvelteKit (bundles livianos, ideal para gama baja), Astro (content-first con islands) | — Pending |
+| Framework frontend | SvelteKit elegido por bundles livianos, ideal para Android gama baja | SvelteKit + Vite |
 | Dual experience via toggle | Una sola app con toggle es más mantenible que dos sitios separados, y permite compartir la capa de datos | — Pending |
 
 ## Evolution
@@ -83,4 +82,4 @@ This document evolves at phase transitions and milestone boundaries.
 4. Update Context with current state
 
 ---
-*Last updated: 2026-03-21 after initialization*
+*Last updated: 2026-03-23 after Phase 2 completion*

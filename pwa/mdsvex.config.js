@@ -1,7 +1,6 @@
 import { remarkEscapeAngles } from "./src/plugins/remark-escape-angles.js";
 import { remarkMermaidStatic } from "./src/plugins/remark-mermaid-static.js";
-import remarkDirective from "remark-directive";
-import remarkCalloutDirectives from "@microflash/remark-callout-directives";
+import { remarkCallouts } from "./src/plugins/remark-callouts.js";
 import { remarkSourceBadges } from "./src/plugins/remark-source-badges.js";
 import rehypeSlug from "rehype-slug";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
@@ -14,19 +13,7 @@ const config = {
   remarkPlugins: [
     remarkEscapeAngles,
     remarkMermaidStatic,
-    remarkDirective,
-    [
-      remarkCalloutDirectives,
-      {
-        aliases: {
-          danger: "deter",
-          info: "note",
-          tip: "commend",
-          caution: "warn", // maps to amber (distinct from danger's "deter" = red)
-          warning: "warn",
-        },
-      },
-    ],
+    remarkCallouts,
     remarkSourceBadges,
   ],
   rehypePlugins: [

@@ -1,5 +1,5 @@
 ---
-status: complete
+status: diagnosed
 phase: 02-content-migration
 source: [02-00-SUMMARY.md, 02-01-SUMMARY.md, 02-02-SUMMARY.md, 02-03-SUMMARY.md, 02-04-SUMMARY.md]
 started: 2026-03-22T15:00:00Z
@@ -74,7 +74,15 @@ blocked: 0
   reason: "User reported: esto :::danger, :::info, :::tip, :::caution n veo que cmbia"
   severity: major
   test: 3
-  root_cause: ""
-  artifacts: []
-  missing: []
-  debug_session: ""
+  root_cause: "Admonition.svelte is dead code (never imported). remark-callout-directives emits raw <aside class='callout callout-{type}'> HTML but no CSS rules exist for .callout classes. Additionally, danger and caution are aliased to same internal type 'deter' in mdsvex.config.js."
+  artifacts:
+    - path: "pwa/src/lib/components/Admonition.svelte"
+      issue: "Correct component with correct styles — never imported or used"
+    - path: "pwa/mdsvex.config.js"
+      issue: "aliases block collapses danger+caution to same type 'deter'"
+    - path: "pwa/src/lib/styles/article.css"
+      issue: "Missing .callout, .callout-deter, .callout-note, .callout-commend, .callout-warn CSS rules"
+  missing:
+    - "Add CSS rules to article.css for .callout-deter (red), .callout-note (blue), .callout-commend (green), .callout-warn (amber) using existing tokens"
+    - "Fix danger vs caution alias collision in mdsvex.config.js — map to distinct types"
+  debug_session: ".planning/debug/admonition-visual-distinction.md"
